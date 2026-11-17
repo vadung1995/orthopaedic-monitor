@@ -2,9 +2,15 @@ name: Refresh journal IF and SJR metadata
 
 on:
   workflow_dispatch:
+    inputs:
+      full_scan:
+        description: "Scan all journal pages (recommended on first run)"
+        type: boolean
+        required: false
+        default: true
   schedule:
-    # Weekly, low-frequency public-source refresh; all times UTC.
-    - cron: '34 4 * * 1'
+    # Daily 04:34 UTC = 13:34 JST; GitHub may delay scheduled events.
+    - cron: '34 4 * * *'
 
 permissions:
   contents: write
@@ -17,19 +23,22 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    env:
+      # First manual run: all journals; scheduled runs: rotating batches.
+      VU_METRICS_MAX_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.full_scan && '500' || '110' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check publisher pages and SCImago CSV
+      - name: Check published JIF, SCImago SJR, curated evidence and JCR CSV
         run: python update_journal_metrics.py
-      - name: Commit updated verified metrics only
+      - name: Commit verified metrics and audit report
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/journal_metrics.json
+          git add data/journal_metrics.json data/metrics_audit.json data/metrics_coverage.csv
           if ! git diff --cached --quiet; then
             git commit -m "Refresh audited journal metrics"
             git push
