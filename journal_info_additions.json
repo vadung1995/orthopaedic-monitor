@@ -1,0 +1,17 @@
+{
+  "notes": "Additive, non-destructive overlay on journal_info.json. Current publisher verified from NLM (2026). Scopus category quartile is based on 2025 CiteScore category ranking Orthopedics and Sports Medicine (not SJR). Clarivate 2025 JIF for ASMAR is not independently verified and is intentionally omitted. Website renders missing values as not verified.",
+  "journals": {
+    "Arthroscopy, Sports Medicine, and Rehabilitation": {
+      "publisher": "Wiley",
+      "publisher_domain": "onlinelibrary.wiley.com",
+      "journal_url": "https://arthroscopyjournals.onlinelibrary.wiley.com/journal/2666061X",
+      "open_access_journal": true,
+      "scopus_quartile": "Q2",
+      "scopus_quartile_year": 2025,
+      "scopus_category": "Orthopedics and Sports Medicine (2025 CiteScore category quartile; not SJR)",
+      "scopus_source": "https://journalindexes.com/arthroscopy-sports-medicine-and-rehabilitation-2666061X/",
+      "publisher_source": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101765256",
+      "open_access_source": "https://arthroscopyjournals.onlinelibrary.wiley.com/journal/2666061X"
+    }
+  }
+}
