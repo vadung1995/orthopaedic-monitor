@@ -1,0 +1,36 @@
+name: Refresh journal IF and SJR metadata
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly, low-frequency public-source refresh; all times UTC.
+    - cron: '34 4 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vus-lab-journal-metrics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check publisher pages and SCImago CSV
+        run: python update_journal_metrics.py
+      - name: Commit updated verified metrics only
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/journal_metrics.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh audited journal metrics"
+            git push
+          fi
