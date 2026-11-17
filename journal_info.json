@@ -1,0 +1,640 @@
+{
+  "notes": "Publisher labels are inferred from publisher domains or manually reviewed. Metrics shown only when the stated source and year were checked. Scopus Q means CiteScore category quartile; not SCImago or JCR quartile.",
+  "journals": {
+    "Journal of Arthroplasty": {
+      "publisher": "Elsevier",
+      "impact_factor": 4.4,
+      "impact_factor_year": 2025,
+      "impact_factor_source": "https://www.arthroplastyjournal.org/",
+      "scopus_quartile": "Q1",
+      "scopus_quartile_year": 2025,
+      "scopus_category": "Orthopedics and Sports Medicine",
+      "scopus_source": "https://www.letpub.com/index.php?currentcommentpage=1&journalid=4171&page=journalapp&view=detail"
+    },
+    "The Knee": {
+      "publisher": "Elsevier",
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_source": "https://www.thekneejournal.com/"
+    },
+    "Journal of Shoulder and Elbow Surgery": {
+      "publisher": "Elsevier"
+    },
+    "International Orthopaedics": {
+      "publisher": "Springer Nature"
+    },
+    "Injury": {
+      "publisher": "Elsevier"
+    },
+    "European Journal of Orthopaedic Surgery and Traumatology": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Orthopaedics": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Orthopaedic Science": {
+      "publisher": "Elsevier"
+    },
+    "Knee Surgery, Sports Traumatology, Arthroscopy": {
+      "publisher": "Wiley"
+    },
+    "Journal of the American Academy of Orthopaedic Surgeons": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Journal of Clinical Orthopaedics and Trauma": {
+      "publisher": "Elsevier"
+    },
+    "Orthopaedics & Traumatology: Surgery & Research": {
+      "publisher": "Elsevier"
+    },
+    "Clinical Orthopaedics and Related Research": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Journal of Trauma and Acute Care Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "European Journal of Trauma and Emergency Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Orthopaedic Research": {
+      "publisher": "Wiley",
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic-research-10018",
+      "scopus_quartile": "Q1",
+      "scopus_quartile_year": 2025,
+      "scopus_category": "Orthopedics and Sports Medicine",
+      "scopus_source": "https://journalindexes.com/journal-of-orthopaedic-research-07360266/"
+    },
+    "Journal of Orthopaedic Trauma": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Revue de Chirurgie Orthopedique et Traumatologique": {
+      "publisher": "Elsevier"
+    },
+    "Indian Journal of Orthopaedics": {
+      "publisher": "Springer Nature"
+    },
+    "Orthopedics": {
+      "publisher": "SLACK / Healio"
+    },
+    "Clinics in Orthopedic Surgery": {
+      "publisher": "Korean Orthopaedic Association"
+    },
+    "HSS Journal": {
+      "publisher": "SAGE"
+    },
+    "HIP International": {
+      "publisher": "SAGE"
+    },
+    "Current Orthopaedic Practice": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Current Reviews in Musculoskeletal Medicine": {
+      "publisher": "Springer Nature"
+    },
+    "Musculoskeletal Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Minerva Orthopedics": {
+      "publisher": "Edizioni Minerva Medica"
+    },
+    "Current Trauma Reports": {
+      "publisher": "Springer Nature"
+    },
+    "Musculoskeletal Care": {
+      "publisher": "Wiley"
+    },
+    "Medicine & Science in Sports & Exercise": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Arthroscopy": {
+      "publisher": "Wiley"
+    },
+    "Journal of Sports Sciences": {
+      "publisher": "Taylor & Francis"
+    },
+    "Scandinavian Journal of Medicine & Science in Sports": {
+      "publisher": "Wiley"
+    },
+    "Journal of Sport Rehabilitation": {
+      "publisher": "Human Kinetics"
+    },
+    "Sports Orthopaedics and Traumatology": {
+      "publisher": "Elsevier"
+    },
+    "Physical Therapy in Sport": {
+      "publisher": "Elsevier"
+    },
+    "Current Sports Medicine Reports": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Journal de traumatologie du sport": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Bone and Joint Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "The Bone & Joint Journal": {
+      "publisher": "Bone & Joint Publishing"
+    },
+    "BONE": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Osteopathic Medicine": {
+      "publisher": "De Gruyter Brill"
+    },
+    "Joint Bone Spine": {
+      "publisher": "Elsevier"
+    },
+    "Bulletin of the Hospital for Joint Diseases": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Skeletal Radiology": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Hand Surgery": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Hand Therapy": {
+      "publisher": "Elsevier"
+    },
+    "Shoulder and Elbow": {
+      "publisher": "SAGE"
+    },
+    "Seminars in Arthroplasty: JSES": {
+      "publisher": "Elsevier"
+    },
+    "Clinics in Shoulder and Elbow": {
+      "publisher": "Korean Shoulder and Elbow Society"
+    },
+    "Hand Surgery and Rehabilitation": {
+      "publisher": "Elsevier"
+    },
+    "Foot and Ankle Surgery": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Bodywork and Movement Therapies": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Hand and Microsurgery": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Hand Surgery Asian-Pacific Volume": {
+      "publisher": "World Scientific"
+    },
+    "Foot & Ankle International": {
+      "publisher": "SAGE"
+    },
+    "Foot & Ankle Specialist": {
+      "publisher": "SAGE"
+    },
+    "Microsurgery": {
+      "publisher": "Wiley"
+    },
+    "Journal of Foot and Ankle Surgery": {
+      "publisher": "Elsevier"
+    },
+    "Musculoskeletal Science and Practice": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Bone and Mineral Research": {
+      "publisher": "Oxford University Press"
+    },
+    "International Journal of Orthopaedic and Trauma Nursing": {
+      "publisher": "Elsevier"
+    },
+    "Orthopaedic Nursing": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Archives of Osteoporosis": {
+      "publisher": "Springer Nature"
+    },
+    "JOS Case Reports": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Orthopaedic Reports": {
+      "publisher": "Elsevier"
+    },
+    "Trauma Case Reports": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Orthopaedic Surgery and Research": {
+      "publisher": "Springer Nature"
+    },
+    "BMC Musculoskeletal Disorders": {
+      "publisher": "Springer Nature"
+    },
+    "Archives of Orthopaedic and Trauma Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Orthopaedic Journal of Sports Medicine": {
+      "publisher": "SAGE"
+    },
+    "Orthopaedic Surgery": {
+      "publisher": "Wiley"
+    },
+    "Sports": {
+      "publisher": "MDPI"
+    },
+    "Life": {
+      "publisher": "MDPI"
+    },
+    "Journal of Orthopaedic Surgery": {
+      "publisher": "SAGE"
+    },
+    "International Journal of Burns and Trauma": {
+      "publisher": "e-Century Publishing"
+    },
+    "OTA International": {
+      "publisher": "Wolters Kluwer"
+    },
+    "BMC Sports Science, Medicine and Rehabilitation": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Experimental Orthopaedics": {
+      "publisher": "Wiley"
+    },
+    "Arthroscopy Techniques": {
+      "publisher": "Elsevier"
+    },
+    "Knee Surgery & Related Research": {
+      "publisher": "Springer Nature"
+    },
+    "Foot & Ankle Orthopaedics": {
+      "publisher": "SAGE"
+    },
+    "Journal of Orthopaedics, Trauma and Rehabilitation": {
+      "publisher": "SAGE"
+    },
+    "Therapeutic Advances in Musculoskeletal Disease": {
+      "publisher": "SAGE"
+    },
+    "World Journal of Orthopedics": {
+      "publisher": "Baishideng Publishing"
+    },
+    "Geriatric Orthopaedic Surgery & Rehabilitation": {
+      "publisher": "SAGE"
+    },
+    "PLOS ONE": {
+      "publisher": "PLOS"
+    },
+    "Acta Orthopaedica": {
+      "publisher": "Taylor & Francis"
+    },
+    "Frontiers in Surgery": {
+      "publisher": "Frontiers"
+    },
+    "International Surgery": {
+      "publisher": "KGL Meridian"
+    },
+    "Journal of Hip Preservation Surgery": {
+      "publisher": "Oxford University Press"
+    },
+    "Trauma Surgery & Acute Care Open": {
+      "publisher": "BMJ"
+    },
+    "Arthroplasty Today": {
+      "publisher": "Elsevier"
+    },
+    "BMC Arthroplasty": {
+      "publisher": "Springer Nature"
+    },
+    "Annals of Joint": {
+      "publisher": "AME Publishing"
+    },
+    "Acta Chirurgica Belgica": {
+      "publisher": "Taylor & Francis"
+    },
+    "Acta Radiologica": {
+      "publisher": "SAGE"
+    },
+    "Age and Ageing": {
+      "publisher": "Oxford University Press"
+    },
+    "Alexandria Journal of Medicine": {
+      "publisher": "Taylor & Francis"
+    },
+    "American Journal of Emergency Medicine": {
+      "publisher": "Elsevier"
+    },
+    "American Journal of the Medical Sciences": {
+      "publisher": "Elsevier"
+    },
+    "Annals of Medicine and Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Annals of Oncology": {
+      "publisher": "Elsevier"
+    },
+    "Annals of Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Annals of Surgical Oncology": {
+      "publisher": "Springer Nature"
+    },
+    "ANZ Journal of Surgery": {
+      "publisher": "Wiley"
+    },
+    "Asian Journal of Endoscopic Surgery": {
+      "publisher": "Wiley"
+    },
+    "Asian Journal of Surgery": {
+      "publisher": "Elsevier"
+    },
+    "BioMed Research International": {
+      "publisher": "Wiley"
+    },
+    "BMC Geriatrics": {
+      "publisher": "Springer Nature"
+    },
+    "BMC Medical Imaging": {
+      "publisher": "Springer Nature"
+    },
+    "BMC Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "BMJ Case Reports": {
+      "publisher": "BMJ"
+    },
+    "Bratislava Medical Journal": {
+      "publisher": "Springer Nature"
+    },
+    "British Journal of Surgery": {
+      "publisher": "Oxford University Press"
+    },
+    "Chirurgie": {
+      "publisher": "Springer Nature"
+    },
+    "Clinical Biomechanics": {
+      "publisher": "Elsevier"
+    },
+    "Clinical Case Reports": {
+      "publisher": "Wiley"
+    },
+    "Clinical Oncology": {
+      "publisher": "Elsevier"
+    },
+    "Clinical Rheumatology": {
+      "publisher": "Springer Nature"
+    },
+    "Clinics and Practice (MDPI)": {
+      "publisher": "MDPI"
+    },
+    "Critical Reviews in Oncology/Hematology": {
+      "publisher": "Elsevier"
+    },
+    "Current Medical Science": {
+      "publisher": "Springer Nature"
+    },
+    "Current Problems in Surgery": {
+      "publisher": "Elsevier"
+    },
+    "Current Surgery Reports": {
+      "publisher": "Springer Nature"
+    },
+    "Diseases (MDPI)": {
+      "publisher": "MDPI"
+    },
+    "Egyptian Journal of Radiology and Nuclear Medicine": {
+      "publisher": "Springer Nature"
+    },
+    "European Journal of Cancer": {
+      "publisher": "Elsevier"
+    },
+    "European Journal of Medical Research": {
+      "publisher": "Springer Nature"
+    },
+    "European Journal of Radiology": {
+      "publisher": "Elsevier"
+    },
+    "European Journal of Surgical Oncology": {
+      "publisher": "Elsevier"
+    },
+    "European Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Geriatrics (MDPI)": {
+      "publisher": "MDPI"
+    },
+    "Indian Journal of Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Infection": {
+      "publisher": "Springer Nature"
+    },
+    "International Journal of Computer Assisted Radiology and Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "International Journal of Medical Robotics and Computer Assisted Surgery": {
+      "publisher": "Wiley"
+    },
+    "International Journal of Rheumatic Diseases": {
+      "publisher": "Wiley"
+    },
+    "International Journal of Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "International Journal of Surgery Case Reports": {
+      "publisher": "Elsevier"
+    },
+    "Irish Journal of Medical Sciences": {
+      "publisher": "Springer Nature"
+    },
+    "Japanese Journal of Radiology": {
+      "publisher": "Springer Nature"
+    },
+    "Joint Commission Journal on Quality and Patient Safety": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Biomechanics": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Cartilage and Joint Preservation": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Clinical and Translational Science": {
+      "publisher": "Cambridge University Press"
+    },
+    "Journal of Clinical Medicine (MDPI)": {
+      "publisher": "MDPI"
+    },
+    "Journal of Evaluation in Clinical Practice": {
+      "publisher": "Wiley"
+    },
+    "Journal of Healthcare Quality Research": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Imaging": {
+      "publisher": "MDPI"
+    },
+    "Journal of Infection and Chemotherapy": {
+      "publisher": "Elsevier"
+    },
+    "Journal of International Medical Research": {
+      "publisher": "SAGE"
+    },
+    "Journal of Medical Case Reports": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Medical Imaging": {
+      "publisher": "SPIE"
+    },
+    "Journal of Occupational and Environmental Medicine": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Journal of Occupational Rehabilitation": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Patient-Reported Outcomes": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Pharmacy and Bioallied Sciences": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Journal of Robotic Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Journal of Surgical Case Reports": {
+      "publisher": "Oxford University Press"
+    },
+    "Journal of Surgical Education": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Surgical Research": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Telemedicine and Telecare": {
+      "publisher": "SAGE"
+    },
+    "Journal of the American Medical Directors Association": {
+      "publisher": "Elsevier"
+    },
+    "Journal of the Formosan Medical Association": {
+      "publisher": "Elsevier"
+    },
+    "Journal of Ultrasound in Medicine": {
+      "publisher": "Wiley"
+    },
+    "La Radiologia Medica": {
+      "publisher": "Springer Nature"
+    },
+    "Magnetic Resonance Imaging": {
+      "publisher": "Elsevier"
+    },
+    "Medicine": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Minerva Surgery": {
+      "publisher": "Edizioni Minerva Medica"
+    },
+    "Muscle & Nerve": {
+      "publisher": "Wiley"
+    },
+    "Occupational Medicine": {
+      "publisher": "Oxford University Press"
+    },
+    "Osteoporosis International": {
+      "publisher": "Springer Nature"
+    },
+    "PeerJ": {
+      "publisher": "PeerJ"
+    },
+    "Plastic and Reconstructive Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Quality Management in Healthcare": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Quality of Life Research": {
+      "publisher": "Springer Nature"
+    },
+    "Quantitative Imaging in Medicine and Surgery": {
+      "publisher": "AME Publishing"
+    },
+    "Radiología": {
+      "publisher": "Elsevier"
+    },
+    "Radiotherapy and Oncology": {
+      "publisher": "Elsevier"
+    },
+    "Rheumatology International": {
+      "publisher": "Springer Nature"
+    },
+    "SAGE Open Medical Case Reports": {
+      "publisher": "SAGE"
+    },
+    "SAGE Open Medicine": {
+      "publisher": "SAGE"
+    },
+    "Scandinavian Journal of Surgery": {
+      "publisher": "SAGE"
+    },
+    "Seminars in Arthritis and Rheumatism": {
+      "publisher": "Elsevier"
+    },
+    "Surgeries": {
+      "publisher": "MDPI"
+    },
+    "SURGERY": {
+      "publisher": "Elsevier"
+    },
+    "Surgery Case Reports": {
+      "publisher": "Elsevier"
+    },
+    "Surgery in Practice and Science": {
+      "publisher": "Elsevier"
+    },
+    "Surgery Open Science": {
+      "publisher": "Elsevier"
+    },
+    "Surgery Today": {
+      "publisher": "Springer Nature"
+    },
+    "Surgical and Radiologic Anatomy": {
+      "publisher": "Springer Nature"
+    },
+    "Surgical Endoscopy": {
+      "publisher": "Springer Nature"
+    },
+    "Surgical Innovation": {
+      "publisher": "SAGE"
+    },
+    "Surgical Oncology": {
+      "publisher": "Elsevier"
+    },
+    "Surgical Practice": {
+      "publisher": "Wiley"
+    },
+    "The American Journal of Surgery": {
+      "publisher": "Elsevier"
+    },
+    "The Journal of Ambulatory Care Management": {
+      "publisher": "Wolters Kluwer"
+    },
+    "The Journal of Emergency Medicine": {
+      "publisher": "Elsevier"
+    },
+    "The Journal of Medical Imaging and Radiation Sciences": {
+      "publisher": "Elsevier"
+    },
+    "The Surgeon": {
+      "publisher": "Elsevier"
+    },
+    "Transplantation Proceedings": {
+      "publisher": "Elsevier"
+    },
+    "Turkish Journal of Plastic Surgery": {
+      "publisher": "Wolters Kluwer"
+    },
+    "Updates in Surgery": {
+      "publisher": "Springer Nature"
+    },
+    "Visual Journal of Emergency Medicine": {
+      "publisher": "Elsevier"
+    },
+    "World Journal of Surgery": {
+      "publisher": "Wiley"
+    }
+  }
+}
