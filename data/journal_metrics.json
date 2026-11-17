@@ -1,0 +1,105 @@
+{
+  "notes": "Verified-only overlay. No approximated IF; SJR quartiles are not Scopus CiteScore quartiles.",
+  "checked_at_utc": "2026-11-17T06:15:18+00:00",
+  "latest_expected_jif_year": 2025,
+  "latest_expected_sjr_year": 2025,
+  "checks": {
+    "public_journal_pages": 60,
+    "publisher_jif_updated": 15,
+    "scimago_csv_rows": 0,
+    "sjr_quartiles_updated": 0,
+    "jcr_import_updated": 0
+  },
+  "journals": {
+    "Annals of Surgical Oncology": {
+      "impact_factor": 3.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/10434?error=cookies_not_supported&code=f2227b14-188b-412c-85e5-1103a3dc0a3b"
+    },
+    "Archives of Orthopaedic and Trauma Surgery": {
+      "impact_factor": 2.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/402?error=cookies_not_supported&code=44319a1b-97f4-45c8-bf2a-79c2221fd532"
+    },
+    "Archives of Osteoporosis": {
+      "impact_factor": 2.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11657?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=8aefacfb-ae17-4bb0-ae5a-3fb7e03ac1a9"
+    },
+    "BMC Medical Imaging": {
+      "impact_factor": 3.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12880?error=cookies_not_supported&code=4fb2c3c5-0a22-4733-96b5-00e05431e35c"
+    },
+    "Bratislava Medical Journal": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/44411?error=cookies_not_supported&code=5721b435-b414-43b3-a56b-f345affe01dd"
+    },
+    "Chirurgie": {
+      "impact_factor": 0.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/104?error=cookies_not_supported&code=7959a9e7-2bc4-4d7f-9a36-4bc1e8a2018f"
+    },
+    "Clinical Rheumatology": {
+      "impact_factor": 2.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/10067?error=cookies_not_supported&code=20b30124-d577-4bcf-adad-b6bc6ee56468"
+    },
+    "Current Medical Science": {
+      "impact_factor": 2.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11596?error=cookies_not_supported&code=3cbaf506-e1c4-40d7-a605-8f7fd53648df"
+    },
+    "Current Reviews in Musculoskeletal Medicine": {
+      "impact_factor": 5.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12178?error=cookies_not_supported&code=d262fa8d-c8a0-4004-8346-414206beb1e2"
+    },
+    "Current Surgery Reports": {
+      "impact_factor": 0.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/40137?error=cookies_not_supported&code=ded6c2eb-8a96-427e-b473-000f2a1fdf5e"
+    },
+    "Current Trauma Reports": {
+      "impact_factor": 2.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/40719?error=cookies_not_supported&code=28c38385-d6aa-4147-99f5-3d500e225b45"
+    },
+    "Egyptian Journal of Radiology and Nuclear Medicine": {
+      "impact_factor": 0.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/43055?error=cookies_not_supported&code=005a071b-de5f-4c36-87b4-dcb164bd7c3f"
+    },
+    "European Journal of Orthopaedic Surgery and Traumatology": {
+      "impact_factor": 1.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/590?error=cookies_not_supported&code=08c9b7f5-a030-41a0-b262-ef8157b23939"
+    },
+    "European Journal of Trauma and Emergency Surgery": {
+      "impact_factor": 2.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/68?error=cookies_not_supported&code=9fb43f12-a71b-4810-b973-b1831a424e77"
+    },
+    "European Radiology": {
+      "impact_factor": 6.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/330?error=cookies_not_supported&code=981bda16-b9a2-48bc-b326-793b55966efd"
+    }
+  }
+}
