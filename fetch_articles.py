@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Daily Orthopaedic Research Monitor. Free Europe PMC API; standard library only.
- 
+
 Journals in A that are clearly orthopaedic accept every article. All other
 journals (including broad journals accidentally assigned to A) must pass the
 orthopaedic relevance screen. A saved article is screened again on each run.
@@ -8,7 +8,7 @@ This rules-based screen is deliberately conservative and is NOT a substitute
 for manual review or complete bibliographic coverage.
 """
 from __future__ import annotations
- 
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from html import unescape
@@ -19,14 +19,14 @@ import time
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
- 
+
 ROOT = Path(__file__).resolve().parent
 API = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
 LOOKBACK_DAYS = 21
 RETENTION_DAYS = 90
 PAGE_SIZE = 100
 MAX_PAGES_PER_JOURNAL = 12
- 
+
 # Only these unmistakably specialist journal-title features qualify for
 # unconditional inclusion, and ONLY when the journal is on list A.
 CORE_JOURNAL_TITLE = re.compile(
@@ -40,7 +40,7 @@ CORE_JOURNAL_TITLE = re.compile(
     re.IGNORECASE,
 )
 CORE_EXACT = {"bone", "acta orthopaedica"}
- 
+
 # High-specificity orthopaedic conditions and interventions. Matching a word
 # fragment such as 'hip' in 'scholarship' is explicitly NOT allowed.
 STRONG_ORTHO = [
@@ -67,7 +67,7 @@ STRONG_ORTHO = [
     r"\b(?:bone|joint) reconstruction\b", r"\borthotic(?:s)?\b",
     r"\b(?:gait|limb) (?:analysis|alignment|reconstruction)\b",
 ]
- 
+
 # Anatomy alone is NOT enough; must co-occur with an orthopaedic clinical,
 # rehabilitation, imaging, or biomechanical context (see is_relevant).
 ANATOMY = [
@@ -91,7 +91,7 @@ CONTEXT = [
     r"\b(?:3D printing|three-dimensional printing|additive manufacturing|robot-assisted surgery)\b",
     r"\b(?:surgery|surgical|operative|reconstruction|reconstructive|treatment|outcomes)\b",
 ]
- 
+
 # Non-musculoskeletal specialties commonly generate false hits. Only reject
 # if no clearly orthopaedic phrase appears in the title.
 OFF_TOPIC_TITLE = [
@@ -102,29 +102,29 @@ OFF_TOPIC_TITLE = [
     r"\b(?:breast cancer|gastric cancer|colorectal cancer|pancreatic cancer)\b",
     r"\b(?:skin flap|pressure ulcer|pressure injur(?:y|ies)|pressure sore|spinal cord injury)\b",
 ]
- 
+
 COMPILED_STRONG = [re.compile(p, re.I) for p in STRONG_ORTHO]
 COMPILED_ANATOMY = [re.compile(p, re.I) for p in ANATOMY]
 COMPILED_CONTEXT = [re.compile(p, re.I) for p in CONTEXT]
 COMPILED_OFFTOPIC = [re.compile(p, re.I) for p in OFF_TOPIC_TITLE]
 AMBIGUOUS_KEYWORDS = {"ar", "mr", "vr", "xr", "psi", "slm", "sls", "ebm", "fdm", "sla", "cad", "cam", "ai", "vsp", "tka", "tha", "uka"}
- 
- 
+
+
 def read_json(path: Path, fallback):
     if not path.exists():
         return fallback
     with path.open(encoding="utf-8") as f:
         return json.load(f)
- 
- 
+
+
 def normalize(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (value or "").casefold()).strip()
- 
- 
+
+
 def clean_html(value: str) -> str:
     return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]*>", " ", value or ""))).strip()
- 
- 
+
+
 def contains_phrase(text: str, phrase: str) -> bool:
     # Keep exact word boundaries; unlike substring search, "hip" is not in
     # "scholarship", and "bone" is not in "backbone".
@@ -134,30 +134,30 @@ def contains_phrase(text: str, phrase: str) -> bool:
     tokens = phrase.split()
     pattern = r"(?<!\w)" + r"[\W_]+".join(map(re.escape, tokens)) + r"(?!\w)"
     return bool(re.search(pattern, text, re.I))
- 
- 
+
+
 def load_keywords() -> list[str]:
     path = ROOT / "keywords.txt"
     if not path.exists():
         raise FileNotFoundError("keywords.txt was not found")
     return list(dict.fromkeys(s.strip() for s in path.read_text(encoding="utf-8").splitlines()
                               if s.strip() and not s.lstrip().startswith("#")))
- 
- 
+
+
 def specialist_journal(journal: dict) -> bool:
     if journal.get("list") != "A":
         return False
     name = normalize(journal.get("name", ""))
     return name in CORE_EXACT or bool(CORE_JOURNAL_TITLE.search(name))
- 
- 
+
+
 def count_matches(patterns, text: str) -> int:
     return sum(bool(pattern.search(text)) for pattern in patterns)
- 
- 
+
+
 def is_relevant(title: str, abstract: str) -> bool:
     """Require specialist concepts OR anatomy plus a meaningful clinical link.
- 
+
     A purely generic keyword or a body part alone cannot admit a paper from
     multidisciplinary journals. The explicit title test reduces topic drift.
     """
@@ -181,8 +181,8 @@ def is_relevant(title: str, abstract: str) -> bool:
     if anatomy_full >= 2 and context_full >= 2 and (anatomy_title or context_title):
         return True
     return False
- 
- 
+
+
 def api_get(query: str, cursor: str) -> dict:
     params = urlencode({"query": query, "format": "json", "resultType": "core",
                         "pageSize": PAGE_SIZE, "cursorMark": cursor})
@@ -198,8 +198,8 @@ def api_get(query: str, cursor: str) -> dict:
             if attempt < 3:
                 time.sleep(2 ** attempt + .25)
     raise RuntimeError(f"Europe PMC request failed: {err}")
- 
- 
+
+
 def parse_date(raw: str) -> str:
     raw = (raw or "").strip()
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}", raw):
@@ -209,13 +209,47 @@ def parse_date(raw: str) -> str:
     if re.fullmatch(r"\d{4}", raw):
         return raw + "-01-01"
     return ""
- 
- 
+
+
 def title_matches_journal(actual: str, chosen: str) -> bool:
     a, b = normalize(actual), normalize(chosen)
     return a == b or a.removeprefix("the ") == b.removeprefix("the ")
- 
- 
+
+
+def extract_publication_types(raw: dict) -> list[str]:
+    # Europe PMC core API typically provides pubTypeList.pubType.
+    value = (raw.get("pubTypeList") or {}).get("pubType", [])
+    if isinstance(value, str):
+        value = [value]
+    extra = raw.get("pubType", [])
+    if isinstance(extra, str):
+        extra = [extra]
+    return list(dict.fromkeys(str(v).strip() for v in [*value, *extra] if v))
+
+
+def classify_article(types: list[str], title: str, abstract: str) -> tuple[str, str]:
+    """Return paper class, confidence. Never silently call an editorial original research."""
+    combined = " ".join(types).casefold()
+    heading = title.casefold()
+    if "case reports" in combined or "case report" in combined or re.search(r"\bcase report\b", heading):
+        return "Case report", "metadata" if "case report" in combined else "title"
+    if "meta-analysis" in combined or re.search(r"\bmeta-analysis\b", heading):
+        return "Systematic review / Meta-analysis", "metadata" if "meta-analysis" in combined else "title"
+    if "systematic review" in combined or re.search(r"\bsystematic review\b", heading):
+        return "Systematic review", "metadata" if "systematic review" in combined else "title"
+    if any(w in combined for w in ["review", "literature review"]) or re.search(r"\b(scoping|narrative) review\b", heading):
+        return "Review", "metadata" if "review" in combined else "title"
+    if any(w in combined for w in ["editorial", "letter", "comment", "news", "guideline", "protocol", "retraction", "correction", "published erratum"]):
+        return "Other", "metadata"
+    if re.search(r"\b(editorial|corrigendum|erratum|letter to the editor|study protocol)\b", heading):
+        return "Other", "title"
+    if any(w in combined for w in ["clinical trial", "randomized controlled trial", "observational study", "comparative study", "multicenter study"]):
+        return "Original research", "metadata"
+    if "journal article" in combined and abstract:
+        return "Original research", "inferred"
+    return "Unclassified", "unknown"
+
+
 def article_from_record(raw: dict, chosen: dict, keywords: list[str]) -> dict | None:
     title = clean_html(raw.get("title", ""))
     actual_journal = raw.get("journalTitle", "") or (raw.get("journalInfo") or {}).get("journal", {}).get("title", "")
@@ -234,7 +268,10 @@ def article_from_record(raw: dict, chosen: dict, keywords: list[str]) -> dict | 
     published = parse_date(raw.get("firstPublicationDate") or raw.get("firstIndexDate") or "")
     raw_text = title + " " + abstract
     matches = [k for k in keywords if k.casefold() not in AMBIGUOUS_KEYWORDS and contains_phrase(raw_text, k)]
+    pub_types = extract_publication_types(raw)
+    paper_type, paper_type_confidence = classify_article(pub_types, title, abstract)
     return {
+        "publication_types": pub_types, "paper_type": paper_type, "paper_type_confidence": paper_type_confidence,
         "id": key, "title": title, "journal": chosen["name"],
         "journal_list": chosen["list"], "authors": raw.get("authorString", "") or "",
         "published_date": published, "doi": doi, "pmid": pmid,
@@ -245,8 +282,8 @@ def article_from_record(raw: dict, chosen: dict, keywords: list[str]) -> dict | 
         "categories": (["Digital Orthopaedics & Surgical Technology"] if matches else ["Other / Unclassified"]),
         "matched_keywords": matches,
     }
- 
- 
+
+
 def fetch_journal(journal: dict, keywords: list[str], from_date: str, through_date: str):
     name = journal["name"]
     safe_name = name.replace('"', "")
@@ -272,8 +309,8 @@ def fetch_journal(journal: dict, keywords: list[str], from_date: str, through_da
         "possibly_truncated": total > pages * PAGE_SIZE,
         "automatic_full_journal": specialist_journal(journal),
     }
- 
- 
+
+
 def main():
     today = datetime.now(timezone.utc).date()
     start, cutoff = today - timedelta(days=LOOKBACK_DAYS), today - timedelta(days=RETENTION_DAYS)
@@ -287,7 +324,7 @@ def main():
     existing = read_json(out / "articles.json", [])
     if not isinstance(existing, list):
         raise ValueError("data/articles.json must contain a JSON array")
- 
+
     # CRITICAL: rescreen OLD content, not only newly indexed papers. Otherwise
     # yesterday's false positives remain visible for up to 90 days.
     by_id = {}
@@ -302,9 +339,11 @@ def main():
         text = (a.get("title", "") or "") + " " + (a.get("abstract", "") or "")
         match = [k for k in keywords if k.casefold() not in AMBIGUOUS_KEYWORDS and contains_phrase(text, k)]
         a["matched_keywords"] = match
+        if not a.get("paper_type"):
+            a["paper_type"], a["paper_type_confidence"] = classify_article(a.get("publication_types", []), a.get("title", ""), a.get("abstract", ""))
         a["categories"] = ["Digital Orthopaedics & Surgical Technology"] if match else ["Other / Unclassified"]
         by_id[a["id"]] = a
- 
+
     errors = {}
     report = {}
     successes = 0
@@ -336,6 +375,6 @@ def main():
         "important_note": "Rule-based screening can miss relevant publications and retain false positives. Europe PMC does not cover all journals or online-first articles.",
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Finished: {successes}/{len(journals)} journals; {len(result)} articles; {removed_old} older off-topic articles removed; {len(errors)} errors")
- 
+
 if __name__ == "__main__":
     main()
