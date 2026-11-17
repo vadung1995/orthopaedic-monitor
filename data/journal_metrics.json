@@ -1,14 +1,15 @@
 {
   "notes": "Verified-only overlay. No approximated IF; SJR quartiles are not Scopus CiteScore quartiles.",
-  "checked_at_utc": "2026-11-17T06:15:18+00:00",
+  "checked_at_utc": "2026-11-17T06:37:38+00:00",
   "latest_expected_jif_year": 2025,
   "latest_expected_sjr_year": 2025,
   "checks": {
-    "public_journal_pages": 60,
-    "publisher_jif_updated": 15,
+    "public_journal_pages": 255,
+    "publisher_jif_updated": 35,
     "scimago_csv_rows": 0,
     "sjr_quartiles_updated": 0,
-    "jcr_import_updated": 0
+    "jcr_import_updated": 0,
+    "publisher_evidence_seeded": 1
   },
   "journals": {
     "Annals of Surgical Oncology": {
@@ -100,6 +101,222 @@
       "impact_factor_year": 2025,
       "impact_factor_status": "verified",
       "impact_factor_source": "https://link.springer.com/journal/330?error=cookies_not_supported&code=981bda16-b9a2-48bc-b326-793b55966efd"
+    },
+    "BMC Geriatrics": {
+      "impact_factor": 4.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12877?error=cookies_not_supported&code=7f9dfa27-71a6-4b11-8842-3809ecee0d09"
+    },
+    "BMC Musculoskeletal Disorders": {
+      "impact_factor": 2.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12891?error=cookies_not_supported&code=4b8ce980-b89e-4f3b-a600-a082e8ffb469"
+    },
+    "BMC Sports Science, Medicine and Rehabilitation": {
+      "impact_factor": 3.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/13102?error=cookies_not_supported&code=76fe13a1-5dbe-4e72-aa3a-f7241bb6a997"
+    },
+    "BMC Surgery": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12893?error=cookies_not_supported&code=f49e7981-7fab-43bc-8118-c9c44936d22d"
+    },
+    "Bone Research": {
+      "impact_factor": 20.1,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.nature.com/boneres/journal-information?error=cookies_not_supported&code=4b76a603-6014-4089-be56-73620716107c"
+    },
+    "European Journal of Medical Research": {
+      "impact_factor": 4.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/40001?error=cookies_not_supported&code=1c1aeae8-6e35-4d94-822a-1fa88272a372"
+    },
+    "European Surgery": {
+      "impact_factor": 0.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/10353?error=cookies_not_supported&code=0e9badf7-ceb5-4557-a891-f4f6abbaaa19"
+    },
+    "European Spine Journal": {
+      "impact_factor": 3.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/586?error=cookies_not_supported&code=e56c1afa-067e-487d-b613-85e8fa25dd19"
+    },
+    "European Radiology Experimental": {
+      "impact_factor": 4.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/41747?error=cookies_not_supported&code=0bc927fa-ebba-404f-a109-fd44006a1461"
+    },
+    "Indian Journal of Orthopaedics": {
+      "impact_factor": 1.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/43465?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=106e2dff-e1de-483c-9ce5-9632a3c615ba"
+    },
+    "Infection": {
+      "impact_factor": 3.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/15010?error=cookies_not_supported&code=3d42741d-2f64-45bd-a49e-ba898e2eeede"
+    },
+    "Indian Journal of Surgery": {
+      "impact_factor": 0.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/12262?utmsource=slink&utmmedium=journalfinder&error=cookies_not_supported&code=bd358e3c-17d8-4f3f-b9d9-cdd0aac22db5"
+    },
+    "Insights into Imaging": {
+      "impact_factor": 5.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/13244?error=cookies_not_supported&code=6ce6cd1c-c235-4706-a960-4db5ad43798a"
+    },
+    "International Journal of Computer Assisted Radiology and Surgery": {
+      "impact_factor": 2.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11548?error=cookies_not_supported&code=5f8561bb-c29c-4ba3-935a-aa869b3aad81"
+    },
+    "International Orthopaedics": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/264?error=cookies_not_supported&code=df8e2a99-a294-4854-8e19-9ff66f7d180e"
+    },
+    "Japanese Journal of Radiology": {
+      "impact_factor": 4.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11604?error=cookies_not_supported&code=3d22bb20-709a-4617-b133-b64ef55431b5"
+    },
+    "Journal of Clinical and Translational Science": {
+      "impact_factor": 106.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science"
+    },
+    "Journal of Occupational Rehabilitation": {
+      "impact_factor": 2.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/10926?error=cookies_not_supported&code=0384df24-efb2-4468-b1af-8814728b1417"
+    },
+    "Journal of Medical Case Reports": {
+      "impact_factor": 0.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/13256?error=cookies_not_supported&code=e4e18cfc-a32a-4060-bee1-5793952cb2da"
+    },
+    "Journal of Orthopaedic Surgery and Research": {
+      "impact_factor": 3.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/13018?error=cookies_not_supported&code=88965539-eaa2-4319-9d1b-2bb2a3b706ad"
+    },
+    "Journal of Orthopaedics and Traumatology": {
+      "impact_factor": 4.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/10195?error=cookies_not_supported&code=62246e73-1314-40ac-a94f-7cb7c9b6ff23"
+    },
+    "Journal of Patient-Reported Outcomes": {
+      "impact_factor": 2.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/41687?error=cookies_not_supported&code=5975f931-2a8b-499d-a00a-2598102e6c61"
+    },
+    "Journal of Robotic Surgery": {
+      "impact_factor": 4.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11701?error=cookies_not_supported&code=4b9293e9-48f2-49fd-8ece-e4d4cbdd18c9"
+    },
+    "Knee Surgery & Related Research": {
+      "impact_factor": 4.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/43019?error=cookies_not_supported&code=1dcaf337-91b5-45c0-ac76-31e6ab578bd8"
+    },
+    "La Radiologia Medica": {
+      "impact_factor": 5.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11547?error=cookies_not_supported&code=b6514268-c44d-4fde-8d71-d98c8d144528"
+    },
+    "Osteoporosis International": {
+      "impact_factor": 5.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/198?error=cookies_not_supported&code=aec70a3a-3986-4c8e-a285-4d81251d56e9"
+    },
+    "Quality of Life Research": {
+      "impact_factor": 3.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/11136?error=cookies_not_supported&code=308eedf5-6ece-4083-b3fc-e445dafaee64"
+    },
+    "Rheumatology International": {
+      "impact_factor": 3.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/296?error=cookies_not_supported&code=e2679846-0376-407c-9823-2e22ef0e190b"
+    },
+    "Skeletal Radiology": {
+      "impact_factor": 2.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/256?error=cookies_not_supported&code=c83f04c4-3d2f-4fed-9753-6062712270e4"
+    },
+    "Sports Medicine": {
+      "impact_factor": 11.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/40279?error=cookies_not_supported&code=c0c7e50c-30a0-4489-9376-ff76bcdb1213"
+    },
+    "Sports Medicine - Open": {
+      "impact_factor": 6.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/40798?error=cookies_not_supported&code=1e12727e-614c-430a-815f-c5b3001211b7"
+    },
+    "Surgery Today": {
+      "impact_factor": 2.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/595?error=cookies_not_supported&code=3a155c82-b26d-44f3-9b17-b2d92497a6e4"
+    },
+    "Surgical and Radiologic Anatomy": {
+      "impact_factor": 1.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/276?error=cookies_not_supported&code=dea7e5a8-7f40-4607-af9e-38132313584f"
+    },
+    "Surgical Endoscopy": {
+      "impact_factor": 3.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/464?error=cookies_not_supported&code=ca9851bc-4c66-4fdd-b403-05c51d7559c1"
+    },
+    "Updates in Surgery": {
+      "impact_factor": 2.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://link.springer.com/journal/13304?error=cookies_not_supported&code=f1c57539-c23a-4767-8db8-a814f2fe91eb"
+    },
+    "Journal of Arthroplasty": {
+      "impact_factor": 4.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.arthroplastyjournal.org/"
     }
   }
 }
