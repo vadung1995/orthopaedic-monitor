@@ -1,0 +1,1395 @@
+{
+  "notes": {
+    "A": "Collect all newly indexed publications in the journal; later restrict to orthopaedics if required.",
+    "B": "Collect only papers matching orthopaedic subject keywords; group/classify using the user keyword list.",
+    "status": "Journal names and URLs imported from user lists; ISSN / coverage must be validated when implementing data retrieval."
+  },
+  "journals": [
+    {
+      "name": "Journal of Arthroplasty",
+      "url": "https://www.arthroplastyjournal.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "The Knee",
+      "url": "https://www.sciencedirect.com/journal/the-knee",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Shoulder and Elbow Surgery",
+      "url": "https://www.sciencedirect.com/journal/journal-of-shoulder-and-elbow-surgery",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "International Orthopaedics",
+      "url": "https://link.springer.com/journal/264",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Injury",
+      "url": "https://www.sciencedirect.com/journal/injury/issues",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "European Journal of Orthopaedic Surgery and Traumatology",
+      "url": "https://link.springer.com/journal/590",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedics",
+      "url": "https://www.sciencedirect.com/journal/journal-of-orthopaedics",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Science",
+      "url": "https://www.sciencedirect.com/journal/journal-of-orthopaedic-science/about/insights",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Knee Surgery, Sports Traumatology, Arthroscopy",
+      "url": "https://esskajournals.onlinelibrary.wiley.com/journal/14337347",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of the American Academy of Orthopaedic Surgeons",
+      "url": "https://journals.lww.com/jaaos/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Clinical Orthopaedics and Trauma",
+      "url": "https://www.sciencedirect.com/journal/journal-of-clinical-orthopaedics-and-trauma",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopaedics & Traumatology: Surgery & Research",
+      "url": "https://www.sciencedirect.com/journal/orthopaedics-and-traumatology-surgery-and-research",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Clinical Orthopaedics and Related Research",
+      "url": "https://journals.lww.com/clinorthop/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Trauma and Acute Care Surgery",
+      "url": "https://journals.lww.com/jtrauma/Pages/instructionsforauthors.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "European Journal of Trauma and Emergency Surgery",
+      "url": "https://link.springer.com/journal/68",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Research",
+      "url": "https://onlinelibrary.wiley.com/journal/1554527X",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Trauma",
+      "url": "https://journals.lww.com/jorthotrauma/Pages/aboutthejournal.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Revue de Chirurgie Orthopedique et Traumatologique",
+      "url": "https://www.sciencedirect.com/journal/revue-de-chirurgie-orthopedique-et-traumatologique/about/insights",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Indian Journal of Orthopaedics",
+      "url": "https://link.springer.com/journal/43465?utm_source=slink&utm_medium=journal_finder",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopedics",
+      "url": "https://journals.healio.com/journal/ortho/about-the-journal",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Clinics in Orthopedic Surgery",
+      "url": "https://www.ecios.org/index.php?body=about",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "HSS Journal",
+      "url": "https://journals.sagepub.com/home/HSS",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "HIP International",
+      "url": "https://journals.sagepub.com/home/hpi",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopaedics and Trauma",
+      "url": "https://www.orthopaedicsandtraumajournal.co.uk",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Current Orthopaedic Practice",
+      "url": "https://journals.lww.com/c-orthopaedicpractice/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Current Reviews in Musculoskeletal Medicine",
+      "url": "https://link.springer.com/journal/12178",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Musculoskeletal Surgery",
+      "url": "https://link.springer.com/journal/12306",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopedic and Spine Trauma",
+      "url": "https://jost.tums.ac.ir/index.php/jost/index",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Minerva Orthopedics",
+      "url": "https://www.minervamedica.it/en/journals/minerva-orthopedics/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Musculoskeletal Surgery and Research",
+      "url": "https://journalmsr.com/category/technical-note/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Current Trauma Reports",
+      "url": "https://link.springer.com/journal/40719",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Musculoskeletal Care",
+      "url": "https://onlinelibrary.wiley.com/journal/15570681",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Medicine & Science in Sports & Exercise",
+      "url": "https://www.ovid.com/jnls/acsm-msse",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Arthroscopy",
+      "url": "https://arthroscopyjournals.onlinelibrary.wiley.com/journal/15263231",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Sports Sciences",
+      "url": "https://www.tandfonline.com/journals/rjsp20",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Scandinavian Journal of Medicine & Science in Sports",
+      "url": "https://onlinelibrary.wiley.com/journal/16000838",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Sport Rehabilitation",
+      "url": "https://journals.humankinetics.com/view/journals/jsr/jsr-overview.xml?tab_body=author-guidelines#OA",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Sports Orthopaedics and Traumatology",
+      "url": "https://www.sciencedirect.com/journal/sports-orthopaedics-and-traumatology",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Physical Therapy in Sport",
+      "url": "https://www.sciencedirect.com/journal/physical-therapy-in-sport",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Current Sports Medicine Reports",
+      "url": "https://journals.lww.com/acsm-csmr/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal de traumatologie du sport",
+      "url": "https://www.sciencedirect.com/journal/journal-de-traumatologie-du-sport",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Bone and Joint Surgery",
+      "url": "https://www.jbjs.org",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "The Bone & Joint Journal",
+      "url": "https://boneandjoint.org.uk/journal/bjo",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "BONE",
+      "url": "https://www.sciencedirect.com/journal/bone",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Archives of Bone and Joint Surgery",
+      "url": "https://abjs.mums.ac.ir/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Osteopathic Medicine",
+      "url": "https://www.degruyterbrill.com/journal/key/jom/html#issues",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Joint Bone Spine",
+      "url": "https://www.sciencedirect.com/journal/joint-bone-spine",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Bulletin of the Hospital for Joint Diseases",
+      "url": "https://journals.lww.com/bhjd/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Skeletal Radiology",
+      "url": "https://link.springer.com/journal/256",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Hand Surgery",
+      "url": "https://www.sciencedirect.com/journal/the-journal-of-hand-surgery",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Hand Therapy",
+      "url": "https://www.sciencedirect.com/journal/journal-of-hand-therapy",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Shoulder and Elbow",
+      "url": "https://journals.sagepub.com/home/SEL",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Seminars in Arthroplasty: JSES",
+      "url": "https://www.sciencedirect.com/journal/seminars-in-arthroplasty-jses",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Clinics in Shoulder and Elbow",
+      "url": "https://www.cisejournal.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Hand Surgery and Rehabilitation",
+      "url": "https://www.sciencedirect.com/journal/hand-surgery-and-rehabilitation",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Foot and Ankle Surgery",
+      "url": "https://www.sciencedirect.com/journal/foot-and-ankle-surgery",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Strategies in Trauma and Limb Reconstruction",
+      "url": "https://www.stlrjournal.com/journalDetails/STLR",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Bodywork and Movement Therapies",
+      "url": "https://www.sciencedirect.com/journal/journal-of-bodywork-and-movement-therapies",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Hand and Microsurgery",
+      "url": "https://www.sciencedirect.com/journal/journal-of-hand-and-microsurgery",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Hand Surgery Asian-Pacific Volume",
+      "url": "https://www.worldscientific.com/worldscinet/jhs",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Foot & Ankle International",
+      "url": "https://journals.sagepub.com/home/FAI",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Foot & Ankle Specialist",
+      "url": "https://journals.sagepub.com/home/FAS",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Microsurgery",
+      "url": "https://onlinelibrary.wiley.com/journal/10982752",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Foot and Ankle Surgery",
+      "url": "https://www.sciencedirect.com/journal/the-journal-of-foot-and-ankle-surgery",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Musculoskeletal Science and Practice",
+      "url": "https://www.sciencedirect.com/journal/musculoskeletal-science-and-practice",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Bone and Mineral Research",
+      "url": "https://academic.oup.com/jbmr/pages/about",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "International Journal of Orthopaedic and Trauma Nursing",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-orthopaedic-and-trauma-nursing",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopaedic Nursing",
+      "url": "https://journals.lww.com/orthopaedicnursing/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Archives of Osteoporosis",
+      "url": "https://link.springer.com/journal/11657?utm_source=slink&utm_medium=journal_finder",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "JOS Case Reports",
+      "url": "https://www.sciencedirect.com/journal/jos-case-reports/about/insights",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Reports",
+      "url": "https://www.sciencedirect.com/journal/journal-of-orthopaedic-reports",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Trauma Case Reports",
+      "url": "https://www.sciencedirect.com/journal/trauma-case-reports",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Surgery and Research",
+      "url": "https://josr-online.biomedcentral.com",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "BMC Musculoskeletal Disorders",
+      "url": "https://bmcmusculoskeletdisord.biomedcentral.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Archives of Orthopaedic and Trauma Surgery",
+      "url": "https://link.springer.com/journal/402",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopaedic Journal of Sports Medicine",
+      "url": "https://journals.sagepub.com/home/ojs",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Orthopaedic Surgery",
+      "url": "https://onlinelibrary.wiley.com/journal/17577861",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Sports",
+      "url": "https://www.mdpi.com/journal/sports",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Life",
+      "url": "https://www.mdpi.com/journal/life",
+      "list": "A",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Orthopaedic Surgery",
+      "url": "https://journals.sagepub.com/home/OSJ",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Annali Italiani di Chirurgia",
+      "url": "https://www.annaliitalianidichirurgia.it/journal/AIC",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "International Journal of Burns and Trauma",
+      "url": "https://e-century.us/web/journal.php?journal=ijbt",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "OTA International",
+      "url": "https://journals.lww.com/otainternational/pages/default.aspx",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Muscles, Ligaments and Tendons Journal",
+      "url": "https://www.ejcrim.com/index.php/mltj/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Annals of the Royal College of Surgeons of England",
+      "url": "https://publishing.rcseng.ac.uk/journal/ann",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Arthroscopy, Sports Medicine, and Rehabilitation",
+      "url": "https://www.arthroscopysportsmedicineandrehabilitation.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "BMC Sports Science, Medicine and Rehabilitation",
+      "url": "https://bmcsportsscimedrehabil.biomedcentral.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Experimental Orthopaedics",
+      "url": "https://esskajournals.onlinelibrary.wiley.com/journal/21971153",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Arthroscopy Techniques",
+      "url": "https://www.sciencedirect.com/journal/arthroscopy-techniques",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Knee Surgery & Related Research",
+      "url": "https://link.springer.com/journal/43019",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Foot & Ankle Orthopaedics",
+      "url": "https://journals.sagepub.com/home/fao",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedics, Trauma and Rehabilitation",
+      "url": "https://journals.sagepub.com/home/OTR",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Therapeutic Advances in Musculoskeletal Disease",
+      "url": "https://journals.sagepub.com/author-instructions/TAB",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "World Journal of Orthopedics",
+      "url": "https://www.wjgnet.com/2218-5836/about.htm",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "url": "https://journals.sagepub.com/home/GOS",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/s/journal-information",
+      "list": "A",
+      "collection": "keywords"
+    },
+    {
+      "name": "Acta Orthopaedica Belgica",
+      "url": "https://www.actaorthopaedica.be/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Acta Orthopaedica",
+      "url": "https://actaorthop.org/actao/index",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Frontiers in Surgery",
+      "url": "https://www.frontiersin.org/journals/surgery",
+      "list": "A",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Surgery",
+      "url": "https://international-surgery.kglmeridian.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Hip Preservation Surgery",
+      "url": "https://academic.oup.com/jhps",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Trauma Surgery & Acute Care Open",
+      "url": "https://tsaco.bmj.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Arthroplasty Today",
+      "url": "https://www.arthroplastytoday.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "BMC Arthroplasty",
+      "url": "https://link.springer.com/journal/42836",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Annals of Joint",
+      "url": "https://aoj.amegroups.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "3D Printing and Additive Manufacturing",
+      "url": "https://home.liebertpub.com/publications/3d-printing-and-additive-manufacturing/621",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Acta Chirurgica Belgica",
+      "url": "https://www.tandfonline.com/journals/tacb20",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Acta Radiologica",
+      "url": "https://journals.sagepub.com/overview-metric/ACR",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Age and Ageing",
+      "url": "https://academic.oup.com/ageing",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Alexandria Journal of Medicine",
+      "url": "https://www.tandfonline.com/journals/tajm",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "American Journal of Case Reports",
+      "url": "https://amjcaserep.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "American Journal of Emergency Medicine",
+      "url": "https://www.sciencedirect.com/journal/the-american-journal-of-emergency-medicine",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "American Journal of the Medical Sciences",
+      "url": "https://www.sciencedirect.com/journal/the-american-journal-of-the-medical-sciences",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Annals of Medicine and Surgery",
+      "url": "https://journals.lww.com/annals-of-medicine-and-surgery/pages/default.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Annals of Oncology",
+      "url": "https://www.sciencedirect.com/journal/annals-of-oncology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Annals of Surgery",
+      "url": "https://journals.lww.com/annalsofsurgery/pages/default.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Annals of Surgical Oncology",
+      "url": "https://link.springer.com/journal/10434",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Annals of Surgical Treatment and Research",
+      "url": "https://astr.or.kr/index.php?body=about",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "ANZ Journal of Surgery",
+      "url": "https://onlinelibrary.wiley.com/journal/14452197",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Archives of Medical Science",
+      "url": "https://www.termedia.pl/Journal/ArchivesofMedicalScience-19",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Asian Journal of Endoscopic Surgery",
+      "url": "https://onlinelibrary.wiley.com/journal/17585910",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Asian Journal of Surgery",
+      "url": "https://www.sciencedirect.com/journal/asian-journal-of-surgery",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Bali Medical Journal",
+      "url": "https://balimedicaljournal.org/index.php/bmj/Aims",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "BioMed Research International",
+      "url": "https://onlinelibrary.wiley.com/journal/2738",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "BMC Geriatrics",
+      "url": "https://bmcgeriatr.biomedcentral.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "BMC Medical Imaging",
+      "url": "https://link.springer.com/journal/12880",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "BMC Surgery",
+      "url": "https://bmcsurg.biomedcentral.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "BMJ Case Reports",
+      "url": "https://casereports.bmj.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Bratislava Medical Journal",
+      "url": "https://link.springer.com/journal/44411",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "British Journal of Surgery",
+      "url": "https://academic.oup.com/bjs",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Canadian Journal of Surgery",
+      "url": "https://www.canjsurg.ca",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Chirurgie",
+      "url": "https://link.springer.com/journal/104",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinical Biomechanics",
+      "url": "https://www.sciencedirect.com/journal/clinical-biomechanics",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinical Case Reports",
+      "url": "https://onlinelibrary.wiley.com/page/journal/20500904/homepage/productinformation.html",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinical Imaging",
+      "url": "https://www.clinicalimaging.org",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinical Oncology",
+      "url": "https://www.sciencedirect.com/journal/clinical-oncology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinical Rheumatology",
+      "url": "https://link.springer.com/journal/10067",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Clinics and Practice (MDPI)",
+      "url": "https://www.mdpi.com/journal/clinpract",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Critical Reviews in Oncology/Hematology",
+      "url": "https://www.sciencedirect.com/journal/critical-reviews-in-oncology-hematology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Current Medical Science",
+      "url": "https://link.springer.com/journal/11596",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Current Problems in Surgery",
+      "url": "https://www.sciencedirect.com/journal/current-problems-in-surgery",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Current Surgery Reports",
+      "url": "https://link.springer.com/journal/40137",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Diseases (MDPI)",
+      "url": "https://www.mdpi.com/journal/diseases",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Egyptian Journal of Radiology and Nuclear Medicine",
+      "url": "https://link.springer.com/journal/43055",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Journal of Cancer",
+      "url": "https://www.sciencedirect.com/journal/european-journal-of-cancer",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Journal of Medical Research",
+      "url": "https://eurjmedres.biomedcentral.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Journal of Radiology",
+      "url": "https://www.sciencedirect.com/journal/european-journal-of-radiology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Journal of Surgical Oncology",
+      "url": "https://www.sciencedirect.com/journal/european-journal-of-surgical-oncology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Surgery",
+      "url": "https://link.springer.com/journal/10353",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Folia Morphologica",
+      "url": "https://journals.viamedica.pl/foliamorphologica/index",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Geriatrics (MDPI)",
+      "url": "https://www.mdpi.com/journal/geriatrics",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "IMAGING",
+      "url": "https://www.akjournals.com/view/journals/1647/1647-overview.xml",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Indian Journal of Surgery",
+      "url": "https://link.springer.com/journal/12262?utmsource=slink&utmmedium=journalfinder",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Infection",
+      "url": "https://link.springer.com/journal/15010",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Journal of Computer Assisted Radiology and Surgery",
+      "url": "https://link.springer.com/journal/11548",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Journal of Medical Robotics and Computer Assisted Surgery",
+      "url": "https://onlinelibrary.wiley.com/journal/1478596x",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Journal of Rheumatic Diseases",
+      "url": "https://onlinelibrary.wiley.com/journal/1756185x",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Journal of Surgery",
+      "url": "https://journals.lww.com/international-journal-of-surgery/pages/aboutthejournal.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "International Journal of Surgery Case Reports",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-surgery-case-reports",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Irish Journal of Medical Sciences",
+      "url": "https://link.springer.com/journal/11845",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Japanese Journal of Radiology",
+      "url": "https://link.springer.com/journal/11604",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Joint Commission Journal on Quality and Patient Safety",
+      "url": "https://www.sciencedirect.com/journal/the-joint-commission-journal-on-quality-and-patient-safety",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Biomechanics",
+      "url": "https://www.sciencedirect.com/journal/journal-of-biomechanics",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Cartilage and Joint Preservation",
+      "url": "https://www.sciencedirect.com/journal/journal-of-cartilage-and-joint-preservation",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Clinical and Translational Science",
+      "url": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Clinical Medicine (MDPI)",
+      "url": "https://www.mdpi.com/journal/jcm",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Evaluation in Clinical Practice",
+      "url": "https://onlinelibrary.wiley.com/journal/13652753",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Healthcare Quality Research",
+      "url": "https://www.sciencedirect.com/journal/journal-of-healthcare-quality-research",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Imaging",
+      "url": "https://www.mdpi.com/journal/jimaging/instructions#transferservice",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Infection and Chemotherapy",
+      "url": "https://www.sciencedirect.com/journal/journal-of-infection-and-chemotherapy",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of International Medical Research",
+      "url": "https://journals.sagepub.com/home/IMR",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Medical Case Reports",
+      "url": "https://jmedicalcasereports.biomedcentral.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Medical Imaging",
+      "url": "https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/author-guidelines#navBarAnchor",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Occupational and Environmental Medicine",
+      "url": "https://journals.lww.com/joem/Pages/informationforauthors.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Occupational Rehabilitation",
+      "url": "https://link.springer.com/journal/10926",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Patient-Reported Outcomes",
+      "url": "https://link.springer.com/journal/41687",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Pharmacy and Bioallied Sciences",
+      "url": "https://journals.lww.com/JPBS/Pages/informationforauthors.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Robotic Surgery",
+      "url": "https://link.springer.com/journal/11701",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Surgical Case Reports",
+      "url": "https://academic.oup.com/jscr/pages/reasons-to-submit",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Surgical Education",
+      "url": "https://www.sciencedirect.com/journal/journal-of-surgical-education",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Surgical Research",
+      "url": "https://www.sciencedirect.com/journal/journal-of-surgical-research",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Telemedicine and Telecare",
+      "url": "https://journals.sagepub.com/home/JTT",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of the American Medical Directors Association",
+      "url": "https://www.sciencedirect.com/journal/journal-of-the-american-medical-directors-association",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of the Formosan Medical Association",
+      "url": "https://www.sciencedirect.com/journal/journal-of-the-formosan-medical-association",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Journal of Ultrasound in Medicine",
+      "url": "https://onlinelibrary.wiley.com/journal/15509613",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "La Radiologia Medica",
+      "url": "https://link.springer.com/journal/11547",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "url": "https://www.sciencedirect.com/journal/magnetic-resonance-imaging",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Medical Archives",
+      "url": "https://medarch.org",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Medicine",
+      "url": "https://journals.lww.com/md-journal/pages/default.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Minerva Surgery",
+      "url": "https://www.minervamedica.it/en/index.php",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Muscle & Nerve",
+      "url": "https://onlinelibrary.wiley.com/journal/10974598",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Occupational Medicine",
+      "url": "https://academic.oup.com/occmed",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Osteoporosis International",
+      "url": "https://link.springer.com/journal/198",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "PeerJ",
+      "url": "https://peerj.com",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Pirogov Russian Journal of Surgery",
+      "url": "https://www.mediasphera.ru/journal/khirurgiya-zhurnal-im-n-i-pirogova?expanded=true&tab=editorial-board",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Plastic and Reconstructive Surgery",
+      "url": "https://journals.lww.com/plasreconsurg/pages/default.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Quality Management in Healthcare",
+      "url": "https://www.ovid.com/jnls/qmhcjournal",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Quality of Life Research",
+      "url": "https://link.springer.com/journal/11136",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Quantitative Imaging in Medicine and Surgery",
+      "url": "https://qims.amegroups.org/page/about/open-access-statement",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Radiología",
+      "url": "https://www.sciencedirect.com/journal/radiologia",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Radiotherapy and Oncology",
+      "url": "https://www.sciencedirect.com/journal/radiotherapy-and-oncology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Rheumatology International",
+      "url": "https://link.springer.com/journal/296",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "SAGE Open Medical Case Reports",
+      "url": "https://journals.sagepub.com/home/sco",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "SAGE Open Medicine",
+      "url": "https://journals.sagepub.com/home/SMO",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Scandinavian Journal of Surgery",
+      "url": "https://journals.sagepub.com/home/sjs",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Seminars in Arthritis and Rheumatism",
+      "url": "https://www.sciencedirect.com/journal/seminars-in-arthritis-and-rheumatism",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgeries",
+      "url": "https://www.mdpi.com/journal/surgeries",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "SURGERY",
+      "url": "https://www.sciencedirect.com/journal/surgery",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgery Case Reports",
+      "url": "https://www.sciencedirect.com/journal/surgery-case-reports",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgery in Practice and Science",
+      "url": "https://www.sciencedirect.com/journal/surgery-in-practice-and-science",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgery Open Science",
+      "url": "https://www.sciencedirect.com/journal/surgery-open-science",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgery Today",
+      "url": "https://link.springer.com/journal/595",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical and Radiologic Anatomy",
+      "url": "https://link.springer.com/journal/276",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical Case Reports",
+      "url": "https://jp.jssoc.or.jp/modules/en/index.php?contentid=6",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "SURGICAL CHRONICLES",
+      "url": "https://www.surgchronicles.gr/index.php/en/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical Endoscopy",
+      "url": "https://link.springer.com/journal/464",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical Innovation",
+      "url": "https://journals.sagepub.com/home/sri",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical Oncology",
+      "url": "https://www.sciencedirect.com/journal/surgical-oncology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Surgical Practice",
+      "url": "https://onlinelibrary.wiley.com/journal/17441633",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "The American Journal of Surgery",
+      "url": "https://www.sciencedirect.com/journal/the-american-journal-of-surgery",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "The Journal of Ambulatory Care Management",
+      "url": "https://www.ovid.com/jnls/ambulatorycaremanagement",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "The Journal of Emergency Medicine",
+      "url": "https://www.sciencedirect.com/journal/the-journal-of-emergency-medicine",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "The Journal of Medical Imaging and Radiation Sciences",
+      "url": "https://www.sciencedirect.com/journal/journal-of-medical-imaging-and-radiation-sciences",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "The Surgeon",
+      "url": "https://www.sciencedirect.com/journal/the-surgeon",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Transplantation Proceedings",
+      "url": "https://www.sciencedirect.com/journal/transplantation-proceedings",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Turkish Journal of Plastic Surgery",
+      "url": "https://journals.lww.com/tjps/Pages/informationforauthors.aspx",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Turkish Journal of Surgery",
+      "url": "https://turkjsurg.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Ultrasound in Medicine and Biology",
+      "url": "https://www.umbjournal.org",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Updates in Surgery",
+      "url": "https://link.springer.com/journal/13304",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Visual Journal of Emergency Medicine",
+      "url": "https://www.sciencedirect.com/journal/visual-journal-of-emergency-medicine",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "World Journal of Surgery",
+      "url": "https://onlinelibrary.wiley.com/journal/14322323",
+      "list": "B",
+      "collection": "keywords"
+    }
+  ]
+}
