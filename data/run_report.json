@@ -1,10 +1,10 @@
 {
-  "checked_at_utc": "2026-11-17T04:55:12+00:00",
+  "checked_at_utc": "2026-11-17T05:22:48+00:00",
   "journals_requested": 231,
   "journals_succeeded": 231,
   "journals_failed": 0,
   "total_articles_stored": 516,
-  "previous_articles_removed_by_filter": 741,
+  "previous_articles_removed_by_filter": 0,
   "search_date_range": [
     "2026-10-27",
     "2026-11-17"
@@ -17,30 +17,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "International Orthopaedics": {
-      "returned": 5,
-      "accepted": 5,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
     "The Knee": {
       "returned": 6,
       "accepted": 6,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Injury": {
-      "returned": 47,
-      "accepted": 29,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of Orthopaedic Science": {
-      "returned": 16,
-      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
@@ -52,14 +31,28 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "European Journal of Orthopaedic Surgery and Traumatology": {
+    "International Orthopaedics": {
+      "returned": 5,
+      "accepted": 5,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Injury": {
+      "returned": 47,
+      "accepted": 29,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Orthopaedics": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of Orthopaedics": {
+    "Journal of the American Academy of Orthopaedic Surgeons": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -73,9 +66,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of the American Academy of Orthopaedic Surgeons": {
-      "returned": 0,
-      "accepted": 0,
+    "Journal of Clinical Orthopaedics and Trauma": {
+      "returned": 1,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
@@ -87,20 +80,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of Clinical Orthopaedics and Trauma": {
-      "returned": 1,
-      "accepted": 1,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Clinical Orthopaedics and Related Research": {
-      "returned": 32,
-      "accepted": 32,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
     "Journal of Trauma and Acute Care Surgery": {
       "returned": 0,
       "accepted": 0,
@@ -108,12 +87,26 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Journal of Orthopaedic Science": {
+      "returned": 16,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
     "European Journal of Trauma and Emergency Surgery": {
       "returned": 3,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
+    },
+    "Journal of Orthopaedic Trauma": {
+      "returned": 15,
+      "accepted": 15,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
     },
     "Journal of Orthopaedic Research": {
       "returned": 2,
@@ -143,6 +136,20 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
+    "European Journal of Orthopaedic Surgery and Traumatology": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "HSS Journal": {
+      "returned": 1,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
     "HIP International": {
       "returned": 0,
       "accepted": 0,
@@ -150,16 +157,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Clinics in Orthopedic Surgery": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Journal of Orthopaedic Trauma": {
-      "returned": 15,
-      "accepted": 15,
+    "Clinical Orthopaedics and Related Research": {
+      "returned": 32,
+      "accepted": 32,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
@@ -178,28 +178,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "HSS Journal": {
-      "returned": 1,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Musculoskeletal Surgery": {
-      "returned": 5,
-      "accepted": 5,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Minerva Orthopedics": {
+    "Journal of Orthopedic and Spine Trauma": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of Orthopedic and Spine Trauma": {
+    "Clinics in Orthopedic Surgery": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -208,20 +194,6 @@
     },
     "Orthopaedics and Trauma": {
       "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Musculoskeletal Care": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Arthroscopy": {
-      "returned": 53,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -241,16 +213,16 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Medicine & Science in Sports & Exercise": {
+    "Musculoskeletal Care": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": false
+      "automatic_full_journal": true
     },
-    "Scandinavian Journal of Medicine & Science in Sports": {
-      "returned": 13,
-      "accepted": 1,
+    "Medicine & Science in Sports & Exercise": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -262,29 +234,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Current Sports Medicine Reports": {
-      "returned": 8,
-      "accepted": 1,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Physical Therapy in Sport": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Sports Orthopaedics and Traumatology": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Journal of Bone and Joint Surgery": {
-      "returned": 0,
+    "Arthroscopy": {
+      "returned": 53,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -297,9 +248,30 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "The Bone & Joint Journal": {
-      "returned": 14,
-      "accepted": 11,
+    "Scandinavian Journal of Medicine & Science in Sports": {
+      "returned": 13,
+      "accepted": 1,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Musculoskeletal Surgery": {
+      "returned": 5,
+      "accepted": 5,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Sports Orthopaedics and Traumatology": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Current Sports Medicine Reports": {
+      "returned": 8,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -311,12 +283,26 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Osteopathic Medicine": {
-      "returned": 4,
+    "Minerva Orthopedics": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "The Bone & Joint Journal": {
+      "returned": 14,
+      "accepted": 11,
+      "pages_checked": 1,
+      "possibly_truncated": false,
       "automatic_full_journal": false
+    },
+    "BONE": {
+      "returned": 21,
+      "accepted": 21,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
     },
     "Archives of Bone and Joint Surgery": {
       "returned": 0,
@@ -325,12 +311,12 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "BONE": {
-      "returned": 21,
-      "accepted": 21,
+    "Journal of Osteopathic Medicine": {
+      "returned": 4,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": true
+      "automatic_full_journal": false
     },
     "Joint Bone Spine": {
       "returned": 15,
@@ -347,6 +333,20 @@
       "automatic_full_journal": false
     },
     "Journal of Hand Surgery": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Skeletal Radiology": {
+      "returned": 27,
+      "accepted": 18,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Hand Therapy": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -374,28 +374,21 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of Hand Therapy": {
-      "returned": 0,
+    "Foot and Ankle Surgery": {
+      "returned": 3,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Skeletal Radiology": {
-      "returned": 27,
-      "accepted": 18,
+    "Physical Therapy in Sport": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Seminars in Arthroplasty: JSES": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Strategies in Trauma and Limb Reconstruction": {
+    "Journal of Bone and Joint Surgery": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -404,13 +397,6 @@
     },
     "Journal of Bodywork and Movement Therapies": {
       "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of Hand and Microsurgery": {
-      "returned": 2,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -430,13 +416,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Microsurgery": {
-      "returned": 2,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "Foot & Ankle Specialist": {
       "returned": 7,
       "accepted": 5,
@@ -444,8 +423,15 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Foot and Ankle Surgery": {
-      "returned": 3,
+    "Seminars in Arthroplasty: JSES": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Journal of Foot and Ankle Surgery": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -458,9 +444,23 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Orthopaedic Nursing": {
+    "Journal of Bone and Mineral Research": {
+      "returned": 9,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Strategies in Trauma and Limb Reconstruction": {
       "returned": 0,
       "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "International Journal of Orthopaedic and Trauma Nursing": {
+      "returned": 1,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
@@ -479,27 +479,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Foot and Ankle Surgery": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "International Journal of Orthopaedic and Trauma Nursing": {
-      "returned": 1,
-      "accepted": 1,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
-    "Journal of Bone and Mineral Research": {
-      "returned": 9,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
     "Journal of Orthopaedic Reports": {
       "returned": 0,
       "accepted": 0,
@@ -509,6 +488,13 @@
     },
     "Trauma Case Reports": {
       "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Hand and Microsurgery": {
+      "returned": 2,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -528,13 +514,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Archives of Orthopaedic and Trauma Surgery": {
-      "returned": 24,
-      "accepted": 24,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
     "Orthopaedic Journal of Sports Medicine": {
       "returned": 0,
       "accepted": 0,
@@ -542,12 +521,12 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Life": {
-      "returned": 0,
-      "accepted": 0,
+    "Archives of Orthopaedic and Trauma Surgery": {
+      "returned": 24,
+      "accepted": 24,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": false
+      "automatic_full_journal": true
     },
     "Orthopaedic Surgery": {
       "returned": 16,
@@ -556,13 +535,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Annali Italiani di Chirurgia": {
-      "returned": 20,
-      "accepted": 7,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "Sports": {
       "returned": 0,
       "accepted": 0,
@@ -570,12 +542,19 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Orthopaedic Surgery": {
-      "returned": 0,
+    "Microsurgery": {
+      "returned": 2,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": true
+      "automatic_full_journal": false
+    },
+    "Annali Italiani di Chirurgia": {
+      "returned": 20,
+      "accepted": 7,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
     },
     "International Journal of Burns and Trauma": {
       "returned": 0,
@@ -584,9 +563,23 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Muscles, Ligaments and Tendons Journal": {
+    "OTA International": {
       "returned": 0,
       "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Orthopaedic Nursing": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Annals of the Royal College of Surgeons of England": {
+      "returned": 20,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -597,13 +590,6 @@
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
-    },
-    "OTA International": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
     },
     "BMC Sports Science, Medicine and Rehabilitation": {
       "returned": 5,
@@ -626,26 +612,26 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Knee Surgery & Related Research": {
-      "returned": 6,
-      "accepted": 6,
+    "Life": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": true
+      "automatic_full_journal": false
     },
-    "Therapeutic Advances in Musculoskeletal Disease": {
+    "Journal of Orthopaedic Surgery": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Annals of the Royal College of Surgeons of England": {
-      "returned": 20,
-      "accepted": 1,
+    "Foot & Ankle Orthopaedics": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": false
+      "automatic_full_journal": true
     },
     "Journal of Orthopaedics, Trauma and Rehabilitation": {
       "returned": 0,
@@ -661,13 +647,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Acta Orthopaedica Belgica": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": true
-    },
     "Geriatric Orthopaedic Surgery & Rehabilitation": {
       "returned": 0,
       "accepted": 0,
@@ -675,21 +654,28 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Acta Orthopaedica": {
-      "returned": 7,
-      "accepted": 7,
+    "Muscles, Ligaments and Tendons Journal": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": true
+      "automatic_full_journal": false
     },
-    "Foot & Ankle Orthopaedics": {
+    "Acta Orthopaedica Belgica": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Journal of Hip Preservation Surgery": {
+    "Knee Surgery & Related Research": {
+      "returned": 6,
+      "accepted": 6,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
+    "Therapeutic Advances in Musculoskeletal Disease": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -710,6 +696,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Journal of Hip Preservation Surgery": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": true
+    },
     "Trauma Surgery & Acute Care Open": {
       "returned": 0,
       "accepted": 0,
@@ -724,21 +717,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "3D Printing and Additive Manufacturing": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Arthroplasty Today": {
-      "returned": 15,
-      "accepted": 15,
+    "Acta Orthopaedica": {
+      "returned": 7,
+      "accepted": 7,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": true
     },
-    "Annals of Joint": {
+    "3D Printing and Additive Manufacturing": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -766,14 +752,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Alexandria Journal of Medicine": {
-      "returned": 0,
-      "accepted": 0,
+    "Arthroplasty Today": {
+      "returned": 15,
+      "accepted": 15,
       "pages_checked": 1,
       "possibly_truncated": false,
-      "automatic_full_journal": false
+      "automatic_full_journal": true
     },
-    "American Journal of Case Reports": {
+    "Annals of Joint": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -794,6 +780,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Annals of Medicine and Surgery": {
+      "returned": 15,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Annals of Oncology": {
       "returned": 3,
       "accepted": 0,
@@ -808,6 +801,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Alexandria Journal of Medicine": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Annals of Surgical Treatment and Research": {
       "returned": 7,
       "accepted": 0,
@@ -815,9 +815,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "ANZ Journal of Surgery": {
-      "returned": 32,
-      "accepted": 5,
+    "American Journal of Case Reports": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -836,17 +836,10 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Asian Journal of Surgery": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Annals of Surgical Oncology": {
-      "returned": 134,
-      "accepted": 2,
-      "pages_checked": 2,
+    "PLOS ONE": {
+      "returned": 926,
+      "accepted": 18,
+      "pages_checked": 10,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
@@ -857,17 +850,17 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "BMC Geriatrics": {
-      "returned": 9,
+    "BioMed Research International": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Annals of Medicine and Surgery": {
-      "returned": 15,
-      "accepted": 0,
-      "pages_checked": 1,
+    "Annals of Surgical Oncology": {
+      "returned": 134,
+      "accepted": 2,
+      "pages_checked": 2,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
@@ -885,6 +878,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "BMJ Case Reports": {
+      "returned": 153,
+      "accepted": 6,
+      "pages_checked": 2,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Bratislava Medical Journal": {
       "returned": 0,
       "accepted": 0,
@@ -892,9 +892,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "BioMed Research International": {
-      "returned": 0,
-      "accepted": 0,
+    "ANZ Journal of Surgery": {
+      "returned": 32,
+      "accepted": 5,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -906,22 +906,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "BMJ Case Reports": {
-      "returned": 153,
-      "accepted": 6,
-      "pages_checked": 2,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "Chirurgie": {
       "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Canadian Journal of Surgery": {
-      "returned": 9,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -934,6 +920,20 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Clinical Case Reports": {
+      "returned": 107,
+      "accepted": 5,
+      "pages_checked": 2,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Clinical Imaging": {
+      "returned": 7,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Clinical Oncology": {
       "returned": 0,
       "accepted": 0,
@@ -941,8 +941,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Clinical Imaging": {
-      "returned": 7,
+    "Asian Journal of Surgery": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -955,20 +955,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Clinical Rheumatology": {
-      "returned": 33,
-      "accepted": 4,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Current Medical Science": {
-      "returned": 6,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "Critical Reviews in Oncology/Hematology": {
       "returned": 32,
       "accepted": 0,
@@ -976,8 +962,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Current Surgery Reports": {
-      "returned": 0,
+    "Current Medical Science": {
+      "returned": 6,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -990,7 +976,7 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Egyptian Journal of Radiology and Nuclear Medicine": {
+    "Current Surgery Reports": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1004,7 +990,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "European Journal of Medical Research": {
+    "BMC Geriatrics": {
+      "returned": 9,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Egyptian Journal of Radiology and Nuclear Medicine": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1025,17 +1018,10 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "European Surgery": {
+    "European Journal of Medical Research": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "PLOS ONE": {
-      "returned": 926,
-      "accepted": 18,
-      "pages_checked": 10,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
@@ -1046,21 +1032,21 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Geriatrics (MDPI)": {
+    "European Surgery": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Clinical Case Reports": {
-      "returned": 107,
-      "accepted": 5,
-      "pages_checked": 2,
+    "Folia Morphologica": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Folia Morphologica": {
+    "Geriatrics (MDPI)": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1074,9 +1060,16 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "International Journal of Computer Assisted Radiology and Surgery": {
+    "Infection": {
+      "returned": 25,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Canadian Journal of Surgery": {
       "returned": 9,
-      "accepted": 1,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1088,9 +1081,9 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Infection": {
-      "returned": 25,
-      "accepted": 0,
+    "International Journal of Computer Assisted Radiology and Surgery": {
+      "returned": 9,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1109,13 +1102,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Irish Journal of Medical Sciences": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "International Journal of Surgery Case Reports": {
       "returned": 0,
       "accepted": 0,
@@ -1123,7 +1109,7 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Joint Commission Journal on Quality and Patient Safety": {
+    "Irish Journal of Medical Sciences": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1137,16 +1123,16 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Cartilage and Joint Preservation": {
-      "returned": 0,
-      "accepted": 0,
+    "Journal of Biomechanics": {
+      "returned": 26,
+      "accepted": 10,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Biomechanics": {
-      "returned": 26,
-      "accepted": 10,
+    "Clinical Rheumatology": {
+      "returned": 33,
+      "accepted": 4,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1172,6 +1158,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Journal of Healthcare Quality Research": {
+      "returned": 4,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Journal of Imaging": {
       "returned": 1,
       "accepted": 0,
@@ -1179,8 +1172,15 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Infection and Chemotherapy": {
-      "returned": 11,
+    "Indian Journal of Surgery": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of International Medical Research": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1193,22 +1193,22 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Indian Journal of Surgery": {
+    "Journal of Medical Imaging": {
+      "returned": 5,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Joint Commission Journal on Quality and Patient Safety": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Occupational and Environmental Medicine": {
-      "returned": 20,
-      "accepted": 1,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of Occupational Rehabilitation": {
-      "returned": 6,
+    "Journal of Cartilage and Joint Preservation": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1228,29 +1228,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Healthcare Quality Research": {
-      "returned": 4,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of International Medical Research": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of Robotic Surgery": {
-      "returned": 80,
-      "accepted": 14,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Journal of Surgical Research": {
-      "returned": 0,
+    "Journal of Infection and Chemotherapy": {
+      "returned": 11,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1263,8 +1242,15 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Medical Imaging": {
-      "returned": 5,
+    "Journal of Surgical Education": {
+      "returned": 13,
+      "accepted": 1,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Surgical Research": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1277,8 +1263,22 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Journal of the American Medical Directors Association": {
+      "returned": 19,
+      "accepted": 2,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Journal of the Formosan Medical Association": {
       "returned": 31,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Ultrasound in Medicine": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1298,16 +1298,16 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Surgical Education": {
-      "returned": 13,
-      "accepted": 1,
+    "Medical Archives": {
+      "returned": 0,
+      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of the American Medical Directors Association": {
-      "returned": 19,
-      "accepted": 2,
+    "Journal of Occupational and Environmental Medicine": {
+      "returned": 20,
+      "accepted": 1,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1319,8 +1319,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Journal of Ultrasound in Medicine": {
-      "returned": 0,
+    "Journal of Occupational Rehabilitation": {
+      "returned": 6,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1340,6 +1340,20 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Occupational Medicine": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Pirogov Russian Journal of Surgery": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Osteoporosis International": {
       "returned": 25,
       "accepted": 0,
@@ -1354,7 +1368,7 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Pirogov Russian Journal of Surgery": {
+    "Quality Management in Healthcare": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1364,13 +1378,6 @@
     "Plastic and Reconstructive Surgery": {
       "returned": 36,
       "accepted": 1,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Medical Archives": {
-      "returned": 0,
-      "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1389,9 +1396,16 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Quality Management in Healthcare": {
+    "Radiología": {
       "returned": 0,
       "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Journal of Robotic Surgery": {
+      "returned": 80,
+      "accepted": 14,
       "pages_checked": 1,
       "possibly_truncated": false,
       "automatic_full_journal": false
@@ -1410,21 +1424,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Radiotherapy and Oncology": {
+      "returned": 17,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "SAGE Open Medicine": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Scandinavian Journal of Surgery": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Occupational Medicine": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1438,6 +1445,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Scandinavian Journal of Surgery": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "SURGERY": {
       "returned": 9,
       "accepted": 0,
@@ -1445,7 +1459,14 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Surgery Case Reports": {
+    "Seminars in Arthritis and Rheumatism": {
+      "returned": 7,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Surgery Open Science": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1459,14 +1480,7 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Surgery Open Science": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Radiología": {
+    "Surgery Case Reports": {
       "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
@@ -1480,8 +1494,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Radiotherapy and Oncology": {
-      "returned": 17,
+    "SURGICAL CHRONICLES": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1494,8 +1508,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "SURGICAL CHRONICLES": {
-      "returned": 0,
+    "Surgical Innovation": {
+      "returned": 2,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1508,15 +1522,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Surgical Innovation": {
-      "returned": 2,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Surgical Practice": {
-      "returned": 0,
+    "Surgical Oncology": {
+      "returned": 10,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1524,6 +1531,13 @@
     },
     "Surgical Endoscopy": {
       "returned": 33,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
+    "Surgical Practice": {
+      "returned": 0,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1550,13 +1564,6 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Seminars in Arthritis and Rheumatism": {
-      "returned": 7,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "The Journal of Medical Imaging and Radiation Sciences": {
       "returned": 0,
       "accepted": 0,
@@ -1578,6 +1585,13 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
+    "Ultrasound in Medicine and Biology": {
+      "returned": 0,
+      "accepted": 0,
+      "pages_checked": 1,
+      "possibly_truncated": false,
+      "automatic_full_journal": false
+    },
     "Turkish Journal of Plastic Surgery": {
       "returned": 0,
       "accepted": 0,
@@ -1592,22 +1606,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Ultrasound in Medicine and Biology": {
-      "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
     "Visual Journal of Emergency Medicine": {
       "returned": 0,
-      "accepted": 0,
-      "pages_checked": 1,
-      "possibly_truncated": false,
-      "automatic_full_journal": false
-    },
-    "Updates in Surgery": {
-      "returned": 32,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
@@ -1620,8 +1620,8 @@
       "possibly_truncated": false,
       "automatic_full_journal": false
     },
-    "Surgical Oncology": {
-      "returned": 10,
+    "Updates in Surgery": {
+      "returned": 32,
       "accepted": 0,
       "pages_checked": 1,
       "possibly_truncated": false,
