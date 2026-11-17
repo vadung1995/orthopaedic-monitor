@@ -1,15 +1,15 @@
 {
   "notes": "Verified-only overlay. No approximated IF; SJR quartiles are not Scopus CiteScore quartiles.",
-  "checked_at_utc": "2026-11-17T06:37:38+00:00",
+  "checked_at_utc": "2026-11-17T07:31:12+00:00",
   "latest_expected_jif_year": 2025,
   "latest_expected_sjr_year": 2025,
   "checks": {
     "public_journal_pages": 255,
-    "publisher_jif_updated": 35,
+    "publisher_jif_updated": 0,
     "scimago_csv_rows": 0,
     "sjr_quartiles_updated": 0,
     "jcr_import_updated": 0,
-    "publisher_evidence_seeded": 1
+    "publisher_evidence_seeded": 57
   },
   "journals": {
     "Annals of Surgical Oncology": {
@@ -199,7 +199,7 @@
       "impact_factor_source": "https://link.springer.com/journal/11604?error=cookies_not_supported&code=3d22bb20-709a-4617-b133-b64ef55431b5"
     },
     "Journal of Clinical and Translational Science": {
-      "impact_factor": 106.0,
+      "impact_factor": 2.7,
       "impact_factor_year": 2025,
       "impact_factor_status": "verified",
       "impact_factor_source": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science"
@@ -317,6 +317,342 @@
       "impact_factor_year": 2025,
       "impact_factor_status": "verified",
       "impact_factor_source": "https://www.arthroplastyjournal.org/"
+    },
+    "American Journal of Case Reports": {
+      "impact_factor": 0.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://amjcaserep.com/index/section/sn/CR"
+    },
+    "American Journal of Emergency Medicine": {
+      "impact_factor": 2.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-emergency-medicine-the-675"
+    },
+    "American Journal of the Medical Sciences": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-the-medical-sciences-316"
+    },
+    "Annals of Joint": {
+      "impact_factor": 2.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/annals-of-joint-17388"
+    },
+    "Annals of Medicine and Surgery": {
+      "impact_factor": 1.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/annals-of-medicine-and-surgery-16291"
+    },
+    "Annals of Surgery": {
+      "impact_factor": 7.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ja-jp/solutions/ovid/annals-of-surgery-608"
+    },
+    "Annals of the Royal College of Surgeons of England": {
+      "impact_factor": 2.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/annals-of-the-royal-college-of-surgeons-of-england-1761"
+    },
+    "Arthroscopy": {
+      "impact_factor": 6.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/arthroscopy-17693"
+    },
+    "Asian Journal of Endoscopic Surgery": {
+      "impact_factor": 1.1,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/asian-journal-of-endoscopic-surgery-10757"
+    },
+    "Bulletin of the Hospital for Joint Diseases": {
+      "impact_factor": 0.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/bulletin-of-the-hospital-for-joint-diseases-17359"
+    },
+    "Clinical Biomechanics": {
+      "impact_factor": 1.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/clinical-biomechanics-11980"
+    },
+    "Current Orthopaedic Practice": {
+      "impact_factor": 0.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/current-orthopaedic-practice-594"
+    },
+    "Current Sports Medicine Reports": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/current-sports-medicine-reports-4184"
+    },
+    "Diseases (MDPI)": {
+      "impact_factor": 3.7,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.mdpi.com/journal/diseases/imprint"
+    },
+    "European Journal of Surgical Oncology": {
+      "impact_factor": 3.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.essoweb.org/about/european-journal-of-surgical-oncology/"
+    },
+    "Geriatrics (MDPI)": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.mdpi.com/journal/geriatrics/imprint"
+    },
+    "HSS Journal": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/hss-journal---the-musculoskeletal-journal-of-hospital-for-special-surgery-16673"
+    },
+    "International Journal of Rheumatic Diseases": {
+      "impact_factor": 2.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-rheumatic-diseases-4650"
+    },
+    "International Journal of Surgery": {
+      "impact_factor": 9.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-16128"
+    },
+    "International Journal of Surgery Case Reports": {
+      "impact_factor": 0.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-case-reports-17451"
+    },
+    "JBJS Open Access": {
+      "impact_factor": 4.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/jbjs-open-access-14015"
+    },
+    "Journal of Bone and Mineral Research": {
+      "impact_factor": 6.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-bone-and-mineral-research-16711"
+    },
+    "Journal of Evaluation in Clinical Practice": {
+      "impact_factor": 1.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-evaluation-in-clinical-practice-1058"
+    },
+    "Journal of Experimental Orthopaedics": {
+      "impact_factor": 3.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-experimental-orthopaedics-17155"
+    },
+    "Journal of Foot and Ankle Surgery": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-foot--ankle-surgery-3431"
+    },
+    "Journal of Hand Therapy": {
+      "impact_factor": 1.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-hand-therapy-4208"
+    },
+    "Journal of Hip Preservation Surgery": {
+      "impact_factor": 1.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://academic.oup.com/jhps/pages/about"
+    },
+    "Journal of Imaging": {
+      "impact_factor": 3.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.mdpi.com/journal/jimaging/imprint"
+    },
+    "Journal of International Medical Research": {
+      "impact_factor": 1.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-international-medical-research-17672"
+    },
+    "Journal of Occupational and Environmental Medicine": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-occupational-and-environmental-medicine-239"
+    },
+    "Journal of Orthopaedic & Sports Physical Therapy": {
+      "impact_factor": 6.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic--sports-physical-therapy-11939"
+    },
+    "Journal of Orthopaedic Research": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic-research-10018"
+    },
+    "Journal of Orthopaedic Trauma": {
+      "impact_factor": 2.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ko-kr/solutions/ovid/journal-of-orthopaedic-trauma-589"
+    },
+    "Journal of Osteopathic Medicine": {
+      "impact_factor": 1.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.degruyterbrill.com/journal/key/jom/html"
+    },
+    "Journal of Surgical Case Reports": {
+      "impact_factor": 0.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://academic.oup.com/jscr/pages/About"
+    },
+    "Journal of Telemedicine and Telecare": {
+      "impact_factor": 3.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-telemedicine-and-telecare-15523"
+    },
+    "Journal of Ultrasound in Medicine": {
+      "impact_factor": 2.1,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ultrasound-in-medicine-14154"
+    },
+    "Medicine": {
+      "impact_factor": 2.0,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ja-jp/solutions/ovid/medicine-626"
+    },
+    "Muscle & Nerve": {
+      "impact_factor": 2.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/muscle-nerve-9871"
+    },
+    "Musculoskeletal Care": {
+      "impact_factor": 1.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/musculoskeletal-care-9872"
+    },
+    "Occupational Medicine": {
+      "impact_factor": 2.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://academic.oup.com/occmed/pages/About"
+    },
+    "Orthopaedic Journal of Sports Medicine": {
+      "impact_factor": 2.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-journal-of-sports-medicine-17472"
+    },
+    "Orthopaedic Nursing": {
+      "impact_factor": 0.9,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-nursing-1086"
+    },
+    "Orthopedics": {
+      "impact_factor": 1.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/orthopedics-2733"
+    },
+    "Quality Management in Healthcare": {
+      "impact_factor": 1.4,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/solutions/ovid/quality-management-in-healthcare-1087"
+    },
+    "Quantitative Imaging in Medicine and Surgery": {
+      "impact_factor": 2.8,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/quantitative-imaging-in-medicine-and-surgery-17422"
+    },
+    "Radiology": {
+      "impact_factor": 17.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/radiology-17702"
+    },
+    "Radiology: Artificial Intelligence": {
+      "impact_factor": 20.1,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/radiology--artificial-intelligence-17704"
+    },
+    "SAGE Open Medical Case Reports": {
+      "impact_factor": 0.6,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/sage-open-medical-case-reports-17597"
+    },
+    "SAGE Open Medicine": {
+      "impact_factor": 2.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/ja-jp/solutions/ovid/sage-open-medicine-17587"
+    },
+    "Sports Health": {
+      "impact_factor": 3.1,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/sports-health--a-multidisciplinary-approach-14320"
+    },
+    "Surgeries": {
+      "impact_factor": 1.5,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.mdpi.com/journal/surgeries/news-and-conferences/news/17344"
+    },
+    "Surgical Innovation": {
+      "impact_factor": 2.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/surgical-innovation-13970"
+    },
+    "Surgical Practice": {
+      "impact_factor": 0.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/surgical-practice-1038"
+    },
+    "The Journal of Ambulatory Care Management": {
+      "impact_factor": 1.3,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ambulatory-care-management-the-384"
+    },
+    "World Journal of Surgery": {
+      "impact_factor": 2.2,
+      "impact_factor_year": 2025,
+      "impact_factor_status": "verified",
+      "impact_factor_source": "https://www.wolterskluwer.com/en/solutions/ovid/world-journal-of-surgery-7856"
     }
   }
 }
