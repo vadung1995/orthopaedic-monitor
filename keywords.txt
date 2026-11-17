@@ -1,0 +1,145 @@
+# Digital Orthopaedics & Surgical Technology
+# One keyword per line. Add or remove lines later. Lines starting with # are comments.
+3D printing
+three-dimensional printing
+3D printed implant
+3D printed prosthesis
+3D printed bone model
+3D printed surgical guide
+3D printed patient-specific instrumentation
+3D printed cutting guide
+3D printed custom implant
+3D printed pelvic reconstruction
+3D printed acetabular reconstruction
+3D printed tumor prosthesis
+3D printed megaprosthesis
+additive manufacturing
+metal additive manufacturing
+selective laser melting
+SLM
+selective laser sintering
+SLS
+electron beam melting
+EBM
+fused deposition modeling
+FDM
+stereolithography
+SLA
+binder jetting
+porous titanium implant
+trabecular metal implant
+patient-specific implant
+custom-made implant
+customized prosthesis
+personalized implant
+personalized orthopedic surgery
+patient-specific instrumentation
+PSI
+virtual surgical planning
+VSP
+computer-aided design
+CAD
+computer-aided manufacturing
+CAM
+digital templating
+preoperative planning
+3D reconstruction
+three-dimensional reconstruction
+CT-based 3D modeling
+anatomical modeling
+surgical simulation
+augmented reality
+AR
+virtual reality
+VR
+mixed reality
+MR
+extended reality
+XR
+holographic navigation
+image-guided surgery
+computer-assisted surgery
+computer-assisted orthopaedic surgery
+navigation-assisted surgery
+surgical navigation
+intraoperative navigation
+optical navigation
+electromagnetic navigation
+fluoroscopy-guided surgery
+CT-guided navigation
+robotic-assisted surgery
+robot-assisted surgery
+robotic surgery
+surgical robotics
+orthopaedic robotics
+orthopedic robotics
+robotic-assisted arthroplasty
+robot-assisted arthroplasty
+robotic-assisted total knee arthroplasty
+robotic-assisted TKA
+robot-assisted TKA
+robotic-assisted total hip arthroplasty
+robotic-assisted THA
+robot-assisted THA
+robotic-assisted unicompartmental knee arthroplasty
+robotic-assisted UKA
+robotic-assisted shoulder arthroplasty
+robotic-assisted spine surgery
+robotic-assisted bone tumor surgery
+robotic-assisted fracture fixation
+robotic-assisted osteotomy
+robotic-assisted joint reconstruction
+autonomous surgical robot
+semi-active robotic system
+active robotic system
+haptic robotic system
+image-free robotic surgery
+image-based robotic surgery
+CT-based robotic surgery
+MAKO robotic system
+ROSA robotic system
+CORI robotic system
+NAVIO robotic system
+VELYS robotic system
+robotic arm-assisted surgery
+robotic milling
+robotic bone preparation
+robotic alignment
+robotic implant positioning
+robotic ligament balancing
+robotic soft tissue balancing
+artificial intelligence in orthopaedic surgery
+artificial intelligence in orthopedic surgery
+AI-assisted surgery
+machine learning in orthopaedics
+deep learning in orthopaedics
+computer vision in surgery
+predictive analytics
+automated surgical planning
+AI-based preoperative planning
+AI-based implant positioning
+AI-based implant design
+AI-based fracture detection
+AI-based tumor segmentation
+intraoperative artificial intelligence
+smart implants
+sensor-based implants
+wearable sensors
+digital orthopaedics
+digital orthopedics
+precision orthopaedics
+precision surgery
+personalized orthopaedic surgery
+smart surgical instruments
+intraoperative imaging
+3D fluoroscopy
+cone-beam CT
+intraoperative CT
+intraoperative MRI
+ultrasound-guided surgery
+navigation-guided arthroplasty
+robotic-assisted revision arthroplasty
+robotic-assisted revision TKA
+robotic-assisted revision THA
+robotic-assisted tumor reconstruction
+robotic-assisted limb salvage surgery
