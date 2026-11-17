@@ -340,6 +340,23 @@ def main():
     today = datetime.now(timezone.utc).date()
     start, cutoff = today - timedelta(days=LOOKBACK_DAYS), today - timedelta(days=RETENTION_DAYS)
     journals = read_json(ROOT / "journals.json", {}).get("journals", [])
+    additions = read_json(ROOT / "journals_additions.json", {}).get("journals", [])
+    # Idempotent append: keep the original journal list unchanged and avoid duplicates.
+    def canonical_journal(s):
+        return re.sub(r"[^a-z0-9]", "", (s or "").casefold().replace("&", "and"))
+    seen = {canonical_journal(j.get("name", "")) for j in journals}
+    seen_issn = {str(j.get("issn", "")).strip().lower() for j in journals if j.get("issn")}
+    for j in additions:
+        name = canonical_journal(j.get("name", ""))
+        issn = str(j.get("issn", "")).strip().lower()
+        if not name or name in seen or (issn and issn in seen_issn):
+            continue
+        if j.get("list") not in ("A", "B"):
+            raise ValueError(f"Invalid journal list for {j.get('name')}")
+        journals.append(j)
+        seen.add(name)
+        if issn:
+            seen_issn.add(issn)
     if not journals:
         raise ValueError("journals.json has no journals")
     keywords = load_keywords()

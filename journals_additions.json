@@ -1,0 +1,153 @@
+{
+  "notes": {
+    "source": "User uploaded 24-journal watchlist dated 2026-11-17; 18 List A, 6 List B.",
+    "compatibility": "Additional journals are MERGED (deduplicated) with existing journals.json during collection; original file is unchanged.",
+    "scope": "List B is relevance-screened for musculoskeletal/orthopaedics."
+  },
+  "journals": [
+    {
+      "name": "Bone Research",
+      "url": "https://www.nature.com/boneres/journal-impact",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Sports Medicine",
+      "url": "https://link.springer.com/journal/40279",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic Translation",
+      "url": "https://www.sciencedirect.com/journal/journal-of-orthopaedic-translation",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Osteoarthritis and Cartilage",
+      "url": "https://www.oarsijournal.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedic & Sports Physical Therapy",
+      "url": "https://www.jospt.org/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Sports Medicine - Open",
+      "url": "https://sportsmedicine-open.springeropen.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Bone & Joint Research",
+      "url": "https://boneandjoint.org.uk/journal/bjr",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "The American Journal of Sports Medicine",
+      "url": "https://journals.sagepub.com/home/ajs",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "The Spine Journal",
+      "url": "https://www.thespinejournalonline.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "JBJS Open Access",
+      "url": "https://journals.lww.com/jbjsopenaccess/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Orthopaedics and Traumatology",
+      "url": "https://jorthoptraumatol.springeropen.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Neurosurgery: Spine",
+      "url": "https://thejns.org/spine",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "BMJ Open Sport & Exercise Medicine",
+      "url": "https://bmjopensem.bmj.com/",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "European Spine Journal",
+      "url": "https://link.springer.com/journal/586",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Global Spine Journal",
+      "url": "https://journals.sagepub.com/home/gsj",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Sports Health",
+      "url": "https://journals.sagepub.com/home/sph",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Journal of Children's Orthopaedics",
+      "url": "https://journals.sagepub.com/home/jco",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Spine Surgery and Related Research",
+      "url": "https://www.jstage.jst.go.jp/browse/ssrr",
+      "list": "A",
+      "collection": "all"
+    },
+    {
+      "name": "Radiology: Artificial Intelligence",
+      "url": "https://pubs.rsna.org/journal/ai",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Radiology",
+      "url": "https://pubs.rsna.org/journal/radiology",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Radiology",
+      "url": "https://link.springer.com/journal/330",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Insights into Imaging",
+      "url": "https://insightsimaging.springeropen.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "European Radiology Experimental",
+      "url": "https://eurradiolexp.springeropen.com/",
+      "list": "B",
+      "collection": "keywords"
+    },
+    {
+      "name": "Academic Radiology",
+      "url": "https://www.academicradiology.org/",
+      "list": "B",
+      "collection": "keywords"
+    }
+  ]
+}
