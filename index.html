@@ -1,12 +1,281 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A daily updated personal research monitor for orthopaedics and related surgical technology.">
   <title>Orthopaedic Research Monitor</title>
+  <style>
+    :root { --navy:#12263a; --navy-deep:#0d1c2b; --ink:#172a3b; --muted:#667789; --line:#e3eaf0; --surface:#fff; --page:#f6f8fb; --accent:#186a94; --accent-pale:#e9f3f9; --green:#246e56; --green-pale:#e8f5ef; --shadow:0 4px 16px rgba(15,35,55,.035); }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:var(--page); font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+    button,input,select { font:inherit; }
+    button { cursor:pointer; }
+    button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible { outline:3px solid #76b8e4; outline-offset:2px; }
+    a { color:var(--accent); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width:1260px; margin:0 auto; padding:0 26px; }
+    .topbar { background:var(--navy-deep); color:#fff; }
+    .topbar-inner { min-height:72px; display:flex; justify-content:space-between; align-items:center; gap:16px; }
+    .brand { display:flex; align-items:center; gap:12px; color:#fff; text-decoration:none; }
+    .brand:hover { text-decoration:none; }
+    .brandmark { width:36px;height:36px;border:1px solid #53809c;background:#193a52;color:#fff;display:grid;place-items:center;border-radius:11px;font-size:15px;font-weight:800;letter-spacing:-1px; }
+    .brand strong { display:block; font-size:15px;line-height:1.2;letter-spacing:.01em; }
+    .brand small { color:#b8c8d4;display:block;font-size:11px;margin-top:3px;letter-spacing:.045em;text-transform:uppercase; }
+    .top-actions { display:flex;align-items:center;gap:12px; }
+    .update-tag { color:#c8dce8;font-size:12px;white-space:nowrap; }
+    .refresh { border:1px solid #5b829b;background:transparent;color:#fff;border-radius:8px;padding:8px 12px; }
+    .refresh:hover { background:#24455e; }
+    .hero { background:linear-gradient(115deg,#17384f 0%,#214b67 100%);color:white;padding:38px 0 42px; }
+    .eyebrow { text-transform:uppercase; letter-spacing:.13em; font-weight:700; font-size:11px; color:#a3d5ed; }
+    h1 { margin:7px 0 9px; font-size:clamp(25px,3.4vw,37px);line-height:1.2;letter-spacing:-.025em; }
+    .hero p { max-width:700px;color:#ccdfeb;margin:0; }
+    .stats { display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:25px; }
+    .stat { border:1px solid rgba(255,255,255,.19);background:rgba(255,255,255,.07);padding:14px 18px;border-radius:11px; }
+    .stat strong { display:block;font-size:25px;line-height:1.2;font-weight:750;letter-spacing:-.02em; }
+    .stat span { color:#d0e2eb;font-size:12px; }
+    .content { padding-top:28px;padding-bottom:70px; }
+    .layout { display:grid; grid-template-columns:246px minmax(0,1fr);gap:24px;align-items:start; }
+    aside { background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:19px;position:sticky;top:18px;box-shadow:var(--shadow); }
+    .filter-title { font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 17px; }
+    .filter-section { padding:0 0 19px;margin:0 0 19px;border-bottom:1px solid var(--line); }
+    .filter-section:last-of-type { border-bottom:0;margin-bottom:0;padding-bottom:0; }
+    .filter-section label.section-label { display:block;font-size:12px;font-weight:750;margin-bottom:9px; }
+    select,.searchbox { background:#fff;border:1px solid #cfdbe4;border-radius:8px; color:var(--ink);min-height:41px;width:100%;padding:8px 10px; }
+    .checkrow { display:flex;align-items:flex-start;gap:8px;font-size:13px;color:#34495e; }
+    .checkrow input { margin-top:4px;accent-color:var(--accent); }
+    .sidebar-info { margin-top:16px;background:#f1f6fa;border-radius:9px;padding:12px;color:#63778b;font-size:12px;line-height:1.55; }
+    .main-top { display:flex;align-items:end;justify-content:space-between;gap:16px;margin:0 0 15px; }
+    .main-top h2 { margin:0;font-size:21px;letter-spacing:-.02em; }
+    .result-caption { color:var(--muted);font-size:12px;margin:5px 0 0; }
+    .sortline { display:flex;align-items:center;gap:8px;font-size:12px;white-space:nowrap; }
+    .sortline select { width:auto;min-width:158px; }
+    .search-wrap { position:relative;margin-bottom:17px; }
+    .searchbox { padding:13px 14px 13px 42px;min-height:49px;font-size:14px; }
+    .glass { position:absolute;top:50%;left:15px;transform:translateY(-50%);width:15px;height:15px;border:2px solid #7a8ea0;border-radius:50%;pointer-events:none; }
+    .glass:after { content:"";position:absolute;background:#7a8ea0;width:7px;height:2px;transform:rotate(45deg);top:11px;left:10px; }
+    .topics { display:flex;flex-wrap:wrap;gap:7px;margin-bottom:17px; }
+    .topic { background:#fff;border:1px solid var(--line);border-radius:25px;padding:7px 12px;color:#52677b;font-size:12px;white-space:nowrap; }
+    .topic:hover { border-color:#b5cbda; }
+    .topic.active { background:var(--navy);color:white;border-color:var(--navy); }
+    .article-list { display:grid;gap:12px; }
+    .article { background:white;border:1px solid var(--line);border-radius:12px;padding:19px 22px;box-shadow:var(--shadow); }
+    .article-top { display:flex;align-items:center;justify-content:space-between;gap:15px; }
+    .article-meta { display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted); }
+    .source { font-size:10px;padding:2px 7px;border:1px solid #d3e2eb;border-radius:5px;color:#456a83;background:#f2f8fb;font-weight:700; }
+    .source.b { background:#f3f4fa;color:#605b85;border-color:#e3e0ee; }
+    .article h3 { font-size:16px;line-height:1.43;margin:10px 0 7px;letter-spacing:-.006em; }
+    .article h3 a { color:#1b415d; }
+    .article h3 a:hover { color:#176895; }
+    .journal { font-size:12px;font-weight:750;color:#344d62;margin:0 0 5px; }
+    .authors { color:var(--muted);font-size:12px;margin:0 0 12px;max-width:100%;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden; }
+    .badges { display:flex;gap:6px;flex-wrap:wrap;margin-bottom:13px; }
+    .chip { background:var(--accent-pale); color:#326783;padding:4px 8px;border-radius:5px;font-size:11px;line-height:1.3; }
+    .chip.oa { background:var(--green-pale);color:var(--green); }
+    .chip.keyword { background:#f5f5fb;color:#6a6287; }
+    .article-actions { display:flex;align-items:center;flex-wrap:wrap;gap:14px;padding-top:12px;border-top:1px solid #edf1f5;font-size:12px; }
+    .text-button { background:none;border:0;padding:0;color:var(--accent);font-weight:650; }
+    .text-button:hover { text-decoration:underline; }
+    .bookmarker { background:#fff;border:0;color:#637b8c;padding:4px;font-size:19px;line-height:1; }
+    .bookmarker.selected { color:#ba7e16; }
+    .abstract { margin-top:15px;padding:13px 15px;border-left:3px solid #c5dce8;background:#f7fafc;color:#485f70;font-size:13px;white-space:pre-line; }
+    .abstract p { margin:0; }
+    .empty,.error { background:#fff;border:1px solid var(--line);padding:35px;border-radius:12px;color:#52667a; }
+    .error { border-left:4px solid #bc5a44; }
+    .more { display:block;margin:25px auto 0;background:#fff;color:var(--accent);border:1px solid #c7dce9;border-radius:8px;padding:10px 24px;font-weight:700; }
+    .more:hover { background:var(--accent-pale); }
+    .footer { margin-top:30px;font-size:12px;color:#778697;line-height:1.7; }
+    .footer a { color:#456c8c; }
+    .loader { padding:40px;text-align:center;color:var(--muted); }
+    .hidden { display:none!important; }
+    @media(max-width:860px) { .layout { grid-template-columns:1fr; }.stats{grid-template-columns:repeat(2,1fr)} aside{position:static;display:grid;grid-template-columns:repeat(2,1fr);gap:12px}aside .filter-title,aside .sidebar-info{grid-column:1/-1} .filter-section{border-bottom:0;margin:0;padding:0} }
+    @media(max-width:600px) { .wrap{padding:0 15px}.topbar-inner{min-height:66px}.top-actions .update-tag{display:none}.hero{padding:28px 0 31px}.stats{gap:8px}.stat{padding:11px 12px}.stat strong{font-size:22px}aside{grid-template-columns:1fr}.main-top{display:block}.sortline{margin-top:13px}.article{padding:16px}.article h3{font-size:15px}.topics{flex-wrap:nowrap;overflow-x:auto;padding-bottom:5px} }
+  </style>
 </head>
 <body>
-  <h1>Orthopaedic Research Monitor</h1>
-  <p>Daily updates on international orthopaedic research.</p>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a href="./" class="brand" aria-label="Orthopaedic Research Monitor home">
+        <span class="brandmark">OR</span>
+        <span><strong>Orthopaedic Research Monitor</strong><small>Daily literature intelligence</small></span>
+      </a>
+      <div class="top-actions"><span class="update-tag" id="lastUpdated">Connecting to article data...</span><button class="refresh" id="refresh" type="button">Refresh</button></div>
+    </div>
+  </header>
+  <section class="hero">
+    <div class="wrap">
+      <div class="eyebrow">Research dashboard / Orthopaedics & Traumatology</div>
+      <h1>New research, all in one place.</h1>
+      <p>Newly indexed journal articles from your selected sources, organised for daily reading. Titles link to the publisher or PubMed record.</p>
+      <div class="stats" aria-label="Article statistics">
+        <div class="stat"><strong id="statAll">—</strong><span>Articles saved</span></div>
+        <div class="stat"><strong id="statWeek">—</strong><span>Published in last 7 days</span></div>
+        <div class="stat"><strong id="statKeywords">—</strong><span>Matching your keywords</span></div>
+        <div class="stat"><strong id="statJournals">—</strong><span>Journals with results</span></div>
+      </div>
+    </div>
+  </section>
+  <main class="wrap content">
+    <div class="layout">
+      <aside aria-label="Article filters">
+        <h2 class="filter-title">Refine results</h2>
+        <div class="filter-section"><label class="section-label" for="collection">Journal list</label><select id="collection"><option value="all">All journals (A + B)</option><option value="A">List A · Orthopaedics</option><option value="B">List B · Other disciplines</option></select></div>
+        <div class="filter-section"><label class="section-label" for="period">Publication date</label><select id="period"><option value="7">Past 7 days</option><option value="30" selected>Past 30 days</option><option value="90">Past 90 days</option><option value="all">All saved dates</option></select></div>
+        <div class="filter-section"><label class="section-label" for="journal">Journal</label><select id="journal"><option value="all">All selected journals</option></select></div>
+        <div class="filter-section"><label class="section-label">Keyword filter</label><label class="checkrow"><input id="keywordOnly" type="checkbox"><span>Show only papers matching my technology keywords</span></label></div>
+        <div class="filter-section"><label class="section-label">Access</label><label class="checkrow"><input id="openAccessOnly" type="checkbox"><span>Open-access articles only</span></label></div>
+        <div class="filter-section"><label class="section-label">Reading list</label><label class="checkrow"><input id="savedOnly" type="checkbox"><span>My saved articles on this browser</span></label></div>
+        <div class="sidebar-info">Your source journals are configured in <b>journals.json</b>, and technology keywords in <b>keywords.txt</b> on GitHub. Updates are generated by GitHub Actions.</div>
+      </aside>
+      <section aria-label="Search results">
+        <div class="main-top"><div><h2>Latest publications</h2><p class="result-caption" id="summary" role="status" aria-live="polite">Loading article index...</p></div><div class="sortline"><label for="sort">Sort by</label><select id="sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="journal">Journal A–Z</option><option value="title">Title A–Z</option></select></div></div>
+        <div class="search-wrap"><i class="glass" aria-hidden="true"></i><input class="searchbox" id="search" type="search" placeholder="Search title, abstract, journal, author, DOI..." autocomplete="off" aria-label="Search articles"></div>
+        <div class="topics" id="topicFilters" role="group" aria-label="Technology subject categories"></div>
+        <div id="articles" class="article-list"><div class="loader">Loading publications...</div></div>
+        <button id="showMore" class="more hidden" type="button">Show more articles</button>
+        <div class="footer">Data source: <a href="https://europepmc.org/" target="_blank" rel="noopener noreferrer">Europe PMC</a>. Coverage is not exhaustive; a successful daily check does not guarantee every publisher's online-first article is included. Date shown is the article's reported first publication date. Bookmarks are stored only in this browser.</div>
+      </section>
+    </div>
+  </main>
+  <script>
+    'use strict';
+    const $ = (id) => document.getElementById(id);
+    const topics = [
+      ['all', 'All topics'],
+      ['3d', '3D printing & implants'],
+      ['robot', 'Robotic surgery'],
+      ['navigation', 'Navigation & planning'],
+      ['ai', 'Artificial intelligence'],
+      ['xr', 'AR / VR / simulation'],
+      ['other', 'Other / unclassified']
+    ];
+    const topicRules = {
+      '3d': /(?:\b3\s*[-–]?\s*d\s*print|three[- ]dimensional print|additive manufactur|selective laser melt|selective laser sinter|electron beam melt|fused deposition model|stereolithograph|binder jet|patient[- ]specific implant|custom[- ]made implant|customized prosthes|porous titanium|trabecular metal implant)/i,
+      robot: /(?:\brobot(?:ic|ics|[- ]assisted|[- ]arm)?\b|\bmako\b|\brosa\b.{0,30}(?:robot|knee)|\bvelys\b|\bcori\b.{0,30}(?:robot|surg)|\bnavio\b)/i,
+      navigation: /(?:surgical navigation|intraoperative navigation|optical navigation|electromagnetic navigation|image[- ]guided surgery|navigation[- ]assisted|computer[- ]assisted (?:surgery|orthop)|virtual surgical planning|computer[- ]aided (?:design|manufactur)|patient[- ]specific instrumentation|\bpreoperative planning\b|digital templating|surgical guide|cutting guide|ct[- ]based 3d model)/i,
+      ai: /(?:artificial intelligence|machine learning|deep learning|computer vision|predictive analytics|automated surgical planning|\bai[- ](?:assisted|based|guided)\b|smart implants|sensor[- ]based implants|wearable sensors)/i,
+      xr: /(?:augmented reality|virtual reality|mixed reality|extended reality|holographic navigation|surgical simulation)/i
+    };
+    const state = { articles:[], report:null, topic:'all', visible:25, saved:new Set() };
+    try { state.saved = new Set(JSON.parse(localStorage.getItem('ortho-research-saved-v1') || '[]')); } catch (_) {}
+    const counts = (v) => Number(v || 0).toLocaleString('en-US');
+    function dateValue(s) { return /^\d{4}-\d{2}-\d{2}$/.test(s || '') ? new Date(s + 'T12:00:00Z').getTime() : 0; }
+    function displayDate(s) { const v=dateValue(s);return v ? new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(v)) : 'Date unknown'; }
+    function elapsedDays(s) { const v=dateValue(s); return v ? Math.floor((Date.now()-v)/86400000) : Infinity; }
+    function safeUrl(s) { try { const u=new URL(s);return ['http:','https:'].includes(u.protocol) ? u.href : ''; } catch (_) { return ''; } }
+    function make(tag, className, text) { const node=document.createElement(tag); if(className)node.className=className; if(text!==undefined)node.textContent=text; return node; }
+    function addText(parent, tag, className, text) { const n=make(tag,className,text);parent.append(n);return n; }
+    function articleTopics(a) {
+      const text=[a.title,a.abstract,(a.matched_keywords||[]).join(' ')].join(' ');
+      const found=Object.entries(topicRules).filter(([,r])=>r.test(text)).map(([k])=>k);
+      return found.length ? found : ['other'];
+    }
+    function setStats() {
+      const list=state.articles;
+      $('statAll').textContent=counts(list.length);
+      $('statWeek').textContent=counts(list.filter(a=>elapsedDays(a.published_date)>=0 && elapsedDays(a.published_date)<=6).length);
+      $('statKeywords').textContent=counts(list.filter(a=>(a.matched_keywords||[]).length>0).length);
+      $('statJournals').textContent=counts(new Set(list.map(a=>a.journal)).size);
+    }
+    function setJournalOptions() {
+      const select=$('journal'); const current=select.value;
+      select.replaceChildren(new Option('All selected journals','all'));
+      [...new Set(state.articles.map(a=>a.journal).filter(Boolean))].sort((a,b)=>a.localeCompare(b)).forEach(j=>select.add(new Option(j,j)));
+      select.value=[...select.options].some(o=>o.value===current)?current:'all';
+    }
+    function renderTopics() {
+      const el=$('topicFilters');el.replaceChildren();
+      for(const [key,label] of topics) {
+        const btn=make('button','topic'+(state.topic===key?' active':''),label);
+        btn.type='button';btn.setAttribute('aria-pressed',state.topic===key?'true':'false');
+        btn.addEventListener('click',()=>{state.topic=key;state.visible=25;renderTopics();render();});
+        el.append(btn);
+      }
+    }
+    function filtered() {
+      const q=$('search').value.trim().toLocaleLowerCase();const collection=$('collection').value;const period=$('period').value;const journal=$('journal').value;
+      return state.articles.filter(a=>{
+        if(collection!=='all' && a.journal_list!==collection)return false;
+        if(journal!=='all' && a.journal!==journal)return false;
+        if(period!=='all' && (elapsedDays(a.published_date)<0 || elapsedDays(a.published_date)>=Number(period)))return false;
+        if($('keywordOnly').checked && !(a.matched_keywords||[]).length)return false;
+        if($('openAccessOnly').checked && !a.open_access)return false;
+        if($('savedOnly').checked && !state.saved.has(a.id))return false;
+        if(state.topic!=='all' && !articleTopics(a).includes(state.topic))return false;
+        if(q && ![a.title,a.abstract,a.journal,a.authors,a.doi,(a.matched_keywords||[]).join(' ')].join(' ').toLocaleLowerCase().includes(q))return false;
+        return true;
+      }).sort((a,b)=>{
+        const s=$('sort').value;
+        if(s==='oldest')return dateValue(a.published_date)-dateValue(b.published_date);
+        if(s==='journal')return (a.journal||'').localeCompare(b.journal||'');
+        if(s==='title')return (a.title||'').localeCompare(b.title||'');
+        return dateValue(b.published_date)-dateValue(a.published_date);
+      });
+    }
+    function renderArticle(a) {
+      const card=make('article','article');
+      const meta=make('div','article-top');const left=make('div','article-meta');
+      addText(left,'span','source '+(a.journal_list==='B'?'b':''),'LIST '+(a.journal_list||'?'));
+      addText(left,'time','',displayDate(a.published_date));meta.append(left);
+      const star=make('button','bookmarker'+(state.saved.has(a.id)?' selected':''),state.saved.has(a.id)?'★':'☆');
+      star.type='button';star.title=state.saved.has(a.id)?'Remove bookmark':'Save bookmark';star.setAttribute('aria-label',star.title);
+      star.addEventListener('click',()=>{
+        if(state.saved.has(a.id))state.saved.delete(a.id);else state.saved.add(a.id);
+        try{localStorage.setItem('ortho-research-saved-v1',JSON.stringify([...state.saved]));}catch(_){}
+        if($('savedOnly').checked)render();else{star.textContent=state.saved.has(a.id)?'★':'☆';star.classList.toggle('selected',state.saved.has(a.id));star.title=state.saved.has(a.id)?'Remove bookmark':'Save bookmark';star.setAttribute('aria-label',star.title);}
+      });
+      meta.append(star);card.append(meta);
+      const title=make('h3');const href=safeUrl(a.url);
+      if(href){const link=make('a','',a.title||'Untitled article');link.href=href;link.target='_blank';link.rel='noopener noreferrer';title.append(link);}else title.textContent=a.title||'Untitled article';
+      card.append(title); addText(card,'p','journal',a.journal||'Journal not stated');
+      if(a.authors)addText(card,'p','authors',a.authors);
+      const badges=make('div','badges');
+      for(const category of articleTopics(a)) {
+        if(category!=='other')addText(badges,'span','chip',topics.find(t=>t[0]===category)?.[1] || category);
+      }
+      if(a.open_access)addText(badges,'span','chip oa','Open access');
+      const keywords=(a.matched_keywords||[]);
+      for(const k of keywords.slice(0,3))addText(badges,'span','chip keyword',k);
+      if(keywords.length>3)addText(badges,'span','chip keyword','+'+(keywords.length-3)+' keywords');
+      if(badges.childNodes.length)card.append(badges);
+      const actions=make('div','article-actions');
+      if(a.abstract){const btn=make('button','text-button','Show abstract');btn.type='button';btn.setAttribute('aria-expanded','false');btn.addEventListener('click',()=>{const isOpen=!!card.querySelector('.abstract');if(isOpen){card.querySelector('.abstract').remove();btn.textContent='Show abstract';btn.setAttribute('aria-expanded','false');}else{const block=make('div','abstract');addText(block,'p','',a.abstract);card.append(block);btn.textContent='Hide abstract';btn.setAttribute('aria-expanded','true');}});actions.append(btn);}
+      if(a.doi){const link=make('a','', 'DOI');link.href='https://doi.org/'+encodeURIComponent(a.doi).replaceAll('%2F','/');link.target='_blank';link.rel='noopener noreferrer';actions.append(link);}
+      if(a.pmid){const link=make('a','', 'PubMed');link.href='https://pubmed.ncbi.nlm.nih.gov/'+encodeURIComponent(a.pmid)+'/';link.target='_blank';link.rel='noopener noreferrer';actions.append(link);}
+      card.append(actions);return card;
+    }
+    function render() {
+      const result=filtered(),target=$('articles');target.replaceChildren();
+      $('summary').textContent=counts(result.length)+' matching articles · '+counts(Math.min(state.visible,result.length))+' displayed';
+      if(!result.length)target.append(make('div','empty','No articles match these filters. Try another date range, topic, journal, or keyword.'));
+      else {const frag=document.createDocumentFragment();for(const a of result.slice(0,state.visible))frag.append(renderArticle(a));target.append(frag);}
+      $('showMore').classList.toggle('hidden',result.length<=state.visible);
+    }
+    function renderError(message){$('articles').replaceChildren(make('div','error',message));$('summary').textContent='Unable to read article data';$('showMore').classList.add('hidden');}
+    async function loadData() {
+      $('lastUpdated').textContent='Checking latest data...';
+      try {
+        const response=await fetch('./data/articles.json',{cache:'no-store'});
+        if(!response.ok)throw new Error('HTTP '+response.status);
+        const list=await response.json();if(!Array.isArray(list))throw new Error('Invalid article format');
+        state.articles=list.filter(a=>a && typeof a==='object' && a.title);
+        try {const reportResponse=await fetch('./data/run_report.json',{cache:'no-store'}); if(reportResponse.ok)state.report=await reportResponse.json();} catch(_){}
+        if(state.report?.checked_at_utc) {
+          const timestamp=new Date(state.report.checked_at_utc);
+          $('lastUpdated').textContent='Data updated '+(isNaN(timestamp)?state.report.checked_at_utc:timestamp.toLocaleString('en-GB',{timeZone:'Asia/Tokyo',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})+' JST');
+        } else $('lastUpdated').textContent='Article data loaded';
+        setStats();setJournalOptions();renderTopics();render();
+      } catch(err) {
+        $('lastUpdated').textContent='Data unavailable';
+        renderError('The article database could not be loaded. Confirm that the repository contains data/articles.json and that GitHub Pages has finished deploying. ('+err.message+')');
+      }
+    }
+    for(const id of ['collection','period','journal','sort','keywordOnly','openAccessOnly','savedOnly'])$(id).addEventListener('change',()=>{state.visible=25;render();});
+    $('search').addEventListener('input',()=>{state.visible=25;render();});
+    $('showMore').addEventListener('click',()=>{state.visible+=25;render();});
+    $('refresh').addEventListener('click',loadData);
+    renderTopics();loadData();
+  </script>
 </body>
 </html>
