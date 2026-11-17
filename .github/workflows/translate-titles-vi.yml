@@ -1,0 +1,75 @@
+name: Translate Vietnamese article titles
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: 'Maximum NEW titles to translate in this run (1-1000)'
+        required: false
+        default: '500'
+  schedule:
+    # Four checks daily; already translated titles are cached and not billed again.
+    - cron: '23 1,7,13,19 * * *'
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: vuslab-vietnamese-titles
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Translate only missing scientific titles
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VI_MODEL: gpt-4.1
+          VI_MAX_NEW: ${{ github.event.inputs.max_new || '120' }}
+        run: python translate_titles_vi.py
+      - name: Commit translation cache
+        id: push
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/title_vi.json
+          if git diff --cached --quiet; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+            echo 'No new translations.'
+          else
+            git commit -m 'Update Vietnamese scientific title translations'
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Request GitHub Pages rebuild for branch-based sites
+        if: steps.push.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          # GITHUB_TOKEN commits do not themselves trigger a branch-based Pages build.
+          # This explicitly requests a rebuild, without changing the Pages settings.
+          # If the site deploys using a custom Pages workflow, this endpoint may be
+          # unsupported; report that without failing or changing existing deployment.
+          code=$(curl --silent --show-error --location --output /tmp/pages-build.json \
+             --write-out '%{http_code}' -X POST \
+             -H "Authorization: Bearer $GH_TOKEN" \
+             -H 'Accept: application/vnd.github+json' \
+             -H 'X-GitHub-Api-Version: 2022-11-28' \
+             "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/builds")
+          echo "Pages rebuild request HTTP $code"
+          if [[ "$code" != '201' && "$code" != '202' ]]; then
+            echo 'Note: Check existing GitHub Pages deployment workflow if titles are not visible yet.'
+          fi
