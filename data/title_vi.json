@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-18T14:27:18+00:00",
+  "updated_at_utc": "2026-11-19T02:24:58+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -667,8 +667,8 @@
       "vi": "Khóa đĩa nén (LCP) hoặc góc các đĩa lưỡi dao (ABP) cho các xương đùi ở trẻ em bị liệt não (CP) hàm lượng cao (GMFCS) III, IV và V."
     },
     "doi:10.1016/j.joca.2026.10.019": {
-      "en": "Hypertension Dissociates Radiographic and Symptomatic Progression in a Male Rat Model of Post-Traumatic Osteoarthritis.",
-      "vi": "Siêu áp giải phóng phóng phóng xạ và sự tiến bộ của triệu chứng sóng âm trong một mô hình chuột Man của bệnh viêm màng não sau thời đại."
+      "en": "Hypertension dissociates radiographic and symptomatic progression in a male rat model of post-traumatic osteoarthritis.",
+      "vi": "Tăng huyết áp làm tê liệt phóng xạ và sự phát triển triệu chứng trong một mô hình chuột nam của viêm khớp mãn tính sau chấn thương tâm lý."
     },
     "doi:10.1016/j.joca.2026.11.001": {
       "en": "Osteoarthritis year in review 2026: Epidemiology and therapy.",
@@ -719,8 +719,8 @@
       "vi": "Kết quả lâu dài của các chấn thương khớp tử cung trong dân số đô thị."
     },
     "doi:10.1016/j.joca.2026.10.020": {
-      "en": "Enhancing Return to Daily Life Activities after Total and Unicompartmental Knee Arthroplasty with a Personalized eHealth Program - Results of the Multicentre ACTIVE Randomized Controlled Trial.",
-      "vi": "Tiếp tục trở lại hoạt động cuộc sống hàng ngày sau khi tổng cộng và không thuộc bộ phận xã hội đầu gối với một chương trình địa chấn cá nhân - kết quả của chương trình đa thức kiểm soát ngẫu nhiên đa thức."
+      "en": "Enhancing return to daily life activities after total and unicompartmental knee arthroplasty with a personalized ehealth program - Results of the multicentre ACTIVE randomized controlled trial.",
+      "vi": "Được hoan nghênh trở lại các hoạt động hàng ngày sau khi tổng cộng và các động tác đầu gối đơn sơ với một chương trình được cá nhân hóa - kết quả của loạt các thử nghiệm kiểm soát ngẫu nhiên."
     },
     "doi:10.1177/03635465261500856": {
       "en": "Effect of Mechanical Alignment on Clinically Significant Outcomes, Reoperation, and Failure After Osteochondral Allograft Transplantation of the Knee.",
@@ -1297,6 +1297,382 @@
     "doi:10.1016/j.jbspin.2026.106160": {
       "en": "Factors associated with tocilizumab primary failure in the treatment of giant cell arteritis.",
       "vi": "Các yếu tố liên quan đến sự thất bại chính trong việc điều trị viêm động mạch tế bào khổng lồ."
+    },
+    "doi:10.1177/19417381261500338": {
+      "en": "Risk Period for Anterior Cruciate Ligament Rupture During Skiing: A Multicenter Epidemiological Study.",
+      "vi": "Thời kỳ nguy hiểm cho sự tranh giành quyền tự do tín ngưỡng trong mùa trượt tuyết: Một cuộc nghiên cứu đa ngôn ngữ."
+    },
+    "doi:10.1177/19386400261499819": {
+      "en": "Effects of Talar Osteochondral Lesion Location and Size on the Ankle Joint: A Finite Element Analysis With Cadaveric Validation.",
+      "vi": "Hiệu ứng của vị trí Lesition Lesel và kích cỡ của Liên Kết Ankle: Một yếu tố Finite phân tích với sự kiểm chứng Cadaveric."
+    },
+    "doi:10.1177/19386400261499833": {
+      "en": "Biomechanical Evaluation of Crossed Screw Fixations With Different Head Designs for First Tarsometatarsal Joint Arthrodesis.",
+      "vi": "Sự đánh giá cơ học của việc sửa chữa vít chéo với các thiết kế đầu khác nhau dành cho Hiệp hội đầu tiên của nhà Tarsometarsal Athrodesis."
+    },
+    "doi:10.1177/10711007261502746": {
+      "en": "Biomechanical Comparison of Triple and Quintuple Percutaneous Achilles Tendon Lengthening Techniques: A Short Report.",
+      "vi": "Sự so sánh về cơ học của 3 và Qutuple Percutaneous Achilles Tendon Tdon Remination Techniques: A Short Report."
+    },
+    "doi:10.1007/s00264-026-07070-0": {
+      "en": "Anterior subcapital realignment osteotomy for unstable slipped capital femoral epiphysis: a retrospective consecutive series of forty five hips.",
+      "vi": "Một loạt liên tục bốn mươi năm hông."
+    },
+    "doi:10.1097/corr.0000000000004208": {
+      "en": "What I Wish My Surgeon Knew: Caring for the Young Atypical Patient.",
+      "vi": "Điều tôi ước bác sĩ phẫu thuật của tôi biết: chăm sóc cho bệnh nhân trẻ tuổi điển hình."
+    },
+    "doi:10.1097/corr.0000000000004179": {
+      "en": "What Are the Long-term Outcomes of Periacetabular Osteotomy in a United States Cohort?",
+      "vi": "Những kết quả lâu dài của việc mổ xẻ chất Periacetabit Oste ở Mỹ là gì?"
+    },
+    "doi:10.1016/j.joca.2026.11.006": {
+      "en": "Voluntary wheel running attenuates mechanical hypersensitivity but transiently prolongs gait impairments in male and female mice with unilateral osteoarthritis.",
+      "vi": "Bánh xe tự nguyện làm tăng cường cảm xúc cơ học nhưng tạm thời kéo dài sự suy giảm cơ thể ở loài chuột đực và cái bị viêm khớp vú đơn bào."
+    },
+    "doi:10.1111/os.70463": {
+      "en": "Survival Prediction Models for Metastatic Bone Disease: A Comprehensive Review of Development, External Validation, and Clinical Applicability.",
+      "vi": "Những mô hình dự đoán cho bệnh xương siêu hình: Một bản tóm tắt đầy đủ về phát triển, kiểm tra bên ngoài, và tính chấp nhận lâm sàng."
+    },
+    "doi:10.1007/s12178-026-10070-7": {
+      "en": "Sports Trauma in Athletes with Impairment.",
+      "vi": "Chấn thương thể thao ở Athletes với thiếu máu."
+    },
+    "doi:10.1007/s00402-026-06552-5": {
+      "en": "Robot-assisted total hip arthroplasty for Crowe type II or higher hip dysplasia.",
+      "vi": "Robot được hỗ trợ hoàn toàn từ hông nghệ thuật cho thể loại Crowe II hoặc hông cao hơn."
+    },
+    "doi:10.1007/s10926-026-10469-6": {
+      "en": "Return-to-Work Clearance After Primary Rotator Cuff Repair: A Systematic Review of Time-, Function-, and Job-Demand-Based Criteria.",
+      "vi": "Trở lại làm việc sau khi sửa chữa Cuff Tiểu học: một tổng thống kiểm tra thời gian, hàm số, và Job-Demand-Based Criteria."
+    },
+    "doi:10.1097/corr.0000000000004211": {
+      "en": "Residency Diary: The White Whale.",
+      "vi": "Nhật ký thời tiết: cá voi trắng."
+    },
+    "doi:10.1007/s00256-026-05428-4": {
+      "en": "Progressive collapsing foot deformity: advances in weightbearing CT imaging and three-dimensional assessment.",
+      "vi": "Sự biến dạng chân càng ngày càng giảm: tiến bộ trong việc giữ trọng lượng chụp cắt lớp và đánh giá 3 chiều."
+    },
+    "doi:10.1007/s11657-026-01791-w": {
+      "en": "Osteoporosis management after distal radius fracture in a Korean multicenter cohort: persistent treatment gap and the pitfall of repeat surgery as a surrogate for refracture.",
+      "vi": "Quản lý bệnh xơ cứng teo xương sau khi bán kính tách rời ra trong một đội ngũ đa cấp Hàn Quốc: lỗ hổng điều trị dai dẳng và cạm bẫy của phẫu thuật lặp đi lặp lại như một người thay thế cho việc tân tiến hóa."
+    },
+    "doi:10.1111/os.70468": {
+      "en": "Global Research Landscape of Recurrent Osteoporotic Vertebral Compression Fractures: A Bibliometric Analysis of Risk Factors, Prevention, and Prediction (1993-2024).",
+      "vi": "Các cuộc nghiên cứu toàn cầu nằm đối diện với các rối loạn nén màng ngoài vỏ bọc: Phân tích các yếu tố nguy hiểm, phòng ngừa và dự đoán (1993-24)."
+    },
+    "doi:10.1007/s10926-026-10464-x": {
+      "en": "Effects of Health Behaviour Change Interventions on Pain Intensity, Functional Disability, and Safety Behaviour Among Nurses with Work-Related Musculoskeletal Disorders: Systematic Review and Meta-analysis of Randomised Controlled Trials.",
+      "vi": "Ảnh hưởng của sức khỏe thay đổi các sự thay đổi về sự đau đớn, suy giảm hàm số, và cách ứng xử an toàn trong số các y tá với các rối loạn Musculoskeleal: Hệ thống ôn lại hệ thống và siêu phân tích của các thử nghiệm kiểm soát ngẫu nhiên."
+    },
+    "doi:10.1007/s00264-026-07071-z": {
+      "en": "Cortical button versus suture anchor fixation in distal biceps tendon repair: a comparison of objective four-plane strength and functional outcomes.",
+      "vi": "Nút Cortical so với cái neo khâu trong cơ bắp bị lệch sửa chữa: một sự so sánh giữa sức mạnh và kết quả chức năng của máy tính mục tiêu."
+    },
+    "doi:10.1097/bot.0000000000003319": {
+      "en": "Computed Tomography Scan Zone-of-Injury Modeling Predicts Need for Definitive Soft-Tissue Coverage and Complications in Open OTA 42A-C Tibial Shaft Fractures.",
+      "vi": "Những dự đoán về việc quét khu vực trong thành phố cần thiết cho việc bảo vệ hệ thống vệ mềm phòng vệ mềm và sự sắp xếp trong khu vực OTA 42A-C."
+    },
+    "doi:10.1016/j.bone.2026.118175": {
+      "en": "Clinical recommendations on monitoring and management of bone health in adults with Duchenne Muscular Dystrophy and transition to adult care: A national Delphi consensus study.",
+      "vi": "Những đề nghị y tế về việc giám sát và quản lý sức khỏe xương ở người lớn với cơ thể bị teo và chuyển đổi sang chăm sóc người lớn: Một nghiên cứu đồng thuận quốc gia về việc nghiên cứu."
+    },
+    "doi:10.1177/21925682261504976": {
+      "en": "Biomechanical Comparison of Composite versus Screw-Rod Fixation for Posterior C5-C6 Fusion.",
+      "vi": "Sự so sánh cơ học của sự kết hợp so với sự sửa chữa vít cho trung tâm trung tâm C5-C6."
+    },
+    "doi:10.1097/corr.0000000000004209": {
+      "en": "Beyond the Bone: Resuming Daily Life After Surgery or Illness in a Super-aged Society.",
+      "vi": "Bên ngoài xương xương: tái sinh cuộc sống hàng ngày sau phẫu thuật hoặc bệnh tật trong một xã hội siêu trầm cảm."
+    },
+    "doi:10.1016/j.joca.2026.11.007": {
+      "en": "Association Between Newly Diagnosed Dyslipidemia and Joint-Specific Incident Osteoarthritis: A Nationwide Propensity-Score-Matched Cohort Study.",
+      "vi": "Kết hợp giữa chứng thiếu máu mới được chẩn đoán và viêm khớp đặc biệt. Một cuộc nghiên cứu toàn quốc về sự ủng hộ của quốc gia-Score-Matched-Cohort."
+    },
+    "doi:10.1002/ars2.70157": {
+      "en": "Ultrasound-Guided Percutaneous Achilles Repair Improves Suture Placement Accuracy and Reduces the Rate of Conversion to Open Repair.",
+      "vi": "Sửa chữa Achilles siêu âm đã cải thiện độ chính xác của chỗ ngồi và giảm tỷ lệ đảo ngược để mở máy sửa chữa."
+    },
+    "doi:10.1002/atn2.70395": {
+      "en": "Three-Point Suspension for Arthroscopic Bankart Repair in the Lateral Decubitus Position.",
+      "vi": "3 điểm cho việc sửa chữa nghệ thuật ngân hàng Arthrcopic ở vị trí sau lưng Decubitus."
+    },
+    "doi:10.1002/atn2.70354": {
+      "en": "Repair of Posterior Root Medial Meniscus Oblique Tear Repair With Centralized Suture Technique of Inverted Anchors Combined With Fibrin Clot.",
+      "vi": "Sửa chữa xưởng sửa chữa dầu Posside Root Medial Meniscus Oblique Suture Technique của Inverted Anchors kết hợp với Fibrin Clot."
+    },
+    "doi:10.1177/18632521261508965": {
+      "en": "Pediatric and adolescent pathological fractures: Etiological spectrum, biomechanical instability, and individualized treatment strategies - a current concepts review.",
+      "vi": "Khoa nhi và thanh thiếu niên bị gãy xương: quang phổ sinh học, bất ổn cơ khí sinh học, và chiến lược điều trị cá nhân - một bài phê bình khái niệm hiện đại."
+    },
+    "doi:10.1177/18632521261493307": {
+      "en": "Immediate versus delayed MRI following medial open reduction for developmental dysplasia of the hip: Re-intervention rates and resource utilisation.",
+      "vi": "Kết quả chụp cộng hưởng từ bị chậm so với chụp cộng hưởng từ chậm sau khi truyền thông cắt giảm mở cho sự phát triển của hông: tỷ lệ tái liên lạc và giảm sử dụng tài nguyên."
+    },
+    "doi:10.1186/s12891-026-10672-9": {
+      "en": "Ultrasonographic assessment of transversus abdominis activation during core training tasks and its association with trunk stability in young adults with post-stroke hemiplegia.",
+      "vi": "Đánh giá siêu chính xác về sự biến đổi abdominis kích hoạt trong suốt quá trình đào tạo cốt lõi và kết hợp với sự ổn định thân cây ở những người trưởng thành trẻ tuổi với thời hậu kỳ đau khổ."
+    },
+    "doi:10.3389/fsurg.2026.1911638": {
+      "en": "Ultra-early perioperative Guillain-Barré syndrome following traumatic fracture surgery: a case report and literature review.",
+      "vi": "Hội chứng rối loạn nhịp tim cực kỳ ngay sau phẫu thuật gãy xương: một bản báo cáo và đánh giá văn học."
+    },
+    "doi:10.1016/j.injury.2026.113880": {
+      "en": "Concomitant pelvic ring injury compromises acetabular reduction quality: A propensity score-matched analysis with surgical sequence subgroup study.",
+      "vi": "Cấu trúc chấn thương vành đai xương chậu liên kết thỏa hiệp chất lượng giảm thiểu actabit: một phân tích có xu hướng điểm so với chuỗi phẫu thuật tiểu nhóm nghiên cứu."
+    },
+    "doi:10.3389/fsurg.2026.1883059": {
+      "en": "Myofascial trigger point needling intervention for patellar tendinopathy unresponsive to PRP injection therapy: a case report.",
+      "vi": "Thiết bị kích hoạt tủy sống cần phải can thiệp để gây viêm màng não cho liệu pháp tiêm PRP: một báo cáo trường hợp."
+    },
+    "doi:10.1002/atn2.70379": {
+      "en": "Distal Clavicle Plate Combined With EndoButton Device for the Treatment of Neer Type IIB Distal Clavicle Fractures.",
+      "vi": "Các thiết bị được kết hợp với các thiết bị Endo Button để điều trị Neer Type IIB Distal Clacle Clavactures."
+    },
+    "doi:10.1371/journal.pone.0361478": {
+      "en": "Clinical outcomes after fully visualized transforaminal endoscopic spine surgery in patients with lumbar disc herniation stratified by paraspinal muscle degeneration: A retrospective cohort study.",
+      "vi": "Kết quả lâm sàng sau khi hình dung đầy đủ về phẫu thuật nội soi xương sống của các bệnh nhân với tủy sống loại bỏ chức năng của mình do thoái hóa cơ bắp tê liệt: Một cuộc nghiên cứu tập thể hồi tưởng."
+    },
+    "doi:10.1186/s12891-026-10614-5": {
+      "en": "Clinical findings associated with diagnosing lumbar foraminal stenosis: systematic review.",
+      "vi": "Các phát hiện lâm sàng liên quan đến chứng thoái hóa tủy sống cho chứng tăng huyết áp: có hệ thống xem xét."
+    },
+    "doi:10.1016/j.artd.2026.102191": {
+      "en": "Care Hotel With Virtual Monitoring as an Alternative Recovery Pathway for Outpatient Total Joint Arthroplasty: Safety and Patient Experience.",
+      "vi": "Hãy chăm sóc khách sạn với thiết bị theo dõi ảo như là một đường dẫn phục hồi thay thế cho bệnh nhân ngoại trú tổng hợp hóa: An toàn và kinh nghiệm bệnh nhân."
+    },
+    "doi:10.3389/fsurg.2026.1917099": {
+      "en": "CT-based navigation for acetabular cup placement in supine and lateral positions: a simulated surgery study using patient-specific 3D-printed pelvic models.",
+      "vi": "Chuyển hướng dựa trên CT cho vị trí đặt cốc actabic ở vị trí đầu tiên và sau đó: một nghiên cứu mô phỏng phẫu thuật mô phỏng bằng cách sử dụng các mô hình xương chậu 3D đặc trưng của bệnh nhân."
+    },
+    "doi:10.1097/corr.0000000000004189": {
+      "en": "CORR Insights®: What Is the Natural History and Likelihood of Progression of Indeterminate Pulmonary Nodules in Patients With Extremity Osteosarcoma?",
+      "vi": "CORR Insights: Lịch sử tự nhiên là gì và sự tiến bộ giống như sự phát triển của loài động mạch chủ trong bệnh nhân với khối u cực tím?"
+    },
+    "doi:10.1097/corr.0000000000004188": {
+      "en": "CORR Insights®: Was Lymphovascular Invasion Associated With Increased Odds of Early Distant Metastasis in Soft Tissue Sarcoma?",
+      "vi": "CORR Insights: Có phải sự kết hợp giữa các vi khuẩn Lympho có liên quan đến sự gia tăng kỳ quặc của các siêu vi xa cách thời ban đầu ở vùng mềm Sarcoma?"
+    },
+    "doi:10.1177/03635465261494256": {
+      "en": "Blockade of the Succinate-SUCNR1 Metabolic Axis Helps Restore Mitochondrial Homeostasis and Prevents Structural Failure in Overuse-Induced Rotator Cuff Tendinopathy in a Mouse Model.",
+      "vi": "Ngăn chặn sự sụp đổ của các trục Succiugnan-SUCNR1 giúp phục hồi chức năng của Mitolonrisal Homeostasis và ngăn chặn Structal thất bại trong Overuse-Induced Rouff Tendincy trong một mô hình chuột."
+    },
+    "doi:10.1002/atn2.70348": {
+      "en": "Biological Augmentation of Arthroscopic Partial-Thickness Bursal-Sided Rotator Cuff Repair Using Minced Autologous Glenohumeral Ligament Tissue Particles.",
+      "vi": "Phòng thí nghiệm sinh học của tác phẩm Arthrcopic-Thickness Bursal-Suff-Sator Cuff sửa chữa sử dụng chất lỏng Minced Glenohmeral Ligament."
+    },
+    "doi:10.1002/atn2.70320": {
+      "en": "Arthroscopic Marrow-Stimulating Procedure for Full-Thickness Knee Cartilage Lesions.",
+      "vi": "Phòng thí nghiệm nội soi Marrow-Stimutedure cho bộ phận chăm sóc đầy đủ-Thickness knee Cartitage Lesions."
+    },
+    "doi:10.1002/atn2.70343": {
+      "en": "Anterior Cruciate Ligament Reconstruction With Preservation of the Tibial Insertion of the Hamstring Tendons and Double-Pulley Technique.",
+      "vi": "Sự tái cấu trúc của tòa án liên bang với sự bảo tồn của dòng chảy Tibic của Ham string Tendons và Double-Pulley Technique."
+    },
+    "doi:10.1177/03635465261494772": {
+      "en": "Altered Cognitive Control and Cortical Oscillatory Dynamics in Athletes With ACL Reconstruction During Decision-Making Under Uncertainty.",
+      "vi": "Điều khiển liên kết và hệ điều hành động động động động trong Athletes với điều hòa ACL trong quá trình quyết định không chắc chắn."
+    },
+    "doi:10.1186/s12891-026-10537-1": {
+      "en": "A simple independent high-strength suture augmentation significantly improves tendon biomechanical properties in anterior cruciate ligament reconstruction.",
+      "vi": "Một sự khâu nhỏ độc lập với độ mạnh cao đã cải thiện đáng kể các đặc tính cơ khí sinh học trong quá trình tái tạo dây chằng trước."
+    },
+    "doi:10.1007/s00402-026-06549-0": {
+      "en": "A feasible and cost-effective method to induce distal radius fractures in full-length forearm human cadaveric specimens.",
+      "vi": "Một phương pháp khả thi và hiệu quả tốn kém để tạo ra những vết nứt ở bán kính tách rời trong những mẫu tử thi dài toàn phần."
+    },
+    "doi:10.1186/s12891-026-10696-1": {
+      "en": "Visually detectable pointer deviation of the nextar surgical navigation system with c-arm, o-arm and ct imaging: a bench-top study using a two-dimensional phantom.",
+      "vi": "Hiển thị độ lệch con trỏ của hệ thống định vị phẫu thuật tiếp theo với chức năng c-ar, o-ar và ct ảnh chụp: một cuộc nghiên cứu băng ghế dự bị bằng một bóng ma hai chiều."
+    },
+    "doi:10.1177/21925682261504741": {
+      "en": "Unilateral Biportal Endoscopy Versus Percutaneous Endoscopic Interlaminar Discectomy for Highly Migrated Lumbar Disc Herniation: A Retrospective Comparative Study With Quantitative MRI-Based Decompression Analysis.",
+      "vi": "Một cuộc nghiên cứu tương phản cấp tính đối lập với việc cắt bỏ ống dẫn tĩnh tĩnh mạch nội soi xuyên lục địa đối lập với việc cắt bỏ từ điển Lumbar cao cấp: Một cuộc nghiên cứu phản chiếu với phân tích cộng hưởng từ có tính chất cộng hưởng từ."
+    },
+    "doi:10.1016/j.artd.2026.102192": {
+      "en": "Tranexamic Acid Administration is Associated With Lower Transfusion Rates and Wound Complications Following Revision Total Knee Arthroplasty for Periprosthetic Joint Infection.",
+      "vi": "Quản lý axit Tranexamic được liên kết với các tỷ lệ truyền thấp và các ứng dụng tổn thương theo sau Revision Tothopopopopoplasy cho sự nhiễm trùng ngoại ứng Periprosthetic."
+    },
+    "doi:10.1016/j.bone.2026.118160": {
+      "en": "The effect of glucagon-like peptide-1 receptor agonists on bone metabolism: A systematic review and meta-analysis of randomized placebo-controlled trials of predominantly first-generation agents.",
+      "vi": "Tác động của các nhà động vật học cảm ứng glucagon - động cơ 1 trên sự trao đổi chất xương: một sự xem xét hệ thống và siêu phân tích của các thử nghiệm giả dược ngẫu nhiên được điều khiển chủ yếu của các tác nhân thế hệ đầu tiên."
+    },
+    "doi:10.1016/j.joca.2026.10.016": {
+      "en": "Serum urate and the risk of incident osteoarthritis: A prospective cohort study.",
+      "vi": "Hệ thống ống nước và nguy cơ bị viêm khớp xương: một cuộc nghiên cứu quân đội tương lai."
+    },
+    "doi:10.5397/cise.2026.00535": {
+      "en": "Return to play and performance in Division I collegiate pitchers following ulnar collateral ligament surgery: a retrospective case series.",
+      "vi": "Trở lại với trò chơi và hiệu suất ở Division tôi kết hợp với các cầu thủ ném bóng sau khi phẫu thuật cắt dây: một loạt các vụ án hồi tưởng."
+    },
+    "doi:10.1002/atn2.70383": {
+      "en": "Open-Wedge High Tibial Osteotomy With Complete Tibial Tubercle Osteotomy to Preserve Patellar Height.",
+      "vi": "Giải phẫu cắt lớp cao cấp Tibial Oste hoàn toàn bằng phẫu thuật cắt lớp Tubercle Oste để bảo tồn chiều cao Patellar."
+    },
+    "doi:10.1097/jom.0000000000003918": {
+      "en": "Musculoskeletal Disorder Risk in Motorcycle Operators: Development and Validation of a Targeted Screening Scale.",
+      "vi": "Sự phát triển và kiểm tra của thang đo màn hình mục tiêu."
+    },
+    "doi:10.1097/corr.0000000000004180": {
+      "en": "Moral Dissonance Is Greater When Clinicians Act Contrary to Evidence, Experience, and Values Than When They Disappoint the Patient.",
+      "vi": "Sự bất hòa về đạo đức là lớn hơn khi các bác sĩ lâm sàng hành động trái ngược với bằng chứng, kinh nghiệm và giá trị hơn khi họ làm tổn thương bệnh nhân."
+    },
+    "doi:10.1177/10711007261496892": {
+      "en": "Minimally Invasive Zadek Osteotomy vs Open Achilles Debridement for Insertional Achilles Tendinopathy in Athletes: A Retrospective Comparative Cohort Study.",
+      "vi": "Một cuộc nghiên cứu tương đối tương đối tương phản về sự xâm phạm Achilles trong nền kinh tế Athletes: một cuộc nghiên cứu về sự tương phản với nhau."
+    },
+    "doi:10.1136/bcr-2026-274932": {
+      "en": "Management of recurrent medial ankle pain after total ankle replacement arthroplasty: the role of medial malleolar anterolateral corner resection in resolving bone-to-implant impingement.",
+      "vi": "Quản lý cơn đau mắt cá chân tái tạo sau khi thay thế toàn bộ động mạch thay thế mắt cá chân: vai trò của tê giác trung tâm trung tâm phân tử ở góc phía bên hông trong việc giải quyết rối loạn xương để thay thế."
+    },
+    "doi:10.3389/fsurg.2026.1960566": {
+      "en": "Lateral unicompartmental knee arthroplasty retaining partial internal fixation for traumatic osteoarthritis: a case report.",
+      "vi": "Kháng thể đầu gối đơn não sau vẫn giữ được một phần nội bộ cố định cho viêm khớp xương sọ: một bản báo cáo."
+    },
+    "doi:10.1177/10711007261491305": {
+      "en": "Lambrinudi-Type Arthrodesis and Plantar Fasciectomy in the Treatment of Rigid Cavovarus Deformity.",
+      "vi": "Lambrinudi-Type Arthrodesis and plantar Fasci trong việc điều trị cho Ricid Cavovarus deformity."
+    },
+    "doi:10.1007/s11548-026-03814-w": {
+      "en": "Integration of weight-bearing computed tomography and magnetic resonance imaging for advanced musculoskeletal statistical shape modeling of the foot and ankle.",
+      "vi": "Sự kết hợp giữa khối lượng trọng lượng được tính toán và hình ảnh cộng hưởng từ cho hình dạng thống kê hiện đại của musculoskeletleal mô hình chân và mắt cá chân."
+    },
+    "doi:10.1016/j.knee.2026.104663": {
+      "en": "Increased risk of infection and reoperation following total knee arthroplasty in patients under 40.",
+      "vi": "Tăng nguy cơ nhiễm trùng và tái phẫu thuật đầu gối ở bệnh nhân dưới 40."
+    },
+    "doi:10.1097/corr.0000000000004178": {
+      "en": "How Much Do Horizontally Referenced and Interteardrop-referenced Acetabular Coverage Indices Differ During Standing in Adults With Hip Pain?",
+      "vi": "Bao nhiêu có thể tham khảo theo chiều ngang và liên hệ giữa các dấu hiệu bao gồm các dấu hiệu bao gồm các dấu hiệu khác biệt trong thời gian người lớn đứng với cơn đau hip?"
+    },
+    "doi:10.1007/s11701-026-03974-6": {
+      "en": "Global research landscape, intellectual structure, and thematic evolution of robot-assisted surgical management of pelvic urinary tract fistulas: a bibliometric and knowledge-mapping analysis.",
+      "vi": "Môi trường nghiên cứu toàn cầu, cấu trúc trí tuệ, và sự tiến hóa về mặt toán học của người máy quản lý phẫu thuật xương chậu đường ống nước: một phân tích sinh trắc học bbl và kiến thức."
+    },
+    "doi:10.1136/bmjsem-2026-003274": {
+      "en": "Genetic susceptibility to anterior cruciate ligament rupture in females: a systematic review of female-stratified candidate-gene evidence and the absence of genome-wide studies.",
+      "vi": "Khả năng nhận thức di truyền của cơ quan nội thất bị vỡ dây chằng ở phụ nữ: một sự xem xét có hệ thống về bằng chứng của ứng cử viên nữ và sự vắng mặt của các nghiên cứu toàn bộ gen."
+    },
+    "doi:10.1308/rcsann.2026.0115": {
+      "en": "From Hunterian to Hunterian: the posterior malleolar fracture.",
+      "vi": "Từ Hunterian đến Hunterian: nứt xương mông."
+    },
+    "doi:10.1371/journal.pone.0357766": {
+      "en": "Epigallocatechin-3-gallate attenuates PAR-2-mediated inflammatory signaling and preserves markers of mitochondrial integrity in osteoarthritic chondrocytes.",
+      "vi": "Epigallocatechin 3-gallate attenuate P2-Diateing tín hiệu kích thích và bảo tồn các đánh dấu của sự trung thực ti thể trong osteoarth priver forndrcy."
+    },
+    "doi:10.1016/j.clinimag.2026.110980": {
+      "en": "Emphysematous osteomyelitis of the lower extremity: Prevalence, imaging features, interobserver agreement and clinical outcomes in a 16-hospital cohort.",
+      "vi": "Viêm tủy sống thực vật ở cực dưới: tiền phẫu thuật, tính năng hình ảnh, hợp đồng giao tiếp và kết quả lâm sàng trong một nhóm 16 người."
+    },
+    "doi:10.1136/bcr-2026-275751": {
+      "en": "Embedded incus into the external auditory canal following temporal bone fracture.",
+      "vi": "Bị nhúng vào kênh thính giác bên ngoài sau khi xương bị gãy thời gian."
+    },
+    "doi:10.1186/s43019-026-00355-z": {
+      "en": "Different osteoarthritis progression rates within early-stage knee osteoarthritis: a retrospective cohort study using machine learning cluster analysis from the osteoarthritis initiative database.",
+      "vi": "Một tỷ lệ phát triển viêm khớp xương não khác trong thời kỳ đầu tiên: một nghiên cứu tái tạo của đoàn thể bằng cách sử dụng phân tích cụm máy từ cơ sở dữ liệu khởi động viêm khớp."
+    },
+    "doi:10.1186/s13018-026-07356-4": {
+      "en": "Arthroscopic autologous iliac crest cancellous bone grafting for Hepple stage V osteochondral lesions of the talus: a retrospective case series.",
+      "vi": "Các vết thương ở tủy sống tự động được ghép lại với nhau ở sân khấu Hepple V ostecholondral của talus: một loạt các trường hợp hồi tưởng lại."
+    },
+    "doi:10.1002/atn2.70364": {
+      "en": "Arthroscopic Scapholunate Osseous Ligament Anchor-Based Round-Block Repair for Scapholunate Instability.",
+      "vi": "Phòng thí nghiệm nội soi khí tượng Osseous Ligament Anchor-Based Round-Block sửa chữa cho sự bền vững của Scapholuate."
+    },
+    "doi:10.1002/atn2.70363": {
+      "en": "Arthroscopic Biologic Meniscal Root Repair With Iliotibial Band Autograft Augmentation.",
+      "vi": "Phòng thí nghiệm nội soi động vật học rễ sụn chêm sửa chữa bằng hệ thống tự động hóa."
+    },
+    "doi:10.1177/21925682261504746": {
+      "en": "Anterior Cervical Discectomy and Fusion Versus Cervical Disc Arthroplasty for Cervical Degenerative Disc Disease: Alarming Rates of Bias.",
+      "vi": "Một bộ phận não bị cắt bỏ và Fusion đối chọi với bộ phận giảm đau não của khoa xương: báo động cho tỷ lệ sinh sản ở Bias."
+    },
+    "doi:10.1002/atn2.70351": {
+      "en": "All-Inside Posterior Cruciate Ligament Reconstruction Using Achilles Allograft and Suture Tape Augmentation.",
+      "vi": "Tất cả bên trong khu vực phía sau bị đóng đinh lên cây cột bằng cách sử dụng Achilles Allograft và băng keo thẩm vấn."
+    },
+    "doi:10.1016/j.bone.2026.118159": {
+      "en": "Access to pharmacological management for osteoporosis by older people with hip fractures in long-term care: A nationwide cross-sectional study.",
+      "vi": "Tiếp cận với quản lý dược phẩm cho chứng thoái hóa xương chậu của những người già bị gãy xương hông trong việc chăm sóc lâu dài: một nghiên cứu xuyên qua toàn quốc."
+    },
+    "doi:10.1097/md.0000000000051359": {
+      "en": "Using double-bundle Achilles tendon-bone allograft for reconstruction of compound loss of lateral malleolus and lateral ankle ligaments: A rare case report.",
+      "vi": "Sử dụng gấp đôi xương hàm Achilles cho việc tái tạo lại sự mất mát hợp chất của trung tâm thương hàn và dây chằng mắt cá chân: một báo cáo hiếm gặp."
+    },
+    "doi:10.1302/0301-620x.108b11.bjj-2026-0297.r1": {
+      "en": "Total hip arthroplasty improves global sagittal and coronal spinal imbalance and spinopelvic mobility : a prospective cohort study.",
+      "vi": "Tổng bộ môn nghệ thuật cơ bắp cải thiện sự mất cân bằng cột sống và sự di chuyển của xương sống coron và sự vận động của xương sống: một cuộc nghiên cứu về quân đội tương lai."
+    },
+    "doi:10.1302/2046-3758.1511.bjr-2025-0787.r1": {
+      "en": "The diagnostic value of quantitative 99mTc-MDP SPECT/CT fusion imaging in the differential diagnosis of spinal infections.",
+      "vi": "Giá trị chẩn đoán của lượng tử 99mTc-MDP/CT trong các chẩn đoán khác nhau của nhiễm trùng cột sống."
+    },
+    "doi:10.1097/bot.0000000000003227": {
+      "en": "Temporal Effects on Intraoperative Bacterial Contamination of Surgical Gloves in Noninfection Orthopaedic Trauma Cases.",
+      "vi": "Hiệu ứng thời gian trong việc giải phẫu kháng sinh trong các vụ chấn thương tâm lý."
+    },
+    "doi:10.1097/bot.0000000000003231": {
+      "en": "Technical Tricks to Improve Iliosacral Screw Safety Using Three-dimensional Computed Tomography Imaging.",
+      "vi": "Kỹ thuật mẹo để cải thiện hệ thống an toàn bằng cách sử dụng hệ thống chụp ảnh 3 chiều."
+    },
+    "doi:10.1097/md.0000000000051580": {
+      "en": "Surgical management and short-term clinical and radiological outcomes in patients with cervical spondylodiscitis: A single-center retrospective study.",
+      "vi": "Quản lý phẫu thuật và kết quả lâm sàng ngắn hạn và phản xạ sinh học của bệnh nhân bị viêm màng não: một nghiên cứu trực quan hơn."
+    },
+    "doi:10.1097/md.0000000000051607": {
+      "en": "Suprascapular nerve block with versus without ultrasound-guided T2 erector spinae plane block for chronic shoulder pain: A retrospective comparative study.",
+      "vi": "Khối thần kinh hình nón với so sánh mà không dùng sóng siêu âm T2 để làm tắc máy bay thẳng đứng cho cơn đau vai mãn tính: một nghiên cứu so sánh tương đối trực tiếp."
+    },
+    "doi:10.1302/0301-620x.108b11.bjj-2026-0416.r2": {
+      "en": "Supervised physiotherapeutic scoliosis-specific exercises provide limited additional benefit at 24 months in braced adolescents with idiopathic scoliosis: a randomized trial.",
+      "vi": "Các bài tập chữa bệnh xơ cứng củ siêu hình có lợi ích giới hạn tại 24 tháng trong quá trình chuẩn bị cho trẻ vị thành niên mắc chứng xơ cứng tự phát: một thử nghiệm ngẫu nhiên."
+    },
+    "doi:10.1097/bot.0000000000003229": {
+      "en": "Single Antibiotic Use With Ceftriaxone for Prophylaxis of All Open Fractures.",
+      "vi": "Một loại thuốc chống sinh học với Ceftrixone cho Prophylaxis của All Open Fractures."
+    },
+    "doi:10.1097/md.0000000000051389": {
+      "en": "Risk factors and morbidity characteristics of surgical site infection following ankle fracture ORIF: A comprehensive analysis.",
+      "vi": "Những yếu tố nguy hiểm và đặc điểm bệnh tật của sự nhiễm trùng nơi phẫu thuật sau khi bị gãy mắt cá chân: một phân tích toàn diện."
+    },
+    "doi:10.62713/aic.4719": {
+      "en": "Risk Factors for Failure of Internal Fixation in Postmenopausal Patients With Osteoporotic Intertrochanteric Fractures.",
+      "vi": "Những yếu tố rủi ro cho việc sửa chữa nội bộ trong các bệnh nhân hậu phẫu thuật với các cấu trúc liên cơ."
+    },
+    "doi:10.62713/aic.4791": {
+      "en": "Risk Factors for Bone Cement Leakage and Re-fracture Following PKP in Patients With Thoracolumbar Spine Fractures.",
+      "vi": "Các yếu tố nguy hiểm cho xương dung dịch và tái cấu trúc theo PKP trong bệnh nhân Thoracolumbar Spine Fractures."
+    },
+    "doi:10.62713/aic.4827": {
+      "en": "Risk Assessment for Reoperation After Surgery for Lumbar Degenerative Disease Based on Preoperative Clinical Characteristics and Imaging Parameters: A Retrospective Cohort Study.",
+      "vi": "Có nguy cơ bị cải tạo sau khi phẫu thuật cho Lumbar, dựa trên các chứng bệnh có tính cách trước khi giải phẫu và tham số: Một cuộc nghiên cứu phục hồi chức năng."
+    },
+    "doi:10.1097/bot.0000000000003225": {
+      "en": "Reproducibility of Two Novel Bone Defect Classification Systems.",
+      "vi": "Khả năng đảo ngược của 2 hệ thống phân loại xương Novel."
+    },
+    "doi:10.1097/bot.0000000000003241": {
+      "en": "Preoperative High-Sensitivity Troponin and Risk of In-Hospital Mortality and Cardiac Events After Hip Fracture Surgery.",
+      "vi": "Cơn bão nhiệt đới và mối nguy hiểm của bệnh rối loạn nhịp tim và bệnh tim sau khi phẫu thuật cơ thể."
+    },
+    "doi:10.1148/radiol.261531": {
+      "en": "Photon-counting CT of Spinal Canal Stenosis Induced by Gouty Tophi.",
+      "vi": "Chụp cắt lớp hình ảnh từ kênh đào Spinal Stenosis do Gouty Tophi dẫn đường."
+    },
+    "doi:10.1302/0301-620x.108b11.bjj-2026-0178.r1": {
+      "en": "Periprosthetic femoral fracture following primary hip arthroplasty : should the choice of femoral component design and fixation method vary according to the sex and age of the patient?",
+      "vi": "Có nên chọn lựa thành phần đùi và phương pháp chữa trị thay đổi tùy theo giới tính và tuổi tác của bệnh nhân không?"
+    },
+    "doi:10.62713/aic.4745": {
+      "en": "Perioperative Impact of Incidental Durotomy in Elderly Patients Undergoing Elective Spine Surgery: A Multicenter European Cohort Study.",
+      "vi": "Một cuộc nghiên cứu đa khoa ở Châu Âu."
+    },
+    "doi:10.1097/md.0000000000051547": {
+      "en": "Pericapsular nerve group (PENG) block with lateral femoral cutaneous nerve (LFCN) block versus fascia iliaca compartment block (FICB) for hip surgery: A systematic review and meta-analysis.",
+      "vi": "Nhóm dây thần kinh ngoại biên (PENG) với dây thần kinh xương đùi bị cắt ngang so với khối chủ nghĩa phát xít (FICB) cho phẫu thuật hông: Một sự xem xét hệ thống và siêu phân tích."
     }
   }
 }
