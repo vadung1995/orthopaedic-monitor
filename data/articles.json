@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.1016/j.mri.2026.110846",
+    "title": "Ultra-High-Field (7T) knee MRI: review of technical considerations and current evidence, with experience from an institutional clinical series.",
+    "journal": "Magnetic Resonance Imaging",
+    "journal_list": "B",
+    "authors": "Boudabbous S, Branco DF, Tscholl PM, Delattre BMA, Rubbia-Brandt L, Bouredoucen H, Poletti PA, Hannouche D, Lövblad KO, Kurz FT.",
+    "published_date": "2026-11-18",
+    "doi": "10.1016/j.mri.2026.110846",
+    "pmid": "43051306",
+    "url": "https://doi.org/10.1016/j.mri.2026.110846",
+    "abstract": "Background Ultra-high-field, 7 Tesla (T) MRI provides higher signal-to-noise ratio (SNR) and enables high-resolution 3D and quantitative imaging. Its role in musculoskeletal (MSK) knee imaging is emerging but not yet standardized. Purpose To review current 7 T knee MRI techniques and evidence, detail key technical/physics considerations, and to report a single-center clinical experience through a descriptive study. Methods Up to date narrative synthesis of the literature organized by qualitative (morphologic) and quantitative applications, complemented by experience from a retrospective single-center series of consecutive 7 T knee examinations. Results Literature shows that 7 T imaging can improve conspicuity of cartilage, meniscus, ligaments, and bone microarchitecture with isotropic 3D acquisitions; quantitative methods (T2/T2*, Ultrashort Echo Time (UTE), Glycosaminoglycan Chemical Exchange Saturation Transfer (gagCEST), 23 Na, T1rho) show promise but require rigorous B0/B1 correction and Specific Absorption Rate (SAR) management. Our experience demonstrated that 7 T imaging was clinically feasible and well tolerated in a cohort of 131 patients (mean age 33.8 ± 10.5 years ranging from 16 to 63 years) and provided a potential and a subjective increase in diagnosis confidence in selected scenarios, particularly in postoperative meniscus assessment and conservative ACL follow-up. Conclusion 7 T knee MRI is feasible and potentially impactful in specific indications; however, stronger comparative data, protocol harmonization, and quantitative validation are needed.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1177/19417381261500338",
     "title": "Risk Period for Anterior Cruciate Ligament Rupture During Skiing: A Multicenter Epidemiological Study.",
     "journal": "Sports Health",
@@ -15,6 +37,93 @@
       "Journal Article"
     ],
     "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1371/journal.pone.0361612",
+    "title": "Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network.",
+    "journal": "PLOS ONE",
+    "journal_list": "A",
+    "authors": "Jung HJ, Nam NE, Lee C, Lim Y, Choi WC, Lee J, Kim G, Kim H, Lee SK, Kang J, Kim TS.",
+    "published_date": "2026-11-18",
+    "doi": "10.1371/journal.pone.0361612",
+    "pmid": "43050414",
+    "url": "https://doi.org/10.1371/journal.pone.0361612",
+    "abstract": "Background and objectives Spine endoscopic surgery requires precise anatomical recognition and real-time bleeding detection to enhance surgical safety and efficiency. However, most existing computer vision studies do not offer real-time multi-class segmentation of the entire scene. This study aims to develop a real-time instance segmentation model based on YOLO-V11, capable of automatically identifying surgical instruments, critical anatomical structures, and bleeding sites in spine endoscopy. Methods The model was trained and evaluated using 2,181 annotated frames (training 1,741 / validation 216 / held-out test 224) from spine endoscopy images, covering nine key categories: instruments, bone, ligamentum flavum, dura, soft tissue, vessels, fat, the radiofrequency ablation wand, and bleeding focus. The segmentation model's performance was evaluated across various YOLO-V11 variants. Results Across five random seeds per variant on the same NVIDIA A100 GPU, YOLO-V11 l achieved the highest mask mAP50, defined as mean average precision at an intersection-over-union threshold of 0.50, with a value of 0.7735 ± 0.0030 (mean ± SD, n = 5). It also maintained real-time inference, reaching 270 ± 35 frames per second (FPS) with a per-frame latency of 3.75 ± 0.51 ms. All five variants exceeded 30 FPS, the widely accepted real-time threshold for surgical imaging. The model demonstrated high precision in segmenting vital structures such as the dura and ligamentum flavum and accurately identified bleeding regions. Conclusion This research contributes to AI-driven surgical guidance systems, with potential applications in robotic-assisted spine surgery. The developed model enables real-time navigation, improving intraoperative decision-making and enhancing surgical outcomes. In particular, our YOLO-V11-based framework extends prior single-structure or lower-frame-rate multi-element approaches by delivering real-time multi-class instance segmentation of instruments, anatomical structures, and bleeding sites in spine endoscopy, with explicitly quantified inference latency.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Digital Orthopaedics & Surgical Technology"
+    ],
+    "matched_keywords": [
+      "robotic-assisted spine surgery"
+    ]
+  },
+  {
+    "id": "doi:10.1016/j.joca.2026.11.008",
+    "title": "Osteoarthritis year in review 2026: Imaging.",
+    "journal": "Osteoarthritis and Cartilage",
+    "journal_list": "A",
+    "authors": "Fukuda T, Jarraya M, Roemer F, Guermazi A.",
+    "published_date": "2026-11-18",
+    "doi": "10.1016/j.joca.2026.11.008",
+    "pmid": "43051613",
+    "url": "https://doi.org/10.1016/j.joca.2026.11.008",
+    "abstract": "Objective To narratively review the literature on osteoarthritis (OA) imaging published between March 2025 and March 2026 and to identify current trends and emerging directions in imaging-based OA research. Methods PubMed was searched for original English-language human in vivo studies published during the period. Trends by imaging modality and target-joint distributions were analyzed. For narrative synthesis, studies were selected subjectively by consensus among the authors based on methodological novelty, clinical or trial relevance, contribution to understanding OA pathophysiology or progression, and potential future impact. Results Of 1,910 publications identified, 1,035 specified a target joint. Approximately 70% investigated the knee, followed by the hip. Radiography and ultrasound yielded the most records, encompassing heterogeneous applications such as trial eligibility and image-guided procedures. Although publication counts for these modalities have gradually declined in recent years, those for MRI have remained stable. Semiquantitative MRI analysis linked worsening bone marrow lesions and Hoffa-synovitis to greater cartilage loss, and suggested differing associations between injection type and subsequent structural progression. Quantitative MRI studies linked cartilage T2 to BMI in a population-based cohort, while muscle radiomics predicted incident knee OA. Among emerging technique, magnetic resonance fingerprinting (MRF) provided rapid cartilage T2 mapping, and [18F]NaF PET-MRI linked increased metabolic activity at enthesis to worse knee-related outcomes. For clinical-trial eligibility, MRI detected exclusionary abnormalities in 10% of otherwise DMOAD-eligible knees. AI-related publications gradually increased, with applications including prediction of future total knee replacement (TKR) and automated tissue segmentation. Conclusion Studies highlight the use of imaging for longitudinal assessment of structural progression, clinical-trial eligibility, and quantitative tissue characterization. MRI remains central to understanding disease mechanisms and progression, while emerging techniques such as MRF and [18F]NaF PET-MRI broaden quantitative and metabolic assessment. AI may support prediction of future TKR and automated cartilage morphometry.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1136/bcr-2026-274936",
+    "title": "Orthoplastic approach for implant salvage using free anterolateral thigh flap after wound necrosis following complex total knee arthroplasty.",
+    "journal": "BMJ Case Reports",
+    "journal_list": "B",
+    "authors": "Panda R, Patra SK, Pawar M, Jaiswal S.",
+    "published_date": "2026-11-18",
+    "doi": "10.1136/bcr-2026-274936",
+    "pmid": "43051681",
+    "url": "https://doi.org/10.1136/bcr-2026-274936",
+    "abstract": "",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1371/journal.pone.0363227",
+    "title": "Musculoskeletal injury epidemiology among football players in Africa: A systematic review of injury incidence, patterns and associated factors.",
+    "journal": "PLOS ONE",
+    "journal_list": "A",
+    "authors": "Jimoh FA, Adepoju AM, Afolabi ST, Bolarinwa AM.",
+    "published_date": "2026-11-18",
+    "doi": "10.1371/journal.pone.0363227",
+    "pmid": "43050442",
+    "url": "https://doi.org/10.1371/journal.pone.0363227",
+    "abstract": "Background Football is widely played across Africa, yet evidence on the epidemiology of musculoskeletal injuries among African football players remains fragmented across countries, populations, and competitive settings. Differences in injury definitions, surveillance methods, and exposure measurement further limit comparison between studies. This systematic review synthesised the available evidence on musculoskeletal injury epidemiology in African football. Methods PubMed/MEDLINE, the Cochrane Database, and Google Scholar were systematically searched from inception to the final search date, supplemented by backward citation searching. Studies investigating musculoskeletal injuries among football players in Africa were eligible for inclusion. Two reviewers independently screened studies, extracted data, and assessed methodological quality, with disagreements resolved by a third reviewer. Methodological quality and risk of bias were evaluated using Joanna Briggs Institute (JBI) and Quality In Prognosis Studies (QUIPS) tools, as appropriate. Owing to methodological heterogeneity, findings were synthesised narratively. Results Twenty-six studies were included. Sixteen studies contributed 18 incidence estimates, ranging from 2.2 to 289 injuries per 1,000 athlete-exposure hours, while 10 studies reported prevalence estimates ranging from 4.1% to 81.6%. Tournament surveillance studies generally reported higher incidence than season-long studies, and match incidence exceeded training incidence where both were reported. Lower-extremity injuries predominated, particularly at the ankle and knee, while sprains or ligament injuries, contusions, and muscle-related injuries were the most frequently reported injury types. Previous injury or recurrence was the most consistently identified associated factor. Conclusion Musculoskeletal injuries are common in African football, but substantial methodological heterogeneity limits direct comparison of estimates. Standardised injury surveillance and stronger prospective research are needed to improve the evidence base and support context-specific injury prevention. Prospero registration number CRD420261444997.",
+    "open_access": false,
+    "publication_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
     "categories": [
       "Other / Unclassified"
     ],
@@ -311,6 +420,27 @@
       "Journal Article"
     ],
     "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jbiomech.2026.113693",
+    "title": "Sound-limb propulsive impulse after lower-limb amputation increases with amputation level but is not driven by peak ankle power.",
+    "journal": "Journal of Biomechanics",
+    "journal_list": "B",
+    "authors": "Ribeiro DM, de Menezes RL, Gervásio FM, de Santana ML, Chieregato Matheus JP.",
+    "published_date": "2026-11-17",
+    "doi": "10.1016/j.jbiomech.2026.113693",
+    "pmid": "43050868",
+    "url": "https://doi.org/10.1016/j.jbiomech.2026.113693",
+    "abstract": "Individuals with lower-limb amputation are thought to compensate for reduced prosthetic push-off by generating additional propulsion in the sound limb, but whether this originates at the ankle remains unclear. We compared propulsive impulse (PI), peak ankle power generation (A2), ankle positive work (APW) and related variables in 87 participants: 31 unimpaired controls, 30 with transfemoral amputation (TFA) and 26 with transtibial amputation (TTA), all fitted with prostheses through Brazil's public health system under a standardised protocol. Three-dimensional gait analysis provided ground reaction forces, ankle kinetics and spatiotemporal parameters. PI increased monotonically from Control to TTA to TFA and remained significant after correction for multiple comparisons and after adjustment for gait speed. In contrast, A2 was lower in both amputee groups than in Control; this reduction persisted after adjustment for gait speed only in TFA. APW, a time-integrated measure more directly comparable to PI, likewise did not follow the PI gradient. PI and A2 remained moderately correlated within every group, and the greater PI was attributable mainly to a longer propulsive phase rather than greater propulsive force. These findings indicate that the greater sound-limb propulsive impulse is not accompanied by increased peak ankle power generation or ankle positive work, although some ankle contribution cannot be excluded; whether it involves redistribution of mechanical output to more proximal joints remains a plausible hypothesis for future work. Prosthetic and rehabilitation strategies focused narrowly on restoring ankle push-off power may therefore not, by themselves, normalise sound-limb loading, particularly after transfemoral amputation.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
     "categories": [
       "Other / Unclassified"
     ],
@@ -1682,6 +1812,28 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1186/s12891-026-10713-3",
+    "title": "Radiographic changes in disc height index and 12-month segmental motion following single-level microsurgical sequestrectomy for lumbar disc herniation.",
+    "journal": "BMC Musculoskeletal Disorders",
+    "journal_list": "A",
+    "authors": "Jäckle K, Meier MP, Hawellek T, Roch PJ, Roch FE, Höller LF, Klockner FS, Awan Malik H, Weiser L, Lehmann W.",
+    "published_date": "2026-11-14",
+    "doi": "10.1186/s12891-026-10713-3",
+    "pmid": "43052911",
+    "url": "https://doi.org/10.1186/s12891-026-10713-3",
+    "abstract": "Objectives Longitudinal radiographic changes after microsurgical sequestrectomy for lumbar disc herniation remain incompletely characterized, particularly regarding disc height and segmental motion. This study aimed to quantify changes in Disc Height Index (DHI) from the preoperative assessment to 12-month follow-up, to describe radiographic segmental motion and the prevalence of prespecified radiographic instability criteria at 12 months, and to identify factors associated with these radiographic findings. Methods This retrospective single-center observational study included 250 patients who underwent single-level microsurgical sequestrectomy for lumbar disc herniation between January 2018 and December 2024 and had complete imaging required for the present analysis. Disc height and DHI were assessed using standardized radiographic measurements. Segmental motion and radiographic instability status were assessed on 12-month flexion-extension radiographs; corresponding preoperative functional radiographs were not systematically available. Recurrent disc herniation was assessed on postoperative MRI. Multivariable regression analyses were performed to identify factors associated with DHI reduction and 12-month radiographic instability status. Because no nonoperative or alternative-surgery comparison group was available, the study was not designed to determine whether observed changes were caused by sequestrectomy or reflected the natural history of underlying degeneration. Results Mean disc height significantly decreased from 9.14 ± 1.48 mm preoperatively to 7.65 ± 1.89 mm at 12-month follow-up (p Conclusion Significant reductions in disc height and DHI were observed between the preoperative assessment and 12-month follow-up in this cohort treated with microsurgical sequestrectomy. Prespecified radiographic instability criteria were met by 24.4% of patients at 12 months. Because baseline functional radiographs were not systematically available, the study cannot determine whether radiographic instability developed after surgery. In the absence of a comparison group and patient-reported clinical outcomes, these findings should be interpreted as longitudinal disc-height observations and cross-sectional 12-month radiographic associations; they cannot establish a causal effect of sequestrectomy or the clinical relevance of the observed motion findings. Trial registration Registration of trial 2026-06-30 - Retrospectively registered. Trial registration number DRKS00040457.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1007/s00402-026-06560-5",
     "title": "Occipital pressure injury in the beach-chair position: a report of two cases and a review of the literature.",
     "journal": "Archives of Orthopaedic and Trauma Surgery",
@@ -1921,7 +2073,7 @@
     "title": "Weight loss at a cost: Semaglutide and PYY3-36 aggravate pre-existing metabolic osteoporosis in female Wistar rats.",
     "journal": "BONE",
     "journal_list": "A",
-    "authors": "Kloock S, Zytner P, Geiger N, Sequeira V, Schmitt-Böhrer A, Felker J, Sarwar H, Weich A, Ignatius A, Fassnacht M, Haffner-Luntzer M, Dischinger U.",
+    "authors": "Kloock S, Zytner P, Geiger N, Sequeira V, Schmitt-Böhrer AG, Felker J, Sarwar H, Weich A, Ignatius A, Fassnacht M, Haffner-Luntzer M, Dischinger U.",
     "published_date": "2026-11-13",
     "doi": "10.1016/j.bone.2026.118170",
     "pmid": "43025770",
@@ -2461,8 +2613,9 @@
     "pmid": "43019315",
     "url": "https://doi.org/10.1371/journal.pone.0362395",
     "abstract": "Adequate ankle dorsiflexion range of motion (DF-ROM) is essential for generating sufficient corrective torque during an ankle strategy; however, limitations in dorsiflexion may mechanically constrain this response, potentially leading to earlier reliance on hip or stepping strategies. Although indirect evidence links dorsiflexion capacity to dynamic balance performance, it remains unclear whether restricted dorsiflexion influences the selection of reactive postural control strategies in healthy young adults. Twenty active male participants were recruited for this study. Ankle DF-ROM was measured via the weight-bearing lunge test and categorized as either normal (≥20°) or restricted (<20°). Reactive postural control was assessed in response to a single unexpected anterior perturbation administered by a custom-engineered movable platform, with the perturbation load normalized to participants' body mass. Sagittal-plane kinematics were recorded at 60 Hz and independently evaluated by two blinded raters to classify the initial balance recovery response into ankle, hip, or stepping strategies based on established criteria. Statistical analysis revealed no significant association between ankle DF-ROM category and the type of reactive postural control strategy employed following anterior perturbations. Pearson's chi-square test indicated no significant relationship between dorsiflexion status and balance strategy selection (χ2(2) = 0.826, p = 0.662). Due to low expected cell counts, Fisher's exact test was also conducted, corroborating the absence of a significant association (two-sided p = 0.835). The distribution of postural strategies did not differ substantially between participants with normal and restricted dorsiflexion. In healthy young adults exposed to a standardized anterior perturbation, ankle DF-ROM was not independently associated with reactive postural strategy selection. These findings suggest that the postural demands imposed by the perturbation may have contributed to the predominance of stepping responses and may have reduced the sensitivity to detect an influence of ankle mobility on strategy selection.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -2590,8 +2743,9 @@
     "pmid": "43023125",
     "url": "https://doi.org/10.1002/ars2.70163",
     "abstract": "Purpose To examine the relation between posterior tibial slope (PTS) and failure after medial meniscus posterior root tear (MMPRT) repair. Methods Patients who underwent isolated primary arthroscopic transtibial pullout MMPRT repair between 2012 and 2022 at a single institution and with a minimum 2-year follow-up were retrospectively identified. Patients were grouped into high (PTS ≥ 12°), intermediate (PTS 8°-11°), and low (PTS ≤ 7°) categories. Failure was defined as repeat ipsilateral knee arthroscopy or conversion to knee arthroplasty. A Kaplan-Meier curve and log-rank test were employed to analyze the relation between PTS and MMPRT repair failure. Results A total of 74 patients (77% women) with a mean age of 52.3 ± 9.3 years (range 23.5-73.3 years) with a minimum 2-year follow-up were identified. The mean follow-up time was 4.8 years (range 2.4-7.8 years) in the failure group and 6.2 years (range 3.4-9.2 years) in the nonfailure group ( P = .004). The mean follow-up was 6.21 ± 1.74 years in the high PTS group, 5.91 ± 1.64 years in the intermediate group, and 5.50 ± 1.81 years in the low group ( P = .478). The overall failure rate was 15/74 (20.3%) at a median (interquartile range) of 2.70 (0.80-5.19) years. No significant differences in time to failure were observed among PTS groups. The median (interquartile range) surgery-free survival time was 6.2 (4.6-7.8) years in the high PTS group (n = 22; 5 failures), 6.2 (4.7-7.8) years in the intermediate PTS group (n = 38; 8 failures), and 5.5 (3.9-7.2) years in the low PTS group (n = 14; 2 failures) ( P = .91). There were also no significant differences in coronal alignment among PTS groups. Conclusions In this study, PTS was not significantly associated with failure rates or time to failure after isolated MMPRT repair. Level of evidence Level III, therapeutic retrospective comparative study.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -2845,8 +2999,9 @@
     "pmid": "43023143",
     "url": "https://doi.org/10.1002/atn2.70316",
     "abstract": "Overtensioning the medial patellofemoral ligament during reconstruction is a key cause of patellofemoral overload, anterior knee pain, and limited flexion. We present a reproducible, tension-calibrated augmentation technique using a single 4.75-mm SwiveLock anchor preloaded with double FiberTape and sutures-eliminating graft harvest. This technique is intended as an augmentation rather than a full ligament substitution. The staged fixation strategy, combined with arthroscopic evaluation and selective lateral release, serves to minimize the risk of medial overconstraint. The anchor is placed at the Schöttle point, and sutures are passed subcapsularly to the medial patella, exiting through two 2.5-mm transverse bone tunnels. Initial lateral knot fixation is performed, followed by stepwise lateral release and vastus lateralis detachment to relieve residual lateral tension. Final FiberTape fixation is completed under arthroscopic visualization, allowing real-time adjustment to avoid overtightening. Final fixation was performed at approximately 30° of knee flexion, with the patella centered within the trochlear groove. This technique restores patellar tracking, permits full flexion, and may help reduce the risk of recurrence in recurrent patellar instability.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "other",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -2954,8 +3109,9 @@
     "pmid": "43019351",
     "url": "https://doi.org/10.1371/journal.pone.0361871",
     "abstract": "Background CT-based three-dimensional (3D) reconstruction was used to analyze the detailed anatomical morphology of the femoral head-neck region, and a modified inverted right-angle cannulated screw configuration was proposed to reduce the risk of posterosuperior screw in-out-in (IOI) placement during femoral neck fracture fixation. Methods Imaging data from 22 patients (12 males and 10 females; mean age, 52.5 ± 16.8 years) were retrospectively analyzed. CT data of both hips were imported into Mimics to construct 3D digital femoral models for morphologic analysis and screw trajectory simulation. Based on the observed anterior offset of the femoral head-neck canal and the sloped posterosuperior cortex of the femoral neck, a modified inverted right-angle screw configuration and a negative anteversion fluoroscopic view were proposed. Technical feasibility was preliminarily illustrated in two patients with femoral neck fractures. Results The femoral head-neck axis showed an anterior offset relative to the proximal femoral axis, which may increase the risk of posterosuperior IOI screw trajectory with the traditional inverted triangle configuration. In the 3D simulation, the modified inverted right-angle configuration placed the posterosuperior screw within the proposed safety zone. The negative anteversion fluoroscopic view appeared useful for identifying potential IOI screw trajectory. Technical feasibility of the proposed configuration was illustrated in two patients with femoral neck fractures, in whom no postoperative IOI screw displacement was observed on CT. Conclusion The anatomical features of the femoral head-neck region may contribute to the risk of posterosuperior IOI screw trajectory with the traditional inverted triangle configuration. In this CT-based morphologic and simulation study, the modified inverted right-angle configuration showed a more favorable simulated position of the posterosuperior screw within the proposed safety zone, while negative anteversion fluoroscopy may help identify potential IOI screw trajectory. These preliminary findings require further validation through biomechanical studies and larger comparative clinical investigations.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -3197,8 +3353,9 @@
     "pmid": "43022116",
     "url": "https://doi.org/10.1002/ars2.70156",
     "abstract": "Purpose To systematically review available data on clinical, structural, and safety outcomes after minced cartilage implantation (MCI) in knee cartilage defects and to descriptively compare outcomes with microfracture and other treatment modalities. Methods A systematic search following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines was performed in 3 databases evaluating MCI for knee cartilage defects. Extracted variables included patient characteristics, patient-reported outcomes, structural outcomes, and complications at 12 and ≥24 months. Outcomes were summarized descriptively using study-level data without pooled estimates. Results Seventeen studies comprising 493 patients treated with MCI were included, with a minimum follow-up of 12 months and a maximum of 60 months and mean defect sizes ranging from 2.53 to 4.5 cm 2 (International Cartilage Repair Society grade III-IV). Improvement in International Knee Documentation Committee scores ranged from 21.6 to 40.8 points at 12 months and 19.7 to 43.9 points at ≥24 months. Visual analog scale pain scores improved from a range of 3.5 to 7.2 preoperatively to a range of 0.6 to 2.5 points at both timepoints. Knee Injury and Osteoarthritis Outcome Score total and subscale scores showed improvement across all reporting studies. Magnetic Resonance Observation of Cartilage Repair Tissue scores ranged from the low 50s to mid-80s at both timepoints. Comparative studies with microfracture displayed mixed findings of functional scores at 12 months and numerically higher International Knee Documentation Committee scores at ≥24 months. Complication rates ranged from 0% to 14% at 12 months and 0% to 8% at 24 months. Conclusions In this study, MCI is associated with improvements in pain and knee function, favorable structural repair, and low reported complication rates at short- to midterm follow-up. Level of evidence Level IV, systematic review of Level I to IV studies.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -3371,6 +3528,7 @@
     "abstract": "Objective Higher rates of breast cancer have been linked previously to occupational radiation hazards in the orthopaedic operating room. However, increased awareness regarding the elevated risk of cancer among female orthopaedic surgeons has not necessarily resulted in improved access to appropriately fitting protective lead garments. The primary objective of this study was to survey female residents on their access to one-piece versus two-piece lead garments. Secondary objectives included identifying descriptive barriers and regional differences in access. Design An anonymous survey was distributed via email, word of mouth, and orthopaedic surgery social media groups to trainees around the United States. Statistical analysis was performed using SAS Enterprise 8.3, with descriptive analysis conducted for reported barriers to access. Setting Electronic RedCap-based survey study. Participants Eighty-nine female resident trainees completed the survey, including 58 junior (PGY1-3) and 31 senior residents (PGY4-5). Results 98% of surveyed residents endorsed awareness of the increased breast cancer risk among female orthopaedic surgeons, and 63% of residents reported concerns regarding elevated risk due to inadequate radiation protection. 39% of participants reported anxiety related to lead accessibility. Only 46% of surveyed residents were provided custom garments from their institution, and 51% of respondents reported financial barriers to obtaining appropriately fitting lead. Common barriers included inadequate financial resources, storage or ability to transport between sites, and lack of awareness among program leadership. Conclusions Access to lead protective garments varies between institutions, inducing significant financial and psychological stress among female trainees. Provision of protective garments ranges widely, with less than half of surveyed residents receiving appropriately fitted lead. Cost remains the most frequently cited barrier to adequate radiation protection.",
     "open_access": false,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -3844,8 +4002,9 @@
     "pmid": "43022899",
     "url": "https://doi.org/10.1136/bmjsem-2025-003183",
     "abstract": "Objective To assess long-term outcomes following acromioclavicular (AC) joint injuries and associations between injury severity and patient-reported shoulder function. Methods This prospectively registered cohort included all patients diagnosed with an AC joint injury at Oslo University Hospital in 2013-2014. Participants were invited to follow-up in 2021. Patient-reported outcome measures (PROMs) included the Oxford Shoulder Score (OSS), Quick Disabilities of Arm, Shoulder and Hand, and Numeric Rating Scale for shoulder pain. A subset underwent clinical examination using the Constant-Murley Score, shoulder tests and anteroposterior radiographs. Radiographs were evaluated for Rockwood classification and degenerative changes. Results A total of 240/287 (84%) participants responded at a mean follow-up of 7.6 years (SD 0.3). Among respondents, 72% had Rockwood type I or II injuries, 24% had type III injuries and 4% had type V injuries. The mean OSS was 41.8 (SD 8.6) of 48, without significant differences comparing Rockwood type I with types II, III or V injuries (p>0.05). Younger females aged 20-30 and males aged 20-40 recorded lower OSS scores than normative data (p Conclusion In this unselected urban cohort, most respondents reported favourable long-term shoulder function, although some experienced ongoing symptoms. OSS did not differ significantly between Rockwood categories, although comparisons involving Rockwood type V were limited by small sample size. Radiographic degeneration was common but unrelated to PROMs.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -6424,6 +6583,27 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.ejrad.2026.113274",
+    "title": "An accessible efficient intervertebral disc vision-language model training strategy with LLM-based retrieval method for spine MRI report generation.",
+    "journal": "European Journal of Radiology",
+    "journal_list": "B",
+    "authors": "Chen X, Wang P, Wang Y, Han H, Ji X, Wang T, Wei B.",
+    "published_date": "2026-11-05",
+    "doi": "10.1016/j.ejrad.2026.113274",
+    "pmid": "43051025",
+    "url": "https://doi.org/10.1016/j.ejrad.2026.113274",
+    "abstract": "Background Artificial intelligence (AI) has become increasingly important in healthcare, and multimodal large language models (MLLMs) have demonstrated strong capabilities in understanding and integrating information from medical images and clinical text. This study explores a low-cost and effective MLLM-based approach for automated radiology report generation from lumbar spine MRI, aiming to improve reporting efficiency and consistency. Methods To mitigate the challenges of limited data availability and the high costs associated with applying MLLMs to spinal report generation, we proposed using the axial plane of a single lumbar intervertebral disc (IVD) and the adjacent vertebrae as the research subject. We constructed the pipeline of data processing to get disc-corresponding images and medical reports based on large language models (LLMs). Then, We fine-tuned presently mature MLLMs under conditions of 1125 patient samples and hardware limitations, achieving considerable results. Results In addition to performance evaluated using traditional natural language processing metrics, including BLEU (0.24), ROUGE-L (0.53), and CIDEr (1.28), we further validated the proposed strategy on clinical pathological classification tasks, achieving F1 scores of 0.93 for disc pathology, 0.81 for canal stenosis, and 0.91 for dehydrated disc. Notably, the model achieved diagnostic performance comparable to that of experienced radiologists for canal stenosis and dehydrated disc. These results demonstrate the feasibility of the proposed strategy. Furthermore, our experiments show that the LLM-based data evaluation pipeline is stable and reliable. Conclusion This study offers a new perspective on the field of spinal reporting and outperforms existing methods on both performance and cost. Meanwhile, there is a considerable room for improvement in aspects of data volume and training scale.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1002/atn2.70342",
     "title": "All-Arthroscopic Muscle Advancement Technique for Repair of Massive Posterosuperior Rotator Cuff Tears in the Lateral Decubitus Position.",
     "journal": "Arthroscopy Techniques",
@@ -6477,8 +6657,9 @@
     "pmid": "43022359",
     "url": "https://doi.org/10.1016/j.artd.2026.102202",
     "abstract": "Background Chronic systemic inflammation is associated with osteoarthritis and chronic diseases that increase surgical risk before total hip arthroplasty (THA) and total knee arthroplasty (TKA). This study compares early postoperative outcomes between patients who did and did not complete an intensive lifestyle medicine (LSM) program to reduce chronic systemic inflammation. Methods Anthropometric variables, lifestyle measures, patient-reported outcome measures, and postoperative 90-day outcomes (ie, length of stay, infection, persistent pain, opioids) were obtained from an LSM repository. Comparisons were made between patients who completed the intensive LSM track (multiple visits, interprofessional providers) and those who declined behavior change preoperatively (selective track: single provider visit). A subanalysis evaluated glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA) medication users. Results Among 292 patients (72% women; 62 ± 9 years; 76% White), 154 completed the intensive track and 138 participated in the selective track. Most (91%) had ≥2 chronic diseases. Baseline characteristics were similar between tracks, except for higher anxiety/depression scores in the intensive track (3.3 ± 3.0 vs 1.8 ± 2.4[ P P P = .001]), with no differences in other outcomes. Conclusions Postoperative persistent pain rates were significantly lower in patients who completed an intensive LSM program before THA or TKA, compared to patients who did not engage in health improvement. GLP-1RA users showed no health benefits and required more opioid refills.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -7146,8 +7327,9 @@
     "pmid": "43022862",
     "url": "https://doi.org/10.1016/j.artd.2026.102151",
     "abstract": "Background The Forgotten Joint Score-12 (FJS-12) is a patient-reported outcome measure of joint awareness after total hip arthroplasty (THA). Falls after THA remain clinically important. However, longitudinal evidence regarding the associations among early FJS-12, subsequent falls, and later recovery of joint unawareness remains limited. Methods This retrospective cohort study used a prospectively maintained institutional database from a single Japanese institution. Consecutive patients who underwent primary THA between January 2021 and December 2023 were included. FJS-12 was assessed at 3 and 12 months postoperatively, and falls occurring between 3 and 12 months postoperatively were identified at the 12-month visit based on patients' self-report over this 9-month interval. Modified Poisson regression was used to examine the association between FJS at 3 months and subsequent falls. Multiple linear regression was used to examine the association between fall occurrence and FJS at 12 months, adjusting for FJS at 3 months. Results Overall, 623 patients were analyzed (mean age 70.8 years; 85.2% female). Ninety-nine patients (15.9%) experienced at least 1 fall between 3 and 12 months postoperatively. Lower FJS at 3 months was associated with a higher risk of subsequent falls. Fall occurrence was associated with lower FJS at 12 months, independent of FJS at 3 months and other covariates. Conclusions Early postoperative joint awareness was associated with subsequent falls after THA, and falls were associated with lower FJS at 12 months. The FJS-12 may provide additional patient-reported information when assessing postoperative fall risk.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -7212,8 +7394,9 @@
     "pmid": "43022582",
     "url": "https://doi.org/10.1016/j.artd.2026.102197",
     "abstract": "Background Multiligament knee injuries (MLKIs) are complex injury patterns that pose challenges for patients and surgeons alike. The objective of this study was to evaluate the clinical and functional perioperative outcomes of a cohort of patients with evidence of pre-existing knee osteoarthritic changes that underwent total knee arthroplasty (TKA) as the initial and definitive treatment for MLKI. Methods Patients from 2 tertiary care centers that underwent TKA as primary treatment for their MLKI within 1 year from their initial time of injury were retrospectively identified for study inclusion. Range of motion, and Knee Society Scores were evaluated for all patients. Perioperative complications as well as TKA component types and degrees of implant constraint were also analyzed. Results Twelve patients met study inclusion criteria. Mean follow-up time was 40 months (range 24 to 86 mos). Mean time from MLKI to TKA was 5 months (range 3 days to 11 months). Mean age was 61 years (range 51 to 78). Mean postoperative knee range of motion was 1-106 degrees at last follow-up. Knee Society Scores improved by an average of 129 points at last follow-up. Two patients required rotating hinge TKA components with all others requiring lesser degrees of implant constraint. There were no instances of postoperative knee instability and no patients required revision TKA surgery at last follow-up. Conclusions TKA is a viable primary treatment option for MLKI in older patients with pre-existing multicompartmental knee osteoarthritis. In this patient population, TKA may allow for improved function and adequate stability of the multiligament injured knee. Study design Retrospective case series. Level of evidence IV.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -7362,8 +7545,9 @@
     "pmid": "43022864",
     "url": "https://doi.org/10.1016/j.artd.2026.102194",
     "abstract": "Background Periprosthetic joint infection (PJI) is a serious complication after total hip and knee arthroplasty, with limited accuracy of conventional biomarkers. This study assessed serum calprotectin (CP) alongside established markers in revision arthroplasty. Methods This retrospective single-center study included 399 patients (232 total knee arthroplasty, 167 total hip arthroplasty). Based on Musculoskeletal Infection Society 2018 criteria, 132 patients were diagnosed with PJI and 267 were classified as non-PJI. All patients underwent serum CP, C-reactive protein (CRP), and interleukin-6 (IL-6) testing; microbiological analyses were performed when indicated. Results Serum CP was significantly higher in PJI than aseptic revisions (median 11,700 ng/mL [interquartile range 8080-18,675] vs 5,440 ng/mL [interquartile range 3600-8300], P Conclusions Serum calprotectin demonstrated moderate diagnostic performance and may may complement conventional serum markers in selected cases in which conventional serum markers are inconclusive.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -7803,8 +7987,9 @@
     "pmid": "43022877",
     "url": "https://doi.org/10.1016/j.artd.2026.102191",
     "abstract": "Background As total hip (THA) and knee arthroplasty (TKA) transition toward outpatient care, medical centers need to create models to support same-day discharge (SDD) for all patients, particularly those traveling long distances. A care hotel (CH) with virtual monitoring represents a novel postoperative recovery pathway, and our study evaluates patient safety and experience of this alternative model. Methods We retrospectively analyzed 5324 primary THA and TKA patients from a single tertiary referral center between July 2021 and April 2025. Of these, 590 cases (11%) utilized the CH pathway and were compared to traditional inpatient (IP), and SDD cohorts. Outcomes included demographic characteristics, 30-day emergency department (ED) utilization, hospital readmission rates, and patient-reported experience metrics. Results The 30-day ED return rate for CH patients was significantly lower than IP group (3.9 vs 6.8%, P = .006). The CH ED return rate was also lower than SDD; however, not statistically significant (3.9 vs 5.5%, P = .15). Among those returning to the ED, hospital readmission rates were 47.8% for CH, 39.3% for IP and 31.8% for SDD ( P > .22). Patient satisfaction among responders was high, with 94% of CH patients reporting they would be likely or very likely to recommend the alternative recovery pathway. Conclusions The CH provides a safe, well-received recovery pathway for THA and TKA patients with low ED utilization, acceptable readmission rates, and high patient satisfaction among responders. The CH model may represent a scalable strategy to expand access for outpatient THA and TKA while preserving hospital resources.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -8084,8 +8269,9 @@
     "pmid": "43022204",
     "url": "https://doi.org/10.1016/j.artd.2026.102192",
     "abstract": "Background Tranexamic acid (TXA) is widely used in total joint arthroplasty, but data on its efficacy in periprosthetic joint infection (PJI) of the knee are scarce. We assessed TXA efficacy in revision total knee arthroplasty (TKA) for PJI. Methods A national database was queried for patients ≥18 years undergoing stage-one revision TKA for PJI from 2016 to 2023. Patients with and without TXA exposure were propensity matched. Multivariable logistic regression assessed primary outcomes (postoperative transfusion, bleeding complications, and wound complications) and secondary outcomes (thromboembolic complications). Results Overall, 13,247 TXA patients were matched 1:1 to 13,247 non-TXA patients on comorbidities, Charlson Comorbidity Index, demographics, hospital characteristics, and preoperative transfusion rates, all with standardized mean differences P P P = .563). Odds of aggregate venous thromboembolism (aOR: 0.97, 95% CI: 0.82-1.13, P = .874), deep vein thrombosis (aOR: 1.00, 95% CI: 1.00-1.01, P = .309), and pulmonary embolism (aOR: 1.06, 95% CI: 0.83-1.34, P = .639) were similar. Conclusions TXA was associated with lower rates of transfusion and aggregate wound complications, without increased venous thromboembolism risk, during revision TKA for PJI.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
