@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-20T14:27:32+00:00",
+  "updated_at_utc": "2026-11-21T02:21:27+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -2429,6 +2429,138 @@
     "doi:10.1016/j.jbspin.2026.106154": {
       "en": "Are Cannabis and Cannabinoids a Valid Treatment Option in Patients with Rheumatic Diseases? A narrative review.",
       "vi": "Cannabis và Cannabinoids có phải là một phương pháp điều trị hợp lệ trong bệnh nhân với bệnh Rheumatic?"
+    },
+    "doi:10.1097/corr.0000000000004201": {
+      "en": "Task-specific Humeral Head Translation Is Associated With Neuromuscular Recruitment Deficits in Multidirectional Shoulder Instability.",
+      "vi": "Bản dịch đặc biệt của công việc là kết hợp với sự suy giảm thần kinh trong việc định hướng vai trò."
+    },
+    "doi:10.2340/17453674.2026.47063": {
+      "en": "Need for removal of flexible intramedullary nails used to treat femoral shaft fractures in children: an observational study of 55 children with a minimum of 5-year follow-up.",
+      "vi": "Cần phải loại bỏ những móng tay có tính linh hoạt dùng để chữa gãy xương đùi ở trẻ em: một nghiên cứu quan sát 55 trẻ em với ít nhất 5 năm tiếp theo."
+    },
+    "doi:10.1007/s00256-026-05447-1": {
+      "en": "Multicenter external validation of CT-based deep learning for proximal femoral fracture classification and quantitative fracture-line assessment.",
+      "vi": "Bên ngoài có nhiều hợp lệ hơn về việc nghiên cứu sâu dựa trên chụp cắt lớp về phân loại xương đùi và đánh giá các vết gãy ở mạch."
+    },
+    "doi:10.1007/s12178-026-10071-6": {
+      "en": "Current Reviews in Musculoskeletal Medicine Innovative Techniques in Knee Preservation: Osteotomy about the Knee: The Advent of Patient Specific Instrumentation (PSI).",
+      "vi": "Các cuộc khảo sát hiện nay trong tạp chí Musculoskeleal Medicine Innovative Techniques in knee Preseration: Bộ não bị cắt bỏ: Tổ chức giáo dục đặc biệt của bệnh nhân (PSI)."
+    },
+    "doi:10.1007/s11657-026-01808-4": {
+      "en": "Agreement between FRAX-based treatment decisions with and without bone mineral density and factors influencing discordance in Sri Lanka.",
+      "vi": "Hợp đồng giữa các quyết định điều trị dựa trên FRAX và không có mật độ khoáng chất xương và yếu tố ảnh hưởng tới sự bất hòa ở Sri Lanka."
+    },
+    "doi:10.1016/j.knee.2026.104685": {
+      "en": "Where does your allograft tissue come from? Allograft use in reconstructive orthopaedic surgery: A review of the NHSBT provision of musculoskeletal allografts in the UK.",
+      "vi": "Các mô chất gây ung thư của bạn đến từ đâu? Tất cả đều được sử dụng trong phẫu thuật chỉnh hình: một bài phê bình về sự sắp đặt của NHSBT của musculoskelelefts ở Anh."
+    },
+    "doi:10.1016/j.jse.2026.11.038": {
+      "en": "The Latarjet with Anterior Capsular Shift for Anterior Shoulder Instability in Hypermobile Ehlers-Danlos Syndrome: A Case Series.",
+      "vi": "Latarjet với một ca chuyển tiếp nội bộ cho cơ quan nội vụ Niner Bất khả thi trong hội chứng Hypermobile Ehlers-Danlos: một giải đấu."
+    },
+    "doi:10.1007/s12178-026-10065-4": {
+      "en": "Targeting Medial Leg Pain in Athletes: Distinguishing Between Medial Tibial Stress Syndrome and Tibialis Posterior Tendinopathy.",
+      "vi": "Cơn đau chân phương tiện truyền thông ở Athletes: Phân biệt giữa hội chứng căng thẳng Mê - đi Ti - ba - li và bệnh đau lưng sau lưng."
+    },
+    "doi:10.1016/j.jse.2026.11.035": {
+      "en": "Surgical Treatment of Trans-ulnar Basal Coronoid Fracture-Dislocations: Clinical and Radiographic Outcomes in 34 Patients at a Mean 4-Year Follow-up.",
+      "vi": "Điều trị phẫu thuật cho Trans-ulnar Basal Coronoid - Ditacations: phòng khám và phóng xạ kết quả trong 34 bệnh nhân tại một trung tâm 4-Year theo dõi."
+    },
+    "doi:10.1016/j.jse.2026.11.041": {
+      "en": "Subscapularis Healing and the Associated Impact on Outcomes Following Reverse Shoulder Arthroplasty.",
+      "vi": "Phương pháp chữa bệnh phụ và tác động cộng tác lên những kết quả sau Reverse Niner Artroplasty."
+    },
+    "doi:10.1371/journal.pone.0362560": {
+      "en": "Sensorimotor representation in adolescents with idiopathic scoliosis compared with healthy controls: Proprioception, tactile acuity, left-right judgment, and motor imagery.",
+      "vi": "Hình ảnh cảm biến ở thanh thiếu niên với chứng xơ cứng cổ so với kiểm soát lành mạnh: thụ cảm, cảm giác khiếm khuyết, nhận thức bên trái, và hình ảnh động cơ."
+    },
+    "doi:10.1016/j.jse.2026.11.037": {
+      "en": "Propensity-Matched Comparison of Stemless and Stemmed Anatomic Total Shoulder Arthroplasty in Patients Over 70 Years of Age.",
+      "vi": "Chủ trương so sánh độc quyền của Stemless và Stemmed Anatomic Toer Artroplasy trong bệnh nhân hơn 70 năm tuổi."
+    },
+    "doi:10.1007/s00402-026-06567-y": {
+      "en": "Prolonged prophylactic antibiotic regimens may reduce periprosthetic infection in megaprosthetic reconstruction: a case series.",
+      "vi": "Thuốc kháng sinh kéo dài có thể làm giảm sự nhiễm trùng ngoại cảm trong quá trình tái tạo cực đại: một loạt trường hợp."
+    },
+    "doi:10.1016/j.jse.2026.11.032": {
+      "en": "Prior Clostridioides difficile Infection Is Associated with Infectious Complications Following Total Shoulder Arthroplasty.",
+      "vi": "Trước khi Clostrididoides di truyền nhiễm trùng là kết hợp với các biến chứng phức tạp theo sau Tổng số bệnh nhân là người Artroplasty."
+    },
+    "doi:10.1007/s00402-026-06554-3": {
+      "en": "Pericapsular nerve group versus quadratus lumborum block for hip surgery: a systematic review and meta-analysis of randomized controlled trials.",
+      "vi": "Nhóm dây thần kinh ngoại cảm so với khối tứ diện cho phẫu thuật hông: một bài kiểm tra hệ thống và phân tích siêu vi của các thử nghiệm kiểm soát ngẫu nhiên."
+    },
+    "doi:10.2340/17453674.2026.47125": {
+      "en": "Patient, surgeon, and institutional variation in implant selection at first-time aseptic revision knee arthroplasty: a registry-based study from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, and the Channel Islands.",
+      "vi": "Bệnh nhân, bác sĩ phẫu thuật, và các tổ chức biến thể trong sự lựa chọn cấy ghép tại thời điểm đầu tiên trong quá trình chỉnh sửa động mạch đầu gối: một nghiên cứu dựa trên danh sách đăng ký đăng ký quốc gia cho Anh, Wales, Bắc Ireland, Đảo Man, và quần đảo Channel."
+    },
+    "doi:10.1002/ccr3.73896": {
+      "en": "Novel Application of Fish-Derived Acellular Matrix in Dural Repair and Scalp Reconstruction Following Subdural Empyema.",
+      "vi": "Ứng dụng mới nhất của Ma Trận Hình Viên Cá trong công trình sửa chữa Dural và Scap Rect Recytion theo sau Empyema phụ thuộc."
+    },
+    "doi:10.1136/bcr-2026-272642": {
+      "en": "Neglected posteromedial elbow dislocation managed with implant-free bony and soft-tissue reconstruction.",
+      "vi": "Bị bỏ quên, khuỷu tay bị trật khớp với việc tái tạo tinh bột không cần cấy ghép và mềm mại."
+    },
+    "doi:10.1007/s10926-026-10466-9": {
+      "en": "Musculoskeletal Pain Management in Physically Demanding Work: Workplace Practices, Social Relations, and Opportunities for Adjustment.",
+      "vi": "Quản lý giảm đau Musculoskeleleal trong công việc đòi hỏi về thể chất: Thực hành nơi làm việc, mối quan hệ xã hội và cơ hội để điều chỉnh."
+    },
+    "doi:10.1016/j.knee.2026.104686": {
+      "en": "Mid-term outcomes of medial patellofemoral ligament reconstruction using suture tape in paediatric and adolescent population: a case series.",
+      "vi": "Kết quả giữa kỳ của dây chuyền truyền thông patellofeciment sử dụng băng khâu trong tiểu đường và thanh thiếu niên: một loạt trường hợp."
+    },
+    "doi:10.1177/19386400261501376": {
+      "en": "Functional and Magnetic Resonance Imaging Outcomes After Cell-Free Collagen Matrix Treatment for Osteochondral Lesions of the Talus: A Multicentered Retrospective Clinical and Radiological Study.",
+      "vi": "Sự cộng tác giữa hàm và từ tính sau khi xử lý ma trận tự do của tế bào với ma trận đối với chủ nghĩa ngoại giao của công ty, một cuộc nghiên cứu đa khoa về sức khỏe và phóng xạ."
+    },
+    "doi:10.1016/j.jse.2026.11.034": {
+      "en": "Clinical and Radiographic Outcomes of Suture Anchor Repair versus Transarticular Kirschner Wire Fixation of the Acromioclavicular Joint in Acute High-grade Dislocation: A Randomized Clinical Trial.",
+      "vi": "Kết quả khám nghiệm và phóng xạ của việc sửa chữa Suture Anchor so với sự sửa chữa của bộ phận cơ khí xuyên đại học Kirartner của Hiệp hội Acromicomal In Acut High-gradate: một thử nghiệm lâm sàng ngẫu nhiên."
+    },
+    "doi:10.1016/j.jse.2026.11.036": {
+      "en": "CT-Based Morphology and Outcomes After ORIF of Humeral Head Articular Fractures.",
+      "vi": "Thuốc giảm đau chụp cắt lớp và kết quả sau khi phẫu thuật cắt lớp."
+    },
+    "doi:10.1097/corr.0000000000004210": {
+      "en": "CORR Insights®: What Do National Joint Replacement Registries Fail to Collect? The Critical Value of Recording Preoperative Alignment for Prediction of Revision After TKA: A Nested-model Analysis of Registry-only versus Seldom- and Never-recorded Variables.",
+      "vi": "Danh sách thay thế quốc gia thất bại trong việc thu thập những gì? Giá trị quan trọng của việc thu gọn các biến số chính xác cho dự đoán của revision After TKA: một phân tích tổ chức-mot-del chỉ so với Seldory- và không bao giờ được ghi lại."
+    },
+    "doi:10.1097/corr.0000000000004207": {
+      "en": "CORR Insights®: A Novel Scoring System Can Estimate the Risk of Posttraumatic Osteonecrosis After Femoral Neck Fracture Fixation in Adults Younger Than 65 Years.",
+      "vi": "CORR Insights Insights: Một hệ thống khắc phục tiểu đường có thể ước tính mối nguy hiểm của bệnh xơ cứng cổ sau khi bị rối loạn tâm thần ở cổ, trẻ vị thành niên hơn 65 năm."
+    },
+    "doi:10.1371/journal.pone.0350546": {
+      "en": "Barriers and facilitators for collecting spine registry data in rehabilitation practice: Interpretive description of perspectives from patient, clinicians, and policy-makers in Canada.",
+      "vi": "Các rào chắn và tổ chức hỗ trợ thu thập dữ liệu đăng ký cột sống trong thực hành phục hồi chức năng: mô tả gián tiếp các quan điểm từ bệnh nhân, các bác sĩ, và các nhà hoạch định chính sách ở Canada."
+    },
+    "doi:10.1002/ars2.70166": {
+      "en": "Earlier and More Criteria-Based Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction in North America Compared With the Asia-Pacific Region: A Systematic Review.",
+      "vi": "Trước đó và nhiều Criteria-Based Return to Sport After Pediatric A side Recistment Ligament in North America so sánh với khu vực Châu Á-Pacifity: A Systemal Review."
+    },
+    "doi:10.1016/j.artd.2026.102215": {
+      "en": "Practice Patterns in Femoral Rotational Decision-Making During Total Knee Arthroplasty: A Cross-Sectional Survey Among Brazilian Knee Surgeons.",
+      "vi": "Một cuộc khảo sát chéo giữa các bác sĩ phẫu thuật đầu gối Brazil."
+    },
+    "doi:10.1016/j.artd.2026.102200": {
+      "en": "Bullous Pemphigoid Following Total Hip Arthroplasty With Subsequent Prosthetic Joint Infection: Literature Review.",
+      "vi": "Bullous Pemphigoid theo sau toàn bộ Hip Artroplasy với sau đó Prosthetic Inpist: Biblical Review."
+    },
+    "doi:10.3389/fsurg.2026.1996599": {
+      "en": "Endoscope-assisted vs. conventional anterior cervical discectomy and fusion for single-level degenerative cervical disease: a systematic review and meta-analysis.",
+      "vi": "Hệ thống giám sát ống kính đối với việc cắt bỏ ngực trước và hợp hạch cho một căn bệnh thoái hóa cấp độ một: một bài phê bình hệ thống và phân tích dị ứng."
+    },
+    "doi:10.3389/fsurg.2026.1919551": {
+      "en": "Case Report: Combined anterior and posterior open synovectomy for recurrent primary synovial chondromatosis of the knee in a female young adult.",
+      "vi": "Báo cáo: kết hợp cơ quan nội thất và phẫu thuật cắt ống dẫn tinh mở để tái phát tế bào cộng hưởng chính của đầu gối trong một phụ nữ trưởng thành."
+    },
+    "doi:10.3389/fsurg.2026.1942011": {
+      "en": "Locking plate fixation with cerclage augmentation and bone grafting for Vancouver B2 periprosthetic femoral fractures around cementless stems: a surgical option in elderly high-risk patients unsuitable for revision arthroplasty (mid-term outcomes).",
+      "vi": "Khóa đĩa sửa chữa bằng cách tăng cường cerclage và ghép xương cho các xương đùi mũi B2 xung quanh thân cây không xi măng: một lựa chọn phẫu thuật trong các bệnh nhân nguy cơ cao tuổi không phù hợp với việc chỉnh sửa động mạch chủ (kết quả hạn định)."
+    },
+    "doi:10.3389/fsurg.2026.1874076": {
+      "en": "Health resource utilization and direct procedural costs of arthroplasty surgery: a retrospective cost analysis.",
+      "vi": "Sử dụng tài nguyên y tế và chi phí tiền sử dụng trực tiếp của phẫu thuật động mạch: một phân tích lại chi phí."
     }
   }
 }
