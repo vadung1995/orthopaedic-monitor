@@ -1,29 +1,29 @@
 ﻿journal,status,jif,year,source,sjr_status,sjr_q,sjr_year,sjr_source,last_attempt
-3D Printing and Additive Manufacturing,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Academic Radiology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Acta Chirurgica Belgica,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Acta Orthopaedica,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Acta Orthopaedica Belgica,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Acta Radiologica,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Age and Ageing,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Alexandria Journal of Medicine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-American Journal of Case Reports,verified_by_refresh,0.8,2025,https://amjcaserep.com/index/section/sn/CR,not_verified,,,,Not checked in this scheduled batch
-American Journal of Emergency Medicine,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-emergency-medicine-the-675,not_verified,,,,Not checked in this scheduled batch
-American Journal of the Medical Sciences,verified_by_refresh,2.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-the-medical-sciences-316,not_verified,,,,Not checked in this scheduled batch
-Annali Italiani di Chirurgia,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Annals of Joint,verified_by_refresh,2.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-joint-17388,not_verified,,,,Not checked in this scheduled batch
-Annals of Medicine and Surgery,verified_by_refresh,1.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-medicine-and-surgery-16291,not_verified,,,,Not checked in this scheduled batch
-Annals of Oncology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Annals of Surgery,verified_by_refresh,7.4,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/annals-of-surgery-608,not_verified,,,,Not checked in this scheduled batch
-Annals of Surgical Oncology,verified_by_refresh,3.8,2025,https://link.springer.com/journal/10434?error=cookies_not_supported&code=f2227b14-188b-412c-85e5-1103a3dc0a3b,not_verified,,,,Not checked in this scheduled batch
-Annals of Surgical Treatment and Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Annals of the Royal College of Surgeons of England,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-the-royal-college-of-surgeons-of-england-1761,not_verified,,,,Not checked in this scheduled batch
-ANZ Journal of Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Archives of Bone and Joint Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Archives of Medical Science,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Archives of Orthopaedic and Trauma Surgery,verified_by_refresh,2.2,2025,https://link.springer.com/journal/402?error=cookies_not_supported&code=44319a1b-97f4-45c8-bf2a-79c2221fd532,not_verified,,,,Not checked in this scheduled batch
-Archives of Osteoporosis,verified_by_refresh,2.7,2025,https://link.springer.com/journal/11657?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=8aefacfb-ae17-4bb0-ae5a-3fb7e03ac1a9,not_verified,,,,Not checked in this scheduled batch
-Arthroplasty Today,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+3D Printing and Additive Manufacturing,not_verified,,,,not_verified,,,,HTTPError: https://home.liebertpub.com/publications/3d-printing-and-additive-manufacturing/621
+Academic Radiology,not_verified,,,,not_verified,,,,HTTPError: https://www.academicradiology.org/
+Acta Chirurgica Belgica,not_verified,,,,not_verified,,,,HTTPError: https://www.tandfonline.com/journals/tacb20
+Acta Orthopaedica,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://actaorthop.org/actao/index
+Acta Orthopaedica Belgica,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.actaorthopaedica.be/
+Acta Radiologica,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/overview-metric/ACR
+Age and Ageing,not_verified,,,,not_verified,,,,HTTPError: https://academic.oup.com/ageing
+Alexandria Journal of Medicine,not_verified,,,,not_verified,,,,HTTPError: https://www.tandfonline.com/journals/tajm
+American Journal of Case Reports,verified_by_refresh,0.8,2025,https://amjcaserep.com/index/section/sn/CR,not_verified,,,,no_year_labeled_2yr_jif_found: https://amjcaserep.com/
+American Journal of Emergency Medicine,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-emergency-medicine-the-675,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-american-journal-of-emergency-medicine
+American Journal of the Medical Sciences,verified_by_refresh,2.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/american-journal-of-the-medical-sciences-316,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-american-journal-of-the-medical-sciences
+Annali Italiani di Chirurgia,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.annaliitalianidichirurgia.it/journal/AIC
+Annals of Joint,verified_by_refresh,2.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-joint-17388,not_verified,,,,journal_title_not_confirmed: https://aoj.amegroups.org/
+Annals of Medicine and Surgery,verified_by_refresh,1.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-medicine-and-surgery-16291,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/annals-of-medicine-and-surgery/pages/default.aspx
+Annals of Oncology,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/annals-of-oncology
+Annals of Surgery,verified_by_refresh,7.4,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/annals-of-surgery-608,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/annalsofsurgery/pages/default.aspx
+Annals of Surgical Oncology,verified_by_refresh,3.8,2025,https://link.springer.com/journal/10434?error=cookies_not_supported&code=f2227b14-188b-412c-85e5-1103a3dc0a3b,not_verified,,,,verified
+Annals of Surgical Treatment and Research,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://astr.or.kr/index.php?body=about
+Annals of the Royal College of Surgeons of England,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/annals-of-the-royal-college-of-surgeons-of-england-1761,not_verified,,,,HTTPError: https://publishing.rcseng.ac.uk/journal/ann
+ANZ Journal of Surgery,not_verified,,,,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/14452197
+Archives of Bone and Joint Surgery,not_verified,,,,not_verified,,,,URLError: https://abjs.mums.ac.ir/
+Archives of Medical Science,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.termedia.pl/Journal/ArchivesofMedicalScience-19
+Archives of Orthopaedic and Trauma Surgery,verified_by_refresh,2.2,2025,https://link.springer.com/journal/402?error=cookies_not_supported&code=44319a1b-97f4-45c8-bf2a-79c2221fd532,not_verified,,,,verified
+Archives of Osteoporosis,verified_by_refresh,2.7,2025,https://link.springer.com/journal/11657?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=8aefacfb-ae17-4bb0-ae5a-3fb7e03ac1a9,not_verified,,,,verified
+Arthroplasty Today,not_verified,,,,not_verified,,,,HTTPError: https://www.arthroplastytoday.org/
 Arthroscopy,verified_by_refresh,6.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/arthroscopy-17693,not_verified,,,,Not checked in this scheduled batch
 "Arthroscopy, Sports Medicine, and Rehabilitation",not_verified,,,,not_verified,,,,Not checked in this scheduled batch
 Arthroscopy Techniques,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
@@ -59,198 +59,198 @@ Clinics in Shoulder and Elbow,not_verified,,,,not_verified,,,,Not checked in thi
 Critical Reviews in Oncology/Hematology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
 Current Medical Science,verified_by_refresh,2.0,2025,https://link.springer.com/journal/11596?error=cookies_not_supported&code=3cbaf506-e1c4-40d7-a605-8f7fd53648df,not_verified,,,,Not checked in this scheduled batch
 Current Orthopaedic Practice,verified_by_refresh,0.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/current-orthopaedic-practice-594,not_verified,,,,Not checked in this scheduled batch
-Current Problems in Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/current-problems-in-surgery
-Current Reviews in Musculoskeletal Medicine,verified_by_refresh,5.0,2025,https://link.springer.com/journal/12178?error=cookies_not_supported&code=d262fa8d-c8a0-4004-8346-414206beb1e2,not_verified,,,,verified
-Current Sports Medicine Reports,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/current-sports-medicine-reports-4184,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/acsm-csmr/pages/default.aspx
-Current Surgery Reports,verified_by_refresh,0.9,2025,https://link.springer.com/journal/40137?error=cookies_not_supported&code=ded6c2eb-8a96-427e-b473-000f2a1fdf5e,not_verified,,,,verified
-Current Trauma Reports,verified_by_refresh,2.5,2025,https://link.springer.com/journal/40719?error=cookies_not_supported&code=28c38385-d6aa-4147-99f5-3d500e225b45,not_verified,,,,verified
-Diseases (MDPI),verified_by_refresh,3.7,2025,https://www.mdpi.com/journal/diseases/imprint,not_verified,,,,journal_title_not_confirmed: https://www.mdpi.com/journal/diseases
-Egyptian Journal of Radiology and Nuclear Medicine,verified_by_refresh,0.9,2025,https://link.springer.com/journal/43055?error=cookies_not_supported&code=005a071b-de5f-4c36-87b4-dcb164bd7c3f,not_verified,,,,verified
-European Journal of Cancer,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/european-journal-of-cancer
-European Journal of Medical Research,verified_by_refresh,4.8,2025,https://link.springer.com/journal/40001?error=cookies_not_supported&code=1c1aeae8-6e35-4d94-822a-1fa88272a372,not_verified,,,,verified
-European Journal of Orthopaedic Surgery and Traumatology,verified_by_refresh,1.7,2025,https://link.springer.com/journal/590?error=cookies_not_supported&code=08c9b7f5-a030-41a0-b262-ef8157b23939,not_verified,,,,verified
-European Journal of Radiology,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/european-journal-of-radiology
-European Journal of Surgical Oncology,verified_by_refresh,3.5,2025,https://www.essoweb.org/about/european-journal-of-surgical-oncology/,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/european-journal-of-surgical-oncology
-European Journal of Trauma and Emergency Surgery,verified_by_refresh,2.3,2025,https://link.springer.com/journal/68?error=cookies_not_supported&code=9fb43f12-a71b-4810-b973-b1831a424e77,not_verified,,,,verified
-European Radiology,verified_by_refresh,6.0,2025,https://link.springer.com/journal/330?error=cookies_not_supported&code=981bda16-b9a2-48bc-b326-793b55966efd,not_verified,,,,verified
-European Radiology Experimental,verified_by_refresh,4.7,2025,https://link.springer.com/journal/41747?error=cookies_not_supported&code=0bc927fa-ebba-404f-a109-fd44006a1461,not_verified,,,,verified
-European Spine Journal,verified_by_refresh,3.2,2025,https://link.springer.com/journal/586?error=cookies_not_supported&code=e56c1afa-067e-487d-b613-85e8fa25dd19,not_verified,,,,verified
-European Surgery,verified_by_refresh,0.9,2025,https://link.springer.com/journal/10353?error=cookies_not_supported&code=0e9badf7-ceb5-4557-a891-f4f6abbaaa19,not_verified,,,,verified
-Folia Morphologica,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://journals.viamedica.pl/foliamorphologica/index
-Foot & Ankle International,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/FAI
-Foot & Ankle Orthopaedics,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/fao
-Foot & Ankle Specialist,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/FAS
-Foot and Ankle Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/foot-and-ankle-surgery
-Frontiers in Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.frontiersin.org/journals/surgery
-Geriatric Orthopaedic Surgery & Rehabilitation,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/GOS
-Geriatrics (MDPI),verified_by_refresh,2.4,2025,https://www.mdpi.com/journal/geriatrics/imprint,not_verified,,,,journal_title_not_confirmed: https://www.mdpi.com/journal/geriatrics
-Global Spine Journal,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/gsj
-Hand Surgery and Rehabilitation,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/hand-surgery-and-rehabilitation
-HIP International,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/hpi
-HSS Journal,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/hss-journal---the-musculoskeletal-journal-of-hospital-for-special-surgery-16673,not_verified,,,,HTTPError: https://journals.sagepub.com/home/HSS
-IMAGING,not_verified,,,,not_verified,,,,HTTPError: https://www.akjournals.com/view/journals/1647/1647-overview.xml
-Indian Journal of Orthopaedics,verified_by_refresh,1.3,2025,https://link.springer.com/journal/43465?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=106e2dff-e1de-483c-9ce5-9632a3c615ba,not_verified,,,,verified
-Indian Journal of Surgery,verified_by_refresh,0.3,2025,https://link.springer.com/journal/12262?utmsource=slink&utmmedium=journalfinder&error=cookies_not_supported&code=bd358e3c-17d8-4f3f-b9d9-cdd0aac22db5,not_verified,,,,verified
-Infection,verified_by_refresh,3.9,2025,https://link.springer.com/journal/15010?error=cookies_not_supported&code=3d42741d-2f64-45bd-a49e-ba898e2eeede,not_verified,,,,verified
-Injury,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/injury/issues
-Insights into Imaging,verified_by_refresh,5.6,2025,https://link.springer.com/journal/13244?error=cookies_not_supported&code=6ce6cd1c-c235-4706-a960-4db5ad43798a,not_verified,,,,verified
-International Journal of Burns and Trauma,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://e-century.us/web/journal.php?journal=ijbt
-International Journal of Computer Assisted Radiology and Surgery,verified_by_refresh,2.8,2025,https://link.springer.com/journal/11548?error=cookies_not_supported&code=5f8561bb-c29c-4ba3-935a-aa869b3aad81,not_verified,,,,verified
-International Journal of Medical Robotics and Computer Assisted Surgery,not_verified,,,,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/1478596x
-International Journal of Orthopaedic and Trauma Nursing,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/international-journal-of-orthopaedic-and-trauma-nursing
-International Journal of Rheumatic Diseases,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-rheumatic-diseases-4650,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/1756185x
-International Journal of Surgery,verified_by_refresh,9.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-16128,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/international-journal-of-surgery/pages/aboutthejournal.aspx
-International Journal of Surgery Case Reports,verified_by_refresh,0.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-case-reports-17451,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/international-journal-of-surgery-case-reports
-International Orthopaedics,verified_by_refresh,2.4,2025,https://link.springer.com/journal/264?error=cookies_not_supported&code=df8e2a99-a294-4854-8e19-9ff66f7d180e,not_verified,,,,verified
-International Surgery,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://international-surgery.kglmeridian.com/
-Irish Journal of Medical Sciences,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://link.springer.com/journal/11845
-Japanese Journal of Radiology,verified_by_refresh,4.6,2025,https://link.springer.com/journal/11604?error=cookies_not_supported&code=3d22bb20-709a-4617-b133-b64ef55431b5,not_verified,,,,verified
-JBJS Open Access,verified_by_refresh,4.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/jbjs-open-access-14015,not_verified,,,,HTTPError: https://journals.lww.com/jbjsopenaccess/
-Joint Bone Spine,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/joint-bone-spine
-Joint Commission Journal on Quality and Patient Safety,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-joint-commission-journal-on-quality-and-patient-safety
-JOS Case Reports,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/jos-case-reports/about/insights
-Journal de traumatologie du sport,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-de-traumatologie-du-sport
-Journal of Arthroplasty,verified_by_refresh,4.4,2025,https://www.arthroplastyjournal.org/,not_verified,,,,HTTPError: https://www.arthroplastyjournal.org/
-Journal of Biomechanics,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-biomechanics
-Journal of Bodywork and Movement Therapies,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-bodywork-and-movement-therapies
-Journal of Bone and Joint Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.jbjs.org
-Journal of Bone and Mineral Research,verified_by_refresh,6.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-bone-and-mineral-research-16711,not_verified,,,,HTTPError: https://academic.oup.com/jbmr/pages/about
-Journal of Cartilage and Joint Preservation,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-cartilage-and-joint-preservation
-Journal of Children's Orthopaedics,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/jco
-Journal of Clinical and Translational Science,verified_by_refresh,2.7,2025,https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science,not_verified,,,,verified
-Journal of Clinical Medicine (MDPI),not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://www.mdpi.com/journal/jcm
-Journal of Clinical Orthopaedics and Trauma,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-clinical-orthopaedics-and-trauma
-Journal of Evaluation in Clinical Practice,verified_by_refresh,1.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-evaluation-in-clinical-practice-1058,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/13652753
-Journal of Experimental Orthopaedics,verified_by_refresh,3.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-experimental-orthopaedics-17155,not_verified,,,,HTTPError: https://esskajournals.onlinelibrary.wiley.com/journal/21971153
-Journal of Foot and Ankle Surgery,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-foot--ankle-surgery-3431,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-journal-of-foot-and-ankle-surgery
-Journal of Hand and Microsurgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-hand-and-microsurgery
-Journal of Hand Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-journal-of-hand-surgery
-Journal of Hand Surgery Asian-Pacific Volume,not_verified,,,,not_verified,,,,HTTPError: https://www.worldscientific.com/worldscinet/jhs
-Journal of Hand Therapy,verified_by_refresh,1.8,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-hand-therapy-4208,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-hand-therapy
-Journal of Healthcare Quality Research,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-healthcare-quality-research
-Journal of Hip Preservation Surgery,verified_by_refresh,1.6,2025,https://academic.oup.com/jhps/pages/about,not_verified,,,,HTTPError: https://academic.oup.com/jhps
-Journal of Imaging,verified_by_refresh,3.8,2025,https://www.mdpi.com/journal/jimaging/imprint,not_verified,,,,journal_title_not_confirmed: https://www.mdpi.com/journal/jimaging/instructions#transferservice
-Journal of Infection and Chemotherapy,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-infection-and-chemotherapy
-Journal of International Medical Research,verified_by_refresh,1.8,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-international-medical-research-17672,not_verified,,,,HTTPError: https://journals.sagepub.com/home/IMR
-Journal of Medical Case Reports,verified_by_refresh,0.8,2025,https://link.springer.com/journal/13256?error=cookies_not_supported&code=e4e18cfc-a32a-4060-bee1-5793952cb2da,not_verified,,,,verified
-Journal of Medical Imaging,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/author-guidelines#navBarAnchor
-Journal of Musculoskeletal Surgery and Research,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://journalmsr.com/category/technical-note/
-Journal of Neurosurgery: Spine,not_verified,,,,not_verified,,,,HTTPError: https://thejns.org/spine
-Journal of Occupational and Environmental Medicine,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-occupational-and-environmental-medicine-239,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/joem/Pages/informationforauthors.aspx
-Journal of Occupational Rehabilitation,verified_by_refresh,2.7,2025,https://link.springer.com/journal/10926?error=cookies_not_supported&code=0384df24-efb2-4468-b1af-8814728b1417,not_verified,,,,verified
-Journal of Orthopaedic & Sports Physical Therapy,verified_by_refresh,6.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic--sports-physical-therapy-11939,not_verified,,,,HTTPError: https://www.jospt.org/
-Journal of Orthopaedic Reports,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-orthopaedic-reports
-Journal of Orthopaedic Research,verified_by_refresh,2.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic-research-10018,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/1554527X
-Journal of Orthopaedic Science,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-orthopaedic-science/about/insights
-Journal of Orthopaedic Surgery,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/OSJ
-Journal of Orthopaedic Surgery and Research,verified_by_refresh,3.8,2025,https://link.springer.com/journal/13018?error=cookies_not_supported&code=88965539-eaa2-4319-9d1b-2bb2a3b706ad,not_verified,,,,verified
-Journal of Orthopaedic Translation,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-orthopaedic-translation
-Journal of Orthopaedic Trauma,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/ko-kr/solutions/ovid/journal-of-orthopaedic-trauma-589,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/jorthotrauma/Pages/aboutthejournal.aspx
-Journal of Orthopaedics,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-orthopaedics
-Journal of Orthopaedics and Traumatology,verified_by_refresh,4.5,2025,https://link.springer.com/journal/10195?error=cookies_not_supported&code=62246e73-1314-40ac-a94f-7cb7c9b6ff23,not_verified,,,,verified
-"Journal of Orthopaedics, Trauma and Rehabilitation",not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/OTR
-Journal of Orthopedic and Spine Trauma,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://jost.tums.ac.ir/index.php/jost/index
-Journal of Osteopathic Medicine,verified_by_refresh,1.3,2025,https://www.degruyterbrill.com/journal/key/jom/html,not_verified,,,,HTTPError: https://www.degruyterbrill.com/journal/key/jom/html#issues
-Journal of Patient-Reported Outcomes,verified_by_refresh,2.9,2025,https://link.springer.com/journal/41687?error=cookies_not_supported&code=5975f931-2a8b-499d-a00a-2598102e6c61,not_verified,,,,verified
-Journal of Pharmacy and Bioallied Sciences,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/JPBS/Pages/informationforauthors.aspx
-Journal of Robotic Surgery,verified_by_refresh,4.2,2025,https://link.springer.com/journal/11701?error=cookies_not_supported&code=4b9293e9-48f2-49fd-8ece-e4d4cbdd18c9,not_verified,,,,verified
-Journal of Shoulder and Elbow Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-shoulder-and-elbow-surgery
-Journal of Sport Rehabilitation,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://journals.humankinetics.com/view/journals/jsr/jsr-overview.xml?tab_body=author-guidelines#OA
-Journal of Sports Sciences,not_verified,,,,not_verified,,,,HTTPError: https://www.tandfonline.com/journals/rjsp20
-Journal of Surgical Case Reports,verified_by_refresh,0.5,2025,https://academic.oup.com/jscr/pages/About,not_verified,,,,HTTPError: https://academic.oup.com/jscr/pages/reasons-to-submit
-Journal of Surgical Education,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-surgical-education
-Journal of Surgical Research,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-surgical-research
-Journal of Telemedicine and Telecare,verified_by_refresh,3.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-telemedicine-and-telecare-15523,not_verified,,,,HTTPError: https://journals.sagepub.com/home/JTT
-Journal of the American Academy of Orthopaedic Surgeons,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://journals.lww.com/jaaos/pages/default.aspx
-Journal of the American Medical Directors Association,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-the-american-medical-directors-association
-Journal of the Formosan Medical Association,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-the-formosan-medical-association
-Journal of Trauma and Acute Care Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/jtrauma/Pages/instructionsforauthors.aspx
-Journal of Ultrasound in Medicine,verified_by_refresh,2.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ultrasound-in-medicine-14154,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/15509613
-Knee Surgery & Related Research,verified_by_refresh,4.9,2025,https://link.springer.com/journal/43019?error=cookies_not_supported&code=1dcaf337-91b5-45c0-ac76-31e6ab578bd8,not_verified,,,,verified
-"Knee Surgery, Sports Traumatology, Arthroscopy",not_verified,,,,not_verified,,,,HTTPError: https://esskajournals.onlinelibrary.wiley.com/journal/14337347
-La Radiologia Medica,verified_by_refresh,5.3,2025,https://link.springer.com/journal/11547?error=cookies_not_supported&code=b6514268-c44d-4fde-8d71-d98c8d144528,not_verified,,,,verified
-Life,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Magnetic Resonance Imaging,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Medical Archives,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Medicine,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/medicine-626,not_verified,,,,Not checked in this scheduled batch
-Medicine & Science in Sports & Exercise,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Microsurgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Minerva Orthopedics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Minerva Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Muscle & Nerve,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/muscle-nerve-9871,not_verified,,,,Not checked in this scheduled batch
-"Muscles, Ligaments and Tendons Journal",not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Musculoskeletal Care,verified_by_refresh,1.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/musculoskeletal-care-9872,not_verified,,,,Not checked in this scheduled batch
-Musculoskeletal Science and Practice,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Musculoskeletal Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Occupational Medicine,verified_by_refresh,2.4,2025,https://academic.oup.com/occmed/pages/About,not_verified,,,,Not checked in this scheduled batch
-Orthopaedic Journal of Sports Medicine,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-journal-of-sports-medicine-17472,not_verified,,,,Not checked in this scheduled batch
-Orthopaedic Nursing,verified_by_refresh,0.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-nursing-1086,not_verified,,,,Not checked in this scheduled batch
-Orthopaedic Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Orthopaedics and Trauma,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Orthopaedics & Traumatology: Surgery & Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Orthopedics,verified_by_refresh,1.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopedics-2733,not_verified,,,,Not checked in this scheduled batch
-Osteoarthritis and Cartilage,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Osteoporosis International,verified_by_refresh,5.4,2025,https://link.springer.com/journal/198?error=cookies_not_supported&code=aec70a3a-3986-4c8e-a285-4d81251d56e9,not_verified,,,,Not checked in this scheduled batch
-OTA International,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-PeerJ,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Physical Therapy in Sport,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Pirogov Russian Journal of Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Plastic and Reconstructive Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-PLOS ONE,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Quality Management in Healthcare,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/solutions/ovid/quality-management-in-healthcare-1087,not_verified,,,,Not checked in this scheduled batch
-Quality of Life Research,verified_by_refresh,3.4,2025,https://link.springer.com/journal/11136?error=cookies_not_supported&code=308eedf5-6ece-4083-b3fc-e445dafaee64,not_verified,,,,Not checked in this scheduled batch
-Quantitative Imaging in Medicine and Surgery,verified_by_refresh,2.8,2025,https://www.wolterskluwer.com/en/solutions/ovid/quantitative-imaging-in-medicine-and-surgery-17422,not_verified,,,,Not checked in this scheduled batch
-Radiología,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Radiology,verified_by_refresh,17.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/radiology-17702,not_verified,,,,Not checked in this scheduled batch
-Radiology: Artificial Intelligence,verified_by_refresh,20.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/radiology--artificial-intelligence-17704,not_verified,,,,Not checked in this scheduled batch
-Radiotherapy and Oncology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Revue de Chirurgie Orthopedique et Traumatologique,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Rheumatology International,verified_by_refresh,3.5,2025,https://link.springer.com/journal/296?error=cookies_not_supported&code=e2679846-0376-407c-9823-2e22ef0e190b,not_verified,,,,Not checked in this scheduled batch
-SAGE Open Medical Case Reports,verified_by_refresh,0.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/sage-open-medical-case-reports-17597,not_verified,,,,Not checked in this scheduled batch
-SAGE Open Medicine,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/sage-open-medicine-17587,not_verified,,,,Not checked in this scheduled batch
-Scandinavian Journal of Medicine & Science in Sports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Scandinavian Journal of Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Seminars in Arthritis and Rheumatism,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Seminars in Arthroplasty: JSES,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Shoulder and Elbow,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Skeletal Radiology,verified_by_refresh,2.5,2025,https://link.springer.com/journal/256?error=cookies_not_supported&code=c83f04c4-3d2f-4fed-9753-6062712270e4,not_verified,,,,Not checked in this scheduled batch
-Spine Surgery and Related Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Sports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Sports Health,verified_by_refresh,3.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/sports-health--a-multidisciplinary-approach-14320,not_verified,,,,Not checked in this scheduled batch
-Sports Medicine,verified_by_refresh,11.0,2025,https://link.springer.com/journal/40279?error=cookies_not_supported&code=c0c7e50c-30a0-4489-9376-ff76bcdb1213,not_verified,,,,Not checked in this scheduled batch
-Sports Medicine - Open,verified_by_refresh,6.2,2025,https://link.springer.com/journal/40798?error=cookies_not_supported&code=1e12727e-614c-430a-815f-c5b3001211b7,not_verified,,,,Not checked in this scheduled batch
-Sports Orthopaedics and Traumatology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Strategies in Trauma and Limb Reconstruction,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgeries,verified_by_refresh,1.5,2025,https://www.mdpi.com/journal/surgeries/news-and-conferences/news/17344,not_verified,,,,Not checked in this scheduled batch
-SURGERY,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgery Case Reports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgery in Practice and Science,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgery Open Science,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgery Today,verified_by_refresh,2.3,2025,https://link.springer.com/journal/595?error=cookies_not_supported&code=3a155c82-b26d-44f3-9b17-b2d92497a6e4,not_verified,,,,Not checked in this scheduled batch
-Surgical and Radiologic Anatomy,verified_by_refresh,1.5,2025,https://link.springer.com/journal/276?error=cookies_not_supported&code=dea7e5a8-7f40-4607-af9e-38132313584f,not_verified,,,,Not checked in this scheduled batch
-Surgical Case Reports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-SURGICAL CHRONICLES,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgical Endoscopy,verified_by_refresh,3.3,2025,https://link.springer.com/journal/464?error=cookies_not_supported&code=ca9851bc-4c66-4fdd-b403-05c51d7559c1,not_verified,,,,Not checked in this scheduled batch
-Surgical Innovation,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/surgical-innovation-13970,not_verified,,,,Not checked in this scheduled batch
-Surgical Oncology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Surgical Practice,verified_by_refresh,0.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/surgical-practice-1038,not_verified,,,,Not checked in this scheduled batch
-The American Journal of Sports Medicine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The American Journal of Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Bone & Joint Journal,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Journal of Ambulatory Care Management,verified_by_refresh,1.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ambulatory-care-management-the-384,not_verified,,,,Not checked in this scheduled batch
-The Journal of Emergency Medicine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Journal of Medical Imaging and Radiation Sciences,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Knee,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Spine Journal,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-The Surgeon,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Therapeutic Advances in Musculoskeletal Disease,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Transplantation Proceedings,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Trauma Case Reports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Trauma Surgery & Acute Care Open,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Turkish Journal of Plastic Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Turkish Journal of Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Ultrasound in Medicine and Biology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-Updates in Surgery,verified_by_refresh,2.2,2025,https://link.springer.com/journal/13304?error=cookies_not_supported&code=f1c57539-c23a-4767-8db8-a814f2fe91eb,not_verified,,,,Not checked in this scheduled batch
-Visual Journal of Emergency Medicine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-World Journal of Orthopedics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
-World Journal of Surgery,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/world-journal-of-surgery-7856,not_verified,,,,Not checked in this scheduled batch
+Current Problems in Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Current Reviews in Musculoskeletal Medicine,verified_by_refresh,5.0,2025,https://link.springer.com/journal/12178?error=cookies_not_supported&code=d262fa8d-c8a0-4004-8346-414206beb1e2,not_verified,,,,Not checked in this scheduled batch
+Current Sports Medicine Reports,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/current-sports-medicine-reports-4184,not_verified,,,,Not checked in this scheduled batch
+Current Surgery Reports,verified_by_refresh,0.9,2025,https://link.springer.com/journal/40137?error=cookies_not_supported&code=ded6c2eb-8a96-427e-b473-000f2a1fdf5e,not_verified,,,,Not checked in this scheduled batch
+Current Trauma Reports,verified_by_refresh,2.5,2025,https://link.springer.com/journal/40719?error=cookies_not_supported&code=28c38385-d6aa-4147-99f5-3d500e225b45,not_verified,,,,Not checked in this scheduled batch
+Diseases (MDPI),verified_by_refresh,3.7,2025,https://www.mdpi.com/journal/diseases/imprint,not_verified,,,,Not checked in this scheduled batch
+Egyptian Journal of Radiology and Nuclear Medicine,verified_by_refresh,0.9,2025,https://link.springer.com/journal/43055?error=cookies_not_supported&code=005a071b-de5f-4c36-87b4-dcb164bd7c3f,not_verified,,,,Not checked in this scheduled batch
+European Journal of Cancer,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+European Journal of Medical Research,verified_by_refresh,4.8,2025,https://link.springer.com/journal/40001?error=cookies_not_supported&code=1c1aeae8-6e35-4d94-822a-1fa88272a372,not_verified,,,,Not checked in this scheduled batch
+European Journal of Orthopaedic Surgery and Traumatology,verified_by_refresh,1.7,2025,https://link.springer.com/journal/590?error=cookies_not_supported&code=08c9b7f5-a030-41a0-b262-ef8157b23939,not_verified,,,,Not checked in this scheduled batch
+European Journal of Radiology,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+European Journal of Surgical Oncology,verified_by_refresh,3.5,2025,https://www.essoweb.org/about/european-journal-of-surgical-oncology/,not_verified,,,,Not checked in this scheduled batch
+European Journal of Trauma and Emergency Surgery,verified_by_refresh,2.3,2025,https://link.springer.com/journal/68?error=cookies_not_supported&code=9fb43f12-a71b-4810-b973-b1831a424e77,not_verified,,,,Not checked in this scheduled batch
+European Radiology,verified_by_refresh,6.0,2025,https://link.springer.com/journal/330?error=cookies_not_supported&code=981bda16-b9a2-48bc-b326-793b55966efd,not_verified,,,,Not checked in this scheduled batch
+European Radiology Experimental,verified_by_refresh,4.7,2025,https://link.springer.com/journal/41747?error=cookies_not_supported&code=0bc927fa-ebba-404f-a109-fd44006a1461,not_verified,,,,Not checked in this scheduled batch
+European Spine Journal,verified_by_refresh,3.2,2025,https://link.springer.com/journal/586?error=cookies_not_supported&code=e56c1afa-067e-487d-b613-85e8fa25dd19,not_verified,,,,Not checked in this scheduled batch
+European Surgery,verified_by_refresh,0.9,2025,https://link.springer.com/journal/10353?error=cookies_not_supported&code=0e9badf7-ceb5-4557-a891-f4f6abbaaa19,not_verified,,,,Not checked in this scheduled batch
+Folia Morphologica,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Foot & Ankle International,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Foot & Ankle Orthopaedics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Foot & Ankle Specialist,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Foot and Ankle Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Frontiers in Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Geriatric Orthopaedic Surgery & Rehabilitation,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Geriatrics (MDPI),verified_by_refresh,2.4,2025,https://www.mdpi.com/journal/geriatrics/imprint,not_verified,,,,Not checked in this scheduled batch
+Global Spine Journal,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Hand Surgery and Rehabilitation,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+HIP International,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+HSS Journal,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/hss-journal---the-musculoskeletal-journal-of-hospital-for-special-surgery-16673,not_verified,,,,Not checked in this scheduled batch
+IMAGING,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Indian Journal of Orthopaedics,verified_by_refresh,1.3,2025,https://link.springer.com/journal/43465?utm_source=slink&utm_medium=journal_finder&error=cookies_not_supported&code=106e2dff-e1de-483c-9ce5-9632a3c615ba,not_verified,,,,Not checked in this scheduled batch
+Indian Journal of Surgery,verified_by_refresh,0.3,2025,https://link.springer.com/journal/12262?utmsource=slink&utmmedium=journalfinder&error=cookies_not_supported&code=bd358e3c-17d8-4f3f-b9d9-cdd0aac22db5,not_verified,,,,Not checked in this scheduled batch
+Infection,verified_by_refresh,3.9,2025,https://link.springer.com/journal/15010?error=cookies_not_supported&code=3d42741d-2f64-45bd-a49e-ba898e2eeede,not_verified,,,,Not checked in this scheduled batch
+Injury,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Insights into Imaging,verified_by_refresh,5.6,2025,https://link.springer.com/journal/13244?error=cookies_not_supported&code=6ce6cd1c-c235-4706-a960-4db5ad43798a,not_verified,,,,Not checked in this scheduled batch
+International Journal of Burns and Trauma,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+International Journal of Computer Assisted Radiology and Surgery,verified_by_refresh,2.8,2025,https://link.springer.com/journal/11548?error=cookies_not_supported&code=5f8561bb-c29c-4ba3-935a-aa869b3aad81,not_verified,,,,Not checked in this scheduled batch
+International Journal of Medical Robotics and Computer Assisted Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+International Journal of Orthopaedic and Trauma Nursing,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+International Journal of Rheumatic Diseases,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-rheumatic-diseases-4650,not_verified,,,,Not checked in this scheduled batch
+International Journal of Surgery,verified_by_refresh,9.0,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-16128,not_verified,,,,Not checked in this scheduled batch
+International Journal of Surgery Case Reports,verified_by_refresh,0.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/international-journal-of-surgery-case-reports-17451,not_verified,,,,Not checked in this scheduled batch
+International Orthopaedics,verified_by_refresh,2.4,2025,https://link.springer.com/journal/264?error=cookies_not_supported&code=df8e2a99-a294-4854-8e19-9ff66f7d180e,not_verified,,,,Not checked in this scheduled batch
+International Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Irish Journal of Medical Sciences,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Japanese Journal of Radiology,verified_by_refresh,4.6,2025,https://link.springer.com/journal/11604?error=cookies_not_supported&code=3d22bb20-709a-4617-b133-b64ef55431b5,not_verified,,,,Not checked in this scheduled batch
+JBJS Open Access,verified_by_refresh,4.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/jbjs-open-access-14015,not_verified,,,,Not checked in this scheduled batch
+Joint Bone Spine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Joint Commission Journal on Quality and Patient Safety,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+JOS Case Reports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal de traumatologie du sport,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Arthroplasty,verified_by_refresh,4.4,2025,https://www.arthroplastyjournal.org/,not_verified,,,,Not checked in this scheduled batch
+Journal of Biomechanics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Bodywork and Movement Therapies,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Bone and Joint Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Bone and Mineral Research,verified_by_refresh,6.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-bone-and-mineral-research-16711,not_verified,,,,Not checked in this scheduled batch
+Journal of Cartilage and Joint Preservation,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Children's Orthopaedics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Clinical and Translational Science,verified_by_refresh,2.7,2025,https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science,not_verified,,,,Not checked in this scheduled batch
+Journal of Clinical Medicine (MDPI),not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Clinical Orthopaedics and Trauma,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Evaluation in Clinical Practice,verified_by_refresh,1.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-evaluation-in-clinical-practice-1058,not_verified,,,,Not checked in this scheduled batch
+Journal of Experimental Orthopaedics,verified_by_refresh,3.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-experimental-orthopaedics-17155,not_verified,,,,Not checked in this scheduled batch
+Journal of Foot and Ankle Surgery,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-foot--ankle-surgery-3431,not_verified,,,,Not checked in this scheduled batch
+Journal of Hand and Microsurgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Hand Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Hand Surgery Asian-Pacific Volume,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Hand Therapy,verified_by_refresh,1.8,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-hand-therapy-4208,not_verified,,,,Not checked in this scheduled batch
+Journal of Healthcare Quality Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Hip Preservation Surgery,verified_by_refresh,1.6,2025,https://academic.oup.com/jhps/pages/about,not_verified,,,,Not checked in this scheduled batch
+Journal of Imaging,verified_by_refresh,3.8,2025,https://www.mdpi.com/journal/jimaging/imprint,not_verified,,,,Not checked in this scheduled batch
+Journal of Infection and Chemotherapy,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of International Medical Research,verified_by_refresh,1.8,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/journal-of-international-medical-research-17672,not_verified,,,,Not checked in this scheduled batch
+Journal of Medical Case Reports,verified_by_refresh,0.8,2025,https://link.springer.com/journal/13256?error=cookies_not_supported&code=e4e18cfc-a32a-4060-bee1-5793952cb2da,not_verified,,,,Not checked in this scheduled batch
+Journal of Medical Imaging,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Musculoskeletal Surgery and Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Neurosurgery: Spine,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Occupational and Environmental Medicine,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-occupational-and-environmental-medicine-239,not_verified,,,,Not checked in this scheduled batch
+Journal of Occupational Rehabilitation,verified_by_refresh,2.7,2025,https://link.springer.com/journal/10926?error=cookies_not_supported&code=0384df24-efb2-4468-b1af-8814728b1417,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic & Sports Physical Therapy,verified_by_refresh,6.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic--sports-physical-therapy-11939,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Reports,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Research,verified_by_refresh,2.4,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-orthopaedic-research-10018,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Science,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Surgery and Research,verified_by_refresh,3.8,2025,https://link.springer.com/journal/13018?error=cookies_not_supported&code=88965539-eaa2-4319-9d1b-2bb2a3b706ad,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Translation,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedic Trauma,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/ko-kr/solutions/ovid/journal-of-orthopaedic-trauma-589,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedics,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopaedics and Traumatology,verified_by_refresh,4.5,2025,https://link.springer.com/journal/10195?error=cookies_not_supported&code=62246e73-1314-40ac-a94f-7cb7c9b6ff23,not_verified,,,,Not checked in this scheduled batch
+"Journal of Orthopaedics, Trauma and Rehabilitation",not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Orthopedic and Spine Trauma,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Osteopathic Medicine,verified_by_refresh,1.3,2025,https://www.degruyterbrill.com/journal/key/jom/html,not_verified,,,,Not checked in this scheduled batch
+Journal of Patient-Reported Outcomes,verified_by_refresh,2.9,2025,https://link.springer.com/journal/41687?error=cookies_not_supported&code=5975f931-2a8b-499d-a00a-2598102e6c61,not_verified,,,,Not checked in this scheduled batch
+Journal of Pharmacy and Bioallied Sciences,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Robotic Surgery,verified_by_refresh,4.2,2025,https://link.springer.com/journal/11701?error=cookies_not_supported&code=4b9293e9-48f2-49fd-8ece-e4d4cbdd18c9,not_verified,,,,Not checked in this scheduled batch
+Journal of Shoulder and Elbow Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Sport Rehabilitation,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Sports Sciences,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Surgical Case Reports,verified_by_refresh,0.5,2025,https://academic.oup.com/jscr/pages/About,not_verified,,,,Not checked in this scheduled batch
+Journal of Surgical Education,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Surgical Research,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Telemedicine and Telecare,verified_by_refresh,3.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-telemedicine-and-telecare-15523,not_verified,,,,Not checked in this scheduled batch
+Journal of the American Academy of Orthopaedic Surgeons,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of the American Medical Directors Association,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of the Formosan Medical Association,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Trauma and Acute Care Surgery,not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+Journal of Ultrasound in Medicine,verified_by_refresh,2.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ultrasound-in-medicine-14154,not_verified,,,,Not checked in this scheduled batch
+Knee Surgery & Related Research,verified_by_refresh,4.9,2025,https://link.springer.com/journal/43019?error=cookies_not_supported&code=1dcaf337-91b5-45c0-ac76-31e6ab578bd8,not_verified,,,,Not checked in this scheduled batch
+"Knee Surgery, Sports Traumatology, Arthroscopy",not_verified,,,,not_verified,,,,Not checked in this scheduled batch
+La Radiologia Medica,verified_by_refresh,5.3,2025,https://link.springer.com/journal/11547?error=cookies_not_supported&code=b6514268-c44d-4fde-8d71-d98c8d144528,not_verified,,,,Not checked in this scheduled batch
+Life,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.mdpi.com/journal/life
+Magnetic Resonance Imaging,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/magnetic-resonance-imaging
+Medical Archives,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://medarch.org
+Medicine,verified_by_refresh,2.0,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/medicine-626,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/md-journal/pages/default.aspx
+Medicine & Science in Sports & Exercise,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.ovid.com/jnls/acsm-msse
+Microsurgery,not_verified,,,,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/10982752
+Minerva Orthopedics,not_verified,,,,not_verified,,,,HTTPError: https://www.minervamedica.it/en/journals/minerva-orthopedics/
+Minerva Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.minervamedica.it/en/index.php
+Muscle & Nerve,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/muscle-nerve-9871,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/10974598
+"Muscles, Ligaments and Tendons Journal",not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.ejcrim.com/index.php/mltj/
+Musculoskeletal Care,verified_by_refresh,1.5,2025,https://www.wolterskluwer.com/en/solutions/ovid/musculoskeletal-care-9872,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/15570681
+Musculoskeletal Science and Practice,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/musculoskeletal-science-and-practice
+Musculoskeletal Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://link.springer.com/journal/12306
+Occupational Medicine,verified_by_refresh,2.4,2025,https://academic.oup.com/occmed/pages/About,not_verified,,,,HTTPError: https://academic.oup.com/occmed
+Orthopaedic Journal of Sports Medicine,verified_by_refresh,2.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-journal-of-sports-medicine-17472,not_verified,,,,HTTPError: https://journals.sagepub.com/home/ojs
+Orthopaedic Nursing,verified_by_refresh,0.9,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopaedic-nursing-1086,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/orthopaedicnursing/pages/default.aspx
+Orthopaedic Surgery,not_verified,,,,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/17577861
+Orthopaedics and Trauma,not_verified,,,,not_verified,,,,HTTPError: https://www.orthopaedicsandtraumajournal.co.uk
+Orthopaedics & Traumatology: Surgery & Research,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/orthopaedics-and-traumatology-surgery-and-research
+Orthopedics,verified_by_refresh,1.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/orthopedics-2733,not_verified,,,,HTTPError: https://journals.healio.com/journal/ortho/about-the-journal
+Osteoarthritis and Cartilage,not_verified,,,,not_verified,,,,HTTPError: https://www.oarsijournal.com/
+Osteoporosis International,verified_by_refresh,5.4,2025,https://link.springer.com/journal/198?error=cookies_not_supported&code=aec70a3a-3986-4c8e-a285-4d81251d56e9,not_verified,,,,verified
+OTA International,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/otainternational/pages/default.aspx
+PeerJ,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://peerj.com
+Physical Therapy in Sport,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/physical-therapy-in-sport
+Pirogov Russian Journal of Surgery,not_verified,,,,not_verified,,,,TimeoutError: https://www.mediasphera.ru/journal/khirurgiya-zhurnal-im-n-i-pirogova?expanded=true&tab=editorial-board
+Plastic and Reconstructive Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/plasreconsurg/pages/default.aspx
+PLOS ONE,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.plos.org/plosone/s/journal-information
+Quality Management in Healthcare,verified_by_refresh,1.4,2025,https://www.wolterskluwer.com/solutions/ovid/quality-management-in-healthcare-1087,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.ovid.com/jnls/qmhcjournal
+Quality of Life Research,verified_by_refresh,3.4,2025,https://link.springer.com/journal/11136?error=cookies_not_supported&code=308eedf5-6ece-4083-b3fc-e445dafaee64,not_verified,,,,verified
+Quantitative Imaging in Medicine and Surgery,verified_by_refresh,2.8,2025,https://www.wolterskluwer.com/en/solutions/ovid/quantitative-imaging-in-medicine-and-surgery-17422,not_verified,,,,journal_title_not_confirmed: https://qims.amegroups.org/page/about/open-access-statement
+Radiología,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/radiologia
+Radiology,verified_by_refresh,17.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/radiology-17702,not_verified,,,,HTTPError: https://pubs.rsna.org/journal/radiology
+Radiology: Artificial Intelligence,verified_by_refresh,20.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/radiology--artificial-intelligence-17704,not_verified,,,,HTTPError: https://pubs.rsna.org/journal/ai
+Radiotherapy and Oncology,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/radiotherapy-and-oncology
+Revue de Chirurgie Orthopedique et Traumatologique,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/revue-de-chirurgie-orthopedique-et-traumatologique/about/insights
+Rheumatology International,verified_by_refresh,3.5,2025,https://link.springer.com/journal/296?error=cookies_not_supported&code=e2679846-0376-407c-9823-2e22ef0e190b,not_verified,,,,verified
+SAGE Open Medical Case Reports,verified_by_refresh,0.6,2025,https://www.wolterskluwer.com/en/solutions/ovid/sage-open-medical-case-reports-17597,not_verified,,,,HTTPError: https://journals.sagepub.com/home/sco
+SAGE Open Medicine,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/ja-jp/solutions/ovid/sage-open-medicine-17587,not_verified,,,,HTTPError: https://journals.sagepub.com/home/SMO
+Scandinavian Journal of Medicine & Science in Sports,not_verified,,,,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/16000838
+Scandinavian Journal of Surgery,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/sjs
+Seminars in Arthritis and Rheumatism,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/seminars-in-arthritis-and-rheumatism
+Seminars in Arthroplasty: JSES,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/seminars-in-arthroplasty-jses
+Shoulder and Elbow,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/SEL
+Skeletal Radiology,verified_by_refresh,2.5,2025,https://link.springer.com/journal/256?error=cookies_not_supported&code=c83f04c4-3d2f-4fed-9753-6062712270e4,not_verified,,,,verified
+Spine Surgery and Related Research,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.jstage.jst.go.jp/browse/ssrr
+Sports,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.mdpi.com/journal/sports
+Sports Health,verified_by_refresh,3.1,2025,https://www.wolterskluwer.com/en/solutions/ovid/sports-health--a-multidisciplinary-approach-14320,not_verified,,,,HTTPError: https://journals.sagepub.com/home/sph
+Sports Medicine,verified_by_refresh,11.0,2025,https://link.springer.com/journal/40279?error=cookies_not_supported&code=c0c7e50c-30a0-4489-9376-ff76bcdb1213,not_verified,,,,verified
+Sports Medicine - Open,verified_by_refresh,6.2,2025,https://link.springer.com/journal/40798?error=cookies_not_supported&code=1e12727e-614c-430a-815f-c5b3001211b7,not_verified,,,,verified
+Sports Orthopaedics and Traumatology,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/sports-orthopaedics-and-traumatology
+Strategies in Trauma and Limb Reconstruction,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.stlrjournal.com/journalDetails/STLR
+Surgeries,verified_by_refresh,1.5,2025,https://www.mdpi.com/journal/surgeries/news-and-conferences/news/17344,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.mdpi.com/journal/surgeries
+SURGERY,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/surgery
+Surgery Case Reports,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/surgery-case-reports
+Surgery in Practice and Science,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/surgery-in-practice-and-science
+Surgery Open Science,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/surgery-open-science
+Surgery Today,verified_by_refresh,2.3,2025,https://link.springer.com/journal/595?error=cookies_not_supported&code=3a155c82-b26d-44f3-9b17-b2d92497a6e4,not_verified,,,,verified
+Surgical and Radiologic Anatomy,verified_by_refresh,1.5,2025,https://link.springer.com/journal/276?error=cookies_not_supported&code=dea7e5a8-7f40-4607-af9e-38132313584f,not_verified,,,,verified
+Surgical Case Reports,not_verified,,,,not_verified,,,,URLError: https://jp.jssoc.or.jp/modules/en/index.php?contentid=6
+SURGICAL CHRONICLES,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://www.surgchronicles.gr/index.php/en/
+Surgical Endoscopy,verified_by_refresh,3.3,2025,https://link.springer.com/journal/464?error=cookies_not_supported&code=ca9851bc-4c66-4fdd-b403-05c51d7559c1,not_verified,,,,verified
+Surgical Innovation,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/surgical-innovation-13970,not_verified,,,,HTTPError: https://journals.sagepub.com/home/sri
+Surgical Oncology,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/surgical-oncology
+Surgical Practice,verified_by_refresh,0.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/surgical-practice-1038,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/17441633
+The American Journal of Sports Medicine,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/home/ajs
+The American Journal of Surgery,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-american-journal-of-surgery
+The Bone & Joint Journal,not_verified,,,,not_verified,,,,journal_title_not_confirmed: https://boneandjoint.org.uk/journal/bjo
+The Journal of Ambulatory Care Management,verified_by_refresh,1.3,2025,https://www.wolterskluwer.com/en/solutions/ovid/journal-of-ambulatory-care-management-the-384,not_verified,,,,no_year_labeled_2yr_jif_found: https://www.ovid.com/jnls/ambulatorycaremanagement
+The Journal of Emergency Medicine,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-journal-of-emergency-medicine
+The Journal of Medical Imaging and Radiation Sciences,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/journal-of-medical-imaging-and-radiation-sciences
+The Knee,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-knee
+The Spine Journal,not_verified,,,,not_verified,,,,HTTPError: https://www.thespinejournalonline.com/
+The Surgeon,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/the-surgeon
+Therapeutic Advances in Musculoskeletal Disease,not_verified,,,,not_verified,,,,HTTPError: https://journals.sagepub.com/author-instructions/TAB
+Transplantation Proceedings,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/transplantation-proceedings
+Trauma Case Reports,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/trauma-case-reports
+Trauma Surgery & Acute Care Open,not_verified,,,,not_verified,,,,HTTPError: https://tsaco.bmj.com/
+Turkish Journal of Plastic Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://journals.lww.com/tjps/Pages/informationforauthors.aspx
+Turkish Journal of Surgery,not_verified,,,,not_verified,,,,no_year_labeled_2yr_jif_found: https://turkjsurg.com/
+Ultrasound in Medicine and Biology,not_verified,,,,not_verified,,,,HTTPError: https://www.umbjournal.org
+Updates in Surgery,verified_by_refresh,2.2,2025,https://link.springer.com/journal/13304?error=cookies_not_supported&code=f1c57539-c23a-4767-8db8-a814f2fe91eb,not_verified,,,,verified
+Visual Journal of Emergency Medicine,not_verified,,,,not_verified,,,,HTTPError: https://www.sciencedirect.com/journal/visual-journal-of-emergency-medicine
+World Journal of Orthopedics,not_verified,,,,not_verified,,,,HTTPError: https://www.wjgnet.com/2218-5836/about.htm
+World Journal of Surgery,verified_by_refresh,2.2,2025,https://www.wolterskluwer.com/en/solutions/ovid/world-journal-of-surgery-7856,not_verified,,,,HTTPError: https://onlinelibrary.wiley.com/journal/14322323
