@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-21T14:14:36+00:00",
+  "updated_at_utc": "2026-11-22T02:22:45+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -2561,6 +2561,106 @@
     "doi:10.3389/fsurg.2026.1874076": {
       "en": "Health resource utilization and direct procedural costs of arthroplasty surgery: a retrospective cost analysis.",
       "vi": "Sử dụng tài nguyên y tế và chi phí tiền sử dụng trực tiếp của phẫu thuật động mạch: một phân tích lại chi phí."
+    },
+    "doi:10.1007/s11701-026-04195-7": {
+      "en": "Patient perception of robotic-assisted spine surgery.",
+      "vi": "Nhận thức của bệnh nhân về phẫu thuật cột sống do robot hỗ trợ."
+    },
+    "doi:10.1007/s00256-026-05445-3": {
+      "en": "Association of popliteal artery wall index with cartilage morphology and loss in knee osteoarthritis: data from the FNIH Biomarkers Consortium.",
+      "vi": "Liên kết của chỉ số bức tường động mạch poplite với sự biến thái và mất mát trong viêm khớp xương đầu gối: dữ liệu từ các nhà nghiên cứu sinh học FNH Consortium."
+    },
+    "doi:10.1038/s41413-026-00592-8": {
+      "en": "Wnt1 controls subchondral bone remodeling and osteoarthritis progression.",
+      "vi": "Wt1 điều khiển xương dưới chuẩn và sự phát triển viêm màng não."
+    },
+    "doi:10.1007/s11657-026-01803-9": {
+      "en": "Preoperative depressive symptoms predict long-term mortality and early functional recovery after osteoporotic hip fracture: a 3-year cohort study.",
+      "vi": "Các triệu chứng trước khi giải phẫu sẽ dự đoán tỉ lệ tử vong lâu dài và phục hồi chức năng sớm sau khi xương hông bị gãy: một cuộc nghiên cứu 3 năm."
+    },
+    "doi:10.1111/os.70475": {
+      "en": "Outcomes of a Multidisciplinary Lower Limb Fracture Care Pathway in a Tertiary Hospital: A 3-Year Experience of 1073 Geriatric Patients.",
+      "vi": "Kết quả của một chương trình chăm sóc đa ngành ở đường cao tốc tại bệnh viện Tertiary: Một trải nghiệm 3-Year của 1073 bệnh nhân Geriatric."
+    },
+    "PMC:PMC13787576": {
+      "en": "Open Repair of Patellar Osteochondral Fracture With Absorbable Sutures",
+      "vi": "Sự sửa chữa mở của Patellar Osteolondral Fracture với các chất chống tái tạo có khả năng chịu đựng được"
+    },
+    "PMC:PMC13787578": {
+      "en": "Knotless Hip Labral Repair With Tensioning Set Up by Intentional Slack",
+      "vi": "Knotless hip Labral sửa chữa với sự căng thẳng được thiết lập bởi slack cố ý"
+    },
+    "doi:10.1371/journal.pone.0360723": {
+      "en": "Influence of peri-implant soft tissue thickness on marginal bone loss following immediate implant placement in the anterior maxilla: A retrospective comparative study.",
+      "vi": "Ảnh hưởng của mô mềm hồng ngoại trên độ dày của xương bên lề sau khi cấy ghép ngay lập tức ở cột sống phía trước: một nghiên cứu so sánh tương đối."
+    },
+    "doi:10.1007/s00256-026-05443-5": {
+      "en": "Imaging and diagnosis of overuse shoulder injuries in overhead athletes.",
+      "vi": "Xét nghiệm và chẩn đoán các vết thương ở vai ở các vận động viên trên đầu."
+    },
+    "doi:10.1016/j.joca.2026.11.009": {
+      "en": "Higher pre-treatment expectations are associated with less pain and better physical function and quality of life after physiotherapy for knee osteoarthritis.",
+      "vi": "Những mong đợi trước khi điều trị sẽ được liên kết với ít đau hơn và chức năng thể chất tốt hơn và chất lượng cuộc sống sau khi liệu pháp vật lý trị liệu cho viêm khớp đầu gối."
+    },
+    "doi:10.1111/os.70472": {
+      "en": "Foot Morphology Asymmetry, Gait Biomechanics, and Trunk Muscle Activation in Adolescents With Major Thoracic Idiopathic Scoliosis: A Cross-Sectional Study.",
+      "vi": "Bệnh xơ cứng chân chân, phẫu thuật cơ học Gait Biomechanics, và Cơ bắp Truk ở trẻ vị thành niên với bệnh xơ cứng teo cơ: một nghiên cứu xuyên lục địa."
+    },
+    "PMC:PMC13787579": {
+      "en": "Autologous Bone Plug Harvest and Reimplantation for Tibial Tunnel Management in Anterior Cruciate Ligament Reconstruction",
+      "vi": "Mùa thu hoạch xương tự động và tái trồng lại hệ thống quản lý đường hầm Tibial trong quá trình tái xây dựng lại tòa nhà trước"
+    },
+    "doi:10.1371/journal.pone.0363260": {
+      "en": "Association between surgery-oriented standardized clinical pathways and postoperative delirium in geriatric hip fracture patients: A retrospective cohort study.",
+      "vi": "Sự kết hợp giữa các tuyến đường y tế được chuẩn hóa và mê sảng sau phẫu thuật trong bệnh nhân gãy xương hông: một nghiên cứu hồi tưởng của quân đội."
+    },
+    "doi:10.1371/journal.pone.0363341": {
+      "en": "Analysis of factors hindering the prevention of perioperative hypothermia in elderly patients undergoing total hip arthroplasty: A qualitative study.",
+      "vi": "Phân tích các yếu tố cản trở việc ngăn ngừa bệnh hạ thân nhiệt của các bệnh nhân lớn tuổi bị chứng hông: Một nghiên cứu về tiêu chuẩn."
+    },
+    "PMC:PMC13787581": {
+      "en": "All‐Arthroscopic Staged Matrix‐Induced Autologous Chondrocyte Implantation for Osteochondral Lesions of the Talus",
+      "vi": "Tất cả các ma trận thời gian thực nghệ thuật nghệ thuật Hiến pháp đã được thực hiện trong tự động hoá Chondrcpementation for Osteolondral Lesions of the công cuộc giải quyết các vấn đề liên quan đến hệ thần kinh."
+    },
+    "doi:10.1123/jsr.2026-0053": {
+      "en": "Hip Strength Recovery Over 1-Year Following Arthroscopic Surgery for Femoroacetabular Impingement Syndrome.",
+      "vi": "Phục hồi sức mạnh vùng hông sau 1-Year sau khi phẫu thuật nội soi cho hội chứng thiếu máu."
+    },
+    "doi:10.1177/21925682261508002": {
+      "en": "Classification-Dependent Prevalence of Lumbosacral Transitional Vertebrae on Whole-Spine CT: Castellvi vs. Jenkins in a Polish Trauma Cohort.",
+      "vi": "Phân loại-Dependent Prevalence of Lumbosacral Transtebrae on Whole-Spine CT: Castellvi vs Jenkins in the Ba Lan Cohort."
+    },
+    "doi:10.3389/fsurg.2026.1931532": {
+      "en": "Computational biomechanics of capsulolabral stress and elongation in Hill-Sachs bone defect: a finite element method aimed at patient-specific prediction of glenohumeral instability.",
+      "vi": "Một phương pháp hữu hạn nhắm vào dự đoán đặc biệt của bệnh nhân về sự bất ổn định gen."
+    },
+    "doi:10.1097/md.0000000000051585": {
+      "en": "Ultrasound-guided needling release combined with platelet-rich plasma injection for refractory heel pain: A case report.",
+      "vi": "Quá âm thanh cần thiết kết hợp với thuốc tiêm huyết tương để giảm đau gót chân: một bản báo cáo."
+    },
+    "doi:10.1097/md.0000000000051169": {
+      "en": "Transperineal ultrasound evaluation of pelvic floor structure after different modes of delivery and its predictive value for postpartum rehabilitation outcomes.",
+      "vi": "Khả năng siêu âm siêu âm siêu âm của tầng xương chậu dựa trên các chế độ khác nhau của giao hàng và giá trị dự đoán của nó cho kết quả phục hồi sau sinh."
+    },
+    "doi:10.1097/md.0000000000051588": {
+      "en": "Successful treatment of knee osteoarthritis pain with alcohol neurolysis of genicular nerves based on new anatomical landmark: A case report.",
+      "vi": "Điều trị hiệu quả cơn đau ở đầu gối với chứng rối loạn thần kinh thần kinh do thần kinh ruột dựa trên dấu hiệu giải phẫu học mới: Một báo cáo về trường hợp."
+    },
+    "doi:10.1097/md.0000000000051677": {
+      "en": "Sit-to-stand performance and gait symmetry in older adults with sarcopenia and sarcopenic obesity: A cross-sectional comparative study of lower limb motor function.",
+      "vi": "Hiệu suất ngồi cạnh và đối xứng với những người lớn tuổi hơn với bệnh mơ hồ và béo phì: một nghiên cứu đối xứng cắt ngang chức năng vận động dưới chân."
+    },
+    "doi:10.1097/md.0000000000051267": {
+      "en": "Clinical characteristics and prognostic implications of high-burden osteoarthritis in US adults: Evidence from NHANES 2011-2018.",
+      "vi": "Các đặc điểm y tế và những tác động bất khả tri của viêm khớp xương não nặng ở người lớn Mỹ: bằng chứng từ NHANES 2011-2018."
+    },
+    "doi:10.1097/md.0000000000051597": {
+      "en": "Causal associations between immune cell traits and hip osteoarthritis: A bidirectional two-sample Mendelian randomization study.",
+      "vi": "Sự kết hợp giữa các đặc điểm tế bào miễn dịch và viêm hông: một nghiên cứu ngẫu nhiên kép hai chiều."
+    },
+    "doi:10.1097/md.0000000000051667": {
+      "en": "Bioimpedance-derived body composition and areal bone mineral density in chronic kidney disease: A cross-sectional study.",
+      "vi": "Cấu trúc cơ thể tự hủy sinh học và mật độ khoáng chất từ xương thực vật trong bệnh thận mãn tính: một nghiên cứu phẫu thuật cắt ngang."
     }
   }
 }
