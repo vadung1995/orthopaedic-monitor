@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-22T14:13:07+00:00",
+  "updated_at_utc": "2026-11-23T02:27:27+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -2661,6 +2661,30 @@
     "doi:10.1097/md.0000000000051667": {
       "en": "Bioimpedance-derived body composition and areal bone mineral density in chronic kidney disease: A cross-sectional study.",
       "vi": "Cấu trúc cơ thể tự hủy sinh học và mật độ khoáng chất từ xương thực vật trong bệnh thận mãn tính: một nghiên cứu phẫu thuật cắt ngang."
+    },
+    "doi:10.1016/j.jse.2026.11.039": {
+      "en": "The Lateralization and Distalization Shoulder Angles in Reverse Total Shoulder Arthroplasty Are Highly Sensitive to Both Arm Position and Viewing Angle: Analyzed Using the Enovis Altivate and Surgicase.",
+      "vi": "Các góc sau và giải phẫu ở Reverse Preter Artroplassty là cảm giác cao đối với cả vị trí vũ trang và góc nhìn: phân tích sử dụng Enovis Altilate và Surgic."
+    },
+    "PMC:PMC13788016": {
+      "en": "Risk factors for growth disturbance in children with surgically treated distal femoral epiphyseal fractures",
+      "vi": "Những yếu tố nguy hiểm gây rối loạn tăng trưởng ở trẻ em với phẫu thuật phẫu thuật cắt xương đùi"
+    },
+    "doi:10.1016/j.jse.2026.11.033": {
+      "en": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Management of Periprosthetic Shoulder Infection.",
+      "vi": "Tiến trình từ cuộc họp Quốc tế Consensus năm 2025 về các chứng nhiễm trùng chỉnh hình: Quản lý sự nhiễm trùng gây bệnh do bệnh Oniprosthetic."
+    },
+    "doi:10.1016/j.jse.2026.11.040": {
+      "en": "Prevalence, progression and factors associated with contralateral rotator cuff tears in patients treated for unilateral symptomatic non-traumatic rotator cuff tears: A scoping review.",
+      "vi": "Sự chuẩn bị, tiến triển và các yếu tố liên quan đến các vết nứt ở cổ tử cung của bệnh nhân được điều trị cho các triệu chứng đơn phương không gây chấn thương tâm lý: một bản đánh giá."
+    },
+    "doi:10.1016/j.jse.2026.11.043": {
+      "en": "Glenoid Dysplasia is Associated with Acromial Dysplasia.",
+      "vi": "Glenoid Dysplasia được kết hợp với Acromial Dyslasia."
+    },
+    "doi:10.1016/j.injury.2026.113901": {
+      "en": "Does CT seatbelt sign, traumatic abdominal wall hernia or body habitus predict injuries and patient outcomes following a restrained motor vehicle collision? A New Zealand cohort study.",
+      "vi": "Hệ thống an toàn chụp cắt lớp có dấu hiệu chấn thương ở bụng cô bé hoặc thói quen của cơ thể dự đoán thương tích và kết quả của bệnh nhân sau một vụ va chạm xe hơi bị hạn chế không?"
     }
   }
 }
