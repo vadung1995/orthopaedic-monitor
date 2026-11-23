@@ -69,6 +69,30 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.jse.2026.11.039",
+    "title": "The Lateralization and Distalization Shoulder Angles in Reverse Total Shoulder Arthroplasty Are Highly Sensitive to Both Arm Position and Viewing Angle: Analyzed Using the Enovis Altivate and Surgicase.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Kane LT, Namdari S, Amini M.",
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.jse.2026.11.039",
+    "pmid": "43064010",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.039",
+    "abstract": "In reverse total shoulder arthroplasty (rTSA), the lateralization shoulder angle (LSA) and distalization shoulder angle (DSA) are very prevalent in clinical research and clinical practice to measure the geometry of the implant construct. The purpose of this study was to determine whether LSA and DSA are impacted by changes in 1) resting arm angle (RAA) and 2) radiographic viewing angle. Secondarily, the study evaluated if linear measures of lateralization and distalization are less sensitive to these changes than LSA and DSA. This was a computer modeling study using commercially available preoperative planning three-dimensional software (Materialise Surgicase). Ten patients without glenoid bone loss undergoing rTSA were included. Four distinct implant constructs (Enovis Altivate Reverse®) were placed in each patient, resulting in 40 total plans. For each plan, thirteen unique viewing profiles were generated to establish variability in the following measurements: LSA, DSA, humeral distalization (acromiohumeral interval (AHI)), and humeral lateralization (distance from glenosphere center of rotation to greater tuberosity (GT-COR)). For each measurement, a one-way analysis of variance (ANOVA) and Pearson's r evaluated its variability by change in viewing profile. Additionally, the humeral position and viewing angle that provided the largest discrepancy in LSA and DSA values were combined and measured to evaluate maximum variability. LSA measurements were significantly impacted by changes in RAA (r=0.383; p<0.001) and increases in viewing angle: medial tilt (r=0.284; p=0.006), lateral tilt (r=-0.400; p<0.001), and superior tilt (r=0.509; p<0.001). Similarly, DSA measurements were significantly altered by changes in RAA (r=-0.454; p<0.001) and viewing angle: medial tilt (r=-0.282; p=0.005), lateral tilt (r=0.419; p<0.001), and superior tilt (r=-0.328; p=0.001). Neither LSA nor DSA measurements were affected by changes in humeral rotation or inferior tilt. The difference between the smallest and largest measurements was on average 35.8° (R: 28.3°-48°) for LSA and 34.6° (R: 20.9°-52.8°) for DSA. Changes in AHI were found to be correlated with changes in RAA (r=-0.588; p<0.001) and increases in superior tilt only (r=-0.259; p=0.017). GT-COR measurements were not impacted by RAA, humeral rotation, or viewing angle. The commonly utilized parameters LSA and DSA show significant variability with and sensitivity to both arm position and viewing angle. Linear measurements of lateralization and distalization are less sensitive to these changes. Basic Science Study, Validation of Computer Modeling Software.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Digital Orthopaedics & Surgical Technology"
+    ],
+    "matched_keywords": [
+      "preoperative planning"
+    ]
+  },
+  {
     "id": "doi:10.1097/corr.0000000000004201",
     "title": "Task-specific Humeral Head Translation Is Associated With Neuromuscular Recruitment Deficits in Multidirectional Shoulder Instability.",
     "journal": "Clinical Orthopaedics and Related Research",
@@ -84,6 +108,73 @@
       "Journal Article"
     ],
     "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13788016",
+    "title": "Risk factors for growth disturbance in children with surgically treated distal femoral epiphyseal fractures",
+    "journal": "Journal of Children's Orthopaedics",
+    "journal_list": "A",
+    "authors": "Xue C, Huang D, Liang X, Lin W, Yao H, Chen Y, Lin R, Canavese F, Pan Y, Chen S.",
+    "published_date": "2026-11-20",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13788016",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jse.2026.11.033",
+    "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Management of Periprosthetic Shoulder Infection.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Namdari S, Zmistowski B, Fiandeiro M, Gupta S, Nicholson T, ICM Shoulder Group.",
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.jse.2026.11.033",
+    "pmid": "43064011",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.033",
+    "abstract": "Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. Level V, Consensus Statement, Voting.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jse.2026.11.040",
+    "title": "Prevalence, progression and factors associated with contralateral rotator cuff tears in patients treated for unilateral symptomatic non-traumatic rotator cuff tears: A scoping review.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Littlewood C, Moffatt M, Winter A, Lalande T, Rees J, Smith T.",
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.jse.2026.11.040",
+    "pmid": "43064012",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.040",
+    "abstract": "Rotator cuff tears are common in people with shoulder pain and disability. Although management typically targets the symptomatic shoulder, people with unilateral non-traumatic rotator cuff tears may be at increased risk of contralateral pathology. However, the prevalence, progression, and factors associated with contralateral tears remain poorly understood. To identify and synthesise published evidence on the prevalence, progression, and factors associated with contralateral rotator cuff tears to inform future surveillance, prevention, and management strategies. A scoping review was conducted in accordance with the Joanna Briggs Institute framework and reported following PRISMA-ScR guidelines. MEDLINE, AMED, Embase, CINAHL, and PsycINFO were searched from inception to 20 January 2026. Studies involving adults with unilateral symptomatic non-traumatic rotator cuff tears were included. Data were summarised descriptively. Fourteen heterogeneous reports from 12 studies (2001-2024) were included; 54% were based on surgical populations. Prevalence of contralateral rotator cuff tears ranged from 8.7% to 67.3%. Contralateral tear enlargement was reported in 39% to 67% of shoulders during follow- up to 13.1 years, while 26% to 57% of patients developed contralateral shoulder pain. Median time to tear enlargement ranged from 2.8 to 3.4 years; time to symptom onset ranged from 15.2 months to 3.0 years. Limited data suggests larger baseline contralateral tear size was associated with subsequent pain development (p≤0.001). Tear enlargement during follow-up was not consistently associated with symptom development. Factors associated with the presence of contralateral rotator cuff tears at baseline included older age (OR 1.1, 95% CI 1.05-1.18), increased BMI (26.1 vs 24.7 kg/m2, p<0.05), diabetes (23.1% vs 8.1%, p<0.03), and heavy repetitive work (31.8% vs 14.4%, p<0.05). Factors associated with progression included full-thickness contralateral tears (HR 2.93, 95% CI 1.71-5.03), dominant-side involvement of the contralateral shoulder (HR 1.70, 95% CI 1.2-2.4), and fatty muscle degeneration within the contralateral shoulder (OR 2.6, 95% CI 1.3-5.4). Contralateral rotator cuff tears are common and frequently progressive in patients with unilateral symptomatic tears, signalling a possible bilateral and multifactorial disease model rather than an isolated shoulder disorder. Research is needed to develop and evaluate clinically and cost-effective assessment and management strategies that extend beyond the affected shoulder and include optimisation of modifiable risk factors and consideration of bilateral rehabilitation approaches. Level IV; Scoping Review.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
     "categories": [
       "Other / Unclassified"
     ],
@@ -288,6 +379,28 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.jse.2026.11.043",
+    "title": "Glenoid Dysplasia is Associated with Acromial Dysplasia.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Levene S, Arroyo RA, Byrne RA, Joyce CD, Tashjian RZ, Chalmers PN.",
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.jse.2026.11.043",
+    "pmid": "43064013",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.043",
+    "abstract": "Glenoid dysplasia is a developmental abnormality associated with pain, disability, and early onset glenohumeral osteoarthritis. Glenoid dysplasia is characterized by glenoid retroversion and posterior humeral subluxation; however, the morphology of the scapula and acromion amongst these patients is unknown. The purpose of this study was to characterize acromial differences between patients with glenoid dysplasia as compared to a normal cohort. A group of 18 patients with glenoid dysplasia were identified and compared to a control cohort of 100 patients without history of glenoid dysplasia for which CT or MRI imaging was available. Measurements obtained included glenoid superior inclination, glenoid retroversion, acromial width in the axial plane, acromial tilt in the coronal and sagittal planes, posterior acromial coverage, anterior acromial coverage, and scapular spine angle. Measurements were performed by two evaluators and compared using intraclass correlation coefficients. Continuous variables were analyzed using Mann-Whitney U tests due to non-normal distributions. P-values < 0.05 were considered statistically significant. Inter-rater measurement reliability was excellent with all ICCs ≥ 0.816. The dysplastic group exhibited significantly greater glenoid retroversion (29.9° vs 1.83°, p < 0.001), decreased superior inclination (3.2° vs 14.3°, p < 0.001), narrower acromial width (2.1 cm vs 2.6 cm, p < 0.001), and decreased lateral tilt of the acromion (88.1° vs 98.3°, p < 0.001). In the sagittal plane, the dysplastic group demonstrated greater acromial tilt (67.1° vs 51.1°, p < 0.001), decreased posterior acromial coverage (59.5° vs 81.1°, p < 0.001), greater anterior acromial coverage (-8.2° vs 12.7°, p < 0.001), and a decreased scapular spine angle (47.5° vs 65.3°, p < 0.001). Patients with glenoid dysplasia have substantial differences in their scapular and acromial anatomy, suggesting that this dysplasia extends to the acromion and may be more accurately described as scapular dysplasia. These differences may have implications for surgical interventions in shoulder for dysplastic patients. Anatomy Study; Imaging.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1111/os.70472",
     "title": "Foot Morphology Asymmetry, Gait Biomechanics, and Trunk Muscle Activation in Adolescents With Major Thoracic Idiopathic Scoliosis: A Cross-Sectional Study.",
     "journal": "Orthopaedic Surgery",
@@ -298,9 +411,10 @@
     "pmid": "43064409",
     "url": "https://doi.org/10.1111/os.70472",
     "abstract": "Adolescent idiopathic scoliosis (AIS) of the major thoracic type-characterized by a right thoracic primary curve with compensatory adaptations-carries a significant risk of progression. While spinal and pelvic biomechanics have been extensively examined, the influence of foot morphology and distal gait compensation in this subgroup remains poorly understood. This study aimed to investigate foot asymmetries and their association with gait deviations in individuals with major thoracic AIS. A total of 23 patients with major thoracic AIS and 23 age-matched healthy controls were enrolled between October 2022 and October 2023. Each participant underwent a multimodal biomechanical assessment, which included bilateral foot morphology evaluation (arch index, foot length, heel width, hallux valgus angle, arch length, and metatarsal widths) via a 3D laser scanner, three-dimensional gait analysis synchronized with force plates, and surface electromyography (sEMG) of core trunk muscles during natural walking. Between-group differences in left/right ratios for foot and gait parameters were analyzed using independent t-tests or Mann-Whitney U tests. Correlations between foot morphology, spinal parameters, and gait parameters were also examined. Compared with controls, the AIS group demonstrated significant foot asymmetries, including elevated left/right ratios for the arch index (p = 0.03) and heel width (p = 0.03). Kinetic analysis revealed a significantly reduced left/right ratio for the maximum ankle coronal (eversion) moment (p < 0.01). Kinematically, the AIS group exhibited altered knee angle ratios at initial contact (p = 0.03) and a decreased knee range-of-motion ratio (p < 0.01). sEMG indicated a significantly higher internal oblique activation ratio in the AIS group (p = 0.04). Correlation analysis revealed that spinal parameters and foot morphology asymmetries were significantly correlated with asymmetric trunk muscle activation and altered lower limb biomechanics, with positive and negative associations depending on the specific parameters. This cross-sectional study suggests that major thoracic AIS is associated with foot morphology asymmetry, altered ankle and knee biomechanics, and asymmetric trunk muscle activation during walking. The observed associations between foot structure asymmetry, lower-limb biomechanics, and trunk muscle activation support the presence of interconnected biomechanical adaptations along the spine-pelvis-foot axis.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "IM",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -4452,6 +4566,28 @@
     "abstract": "Hyponatremia, a common electrolyte abnormality in older patients, is associated with osteopenia and an increased risk of fracture. However, the effects of hyponatremia on bone repair remain unclear. In the present study, we investigated the effects of 1-desamino-8-D-arginine vasopressin (dDAVP)-induced chronic hyponatremia on bone repair after creation of a femoral bone defect. A total of 54 nine-week-old male C57BL/6J mice were randomly assigned to the control group (n = 24) or the dDAVP-treated group (n = 30), and dDAVP was administered for 6 weeks before bone defect creation. Serum sodium levels were 120.2 ± 1.2 mEq/L in dDAVP-treated mice. dDAVP administration significantly suppressed bone volume fraction (BV/TV) in the bone defect region 10 days after femoral bone injury creation in mice, compared to control (23.7 ± 3.4 vs. 39.0 ± 4.1%, p = 0.021). Histological analyses showed that dDAVP significantly reduced the numbers of alkaline phosphatase (ALP)-positive osteoblastic cells and both CD31- and endomucin-positive blood vessels in the bone injury region 10 days after femoral bone defect creation (ALP: 24.7 ± 2.0 vs. 30.0 ± 2.0 cells/mm, p = 0.043; CD31/endomucin: 107 ± 15 vs. 151 ± 9 vessels/mm 2 , p = 0.016). Moreover, dDAVP significantly suppressed the mRNA expression of osteogenic genes, such as Runx2, Osterix, ALP, osteocalcin, and type 1 collagen in the bone injury region. In in vitro studies, low sodium concentrations (125 mEq/L), but not dDAVP treatment, significantly suppressed ALP activity as well as the mRNA levels of Osterix and ALP enhanced by bone morphogenetic protein-2 in ST-2 cells (p = 0.029). Moreover, low sodium concentrations, but not dDAVP treatment, significantly suppressed mineralization in mouse primary osteoblasts (p = 0.007). In conclusion, we demonstrated for the first time that dDAVP-induced chronic hyponatremia delays bone repair after a femoral bone defect in mice, at least partly through impaired osteoblast differentiation and angiogenesis.",
     "open_access": false,
     "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.injury.2026.113901",
+    "title": "Does CT seatbelt sign, traumatic abdominal wall hernia or body habitus predict injuries and patient outcomes following a restrained motor vehicle collision? A New Zealand cohort study.",
+    "journal": "Injury",
+    "journal_list": "A",
+    "authors": "Rouse D, Shekkeris A, Lauchlan R, McCombie A.",
+    "published_date": "2026-11-11",
+    "doi": "10.1016/j.injury.2026.113901",
+    "pmid": "43064595",
+    "url": "https://doi.org/10.1016/j.injury.2026.113901",
+    "abstract": "to assess for associations between CT seatbelt sign (CTSBS), traumatic abdominal wall hernia and central adiposity with the severity of injury and subsequent management following a restrained motor vehicle collision. Included patients were all major trauma patients (with an injury severity score ≥12), who were involved in a motor vehicle collision (MVC) and were restrained by a seatbelt, presenting to Christchurch Hospital between July 1st, 2018, and June 30th, 2023. Clinical data was collected prospectively by the Trauma team nursing staff at the time of injury and throughout the patient's admission. Original trauma CT imaging either performed at Christchurch hospital or the presenting hospitals were re-reviewed by a trauma specialist radiologist, as well as a post part 2 FRANZCR final year radiology trainee. The presence of a seatbelt sign, injuries and central adiposity were calculated from these images. Both univariable and multivariable analyses were performed. After exclusions 316 patients were included in the study. For CTSBS, there was Statistically higher incidence and grade of organ injury in both the thoracic and abdominal compartments except for large thoracic and abdominal vascular injuries, spinal injuries and pelvic injuries. Multivariable analysis demonstrated 10.41 times higher rates of death when CTSBS is present albeit with just 11 deaths. Outcomes were also worse when CTSBS was present; Injury severity score (13% higher), number of operating sessions (15% higher), length of ICU stay (64% higher) and hospital stay (32% higher). Regarding traumatic abdominal wall hernias, there was a higher incidence of any intra-abdominal organ injury (p = 0.042), as well as a higher incidence of GI tract (p < 0.001) and mesenteric injuries (p < 0.001). Regarding central adiposity, there was no significant difference of any of the measured outcomes when looking at different central adiposity groups except for number of operating sessions (p = 0.012). The presence of a CTSBS or traumatic abdominal wall hernias are associated with a higher rate of organ injury and worse outcomes. Radiologists should include these signs in their reports. Differences in central adiposity have no significant associations with outcomes as the result of a restrained MVC.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
