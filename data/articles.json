@@ -1,5 +1,720 @@
 [
   {
+    "id": "doi:10.1177/21925682261511497",
+    "title": "Timing of Total Hip Arthroplasty and Lumbar Spinal Fusion in Patients With Hip and Spine Degeneration: A Systematic Review and Meta-Analysis.",
+    "journal": "Global Spine Journal",
+    "journal_list": "A",
+    "authors": "Hamdan K, El Zouhbi A, Badhe N, Daaboul M, Sayegh S, Dastagir OZM, Najjar E.",
+    "published_date": "2026-11-23",
+    "doi": "10.1177/21925682261511497",
+    "pmid": "43070063",
+    "url": "https://doi.org/10.1177/21925682261511497",
+    "abstract": "Background ContextHip-spine syndrome involves concurrent hip and lumbar spine degeneration, often leading to overlapping symptoms that complicate management. The optimal surgical sequence between lumbar spine fusion (LSF) and total hip arthroplasty (THA) remains unclear.PurposeTo evaluate the existing literature comparing surgical sequencing strategies and determine whether THA or LSF should be performed first in patients with hip-spine syndrome.Study Design/SettingSystematic review and meta-analysis were conducted per PRISMA 2020 guidelines.MethodsPubMed, EMBASE, and Web of Science were searched to gather studies directly comparing the surgical sequencing of THA and LSF in patients with hip-spine syndrome who have undergone both procedures. Risk of bias was assessed using the ROBINS-I tool. Where appropriate, risk ratios were pooled using random-effects models with restricted maximum likelihood estimation and modified Hartung-Knapp confidence intervals.ResultsAfter screening 971 records, 19 studies were included. Five studies contributed to the principal dislocation synthesis, which showed no statistically significant association with surgical sequence (RR 0.91, 95% CI 0.48-1.72; P = .692; I2 = 11.6%). Replacing Welling with Bala shifted the estimate towards higher risk after LSF-first sequencing (RR 2.21, 95% CI 0.98-5.00), but the confidence interval included no association. Several large cohorts outside the principal synthesis reported higher dislocation risk following spine-first surgery. Evidence for infection, loosening, revision and functional outcomes was limited by differences in populations, definitions and follow-up.ConclusionsThe evidence does not establish a preferred surgical sequence for THA and LSF. The periprosthetic fracture association derives from a single administrative cohort (Bala et al) and may reflect differences in bone quality, osteoporosis, frailty, or coding inaccuracies. Unequal post-THA observation periods in this cohort also limit interpretation of the fracture findings and dislocation sensitivity analysis. Heterogeneous fusion constructs, inconsistently reported sacral or pelvic involvement, and residual confounding further limit certainty. Surgical sequencing should remain individualized pending higher-quality evidence.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00256-026-05442-6",
+    "title": "Performance of a self-supervised pretrained neural network for orthopedic radiograph classification.",
+    "journal": "Skeletal Radiology",
+    "journal_list": "A",
+    "authors": "Bagchi R, Yee NJ, Kwon JY, Taseh A, Ashkani-Esfahani S.",
+    "published_date": "2026-11-23",
+    "doi": "10.1007/s00256-026-05442-6",
+    "pmid": "43069377",
+    "url": "https://doi.org/10.1007/s00256-026-05442-6",
+    "abstract": "To evaluate whether domain-adaptive self-supervised pretraining of a convolutional neural network on musculoskeletal radiographs improves binary fracture classification and attribution faithfulness relative to ImageNet-pretrained baselines. This retrospective study (conducted June 2025 to May 2026) compared three initializations of a ResNet-50 convolutional neural network: supervised ImageNet (control), self-supervised ImageNet (DINO), and DINO further pretrained on 44,029 musculoskeletal radiographs (DINO-Ortho). Each was fine-tuned in three experiments: in-distribution (MURA and FracAtlas), out-of-distribution (5365 external calcaneal radiographs from 1775 patients acquired during 2015-2022), and initial weights (calcaneal fine-tuning). Attribution faithfulness was quantified using Remove and Debias (ROAD) scores from Grad-CAM saliency maps, with higher scores indicating greater faithfulness. AUROCs were compared using DeLong tests, and ROAD scores using Friedman tests with Bonferroni-adjusted post hoc pairwise comparisons. DINO-Ortho AUROC did not differ significantly from either baseline in any experiment (0.82 [95% confidence interval, 0.79-0.84] in-distribution and 0.95 [0.93-0.96] with initial weights). DINO-Ortho ROAD scores were significantly higher than both baselines in-distribution (20.01 vs 3.70 and 9.35, respectively) and with initial weights (20.41 vs 12.15 and 1.67, respectively, P < 0.001 for all) and higher than control but not DINO out-of-distribution (15.47 vs 3.06 and 16.09, respectively). All models discriminated poorly out-of-distribution (AUROC 0.65 [0.63-0.67], 0.64 [0.63-0.66], and 0.64 [0.63-0.66] for control, DINO, and DINO-Ortho, respectively). With no significant difference in AUROC from either baseline, domain-adapted self-supervised pretraining yielded more faithful attributions than supervised ImageNet pretraining in every experiment and than self-supervised ImageNet pretraining in two of three. No model generalized adequately to unfamiliar anatomy without fine-tuning. Groups fine-tuning on their own musculoskeletal data should therefore consider domain-adapted weights, whose saliency maps more reliably show what drove each prediction, making reliance on irrelevant features easier to detect.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00264-026-07074-w",
+    "title": "Osteoporosis is associated with higher five-year surgical complication rates after total shoulder arthroplasty.",
+    "journal": "International Orthopaedics",
+    "journal_list": "A",
+    "authors": "Carroll D, Duncan P, Rogalski B, Ponce B, Eichinger J, Friedman R.",
+    "published_date": "2026-11-23",
+    "doi": "10.1007/s00264-026-07074-w",
+    "pmid": "43069240",
+    "url": "https://doi.org/10.1007/s00264-026-07074-w",
+    "abstract": "Existing retrospective studies of total shoulder arthroplasty (TSA) in patients with osteoporosis are limited by short follow-up and small cohorts and may underestimate long-term complications. The purpose of this study is to evaluate the association between osteoporosis and medical and surgical complications after primary TSA. Of 99,028 patients who underwent primary TSA between January 2010 and April 2018, 13,138 had a preoperative diagnosis of osteoporosis and 85,890 did not. Patients with osteoporosis were older, more often female, and more comorbid. Kaplan-Meier analysis compared the cumulative incidence of surgical outcomes, and multivariable Cox models adjusted for age, sex, and Charlson Comorbidity Index compared complications. Patients with osteoporosis had a higher five year risk of revision TSA (3.59% vs. 3.29%; HR: 1.26; 95% CI: 1.13-1.39; p < 0.001), with higher risks of periprosthetic fracture (HR: 1.26; 95% CI: 1.06-1.50; p = 0.008) and mechanical loosening (HR: 1.19; 95% CI: 1.05-1.36; p = 0.006), and a borderline association with dislocation (HR: 1.12; 95% CI: 1.00-1.26; p = 0.049). Medical complications were also increased, including deep vein thrombosis (HR: 1.20; 95% CI: 1.10-1.31), pulmonary embolism (HR: 1.20; 95% CI: 1.09-1.33), pneumonia (HR: 1.13; 95% CI: 1.06-1.21), fluid and electrolyte imbalance (HR: 1.47; 95% CI: 1.27-1.71), transfusion (HR: 1.21; 95% CI: 1.10-1.34), urinary tract infection (HR: 1.19; 95% CI: 1.15-1.23), and myocardial infarction (HR: 1.15; 95% CI: 1.04-1.28). A preoperative diagnosis of osteoporosis is associated with a higher 5-year risk of revision, periprosthetic fracture, and mechanical loosening after primary TSA.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00264-026-07076-8",
+    "title": "New trends and innovations in pelvic trauma.",
+    "journal": "International Orthopaedics",
+    "journal_list": "A",
+    "authors": "Hellwinkel J, Forgini M, Schlauch A, Schaffer N, Mauffrey C.",
+    "published_date": "2026-11-23",
+    "doi": "10.1007/s00264-026-07076-8",
+    "pmid": "43069241",
+    "url": "https://doi.org/10.1007/s00264-026-07076-8",
+    "abstract": "Pelvic ring surgery is evolving toward more accurate, less invasive, and morphology-specific reconstruction. This review examines recent advances in three-dimensional imaging, navigation, robotics, percutaneous reduction, and anterior and posterior ring fixation. Advanced imaging and navigation improve visualization and implant accuracy, particularly in anatomically complex corridors, although evidence for superior patient-reported outcomes remains limited. Percutaneous joysticks, clamps, intramedullary reduction tools, and table-mounted frames expand minimally invasive surgery from in-situ fixation to active fragment control and restoration of osseous corridors. Modern anterior constructs include ramus and trans-symphyseal screws, subcutaneous internal fixation, and multiplanar plating. Posterior strategies increasingly combine transsacral fixation with transiliac, spinopelvic, or augmented constructs selected according to instability, sacral morphology, and bone quality. Collectively, these innovations support patient-specific reconstruction while limiting surgical morbidity. Future studies should determine whether technical improvements translate into fewer complications, earlier weight-bearing, better function, and improved cost-effectiveness.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/21925682261511613",
+    "title": "Current Trends in Perioperative Opioid Management Amongst Spine Surgeons: An AO Spine International Survey.",
+    "journal": "Global Spine Journal",
+    "journal_list": "A",
+    "authors": "Coury Whalley J, Miller R, Dionne AC, Reyes JL, Chen JY, Hassan FM, Beauchamp EC, Lombardi JM, Lehman RA, Lenke LG, Sardar ZM.",
+    "published_date": "2026-11-23",
+    "doi": "10.1177/21925682261511613",
+    "pmid": "43069757",
+    "url": "https://doi.org/10.1177/21925682261511613",
+    "abstract": "Study DesignCross-sectional survey.ObjectivesTo evaluate perioperative opioid management practices among AO Spine members caring for patients taking opioids before elective instrumented spine surgery.MethodsAn online survey was distributed to AO Spine members via email in October 2024. The survey included questions regarding surgeon demographics, practice characteristics, preoperative opioid management protocols, and postoperative opioid prescribing practices. Subgroup analyses comparing responses by specialty (orthopaedics vs neurosurgery), AO Spine region, and practice setting were performed.ResultsA total of 443 spine surgeons (65.9% orthopaedics, 31.2% neurosurgery) from 92 countries across all 5 AO Spine regions responded. Only 17.9% had a morphine milligram equivalent (MME) threshold that would exclude patients from surgery (median: 8 [IQR 1-30] MME/day). Of respondents, 38.9% required patients to decrease opioid use prior to surgery, most commonly by 50-74% over 3-4 weeks. Patient characteristics affecting protocols included chronicity of opioid use (52.5%), age (48.9%), narcotic type (37.6%), and vertebral levels (16.4%). Only 20.9% reported a hospital or practice protocol for patients using opioids preoperatively, whereas 63.8% reported access to a pain management team. Significant regional differences were identified. Orthopaedic Surgeons were more likely than neurosurgeons to consider narcotic type (42.7% vs 29.6%, p =0.029).ConclusionsPerioperative opioid management practices vary substantially among spine surgeons worldwide. North American respondents more frequently reported structured thresholds, tapering requirements, and institutional protocols. These results support the need for consensus guidance and prospective studies linking perioperative opioid strategies to clinical outcomes.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s11701-026-04175-x",
+    "title": "Cruciate-retaining versus condylar-stabilized reconstruction strategies in robotic-arm assisted total knee arthroplasty: a prospective, double-blinded, randomized controlled trial.",
+    "journal": "Journal of Robotic Surgery",
+    "journal_list": "B",
+    "authors": "Vecham R, Shah S, Karumuri K, Mulpur P, Ghag NS, Reddy AVG.",
+    "published_date": "2026-11-23",
+    "doi": "10.1007/s11701-026-04175-x",
+    "pmid": "43069407",
+    "url": "https://doi.org/10.1007/s11701-026-04175-x",
+    "abstract": "Comparisons of posterior cruciate ligament (PCL) retention and sacrifice in total knee arthroplasty (TKA) derive almost entirely from manual instrumentation, in which soft-tissue balance was not quantified. We compared patient-reported outcomes after robotic-arm assisted TKA using PCL retention with a cruciate-retaining (CR) insert versus PCL sacrifice with a condylar-stabilized (CS) insert and design-specific balancing targets. Single-centre, double-blinded randomized controlled trial. 380 patients with Kellgren-Lawrence grade 4 osteoarthritis underwent image-based robotic-arm assisted TKA by a single surgeon using one implant system under functional alignment. Allocation was concealed until intraoperative PCL inspection; patients, the outcome assessor and the analyst were blinded to allocation. The primary outcome was the 2011 Knee Society Score (KSS) functional activity subscale at 12 months; secondary outcomes were the Oxford Knee Score (OKS), Forgotten Joint Score-12 (FJS-12), satisfaction and complications. The primary intention-to-treat (ITT) analysis used analysis of covariance with multiple imputation (1000 imputations) for 60 missing outcomes; per-protocol analysis was a sensitivity analysis. Differences were interpreted using minimal clinically important difference (MCID) benchmarks. 320 patients (160 per group) had observed follow-up; ITT included all 380 randomized patients. The adjusted CR - CS differences were 1.69 for KSS functional activity (95% confidence interval - 0.15 to 3.53, P = .071), 1.24 for OKS (95% CI 0.64 to 1.85, P < .001) and 0.82 for FJS-12 (95% CI - 0.02 to 1.65, P = .055). The primary difference was below the 4.1-point anchor-based benchmark, and its confidence interval included zero. Additional fixed flexion deformity adjustment produced a borderline KSS result. Satisfaction was concentrated at ratings 4-5; recorded per-protocol complication counts were equal. PCL retention produced small, numerically higher 12-month scores, with no clear KSS difference in the principal ITT model. The KSS inference was sensitive to additional covariate adjustment. Equivalence, equivalent safety and outcomes in an attenuated PCL were not established.Trial registration: Clinical Trials Registry - India, CTRI/2023/01/049128, registered.",
+    "open_access": false,
+    "publication_types": [
+      "Comparative Study",
+      "IM",
+      "Randomized Controlled Trial",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/ars2.70171",
+    "title": "The Meniscotibial Attachment Diverges From the Meniscocapsular Attachment at 10 mm From the Posterior Root of the Medial Meniscus and Forms a Distinct Ligament at 15 mm.",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Zhu H, Ma X, Jiang W, Ji T, Yan S, Sun Y, Sun L.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/ars2.70171",
+    "pmid": "43069971",
+    "url": "https://doi.org/10.1002/ars2.70171",
+    "abstract": "To provide a detailed anatomical and histological characterization of the peripheral attachments to the posterior horn of the medial meniscus (PHMM), including the posteromedial meniscocapsular attachment and the posterior meniscotibial attachment. We used 6 unpaired fresh-frozen cadaveric knees without signs of prior surgery or gross pathological changes. The posteromedial meniscocapsular attachment and the posterior meniscotibial attachment were dissected and characterized, and histological analysis was conducted. Macroscopically, the posteromedial capsule attaches to the superior aspect of the PHMM, whereas the posterior meniscotibial ligament attaches to its inferior margin, with adipose tissue interposed. Histologically, at 5 mm from the medial posterior root, no obvious differences were observed between the meniscotibial and meniscocapsular attachments. At 15 mm from the posterior root, the posterior meniscotibial ligament exhibited a dense ligamentous structure, clearly distinguishable from the capsule. At 10 mm from the posterior root, 4 specimens showed fusion of the 2 attachments with only changes in fiber orientation (n = 4/6), whereas the remaining 2 specimens displayed separable attachments with higher collagen density in the meniscotibial attachment (n = 2/6). This study reveals that the peripheral attachments to the PHMM exhibit a heterogeneous tissue density. Within 10 mm of the posterior root, the meniscotibial attachment is often fused with the meniscocapsular attachment and the medial meniscus is connected to the posteromedial capsule and tibial plateau by loose synovial and adipose tissue, whereas a true ligament is present 15 mm from the posterior root. In some specimens, the meniscotibial attachment begins to diverge from the meniscocapsular attachment at 10 mm from the posterior root. This cadaveric study shows region-specific differences in the peripheral attachments to the PHMM, thereby offering a direct anatomical and histological basis for identifying the specific tissue in RAMP lesions that involve different regions.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789356",
+    "title": "The Meniscotibial Attachment Diverges From the Meniscocapsular Attachment at 10 mm From the Posterior Root of the Medial Meniscus and Forms a Distinct Ligament at 15 mm",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Zhu H, Ma X, Jiang W, Ji T, Yan S, Sun Y, Sun L.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789356",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789374",
+    "title": "Survey Findings From Orthopaedic Surgeons in Asia‐Pacific: Attitudes and Practice Patterns in Pediatric Anterior Cruciate Ligament Injuries",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Loke R, Lim R, Hoshino Y, Ganley T, Hui J.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789374",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/ars2.70121",
+    "title": "Survey Findings From Orthopaedic Surgeons in Asia-Pacific: Attitudes and Practice Patterns in Pediatric Anterior Cruciate Ligament Injuries.",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Loke RWK, Lim RQH, Hoshino Y, Ganley TJ, Hui JHP.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/ars2.70121",
+    "pmid": "43069958",
+    "url": "https://doi.org/10.1002/ars2.70121",
+    "abstract": "To evaluate current anterior cruciate ligament reconstruction rehabilitation recommendations among Asia-Pacific orthopaedic surgeons and compare them with previously published North American data. An online survey was conducted between January 2024 and June 2025, distributed to all orthopaedic surgeons within Pediatric Research in Sports Medicine Asia-Pacific in 2024, capturing clinical practice patterns at 3 key milestones: initiation of jogging, progression to modified sports activity, and unrestricted return to sport. Only orthopaedic surgeons within Pediatric Research in Sports Medicine Asia-Pacific who had provided informed consent to participate were included. The results were compared with a previously published survey of North American surgeons. The survey was sent to 127 surgeons, and 54 (43%) responded. Agreement was greatest for jogging-80% recommending initiation at 3 to 4 months postoperatively. Consensus declined for later phases: modified sports activity between 4 and 8 months, whereas return to sport spanned from 6 to 12 months. Compared with Pediatric Research in Sports Medicine North America, where 92% allowed jogging at 3 to 4 months and return to sport often advised at 6 to 9 months, Asia-Pacific surgeons showed a delayed approach. Asia-Pacific respondents considered quadriceps and hamstring strength essential for progression, although modalities varied-manual muscle testing (60%) predominated over isokinetic (28%) or isometric (12%) methods. Functional testing was employed by 68% prior to modified sports activity, with variability in test type and criteria. Compared with North American peers, Asia-Pacific surgeons used more objective strength and functional assessments, with limited use of patient-reported outcomes (20%). At the time of return to sport, 73% recommended injury-prevention programs and 50% endorsed functional bracing, rates comparable to North America. Acknowledging the temporal differences between both surveys and the evolution of rehabilitation practices during this period, the present study suggests a tendency toward conservative rehabilitation timelines in the Asia-Pacific region, with respect to return to jogging, return to modified sporting activity, and unrestricted return to sport. Strength and functional assessments are valued highly across both surveys, although differences exist in specific testing modalities employed and criteria used to guide progression. This survey-based comparison provides insight into regional variation and temporal trends in surgeon-reported anterior cruciate ligament reconstruction rehabilitation practices. The findings may assist clinicians and researchers in contextualizing contemporary rehabilitation recommendations and highlight areas of variability that warrant further standardization.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70398",
+    "title": "Open Extensor Carpi Radialis Brevis Debridement Augmented by Bioinductive Collagen Implant: Indications and Surgical Technique.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Keinath C, Kasto J, Andrews E, Obinero C, Dalby D, Mahylis J, Muh S.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/atn2.70398",
+    "pmid": "43069810",
+    "url": "https://doi.org/10.1002/atn2.70398",
+    "abstract": "Lateral epicondylitis is a common cause of elbow pain that typically resolves with conservative management. For patients with persistent symptoms and failed nonoperative treatment, surgical intervention may be considered. We describe a surgical technique for open extensor carpi radialis brevis debridement with augmentation using a bovine-derived bioinductive collagen implant. The procedure involves direct visualization and excision of degenerative tendon, followed by extensor carpi radialis longus tendon repair using a suture anchor. A bioinductive patch is secured over the repair using absorbable staples and suture. This technique builds on principles established in rotator cuff repair, where bioinductive implants have shown increased tendon thickness, organized tissue regeneration, and reduced retear rates. Although no studies currently assess the efficacy of collagen augmentation in lateral epicondylitis, its hypothesized benefit lies in enhancing tendon healing and promoting growth of new tissue after debridement. Contraindications include active infection and allergy to implant materials. Postoperative rehabilitation includes early range of motion and gradual strengthening. This technique provides a reproducible approach to augment open extensor carpi radialis brevis debridement and warrants further studies to evaluate the effect of bioinductive patch augmentation and outcomes in patients with recalcitrant lateral epicondylitis.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "technique",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789268",
+    "title": "Open Extensor Carpi Radialis Brevis Debridement Augmented by Bioinductive Collagen Implant: Indications and Surgical Technique",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Keinath C, Kasto J, Andrews E, Obinero C, Dalby D, Mahylis J, Muh S.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789268",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "Other"
+    ],
+    "paper_type": "technique",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789275",
+    "title": "Navigation‐Assisted Arthroscopic Ankle Fusion",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Liu J, Wu M, Yang Y, Zhang Y, Mi S, Liu J, Zhang Z.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789275",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "Other"
+    ],
+    "paper_type": "other",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70410",
+    "title": "Navigation-Assisted Arthroscopic Ankle Fusion.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Liu J, Wu M, Yang Y, Zhang Y, Mi S, Liu J, Zhang Z.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/atn2.70410",
+    "pmid": "43069918",
+    "url": "https://doi.org/10.1002/atn2.70410",
+    "abstract": "It is a technically demanding job to place the ideal home-run screw during arthroscopic ankle arthrodesis. The aim of this article is to provide an effective technical recommendation for the application of navigation systems to guide the home-run screw placement protocol for arthroscopic ankle arthrodesis. The surgery is performed using a traditional anterior arthroscopic approach. After arthroscopic clearance and articular surface preparation, the ankle is immobilized with a temporary K-wire in a standard ankle fusion position. Then, a navigation tracker was installed at the distal end of the tibia, a standard home-run screw was inserted with navigation assistance, and then 2 cross screws were placed sequentially from the inner and outer malleolus to fix the ankle joint. With the assistance of the navigation system, the surgeon can accurately, safely, and efficiently complete the remaining screw placement for arthroscopic ankle arthrodesis.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/ars2.70118",
+    "title": "Increasing Use of Anterior Cruciate Ligament Reconstruction in the Management of Pediatric Anterior Cruciate Ligament Injuries.",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Chua CXK, Tan SHS, Lim AKS, Hardjosworo SA, Hoshino Y, Tapasvi S, Pasion ELC, Hui JHP.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/ars2.70118",
+    "pmid": "43069956",
+    "url": "https://doi.org/10.1002/ars2.70118",
+    "abstract": "To assess the demographic of anterior cruciate ligament (ACL) injuries within Asia and treatment approaches among skeletally immature patients. A closed survey was conducted between January 2021 and December 2021 among practicing pediatric orthopaedic sports surgeons within Asia (India, Hong Kong, Indonesia, Republic of Korea, Philippines, Malaysia, Japan, and Singapore). This survey comprised of 4 segments-surgeon demographics, patient demographics, general management of pediatric ACL tears, and case-based scenarios. The survey was sent to 127 pediatric orthopaedic sports medicine surgeons; 55 responded (43.3%). The included surgeons are from 8 Asian countries and have collectively treated 2179 pediatric ACL injury patients and performed 1985 skeletally immature ACL reconstruction in the last 5 years. Of surgeons, 81.8% reported complications from nonoperative ACL tears, most commonly meniscus tear. However, most surgeons would offer conservative management as first line for a varied duration of 0.5 months till skeletal maturity, with a trend toward trial conservative management in prepubertal patients (85.5%) and early surgery for those nearing skeletal maturity (50.9%). There is an overall increasing tendency toward ACL reconstruction in skeletally immature patients in general. There was a wide variation in the youngest age the surgeon would recommend for ACL reconstruction from 6 to 17 years, with an average of 12.7 years old. The most common techniques of ACL reconstruction were transphyseal type (58.2%), followed by hybrid type (30.9%). Despite most surgeons reporting complications with nonoperative management, most surgeons within Asia take a more conservative approach, especially in prepubertal patients. However, there is an overall increasing use of ACL reconstruction in skeletally immature patients. Despite variation in management of pediatric ACL tears, surgeons in Asia take a conservative approach in prepubertal patients. However, more surgeons are offering ACL reconstruction to skeletally immature patients now compared with 5 years ago.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789355",
+    "title": "Increasing Use of Anterior Cruciate Ligament Reconstruction in the Management of Pediatric Anterior Cruciate Ligament Injuries",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Chua C, Tan S, Lim A, Hardjosworo S, Hoshino Y, Tapasvi S, Pasion E, Hui J.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789355",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.joca.2026.11.010",
+    "title": "Growth hormone signaling regulates sex-specific susceptibility to post-traumatic joint degenerat ion and pain.",
+    "journal": "Osteoarthritis and Cartilage",
+    "journal_list": "A",
+    "authors": "Ren S, Sukul A, Liu H, Wang J, Binoy A, Berryman DE, Kopchick JJ, Zhu S.",
+    "published_date": "2026-11-22",
+    "doi": "10.1016/j.joca.2026.11.010",
+    "pmid": "43068723",
+    "url": "https://doi.org/10.1016/j.joca.2026.11.010",
+    "abstract": "Post-traumatic osteoarthritis (PTOA) develops after joint injury, yet the biological programs that determine post-injury joint degeneration remain poorly defined. We sought to determine whether growth hormone (GH)/growth hormone receptor (GHR) signaling regulates susceptibility to PTOA and to define the relative contributions of systemic versus cartilage-intrinsic GHR signaling to post-injury joint degeneration and pain. We used complementary mouse models of altered GH action, including bovine GH transgenic mice (bGH), GH receptor antagonist transgenic mice (GHA), global GHR knockout mice (GHR-/-), and cartilage-specific GHR knockout mice (GHR-CKO; Acan-CreERT2;GHRflox/flox). PTOA was induced by non-invasive anterior cruciate ligament rupture (ACL-R). Outcomes included longitudinal assessment of knee hyperalgesia by pressure application measurement, histologic evaluation of cartilage degeneration by Safranin O/Fast Green staining with OARSI and Mankin scoring, and micro-computed tomography analysis of osteophyte formation and subchondral bone microarchitecture. Bulk RNA sequencing was performed on cartilage-enriched joint tissues from GHR-CKO and control mice after injury. Elevated GH action in bGH mice worsened cartilage degeneration, osteophyte formation, and no changes of knee hyperalgesia after ACL-R, whereas reduced GH signaling in GHA mice conferred protection. Global GHR deletion attenuated post-injury joint degeneration, while cartilage-specific GHR deletion reduced OA severity and hyperalgesia without altering body weight, demonstrating a local role for GHR signaling within the joint. Global GHR loss exerted broader effects on osteophyte formation and subchondral bone microstructure, whereas cartilage-specific deletion had more limited effects on trabecular architecture. RNA sequencing revealed profoundly sex-biased transcriptional remodeling after cartilage GHR loss, with female joints showing broader suppression of GH/IGF-responsive, extracellular matrix, and skeletal remodeling pathways than male joints. These molecular differences paralleled the stronger phenotypic protection observed in females. GH/GHR signaling is a central systemic and local regulator of PTOA susceptibility. Increased GH action worsens post-traumatic joint degeneration and pain, whereas reduced GH signaling is protective. Importantly, these effects are sex-dependent, with females showing stronger phenotypic protection and broader transcriptional remodeling after GHR loss. These findings identify the GH/GHR axis as a candidate therapeutic entry point for modifying PTOA.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1111/os.70474",
+    "title": "Four-Screw Versus Two-Screw Zero-Profile Implants: Effects on Overloaded Vertebral Body Following Anterior Cervical Discectomy and Fusion.",
+    "journal": "Orthopaedic Surgery",
+    "journal_list": "A",
+    "authors": "Yang X, Tian L, Yao M, Chen S, Wu T, Huang K, Zhao X, Deng Y, Liu H, Wang B.",
+    "published_date": "2026-11-22",
+    "doi": "10.1111/os.70474",
+    "pmid": "43068866",
+    "url": "https://doi.org/10.1111/os.70474",
+    "abstract": "Although zero-profile implants with different screw configurations are increasingly used in anterior cervical discectomy and fusion (ACDF), whether four-screw and two-screw designs differentially affect the overloaded vertebral body (OVB) remains unknown. This study aimed to compare the effects of four-screw and two-screw zero-profile implants on radiological outcomes of the OVB and clinical outcomes after two-level ACDF, and to provide a reference for further investigation and prevention of OVB deformation. This retrospective study analyzed 209 patients who underwent two-level ACDF between April 2012 and May 2023. Radiographic parameters included anterior vertebral height (AH), posterior vertebral height (PH), cross-sectional area (CSA), wedge angle (WA), wedge ratio (WR), cervical lordosis (CL), and surgical segment angle (SSA). Clinical outcomes were evaluated using the modified Japanese Orthopedic Association (mJOA) score, neck disability index (NDI) score, and visual analog scale (VAS) score for neck and arm pain. Surgical safety was evaluated based on the incidence of complications during the follow-up period. The deformities of OVB in both groups primarily presented as the reduction in AH and WR. The four-screw group exhibited less deformation compared to the two-screw group. At 3 months, 6 months, 12 months, and the final follow-up, the AH and WR of OVB in the two-screw group were significantly lower than those in the four-screw group (p < 0.05). Similarly, at 6 months, 12 months, and the final follow-up, the CSA of OVB was significantly lower, and the WA showed a significantly greater magnitude of kyphotic change in the two-screw group compared to the four-screw group (p < 0.05). By 12 months postoperatively, OVB in the two-screw group was in mild deformation. Compared with the four-screw group, the two-screw group demonstrated a greater loss of cervical lordosis at the final follow-up (p < 0.05). Although both groups showed significant clinical improvement from the preoperative baseline, a statistically significant difference in VAS scores of the neck was observed between the two groups at the final follow-up (p < 0.05). Our study showed that comparable clinical outcomes can be achieved in two-level ACDF using either four-screw or two-screw zero-profile implants. However, the four-screw implant showed superior performance in preventing and delaying postoperative deformation of OVB compared to the two-screw implant, which is crucial for sustaining cervical sagittal balance and improving long-term clinical outcomes.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/ars2.70170",
+    "title": "Female Sex Is Associated With Increased Health Care Use and Revision Risk After Achilles Tendon Repair.",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Saroyan A, Kodra JD, Choudhury A, Fong S, Lee MS, Girardi KG, Monahan P, Atadja L, Moran J, Gianakos A, Jimenez AE.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/ars2.70170",
+    "pmid": "43069941",
+    "url": "https://doi.org/10.1002/ars2.70170",
+    "abstract": "To evaluate sex-based differences in complications, health care use, and revision rates after Achilles tendon repair. A retrospective cohort study was conducted using the TriNetX Research Network. Adults undergoing primary Achilles tendon repair between 2015 and 2023 were identified, stratified by sex, and matched 1:1 using propensity scores. The primary outcome was revision Achilles tendon repair; secondary outcomes were postoperative complications, emergency department visits, inpatient admissions, and opioid prescriptions, assessed at 90-day and 2-year intervals. Follow-up duration was recorded for each cohort. Odds ratios (ORs) with 95% confidence intervals were calculated, with significance set at P < .05. A total of 11,251 patients were identified (68.2% men, 31.8% women). The mean follow-up was 82.0 days (men) and 81.8 days (women) for the 90-day analysis and 535.5 days (men) and 569.9 days (women) for the 2-year analysis, with a median follow-up that reached the full window in each cohort. Within 90 days postoperatively, both male and female patients experienced similar rates of wound dehiscence (P = .098), infections (P = .835), and deep vein thrombosis (P = .677). Female patients had significantly more postoperative emergency department visits (7.8% vs 5.6%, OR 1.42, P = .001) and opioid prescriptions (29.4% vs 26.8%, OR 1.14, P = .025) than males. At 2 years, female patients also showed a higher rate of revision surgery (4.4% vs 3.4%, OR 1.31, P = .048). Compared with male patients, female patients undergoing Achilles tendon repair had significantly higher rates of health care use (emergency department visits and opioid prescriptions) within 90 days and revision surgery within 2 years postoperatively. Differences in revision were small and may not be clinically meaningful. Level III, retrospective cohort study.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789373",
+    "title": "Female Sex Is Associated With Increased Health Care Use and Revision Risk After Achilles Tendon Repair",
+    "journal": "Arthroscopy, Sports Medicine, and Rehabilitation",
+    "journal_list": "A",
+    "authors": "Saroyan A, Kodra J, Choudhury A, Fong S, Lee M, Girardi K, Monahan P, Atadja L, Moran J, Gianakos A, Jimenez A.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789373",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jse.2026.11.007",
+    "title": "Comparing Bristow and Latarjet procedures for anterior shoulder instability in competitive rugby players: a unique within-subject clinical analysis.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Hirose T, Tanaka M, Nakai H, Kotani Y, Kuratani K, Sahara W, Hayashida K, Okada S.",
+    "published_date": "2026-11-22",
+    "doi": "10.1016/j.jse.2026.11.007",
+    "pmid": "43068397",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.007",
+    "abstract": "Anterior shoulder instability is a significant concern in collision sports like rugby, often requiring surgical intervention. The Bristow and Latarjet procedures are commonly performed coracoid transfer techniques alongside Bankart repair; however, direct comparisons of their clinical outcomes within the same individuals remain unexplored. This study aimed to compare the clinical outcomes of the Bristow and Latarjet procedures in competitive rugby players who underwent both surgeries on contralateral shoulders. We hypothesized that the Bristow procedure would yield superior patient-reported outcomes. Between 2010 and 2022, 503 shoulders underwent coracoid transfer procedures with Bankart repair. Of these, 10 rugby players (20 shoulders) who received the Bristow procedure on one shoulder and the Latarjet procedure on the other were retrospectively investigated. Clinical assessments included postoperative range of motion, clinical scoring outcomes (American Shoulder and Elbow Surgeons, Rowe score for instability of the shoulder, Western Ontario Shoulder Instability Index (WOSI) , and satisfaction rate), recurrence rates, residual apprehension, and pain requiring injection treatment more than 2 years postoperatively, which were compared between 2 procedures. Additionally, postoperative graft healing and resorption were analyzed using computed tomography scan. Both procedures led to significant improvements in clinical scores. However, the WOSI index at final follow-up was significantly better on the Bristow side (96 ± 100 vs. 373 ± 376, P = .014). Specific WOSI subdomains, particularly those related to physical symptoms and emotional factors, showed superior scores on the Bristow side. Only on the Latarjet side, an earlier return to play was statistically associated with a worse WOSI index. No recurrence was observed on the Bristow side, whereas 2 cases of subluxation occurred on the Latarjet side. Computed tomography evaluation revealed higher coracoid graft resorption rates on the Latarjet side. The Bristow procedure resulted in superior WOSI index scores compared to the Latarjet procedure within the same individuals among competitive rugby players.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.joca.2026.11.011",
+    "title": "Clinical Considerations With GLP-1 Therapies for Obesity and Knee Osteoarthritis: A Focus on Musculoskeletal Health and Nutritional Concerns.",
+    "journal": "Osteoarthritis and Cartilage",
+    "journal_list": "A",
+    "authors": "Godziuk K, Miller GD, Schafer AL.",
+    "published_date": "2026-11-22",
+    "doi": "10.1016/j.joca.2026.11.011",
+    "pmid": "43068724",
+    "url": "https://doi.org/10.1016/j.joca.2026.11.011",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) therapies and other incretin mimetics represent an important advance in obesity management that could potentially alter the trajectory of knee osteoarthritis (OA) incidence and management approaches. However, enthusiasm should be balanced by awareness about inadvertent musculoskeletal consequences and nutritional considerations. This narrative review explores evidence on implications of weight loss on muscle and bone health and malnutrition risk in the context of knee OA. Relevant literature was identified through targeted PubMed searches with emphasis on research gaps and clinical uncertainties. We examine clinical considerations for patient-centered GLP-1 therapy use and recommendations for strategies to optimize nutrition and musculoskeletal health alongside GLP-1 therapies for knee OA management. The success of GLP-1 therapy use in knee OA management should be evaluated not by the magnitude of weight loss but by improvements in OA symptoms, physical function, body composition, musculoskeletal and cardiometabolic health, and quality of life. Optimizing outcomes will require combining pharmacotherapy with evidence-based nutrition, exercise, and long-term obesity management strategies. Further research is needed to understand how GLP-1 therapies specifically impact musculoskeletal health with knee OA, and best fit into integrated and sustainable strategies for improving joint health.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70344",
+    "title": "Arthroscopic Quadrupled Semitendinosus Autograft Anterior Cruciate Ligament Reconstruction With Suspensory Fixation.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Gill SS, Joshi Y, Ahmad K, Jermin P, Murray JRD, Porteous A, Bhattacharyya R, Gupte CM.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/atn2.70344",
+    "pmid": "43069894",
+    "url": "https://doi.org/10.1002/atn2.70344",
+    "abstract": "This study describes a structured double suspensory technique for hamstring anterior cruciate ligament reconstruction using a 4-strand semitendinosus autograft, supported by a cognitive task analysis framework that deconstructs the procedure into technical steps and decision points. This study divides anterior cruciate ligament reconstruction into 7 phases: (1) examination under anesthesia and positioning, (2) graft harvest and preparation, (3) diagnostic arthroscopy, (4) femoral tunnel preparation and positioning, (5) tibial tunnel preparation and positioning, (6) graft passage through the tunnels, and (7) graft tensioning and fixation. Each phase includes written instruction, audiovisual guidance, decision points, and common pitfalls with solutions, enabling independent, structured study for trainees.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789267",
+    "title": "Arthroscopic Quadrupled Semitendinosus Autograft Anterior Cruciate Ligament Reconstruction With Suspensory Fixation",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Gill S, Joshi Y, Ahmad K, Jermin P, Murray J, Porteous A, Bhattacharyya R, Gupte C.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789267",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "Other"
+    ],
+    "paper_type": "other",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70280",
+    "title": "Arthroscopic Glenoid Reconstruction Using Autologous Scapular Spine Bone Graft and Long Head Biceps Tendon Transposition for Shoulder Instability and Subcritical Glenoid Bone Defects.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Yang J, Xiang M.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/atn2.70280",
+    "pmid": "43069888",
+    "url": "https://doi.org/10.1002/atn2.70280",
+    "abstract": "Traditional autologous bone grafting procedures for glenoid bone defects in recurrent anterior shoulder dislocation cause significant trauma to the donor site, resulting in chronic pain, neurovascular injury, and functional impairment. Therefore, we introduce a technique that involves harvesting autologous bone from the ipsilateral scapular spine for glenoid bone grafting, combined with the application of the dynamic sling technique using the long head of the biceps tendon. This technique is primarily intended for addressing subcritical glenoid bone defects in patients with high athletic demands.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789269",
+    "title": "Arthroscopic Glenoid Reconstruction Using Autologous Scapular Spine Bone Graft and Long Head Biceps Tendon Transposition for Shoulder Instability and Subcritical Glenoid Bone Defects",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Yang J, Xiang M.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789269",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "Other"
+    ],
+    "paper_type": "other",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1111/os.70471",
+    "title": "Artemetin Confers Neuroprotection in Spinal Cord Injury by Targeting Ferroptosis.",
+    "journal": "Orthopaedic Surgery",
+    "journal_list": "A",
+    "authors": "Chu Y, Duan G, Li X, Huang X, Wang Z, Ning G.",
+    "published_date": "2026-11-22",
+    "doi": "10.1111/os.70471",
+    "pmid": "43068923",
+    "url": "https://doi.org/10.1111/os.70471",
+    "abstract": "Ferroptosis plays a critical role in secondary neuronal death following spinal cord injury (SCI). Active ingredients from traditional Chinese medicine exhibit significant potential in neuroprotection. Artemetin, a potential neuroprotective agent, has an unclear effect and mechanism on ferroptosis after SCI. The study employed in vitro and in vivo models. The effects of artemetin were evaluated employing assays for cell viability and ferroptosis-associated indices (e.g., Fe2+, GPX4, lipid peroxidation), sequencing analyses (scRNA-seq, bulk RNA-Seq), and interaction validation (molecular docking, MST). This study found through in vivo and in vitro experiments that artemetin significantly improves motor function in SCI rats, alleviates iron overload and lipid peroxidation in spinal cord tissue, and increases neuronal survival. In VSC4.1 cells, artemetin effectively antagonizes erastin-induced ferroptosis. Mechanistically, transcriptomics, molecular docking, and microcalorimetry experiments indicate that artemetin binds to and downregulates the ferroptosis-promoting protein ACSL4. Overexpression of ACSL4 can reverse the protective effects of artemetin. In summary, this study demonstrates that artemetin inhibits neuronal ferroptosis by targeting ACSL4, providing a new potential strategy for SCI treatment.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70409",
+    "title": "Anterolateral Suture Tensioning for Improved Reduction in Arthroscopic Subscapularis Repair With Knotless Anchors.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Çağlar C, Akbulut B, Akçaalan S.",
+    "published_date": "2026-11-22",
+    "doi": "10.1002/atn2.70409",
+    "pmid": "43069806",
+    "url": "https://doi.org/10.1002/atn2.70409",
+    "abstract": "Arthroscopic subscapularis repair is a technically demanding procedure that requires controlled suture management and optimal anchor placement to achieve anatomic tendon reduction. However, suture crowding at the anterior portal may compromise anchor insertion angle and hinder appropriate tendon positioning. This Technical Note describes a modification involving controlled intra-articular transfer of sutures from the anterior portal to the anterolateral portal after anchor placement. This approach uses free sutures and knotless fixation. By clearing the anterior working space prior to final anchor fixation, it allows improved anchor trajectory and facilitates a more horizontal reduction vector of the subscapularis tendon onto its footprint. This technique enables more anatomic tendon positioning and controlled tensioning and provides a versatile fixation method applicable to various tear patterns.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789266",
+    "title": "Anterolateral Suture Tensioning for Improved Reduction in Arthroscopic Subscapularis Repair With Knotless Anchors",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Çağlar C, Akbulut B, Akçaalan S.",
+    "published_date": "2026-11-22",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789266",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "Other"
+    ],
+    "paper_type": "other",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jbspin.2026.106168",
+    "title": "Thyroid dysfunction history is very frequent in hand osteoarthritis patients but is not associated with its severity : Results of the DIGICOD cohort.",
+    "journal": "Joint Bone Spine",
+    "journal_list": "A",
+    "authors": "Pinchemel M, Tuffet S, Errahmani A, Rousseau A, Richette P, Bastard JP, Fellahi S, Berenbaum F, Sellam J, Courties A.",
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.jbspin.2026.106168",
+    "pmid": "43067384",
+    "url": "https://doi.org/10.1016/j.jbspin.2026.106168",
+    "abstract": "Thyroid dysfunction affects approximately 26% of patients with osteoarthritis (OA), however, its potential impact on clinical features or structural severity remains unclear. This study aimed to investigate whether a history of thyroid dysfunction is associated with clinical and radiographic severity of symptomatic hand OA. We conducted a cross-sectional analysis at the baseline visit of the 426 patients with symptomatic hand OA from the DIGICOD cohort. Clinical severity was assessed using the AUSCAN scores, while radiographic severity was evaluated using Kellgren-Lawrence (KL) grading and the presence of erosive hand OA. Thyroid dysfunction was defined as a history of clinical hypo- or hyperthyroidism and/or thyroid hormone replacement therapy. Associations between history of thyroid dysfunction and hand OA clinical features or radiographic severity were examined through multivariable regression models adjusted for age, sex, and BMI. Correlations between serum TSH, fT3/fT4 ratio, the Thyroid Feedback Quantile-Based Index (TFQI), and clinical or radiographic outcomes were analyzed using Spearman's coefficients. Among participants (mean (SD) age of 66.7 (7.3) years, 83.8% were women), 87/426 (20%) reported thyroid dysfunction, while 382 (96.5%) had normal TSH levels. No significant associations were detected between a history of thyroid dysfunction and AUSCAN or KL scores, nor with the presence of erosive hand OA. Likewise, TSH, fT3/fT4 ratio, or TFQI showed no significant correlation with clinical or radiographic severity measures. This study confirms a high prevalence of a history of thyroid dysfunction among patients with symptomatic hand OA but do not demonstrate any association with either clinical features or radiographic severity.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/19386400261504762",
+    "title": "Tarsometatarsal Joint Synovial Chondromatosis Requiring Osteotomy-Assisted Tumor Excision With Staged Revision for Nonunion: A Case Report.",
+    "journal": "Foot & Ankle Specialist",
+    "journal_list": "A",
+    "authors": "Zaifman JM, Posner KM, Fabbri N, Hoda ST, Schafer KA.",
+    "published_date": "2026-11-21",
+    "doi": "10.1177/19386400261504762",
+    "pmid": "43066539",
+    "url": "https://doi.org/10.1177/19386400261504762",
+    "abstract": "Synovial chondromatosis (SC) is a rare benign proliferative disorder characterized by chondroid metaplasia of the synovial membrane that most commonly affects large joints; foot and ankle involvement is exceedingly rare. This case report describes SC involving the fourth tarsometatarsal joint with deep plantar extension between the third and fourth metatarsal bases in a 41-year-old woman. Magnetic resonance imaging and computed tomography demonstrated a complex soft tissue mass with adjacent bony erosion, and image-guided core needle biopsy confirmed the diagnosis. Given the deep plantar extent of the lesion precluding standard dorsal excision, a combined orthopaedic foot and ankle and orthopaedic oncology approach was undertaken. The approach utilized a novel fourth metatarsal base osteotomy with temporary complete bone removal to achieve full tumor exposure and complete gross excision. The osteotomy subsequently progressed to nonunion, requiring staged revision with iliac crest bone grafting, bone marrow aspirate concentrate injection, and revision low-profile fixation. At 4 months postrevision, the patient reported walking normally with radiographic confirmation of osteotomy healing. This case highlights a novel surgical approach for deeply located SC of the midfoot and underscores the value of multidisciplinary planning for complex benign foot tumors.Level of Evidence:Level V-Expert Opinion/Case Report.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "case",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s11657-026-01801-x",
+    "title": "Socioeconomic inequality in osteoporosis among Iranian older adults: Bushehr Elderly Health (BEH) Program.",
+    "journal": "Archives of Osteoporosis",
+    "journal_list": "A",
+    "authors": "Alaei S, Ostovar A, Fahimfar N, Shafiee G, Sanjari M, Nabipour I, Larijani B, Khalagi K.",
+    "published_date": "2026-11-21",
+    "doi": "10.1007/s11657-026-01801-x",
+    "pmid": "43066838",
+    "url": "https://doi.org/10.1007/s11657-026-01801-x",
+    "abstract": "Socioeconomic status (SES) may affect bone density, but evidence in older Iranians is limited. This study of 2,266 Bushehr Elderly Health cohort participants found marked inequalities in osteoporosis and low bone mineral density (BMD), disproportionately concentrated among participants with lower socioeconomic status. SES gap was largely driven by age and sex. Findings emphasize the need for equity-oriented screening and social policies. SES is associated with many chronic conditions, yet its role in bone health among older Iranians is poorly characterized. This study quantifies SES-related inequalities in BMD using BEH program data. In this cross-sectional analysis of 2266 BEH program participants, BMD was measured by DXA at lumbar spine, femoral neck, and total hip. Osteoporosis was defined as T-score ≤ -2.5 and low BMD as T-score ≤ -1.0. SES was estimated using a PCA-derived SES index quintile. Inequality was assessed with concentration indices and Lorenz curves. Multivariable logistic regression, adjusted for DAG-identified confounders, examined SES-osteoporosis associations. Blinder-Oaxaca decomposition quantified covariate contributions to gaps between lowest and highest SES quintiles. Participants' mean age was 69.3 ± 6.3 years, and 51.9% were female. The prevalence of osteoporosis and low BMD were 30.9% and 74.1%, respectively. Negative concentration indices indicated that osteoporosis (CI = -0.11, p < 0.001) and low BMD (CI = -0.048, p < 0.001) were disproportionately concentrated among participants with lower socioeconomic status. Adjusted odds ratios (highest vs. lowest SES quintile) were 0.96 (p = 0.815) for osteoporosis and 0.67 (p = 0.037) for low BMD. SES gaps of 10.4% (osteoporosis) and 10.7% (low BMD) were largely explained by sex and age. Marked socioeconomic inequalities in bone health, disproportionately affecting older adults with lower socioeconomic status, were observed in southern Iran. Demographic factors account for much of the disparity, underscoring the need for equitable screening, education, and social interventions.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00264-026-07072-y",
+    "title": "Short-term outcomes and survivorship following open humeroscapular interface smoothing for massive irreparable rotator cuff tears with retained active elevation.",
+    "journal": "International Orthopaedics",
+    "journal_list": "A",
+    "authors": "Collins AP, Lao HS, Ohlsen SM, Matsen Iii FA.",
+    "published_date": "2026-11-21",
+    "doi": "10.1007/s00264-026-07072-y",
+    "pmid": "43067628",
+    "url": "https://doi.org/10.1007/s00264-026-07072-y",
+    "abstract": "For massive irreparable rotator cuff tears with retained active elevation that fail nonoperative management, surgical options vary in benefit, cost, and complications. This study aimed to report short-term patient-reported outcomes and reoperation after the Smooth and Move (SnM) procedure, an open, joint-preserving humeroscapular motion interface debridement. In this retrospective single-surgeon series, the Simple Shoulder Test (SST), Single Assessment Numeric Evaluation (SANE), and pain were collected preoperatively and at six months, one year, and two years. Kaplan-Meier survivorship and multivariable regression of final SST were performed. Of 165 patients (mean age, 62.7 years; median follow-up, 13 months), 94 (57.0%) contributed any postoperative score, and 43 (26.1%), 46 (27.9%), and 36 (21.8%) had six month, one year, and two year SST scores. Mean SST improved from 3.9 to 6.8, 4.1 to 8.0, and 3.9 to 7.5 at these intervals (all p < 0.001); SANE also improved (all p ≤ 0.002). The 2-point minimal clinically important difference (MCID) was achieved by 65.1%, 76.1%, and 77.8% of responders (62.2% at two years, counting revisions as failures). Pain improved at six months but not at one or two years. Among 17 patients assessed at both one and two years, mean SST was lower at two years (9.1 vs. 7.8, p = 0.184). Baseline SST was the only independent predictor of final SST (β = 0.49, p = 0.002). Twenty patients (12.1%) underwent revision, including nine (5.5%) conversions to arthroplasty; survivorship free of revision was 96.0% at one year and 86.4% at two years. SnM was associated with short-term functional improvement among responders, but follow-up was incomplete, pain did not improve beyond six months, and there was a non-significant trend in function that was lower between one and two years.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1007/s11701-026-04195-7",
     "title": "Patient perception of robotic-assisted spine surgery.",
     "journal": "Journal of Robotic Surgery",
@@ -10,9 +725,9 @@
     "pmid": "43064875",
     "url": "https://doi.org/10.1007/s11701-026-04195-7",
     "abstract": "Patient behaviors related to pursuing robotic-assisted spine surgery remain poorly characterized. This study evaluated patients' perceptions of robotic-assisted spine surgery and behaviors related to seeking robotic-assisted care. We surveyed 116 adult spine patients at initial consultation (n = 101) or postoperative follow-up after confirmed robotic-assisted surgery (n = 15). Questions assessed perceived attributes of robotic-assisted versus traditional surgery, comfort, surgical preference, willingness to recommend robotic spine surgery, perceived robotic involvement, and whether patients had actively sought surgeons using robotics. Analyses included descriptive statistics, 95% confidence intervals (CIs), and exploratory subgroup comparisons. Patients perceived robotic-assisted surgery as more accurate (65%) and less invasive (63%), with smaller incisions (74%) and shorter surgery (53%) and recovery times (46%). Robotic and traditional surgery were most commonly perceived as comparable in pain (56%) and radiation exposure (51%). 69% believed a robot could perform most or all of the surgery; 60% would recommend robotic spine surgery, and 56% were somewhat or very comfortable with robotics. For otherwise identical surgeries, 73% (85/116, 95% CI 64.6-80.5%) reported no preference, 16% preferred robotic assistance, and 11% preferred surgery without robotics. Of 94 yes/no respondents, 6 (6.4%, 95% CI 3.0-13.2%) reported actively seeking a surgeon using robotics. The other 22 selected \"Not Applicable.\" Although perceptions were generally favorable, most patients had no preference regarding robotic assistance, and few reported actively seeking surgeons using robotics. Robotic availability was not a prominent stated selection factor in this small, single-center sample.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
-      "IM",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -25,6 +740,118 @@
     ]
   },
   {
+    "id": "doi:10.1177/19386400261501388",
+    "title": "Infection Following Achilles Tendon Repair: A Systematic Review of Pathogens and Risk Factors.",
+    "journal": "Foot & Ankle Specialist",
+    "journal_list": "A",
+    "authors": "Braman M, Adams J, Farrington L, Harmon I, Long R, Vopat B, Waller S, Biswas I.",
+    "published_date": "2026-11-21",
+    "doi": "10.1177/19386400261501388",
+    "pmid": "43066516",
+    "url": "https://doi.org/10.1177/19386400261501388",
+    "abstract": "BackgroundAchilles tendon rupture is a common injury in athletes. Ankle surgeries have been reported to have a higher incidence of infection than other orthopaedic surgical sites. Purpose. The purpose of this study is to systematically review the literature regarding infections following Achilles tendon repair and identify common pathogens and risk factors associated with this outcome.MethodsAn electronic systematic review was conducted via a PubMed and Cochrane search, evaluating studies published before September 2023 and reporting on Achilles repair infection. Primary factors assessed include causative microorganisms, time to infection, treatment, and risk factors.ResultsThe greatest risk factors were open wounds before surgery (P < .001), obesity (P < .0001), and age (P = .03). Most infections occurred within the first 8 weeks.ConclusionStaphylococcus and Streptococcus were the most common causative agents of infection, followed by Escherichia coli and Pseudomonas. Infections generally began within the first 8 weeks postoperatively, ranging from 10 days to 6 months. Statistically significant risk factors for postoperative Achilles infection include obesity, comorbid medical conditions, smoking, tourniquet time, blood loss, and patient age.Level of Evidence:Level I, Systematic Review.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/19386400261504759",
+    "title": "Impact of Patient-Reported Allergies on Clinical Outcomes Following Surgical Treatment of Insertional Achilles Tendinopathy.",
+    "journal": "Foot & Ankle Specialist",
+    "journal_list": "A",
+    "authors": "Tran S, Lachance AD, Bauer R, Lee W.",
+    "published_date": "2026-11-21",
+    "doi": "10.1177/19386400261504759",
+    "pmid": "43066538",
+    "url": "https://doi.org/10.1177/19386400261504759",
+    "abstract": "BackgroundPatient-reported allergies (PRAs) have been associated with worse outcomes after several orthopaedic procedures, including total hip and knee arthroplasty, but their effect after surgical treatment of insertional Achilles tendinopathy (IAT) is unknown. This study investigated whether the number of PRAs is associated with functional outcomes and postoperative complications after surgical treatment of IAT.MethodsWe retrospectively reviewed 28 patients (mean age, 54.8 years; 28.6% male; mean follow-up, 15.9 months) who underwent surgical treatment of IAT, stratified by number of PRAs: 0 (n = 10), 1 to 5 (n = 11), and >5 (n = 7). Primary outcomes were the Foot and Ankle Ability Measure (FAAM), Visual Analog Scale (VAS) pain, and Short Form-12 Physical and Mental Component Summary (PCS-12, MCS-12) scores at the most recent follow-up; SF-12 scores were available for 19 patients. Secondary outcomes were postoperative complications. Multivariable linear regression was used to adjust for baseline differences between groups.ResultsMedian FAAM scores were 60.0, 72.0, and 61.0 in the 0, 1 to 5, and >5 PRA groups (P = .87), and median VAS scores were 3.5, 2.0, and 3.0 (P = .47). PCS-12 (39.2, 37.4, and 51.6; P = .30) and MCS-12 (56.1, 52.3, and 56.5; P = .76) did not differ significantly. Hypertension and asthma were more prevalent in the >5 PRA group (P = .003 and P = .037). Achilles tendon rupture occurred in 2 (20.0%), 1 (9.1%), and 0 patients (P = .41) and 1 wound dehiscence occurred in the 1 to 5 group (P = .45); complication rates did not differ significantly among groups. After adjusting for ASA class, hypertension, and asthma, the number of PRAs was not significantly associated with any patient-reported outcome, although confidence intervals were wide.ConclusionIn this retrospective cohort, no statistically significant association was identified between the number of PRAs and functional outcomes or complication rates following surgical management of IAT. Given the limited sample size and heterogeneous allergy profiles, these findings should be interpreted cautiously.Level of Evidence:Level III: Retrospective cohort study.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jbspin.2026.106167",
+    "title": "Genicular Artery Embolization for Knee Osteoarthritis: A Practical Guide and Future Directions on behalf of French Society of Rheumatology, Musculoskeletal Imaging Society, French Hip and Knee Society, French Society for Orthopaedic and Trauma Surgery, French Society of Physical and Rehabilitation Medicine, and of French Society of Radiology.",
+    "journal": "Joint Bone Spine",
+    "journal_list": "A",
+    "authors": "Mathieu S, Boeken T, Stacoffe N, Alliot-Launois F, Bousson V, Daste C, Ladoucette A, Desouches S, Gremen E, Mainard D, Pham T, Rannou F, Roux C, Zauderer J, Sellam J, Sapoval M.",
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.jbspin.2026.106167",
+    "pmid": "43067383",
+    "url": "https://doi.org/10.1016/j.jbspin.2026.106167",
+    "abstract": "To establish considerations for the indication and performance of genicular arteries embolization (GAE) for painful knee osteoarthritis on behalf of consortium of national societies. Based on literature review and clinical practice, a multidisciplinary group of 16 healthcare professionals including rheumatologists, interventional and MSK radiologists, physical and rehabilitation medicine physicians, knee orthopedic surgeons, and member of people living with OA association produced the considerations. Results : The group established 11 specific considerations. GAE is indicated for patients with painful knee osteoarthritis for whom no other cause of pain can be identified, and whose pain is refractory despite usual optimal medical treatment. A pre-therapeutic knee synovitis should be searched prior to GAE using a Doppler ultrasound or, even better, a contrast-enhanced MRI. Interventional radiologists should perform pre- and post-GAE consultations in collaboration with other musculoskeletal physician, in order to integrate GAE into the multimodal management strategy. Currently, there is no consensus on GAE techniques, and these should be individualized according to patient characteristics and interventional radiologist preferences. GAE may be repeated in selected cases. There are no contraindications to undergoing knee surgery after having GAE, but after a reasonable delay of three months. GAE may be considered in selected patients with persistent knee pain after knee replacement and after exclusion of other causes, including joint infection. These considerations provide a structured guide for GAE in painful knee osteoarthritis. Several questions warrant further investigation through clinical or basic research.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/21925682261511573",
+    "title": "From the Inpatient Unit to the Same-Day Discharge Suite: A Historical Narrative of Outpatient Spine Surgery in the United States.",
+    "journal": "Global Spine Journal",
+    "journal_list": "A",
+    "authors": "Silber B, Blum C, Leon S, Elsamadicy AA, Sciubba DM, Virk S, Essig D.",
+    "published_date": "2026-11-21",
+    "doi": "10.1177/21925682261511573",
+    "pmid": "43066638",
+    "url": "https://doi.org/10.1177/21925682261511573",
+    "abstract": "Study DesignNarrative Review.ObjectiveTo chronicle major historical forces that drove spine surgery in the United States from mandatory inpatient hospitalization to same-day discharge. Examine the roles of economics and regulatory policies in this transformation.MethodsA literature review was conducted using PubMed and Google Scholar. Search terms included: 'ambulatory spine surgery', 'outpatient discectomy', 'outpatient lumbar fusion', 'ambulatory surgery center spine', 'COVID-19 spine surgery', among others. Reference lists were hand-searched without date restrictions. English-language articles were included.ResultsFive connecting historical forces shaped the transition to outpatient spinal surgery: (1) 1970s microsurgery revolution that made brief hospitalizations plausible, minimizing operative times and blood loss; (2) 1980s and 1990s outpatient discectomy series displaying achievability; (3) 2000s and 2010s growth of the ambulatory surgery center (ASC) prototype and regulatory disputes with Centers for Medicare and Medicaid Services (CMS); (4) Enhanced Recovery After Surgery (ERAS) protocols in spine surgery promoting feasibility of complex outpatient operations; and (5) COVID-19 pandemic serving as an unanticipated accelerant of outpatient protocol. Each phase coincided with economic incentives that appeared to precede the development of a patient-centered evidence body, a pattern the authors interpret as suggestive of economic influence.ConclusionsThe ascent of outpatient spine surgery is a major shift in recent American medical history, accompanied by economic incentives, regulatory policy development, a global pandemic, alongside surgical innovation. Temporal associations between financial incentives and phases of outpatient utilization are observed as a recurrent pattern. Whether these reflect causation or coincident timing remains interpretive.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789005",
+    "title": "From the Inpatient Unit to the Same-Day Discharge Suite: A Historical Narrative of Outpatient Spine Surgery in the United States",
+    "journal": "Global Spine Journal",
+    "journal_list": "A",
+    "authors": "Silber B, Blum C, Leon S, Elsamadicy A, Sciubba D, Virk S, Essig D.",
+    "published_date": "2026-11-21",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789005",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "review-article",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1007/s00256-026-05445-3",
     "title": "Association of popliteal artery wall index with cartilage morphology and loss in knee osteoarthritis: data from the FNIH Biomarkers Consortium.",
     "journal": "Skeletal Radiology",
@@ -34,7 +861,71 @@
     "doi": "10.1007/s00256-026-05445-3",
     "pmid": "43064860",
     "url": "https://doi.org/10.1007/s00256-026-05445-3",
-    "abstract": "To evaluate MRI-derived popliteal artery wall index in relation to knee cartilage volume and 24-month cartilage loss in the Foundation for the National Institutes of Health (FNIH) Osteoarthritis Biomarkers Consortium cohort. This observational cohort study included 594 participants with one indexed knee each. Mean wall index was calculated by averaging values derived using the Fully Automated and Robust Analysis Technique for Popliteal Artery Evaluation across all evaluable axial cross-sectional images reformatted from the sagittal three-dimensional dual-echo steady-state MRI volume. Fully adjusted models, including relevant clinical and imaging covariates, evaluated cross-sectional and change-on-change associations with regional cartilage volume. Mixed-effects and sensitivity analyses assessed robustness. At baseline, each 10-percentage-point higher mean wall index was associated with lower lateral femoral cartilage volume (β = -67.4 mm3; 95% CI, -126.4 to -8.3; p = 0.025) and thickness (-0.091 mm; 95% CI, -0.162 to -0.021; p = 0.011). Each 1-SD increase in mean wall-index change was associated with greater medial tibial (β = 0.53 percentage points; 95% CI, 0.12 to 0.95; p = 0.012) and lateral femoral (β = 0.35 percentage points; 95% CI, 0.01 to 0.69; p = 0.048) cartilage-volume loss. The medial tibial association was supported by mixed-effects, robust, rank-based, and baseline-adjusted sensitivity analyses. A greater 24-month increase in mean wall index was associated with greater concurrent medial tibial cartilage-volume loss. Mean wall index derived from standardized 3D DESS knee MRI may provide complementary information about concurrent cartilage loss, although further longitudinal studies are needed to establish its clinical significance.",
+    "abstract": "Objective To evaluate MRI-derived popliteal artery wall index in relation to knee cartilage volume and 24-month cartilage loss in the Foundation for the National Institutes of Health (FNIH) Osteoarthritis Biomarkers Consortium cohort. Materials and methods This observational cohort study included 594 participants with one indexed knee each. Mean wall index was calculated by averaging values derived using the Fully Automated and Robust Analysis Technique for Popliteal Artery Evaluation across all evaluable axial cross-sectional images reformatted from the sagittal three-dimensional dual-echo steady-state MRI volume. Fully adjusted models, including relevant clinical and imaging covariates, evaluated cross-sectional and change-on-change associations with regional cartilage volume. Mixed-effects and sensitivity analyses assessed robustness. Results At baseline, each 10-percentage-point higher mean wall index was associated with lower lateral femoral cartilage volume (β = -67.4 mm 3 ; 95% CI, -126.4 to -8.3; p = 0.025) and thickness (-0.091 mm; 95% CI, -0.162 to -0.021; p = 0.011). Each 1-SD increase in mean wall-index change was associated with greater medial tibial (β = 0.53 percentage points; 95% CI, 0.12 to 0.95; p = 0.012) and lateral femoral (β = 0.35 percentage points; 95% CI, 0.01 to 0.69; p = 0.048) cartilage-volume loss. The medial tibial association was supported by mixed-effects, robust, rank-based, and baseline-adjusted sensitivity analyses. Conclusion A greater 24-month increase in mean wall index was associated with greater concurrent medial tibial cartilage-volume loss. Mean wall index derived from standardized 3D DESS knee MRI may provide complementary information about concurrent cartilage loss, although further longitudinal studies are needed to establish its clinical significance.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "PMC:PMC13789008",
+    "title": "Arthrogram findings of displaced annular ligament in paediatric Monteggia injuries: Introducing the “Rose Thorn” sign of the elbow",
+    "journal": "Journal of Children's Orthopaedics",
+    "journal_list": "A",
+    "authors": "Khan A, Loh B, Donnan L, Wang K.",
+    "published_date": "2026-11-21",
+    "doi": "",
+    "pmid": "",
+    "url": "https://europepmc.org/article/PMC/PMC13789008",
+    "abstract": "",
+    "open_access": true,
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/18632521261509834",
+    "title": "Arthrogram findings of displaced annular ligament in paediatric Monteggia injuries: Introducing the \"Rose Thorn\" sign of the elbow.",
+    "journal": "Journal of Children's Orthopaedics",
+    "journal_list": "A",
+    "authors": "Khan AM, Power FR, Loh BW, Donnan L, Wang KK.",
+    "published_date": "2026-11-21",
+    "doi": "10.1177/18632521261509834",
+    "pmid": "43069796",
+    "url": "https://doi.org/10.1177/18632521261509834",
+    "abstract": "In paediatric Monteggia injuries, persistent radial head instability despite anatomic ulnar reduction creates a difficult intra-operative dilemma. A displaced annular ligament has been described as a potential cause, but no reliable intra-operative test has been reported. We describe a novel arthrographic finding, the \"Rose Thorn\" sign of the Elbow, which correlates with annular ligament displacement and ongoing radial head instability. Skeletally immature patients with acute Monteggia injuries who underwent intra-operative arthrography at a tertiary paediatric centre over 12 months were included. Arthrograms were assessed for a characteristic wedge-shaped anterior contrast defect within the radiocapitellar space and subsequently correlated with intra-operative findings at open reduction. Elbows without the arthrographic sign served as controls. Thirteen patients met inclusion criteria. Six demonstrated a positive Rose Thorn sign following ulnar reduction. All six had persistent anterior radial head instability and were found to have an interposed annular ligament at open reduction. Reduction of the annular ligament resolved the Rose Thorn sign and restored radiocapitellar alignment and stability. Patients without the sign had no residual radiocapitellar instability. The Rose Thorn sign is an indicator of annular ligament displacement. We propose its use as an adjunct intra-operative decision-making tool when radial head instability persists after ulnar reduction in paediatric Monteggia injuries. This study describes the Rose Thorn sign as a novel intra-operative arthrographic marker of annular ligament displacement, providing surgeons with a practical decision-making tool when radial head instability persists despite anatomic ulnar reduction in paediatric Monteggia injuries. Case-Control Study.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jsurg.2026.104262",
+    "title": "A Standardized Occupational Therapy-Based Upper Extremity Assessment for Surgical Residency Onboarding.",
+    "journal": "Journal of Surgical Education",
+    "journal_list": "B",
+    "authors": "Burnette C, Zeller M, Dixon A, Chilcoat AR, Feinman M.",
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.jsurg.2026.104262",
+    "pmid": "43067108",
+    "url": "https://doi.org/10.1016/j.jsurg.2026.104262",
+    "abstract": "This initiative targets technical readiness and ergonomic awareness within surgical residents. By integrating occupational therapy (OT) assessment into resident onboarding, the evaluation identifies individual strengths and potential improvement opportunities before training. This approach aims to assist with proactive strength development, wellness, and sustainable surgical performance. To enhance early technical skill acquisition and ergonomic awareness, our general surgery residency integrated a structured OT upper extremity and hand functional assessment prior to onboarding. Each incoming intern underwent evaluation of ergonomic health, fine motor coordination, hand strength, dexterity, and peripheral neurological status. Residents received individualized reports with suggestions for exercises to maximize performance, promoting early awareness of hand ergonomics and strategies to reduce the learning curve in surgical skill development. Across 2 intern cohorts from 2024 to 2025 (n = 8), residents completed a follow-up survey 4 months into training, assessing the perceived value of the OT assessment using a 5-point Likert scale. They rated the experience highly, finding it helpful for residency preparation (mean 4.5 ± 0.5), useful during training (4.0 ± 0.8), positively impactful in the operating room (3.75 ± 0.9), and worth their time (4.9 ± 0.4); 75% implemented OT recommendations and 25% pursued additional follow-up. Feedback emphasized improved ergonomic awareness, confidence, and intentional self-improvement early in training. This project introduces an innovative, interdisciplinary approach to surgical ergonomic awareness by pairing OT expertise with resident technical development. The assessment encourages residents to consider their individual musculoskeletal strengths and ergonomic habits from the outset of training. Early integration of hand and upper-extremity assessment fosters technical readiness, enhances wellness, and may reduce overuse injuries throughout surgical residency. Potential barriers include limited OT staffing, time constraints, and cost for larger programs, which can be mitigated through streamlined protocols and involvement of OT trainees. Scheduling assessments before orientation avoids disruption to clinical duties and enhances feasibility across diverse surgical training programs. This baseline upper extremity and hand assessment was easily implemented at our institution and can be scaled to other programs with OT partnerships using standardized templates for consistent feedback and reproducibility. Minimal cost and scheduled evaluation time make it adaptable to diverse training settings.",
     "open_access": false,
     "publication_types": [
       "IM",
@@ -56,10 +947,10 @@
     "doi": "10.1038/s41413-026-00592-8",
     "pmid": "43064723",
     "url": "https://doi.org/10.1038/s41413-026-00592-8",
-    "abstract": "Despite mounting evidence emphasizing the role of abnormal subchondral bone remodeling in the progression of osteoarthritis (OA), clinical translation has produced disappointing results. Here, we demonstrate an increased expression of Wnt1, a key Wnt ligand with potent osteoanabolic effects, during OA progression in human and murine subchondral bone. Temporarily overexpressing Wnt1 in osteoblasts in the early phase after anterior cruciate ligament transection (ACLT)-induced OA has no effect on cartilage degeneration; however, it contributes to increased subchondral bone mass and alleviates subchondral bone loss. In contrast, late-phase induction of Wnt1 in osteoblasts exacerbates OA severity by inducing aberrant subchondral bone sclerosis, where inflammation-induced secreted frizzled-related protein 2 (Sfrp2) in the subchondral bone potentiates the harmful effects of Wnt1. Moreover, mice with a global inactivating Wnt1G177C mutation, which clinically causes osteogenesis imperfecta type XV, display low subchondral bone mass, are resistant to ACLT-induced subchondral bone loss and exhibit attenuated OA progression. Taken together, these findings identify a pathophysiological role for Wnt1 in subchondral bone remodeling and OA progression that could represent a promising therapeutic target.",
-    "open_access": false,
+    "abstract": "Despite mounting evidence emphasizing the role of abnormal subchondral bone remodeling in the progression of osteoarthritis (OA), clinical translation has produced disappointing results. Here, we demonstrate an increased expression of Wnt1, a key Wnt ligand with potent osteoanabolic effects, during OA progression in human and murine subchondral bone. Temporarily overexpressing Wnt1 in osteoblasts in the early phase after anterior cruciate ligament transection (ACLT)-induced OA has no effect on cartilage degeneration; however, it contributes to increased subchondral bone mass and alleviates subchondral bone loss. In contrast, late-phase induction of Wnt1 in osteoblasts exacerbates OA severity by inducing aberrant subchondral bone sclerosis, where inflammation-induced secreted frizzled-related protein 2 (Sfrp2) in the subchondral bone potentiates the harmful effects of Wnt1. Moreover, mice with a global inactivating Wnt1 G177C mutation, which clinically causes osteogenesis imperfecta type XV, display low subchondral bone mass, are resistant to ACLT-induced subchondral bone loss and exhibit attenuated OA progression. Taken together, these findings identify a pathophysiological role for Wnt1 in subchondral bone remodeling and OA progression that could represent a promising therapeutic target.",
+    "open_access": true,
     "publication_types": [
-      "IM",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -67,6 +958,29 @@
       "Other / Unclassified"
     ],
     "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70388",
+    "title": "Three-Dimensional Printing-Assisted All-Arthroscopic Bone Block Procedure for Atypical Large Glenoid Bone Loss.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Ng JPH, Chan JZ, Teo TWW, Lim HF.",
+    "published_date": "2026-11-20",
+    "doi": "10.1002/atn2.70388",
+    "pmid": "43066442",
+    "url": "https://doi.org/10.1002/atn2.70388",
+    "abstract": "Advancements in managing critical glenoid bone loss advocate restoring the glenoid contour with anatomic glenoid reconstruction (AGR) with allografts, most notably a distal tibia allograft (DTA). In patients with atypical bone loss patterns where the injured surface is not flat, however, fashioning an accurately contoured bone graft can be time-consuming. We describe a technique using a 3-dimensional (3D)-printed model for intraoperative reference in an arthroscopic AGR/DTA for a patient with atypical glenoid bone loss. A rectangular bone block is sawed off the articular surface of a fresh-frozen DTA and burred to accurate angles while referencing sterile 3D-printed models of the injured glenoid. The final graft is applied to the 3D model to confirm an accurate match before insertion into the patient via a Halifax portal and fixed onto the recipient glenoid surface with 1 cortical screw. All-arthroscopic AGR makes graft removal technically challenging; hence, an accurate graft shape has to be achieved before insertion. An arthroscopic AGR/DTA for atypical glenoid bone loss pattern is highly aided by a 3D-printed anatomical model for accurate graft shaping, surgical efficiency, and good patient outcomes.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Digital Orthopaedics & Surgical Technology"
+    ],
+    "matched_keywords": [
+      "three-dimensional printing"
+    ]
   },
   {
     "id": "doi:10.1016/j.jse.2026.11.039",
@@ -78,10 +992,9 @@
     "doi": "10.1016/j.jse.2026.11.039",
     "pmid": "43064010",
     "url": "https://doi.org/10.1016/j.jse.2026.11.039",
-    "abstract": "In reverse total shoulder arthroplasty (rTSA), the lateralization shoulder angle (LSA) and distalization shoulder angle (DSA) are very prevalent in clinical research and clinical practice to measure the geometry of the implant construct. The purpose of this study was to determine whether LSA and DSA are impacted by changes in 1) resting arm angle (RAA) and 2) radiographic viewing angle. Secondarily, the study evaluated if linear measures of lateralization and distalization are less sensitive to these changes than LSA and DSA. This was a computer modeling study using commercially available preoperative planning three-dimensional software (Materialise Surgicase). Ten patients without glenoid bone loss undergoing rTSA were included. Four distinct implant constructs (Enovis Altivate Reverse®) were placed in each patient, resulting in 40 total plans. For each plan, thirteen unique viewing profiles were generated to establish variability in the following measurements: LSA, DSA, humeral distalization (acromiohumeral interval (AHI)), and humeral lateralization (distance from glenosphere center of rotation to greater tuberosity (GT-COR)). For each measurement, a one-way analysis of variance (ANOVA) and Pearson's r evaluated its variability by change in viewing profile. Additionally, the humeral position and viewing angle that provided the largest discrepancy in LSA and DSA values were combined and measured to evaluate maximum variability. LSA measurements were significantly impacted by changes in RAA (r=0.383; p<0.001) and increases in viewing angle: medial tilt (r=0.284; p=0.006), lateral tilt (r=-0.400; p<0.001), and superior tilt (r=0.509; p<0.001). Similarly, DSA measurements were significantly altered by changes in RAA (r=-0.454; p<0.001) and viewing angle: medial tilt (r=-0.282; p=0.005), lateral tilt (r=0.419; p<0.001), and superior tilt (r=-0.328; p=0.001). Neither LSA nor DSA measurements were affected by changes in humeral rotation or inferior tilt. The difference between the smallest and largest measurements was on average 35.8° (R: 28.3°-48°) for LSA and 34.6° (R: 20.9°-52.8°) for DSA. Changes in AHI were found to be correlated with changes in RAA (r=-0.588; p<0.001) and increases in superior tilt only (r=-0.259; p=0.017). GT-COR measurements were not impacted by RAA, humeral rotation, or viewing angle. The commonly utilized parameters LSA and DSA show significant variability with and sensitivity to both arm position and viewing angle. Linear measurements of lateralization and distalization are less sensitive to these changes. Basic Science Study, Validation of Computer Modeling Software.",
+    "abstract": "Background In reverse total shoulder arthroplasty (rTSA), the lateralization shoulder angle (LSA) and distalization shoulder angle (DSA) are very prevalent in clinical research and clinical practice to measure the geometry of the implant construct. The purpose of this study was to determine whether LSA and DSA are impacted by changes in 1) resting arm angle (RAA) and 2) radiographic viewing angle. Secondarily, the study evaluated if linear measures of lateralization and distalization are less sensitive to these changes than LSA and DSA. Methods This was a computer modeling study using commercially available preoperative planning three-dimensional software (Materialise Surgicase). Ten patients without glenoid bone loss undergoing rTSA were included. Four distinct implant constructs (Enovis Altivate Reverse®) were placed in each patient, resulting in 40 total plans. For each plan, thirteen unique viewing profiles were generated to establish variability in the following measurements: LSA, DSA, humeral distalization (acromiohumeral interval (AHI)), and humeral lateralization (distance from glenosphere center of rotation to greater tuberosity (GT-COR)). For each measurement, a one-way analysis of variance (ANOVA) and Pearson's r evaluated its variability by change in viewing profile. Additionally, the humeral position and viewing angle that provided the largest discrepancy in LSA and DSA values were combined and measured to evaluate maximum variability. Results LSA measurements were significantly impacted by changes in RAA (r=0.383; p Conclusion The commonly utilized parameters LSA and DSA show significant variability with and sensitivity to both arm position and viewing angle. Linear measurements of lateralization and distalization are less sensitive to these changes. Level of evidence Basic Science Study, Validation of Computer Modeling Software.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -103,6 +1016,27 @@
     "pmid": "43062135",
     "url": "https://doi.org/10.1097/corr.0000000000004201",
     "abstract": "Background Multidirectional shoulder instability is a common clinical challenge, particularly in adolescents and young adult females. It can impact daily function and athletic performance. However, evidence regarding the relationship between humeral head translation and muscle recruitment patterns in this population remains unclear. Questions/purposes This study aimed to (1) compare humeral head translation between patients with multidirectional instability and controls, as well as among clinical subgroups characterized by anterior, inferior, and posterior instability; (2) examine shoulder muscle activity across groups, including variations within clinical subgroups; and (3) investigate the relationship between humeral head translation and muscle activation levels during three standardized isometric tasks. Methods From an initial screening of 37 patients and 35 controls, 19% (7) of patients and 14% (5) of controls were excluded based on predefined criteria (shoulder pain 0.50. Results Compared with controls, patients with multidirectional instability demonstrated greater humeral head translation across all tasks, exceeding the MDC threshold in controls versus patients for anterior translation (mean ± SD 0.4 ± 0.3 mm versus 2.6 ± 1.1 mm, mean difference 2.2 [95% confidence interval (CI) 1.8 to 2.6]; p Conclusion Patients with multidirectional instability exhibit task-specific increases in humeral head translation exceeding the MDC, driven by distinct neuromuscular deficits. Subgroup analyses show that patients experience the greatest translation during tasks corresponding to their predominant direction of instability. Future studies should evaluate the longitudinal efficacy of rehabilitation protocols in modifying abnormal translation patterns and improving clinical outcomes across different subgroups. Clinical relevance From a foundational science perspective, our findings indicate that traditional, generalized shoulder strengthening is insufficient for multidirectional instability. Instead, rehabilitation should utilize direction-specific interventions tailored to each patient's predominant instability pattern, targeting underperforming muscles to mitigate abnormal joint translation and restore dynamic glenohumeral stability.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/18632521261511431",
+    "title": "Risk factors for growth disturbance in children with surgically treated distal femoral epiphyseal fractures.",
+    "journal": "Journal of Children's Orthopaedics",
+    "journal_list": "A",
+    "authors": "Xue C, Huang D, Liang X, Lin W, Yao H, Chen Y, Lin R, Canavese F, Pan Y, Chen S.",
+    "published_date": "2026-11-20",
+    "doi": "10.1177/18632521261511431",
+    "pmid": "43067914",
+    "url": "https://doi.org/10.1177/18632521261511431",
+    "abstract": "Distal femoral epiphyseal fractures (DFEF) are rare injuries with a high risk of post-traumatic growth disturbance (PTGD), potentially leading to angular deformities and leg length discrepancy. This study aimed to evaluate radiologic and clinical outcomes in children surgically treated for DFEF and to identify risk factors associated with distal femoral PTGD. We retrospectively reviewed 51 children who underwent surgical treatment for DFEF between February 2015 and February 2024. Collected variables included age, sex, affected side, injury mechanism, fracture displacement distance, Salter-Harris classification, time from injury to surgery, presence of high-energy trauma, complications, and development of distal femoral PTGD. Clinical outcomes were assessed using knee range of motion (ROM) and KOOS-Child scores. Distal femoral PTGD occurred in 31.4% (16/51) of patients. Compared with patients without PTGD, those with PTGD had a significantly longer time from injury to surgery (P=0.042) and greater fracture displacement distance (P=0.026). Multivariate analysis identified time from injury to surgery as an independent risk factor for distal femoral PTGD (P=0.036). Surgery performed more than 7.5 days after injury was associated with a higher risk of PTGD (P=0.043). Patients with PTGD demonstrated significantly reduced knee ROM (P=0.001) and lower KOOS-Child scores (P<0.001). In children with surgically treated DFEF, delayed surgical intervention and greater fracture displacement are associated with an increased risk of distal femoral PTGD. Surgery performed more than 7.5 days after injury significantly increases this risk and negatively affects functional outcomes.",
     "open_access": false,
     "publication_types": [
       "Journal Article"
@@ -145,10 +1079,9 @@
     "doi": "10.1016/j.jse.2026.11.033",
     "pmid": "43064011",
     "url": "https://doi.org/10.1016/j.jse.2026.11.033",
-    "abstract": "Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. Level V, Consensus Statement, Voting.",
+    "abstract": "Background Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. Methods The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. Results Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. Conclusions The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. Level of evidence Level V, Consensus Statement, Voting.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -167,10 +1100,9 @@
     "doi": "10.1016/j.jse.2026.11.040",
     "pmid": "43064012",
     "url": "https://doi.org/10.1016/j.jse.2026.11.040",
-    "abstract": "Rotator cuff tears are common in people with shoulder pain and disability. Although management typically targets the symptomatic shoulder, people with unilateral non-traumatic rotator cuff tears may be at increased risk of contralateral pathology. However, the prevalence, progression, and factors associated with contralateral tears remain poorly understood. To identify and synthesise published evidence on the prevalence, progression, and factors associated with contralateral rotator cuff tears to inform future surveillance, prevention, and management strategies. A scoping review was conducted in accordance with the Joanna Briggs Institute framework and reported following PRISMA-ScR guidelines. MEDLINE, AMED, Embase, CINAHL, and PsycINFO were searched from inception to 20 January 2026. Studies involving adults with unilateral symptomatic non-traumatic rotator cuff tears were included. Data were summarised descriptively. Fourteen heterogeneous reports from 12 studies (2001-2024) were included; 54% were based on surgical populations. Prevalence of contralateral rotator cuff tears ranged from 8.7% to 67.3%. Contralateral tear enlargement was reported in 39% to 67% of shoulders during follow- up to 13.1 years, while 26% to 57% of patients developed contralateral shoulder pain. Median time to tear enlargement ranged from 2.8 to 3.4 years; time to symptom onset ranged from 15.2 months to 3.0 years. Limited data suggests larger baseline contralateral tear size was associated with subsequent pain development (p≤0.001). Tear enlargement during follow-up was not consistently associated with symptom development. Factors associated with the presence of contralateral rotator cuff tears at baseline included older age (OR 1.1, 95% CI 1.05-1.18), increased BMI (26.1 vs 24.7 kg/m2, p<0.05), diabetes (23.1% vs 8.1%, p<0.03), and heavy repetitive work (31.8% vs 14.4%, p<0.05). Factors associated with progression included full-thickness contralateral tears (HR 2.93, 95% CI 1.71-5.03), dominant-side involvement of the contralateral shoulder (HR 1.70, 95% CI 1.2-2.4), and fatty muscle degeneration within the contralateral shoulder (OR 2.6, 95% CI 1.3-5.4). Contralateral rotator cuff tears are common and frequently progressive in patients with unilateral symptomatic tears, signalling a possible bilateral and multifactorial disease model rather than an isolated shoulder disorder. Research is needed to develop and evaluate clinically and cost-effective assessment and management strategies that extend beyond the affected shoulder and include optimisation of modifiable risk factors and consideration of bilateral rehabilitation approaches. Level IV; Scoping Review.",
+    "abstract": "Background Rotator cuff tears are common in people with shoulder pain and disability. Although management typically targets the symptomatic shoulder, people with unilateral non-traumatic rotator cuff tears may be at increased risk of contralateral pathology. However, the prevalence, progression, and factors associated with contralateral tears remain poorly understood. Purpose To identify and synthesise published evidence on the prevalence, progression, and factors associated with contralateral rotator cuff tears to inform future surveillance, prevention, and management strategies. Methods A scoping review was conducted in accordance with the Joanna Briggs Institute framework and reported following PRISMA-ScR guidelines. MEDLINE, AMED, Embase, CINAHL, and PsycINFO were searched from inception to 20 January 2026. Studies involving adults with unilateral symptomatic non-traumatic rotator cuff tears were included. Data were summarised descriptively. Results Fourteen heterogeneous reports from 12 studies (2001-2024) were included; 54% were based on surgical populations. Prevalence of contralateral rotator cuff tears ranged from 8.7% to 67.3%. Contralateral tear enlargement was reported in 39% to 67% of shoulders during follow- up to 13.1 years, while 26% to 57% of patients developed contralateral shoulder pain. Median time to tear enlargement ranged from 2.8 to 3.4 years; time to symptom onset ranged from 15.2 months to 3.0 years. Limited data suggests larger baseline contralateral tear size was associated with subsequent pain development (p≤0.001). Tear enlargement during follow-up was not consistently associated with symptom development. Factors associated with the presence of contralateral rotator cuff tears at baseline included older age (OR 1.1, 95% CI 1.05-1.18), increased BMI (26.1 vs 24.7 kg/m 2 , p Conclusion Contralateral rotator cuff tears are common and frequently progressive in patients with unilateral symptomatic tears, signalling a possible bilateral and multifactorial disease model rather than an isolated shoulder disorder. Research is needed to develop and evaluate clinically and cost-effective assessment and management strategies that extend beyond the affected shoulder and include optimisation of modifiable risk factors and consideration of bilateral rehabilitation approaches. Level of evidence Level IV; Scoping Review.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Review",
       "Journal Article"
     ],
@@ -190,10 +1122,10 @@
     "doi": "10.1007/s11657-026-01803-9",
     "pmid": "43062738",
     "url": "https://doi.org/10.1007/s11657-026-01803-9",
-    "abstract": "Depressive symptoms are common in older adults with osteoporotic hip fracture, but their impact on long-term outcomes remains unclear. In this cohort study, preoperative depressive symptoms were associated with increased 3-year mortality and poorer early functional recovery. These findings highlight the importance of psychological assessment in the management of fragility fractures. To investigate the association between preoperative depressive symptoms and postoperative mortality and functional recovery in older adults with hip fracture. This secondary analysis was based on a prospective cohort of patients aged ≥65 years undergoing surgical treatment for hip fracture. Depressive symptoms were assessed using the Patient Health Questionnaire-9 (PHQ-9) within 24 hours of admission, with a cutoff score of ≥5. Mortality and functional recovery were evaluated at 30-day, 120-day, 1-year, and 3-year follow-up. Cox proportional hazards models and multinomial logistic regression were used after adjustment for potential confounders. Among 1092 patients, 93 (8.5%) had PHQ-9 ≥ 5. Preoperative depressive symptoms were not associated with short-term mortality but were independently associated with increased 3-year mortality (HR = 1.57, 95% CI: 1.05-2.36). Patients with PHQ-9 ≥ 5 had significantly poorer functional recovery at 30-day, 120-day, and 1-year follow-up, whereas no independent association was observed at 3 years. Preoperative depressive symptoms were associated with increased long-term mortality and poorer early functional recovery. These findings support the role of early psychological assessment in perioperative risk stratification.",
-    "open_access": false,
+    "abstract": "Depressive symptoms are common in older adults with osteoporotic hip fracture, but their impact on long-term outcomes remains unclear. In this cohort study, preoperative depressive symptoms were associated with increased 3-year mortality and poorer early functional recovery. These findings highlight the importance of psychological assessment in the management of fragility fractures. Purpose To investigate the association between preoperative depressive symptoms and postoperative mortality and functional recovery in older adults with hip fracture. Methods This secondary analysis was based on a prospective cohort of patients aged ≥65 years undergoing surgical treatment for hip fracture. Depressive symptoms were assessed using the Patient Health Questionnaire-9 (PHQ-9) within 24 hours of admission, with a cutoff score of ≥5. Mortality and functional recovery were evaluated at 30-day, 120-day, 1-year, and 3-year follow-up. Cox proportional hazards models and multinomial logistic regression were used after adjustment for potential confounders. Results Among 1092 patients, 93 (8.5%) had PHQ-9 ≥ 5. Preoperative depressive symptoms were not associated with short-term mortality but were independently associated with increased 3-year mortality (HR = 1.57, 95% CI: 1.05-2.36). Patients with PHQ-9 ≥ 5 had significantly poorer functional recovery at 30-day, 120-day, and 1-year follow-up, whereas no independent association was observed at 3 years. Conclusions Preoperative depressive symptoms were associated with increased long-term mortality and poorer early functional recovery. These findings support the role of early psychological assessment in perioperative risk stratification.",
+    "open_access": true,
     "publication_types": [
-      "IM",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -212,10 +1144,30 @@
     "doi": "10.1111/os.70475",
     "pmid": "43064509",
     "url": "https://doi.org/10.1111/os.70475",
-    "abstract": "Geriatric lower limb fractures place a significant burden on tertiary healthcare systems. This study evaluates the outcomes of a fast-track, multidisciplinary lower limb fracture care pathway implemented at a tertiary hospital in Singapore. This study aims to describe and compare the functional outcomes, mortality, and the comparative impact of time to surgery (TTS) across different geriatric lower limb fractures (knee, femur shaft, and ankle) within the pathway, using hip fractures as a benchmark. A retrospective cohort study was conducted of patients ≥ 65 years old with non-pathological, surgically-treated lower limb fractures admitted to a tertiary institution between December 2020 and April 2024. Primary outcomes included postoperative functional status assessed via Modified Barthel Index (MBI) scores and perioperative complications, while the secondary outcome was 12-month mortality. Multivariate regression analyses evaluated predictors influencing these outcomes. The cohort predominantly consisted of hip fracture patients (82.2%), with knee (7.3%), ankle (5.4%), and femur shaft (5.1%) fractures comprising smaller groups. At 12 months, there were no significant differences in mortality across fracture types (overall mortality: 7.2%). Functional outcomes, measured by MBI scores, showed significant improvement over 12 months, with no significant difference between fracture types (p = 0.32). Multivariate analysis identified younger age, female gender, higher pre-fracture MBI scores, and lower clinical frailty scores as positive predictors of 12-month functional outcomes. Early surgery (< 48 h) was significantly associated with better 12-month functional outcomes in knee fracture patients. TTS (< 48 h) significantly influenced mortality outcomes in hip fractures only. These findings describe comparable functional outcomes and mortality across fracture types and outcomes observed for a broader range of lower limb injuries beyond hip fractures are favorable under a coordinated multidisciplinary care pathway.",
+    "abstract": "Objective Geriatric lower limb fractures place a significant burden on tertiary healthcare systems. This study evaluates the outcomes of a fast-track, multidisciplinary lower limb fracture care pathway implemented at a tertiary hospital in Singapore. This study aims to describe and compare the functional outcomes, mortality, and the comparative impact of time to surgery (TTS) across different geriatric lower limb fractures (knee, femur shaft, and ankle) within the pathway, using hip fractures as a benchmark. Methods A retrospective cohort study was conducted of patients ≥ 65 years old with non-pathological, surgically-treated lower limb fractures admitted to a tertiary institution between December 2020 and April 2024. Primary outcomes included postoperative functional status assessed via Modified Barthel Index (MBI) scores and perioperative complications, while the secondary outcome was 12-month mortality. Multivariate regression analyses evaluated predictors influencing these outcomes. Results The cohort predominantly consisted of hip fracture patients (82.2%), with knee (7.3%), ankle (5.4%), and femur shaft (5.1%) fractures comprising smaller groups. At 12 months, there were no significant differences in mortality across fracture types (overall mortality: 7.2%). Functional outcomes, measured by MBI scores, showed significant improvement over 12 months, with no significant difference between fracture types (p = 0.32). Multivariate analysis identified younger age, female gender, higher pre-fracture MBI scores, and lower clinical frailty scores as positive predictors of 12-month functional outcomes. Early surgery ( Conclusions These findings describe comparable functional outcomes and mortality across fracture types and outcomes observed for a broader range of lower limb injuries beyond hip fractures are favorable under a coordinated multidisciplinary care pathway.",
     "open_access": false,
     "publication_types": [
-      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70400",
+    "title": "Open Repair of Patellar Osteochondral Fracture With Absorbable Sutures.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Mays L, Jones M, DeFroda SF, Nuelle CW.",
+    "published_date": "2026-11-20",
+    "doi": "10.1002/atn2.70400",
+    "pmid": "43066087",
+    "url": "https://doi.org/10.1002/atn2.70400",
+    "abstract": "Patellar osteochondral injuries commonly occur after instability events, often resulting in loose fragments in the joint. Recognition and early intervention of displaced fragments are key to maintaining the viability of the fragment and the health of the articular surface. Multiple fixation techniques exist for repairing these displaced fragments, including suture anchors and metal and bioabsorbable screws. In this technical note, we describe a technique for achieving stable fixation of a displaced patellar osteochondral fragment using solely absorbable sutures tied over the anterior aspect of the patella. This technique affords the restoration of the native anatomy with excellent stability of the fracture fragment at minimal cost or need for secondary surgery to remove hardware.",
+    "open_access": false,
+    "publication_types": [
       "Journal Article"
     ],
     "paper_type": "original",
@@ -290,6 +1242,27 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1002/atn2.70357",
+    "title": "Knotless Hip Labral Repair With Tensioning Set Up by Intentional Slack.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Kang RW, Mardaus K.",
+    "published_date": "2026-11-20",
+    "doi": "10.1002/atn2.70357",
+    "pmid": "43066123",
+    "url": "https://doi.org/10.1002/atn2.70357",
+    "abstract": "Labral repair has become the preferred approach to restoring the anatomy and function in patients with acetabular labral tears. However, overtensioning during anchor insertion can result in labral eversion and loss of suction seal. We describe a simple and reproducible technique for introducing slack prior to anchor insertion, allowing for controlled tensioning to restore native labral contour and the suction seal. After suture passage around the labrum, a probe is positioned over the repair sutures prior to anchor insertion to intentionally introduce slack. The anchor is then seated, after which the probe is removed, revealing the intentional slack. Sutures are initially tensioned with traction applied, followed by final tensioning after traction is released. This sequence is repeated for each anchor. The completed repair is evaluated arthroscopically, and a suction test is performed to confirm restoration of the suction seal. Our technique reduces the risk of overtensioning and labral eversion during repair. This technique integrates seamlessly into standard hip arthroscopy workflows and provides surgeons with precise control of labral position and tension.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "PMC:PMC13787578",
     "title": "Knotless Hip Labral Repair With Tensioning Set Up by Intentional Slack",
     "journal": "Arthroscopy Techniques",
@@ -320,11 +1293,10 @@
     "doi": "10.1371/journal.pone.0360723",
     "pmid": "43063175",
     "url": "https://doi.org/10.1371/journal.pone.0360723",
-    "abstract": "Marginal bone stability is a critical determinant of the long-term success and esthetic harmony of dental implants. Peri-implant soft tissue thickness (STT) has been proposed as a biological factor influencing crestal bone remodeling. This retrospective comparative study aimed to evaluate the relationship between peri-implant STT and marginal bone loss (MBL) following immediate implant placement in the anterior maxilla after one year of functional loading. Fifty immediate implant sites from 50 patients were retrospectively analyzed. Based on mid-buccal soft tissue measurement, implants were classified as thin (STT ≤ 1 mm; n = 22) or thick (STT > 1 mm; n = 28) phenotypes. Clinical parameters, including probing depth, bleeding on probing, plaque index, keratinized tissue width, and pink esthetic score, and radiographic parameters (MBL) were extracted from patient records. MBL was measured on standardized periapical digital radiographs taken immediately after surgery and at one-year follow-up using a custom positioning index. The mean age of participants was 57.88 ± 11.16 years. MBL was significantly higher in the thin soft tissue group (1.34 ± 0.19 mm) compared with the thick tissue group (1.00 ± 0.20 mm; p < 0.0001). STT exhibited a strong negative correlation with MBL (r = -0.749, p < 0.0001). Other variables showed no significant intergroup differences. No significant difference in MBL was observed between implant systems. Within the limitations of this retrospective study, peri-implant soft tissue thickness was identified as a key determinant of marginal bone preservation after immediate implant placement in the anterior maxilla. Thicker mucosa was associated with significantly reduced bone resorption and more stable peri-implant esthetic outcomes after one year.",
+    "abstract": "Background Marginal bone stability is a critical determinant of the long-term success and esthetic harmony of dental implants. Peri-implant soft tissue thickness (STT) has been proposed as a biological factor influencing crestal bone remodeling. This retrospective comparative study aimed to evaluate the relationship between peri-implant STT and marginal bone loss (MBL) following immediate implant placement in the anterior maxilla after one year of functional loading. Methods Fifty immediate implant sites from 50 patients were retrospectively analyzed. Based on mid-buccal soft tissue measurement, implants were classified as thin (STT ≤ 1 mm; n = 22) or thick (STT > 1 mm; n = 28) phenotypes. Clinical parameters, including probing depth, bleeding on probing, plaque index, keratinized tissue width, and pink esthetic score, and radiographic parameters (MBL) were extracted from patient records. MBL was measured on standardized periapical digital radiographs taken immediately after surgery and at one-year follow-up using a custom positioning index. Results The mean age of participants was 57.88 ± 11.16 years. MBL was significantly higher in the thin soft tissue group (1.34 ± 0.19 mm) compared with the thick tissue group (1.00 ± 0.20 mm; p Conclusion Within the limitations of this retrospective study, peri-implant soft tissue thickness was identified as a key determinant of marginal bone preservation after immediate implant placement in the anterior maxilla. Thicker mucosa was associated with significantly reduced bone resorption and more stable peri-implant esthetic outcomes after one year.",
     "open_access": false,
     "publication_types": [
       "Comparative Study",
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -346,7 +1318,6 @@
     "abstract": "Shoulder overuse injuries are highly prevalent among athletes participating in overhead sports such as baseball, tennis, swimming, and volleyball, where repetitive high-velocity loading imposes unique biomechanical demands on the glenohumeral complex. These injuries span a broad spectrum, including rotator cuff tears, subacromial/subdeltoid impingement, superior labrum anterior-to-posterior (SLAP) lesions, long head of the biceps tendinopathy, glenohumeral instability, internal impingement, glenohumeral internal rotation deficit (GIRD), and Little League shoulder. Accurate diagnosis requires an understanding of sport-specific biomechanics, particularly the extreme forces generated during the late cocking and early acceleration phases of throwing, which produce characteristic injury patterns such as posterosuperior partial articular-sided rotator cuff tears and type II SLAP lesions via the peel-back mechanism. Imaging plays a central role in diagnosis and management. Radiographs remain the initial study for evaluating osseous anatomy and acromial morphology. MRI is the principal modality for soft-tissue assessment, while MR arthrography offers superior sensitivity for intra-articular pathology, including labral and partial articular-sided rotator cuff tears. Musculoskeletal ultrasound provides dynamic, cost-effective evaluation of tendons and bursae, and 3D CT or zero-time echo (ZTE) MRI is essential for quantifying glenoid bone loss in the setting of instability. Because many imaging findings are present in asymptomatic athletes, careful clinical correlation is essential. This review summarizes the imaging features, diagnostic pearls, and limitations of current modalities for shoulder overuse injuries in overhead athletes.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Review",
       "Journal Article"
     ],
@@ -366,10 +1337,9 @@
     "doi": "10.1016/j.joca.2026.11.009",
     "pmid": "43064184",
     "url": "https://doi.org/10.1016/j.joca.2026.11.009",
-    "abstract": "To examine the association of pre-treatment expectations with clinical outcomes of physiotherapy in individuals with knee osteoarthritis (KOA). Observational study, using data from the Good Life with osteoArthritis Denmark (GLA:D®) physiotherapy program executed in one region in The Netherlands. Before treatment, patients' characteristics and their expectations of (1) pain and (2) function were recorded (5-point Likert scales; 1= a lot - 5= very little to none). In addition, Pain (NRS Pain), physical functioning (KOOS-12) and quality of life (QoL) (EQ-5D-5L) were measured before and directly after treatment. Expectation scores were categorized into high (scores 1-2) or low (scores 3-5) and four expectation groups were constructed: 1) High pain and function expectations, 2) High pain expectations only, 3) High function expectations only, 4) Moderate/Low pain and function expectations. Linear and logistic regression analyses examined the association between expectation groups and outcomes, with the Moderate/Low pain and function expectations group serving as reference. Data from 871/1442 participants (60%) was complete and included in the analyses. Having both high pain and function expectations showed an association with pain (regression coefficient B -0.740; 95% confidence interval (CI) -1.073 to -0.407), physical functioning (B 3.265; 95%CI 1.589 to 4.940) and QoL (B 0.045; 95%CI 0.024 to 0.066) after treatment compared to having moderate/low pain and function expectations. The intermediate groups showed higher QoL after treatment compared to the moderate/low pain and function group (B 0.040; 95% CI 0.004 to 0.075 and B 0.040; 0.008 to 0.073 respectively). Having higher patient expectations for both pain and function was consistently associated with better outcomes of exercise therapy for KOA. More research into the possible role of clinicians in assessing and/or modifying pre-treatment expectations is needed.",
+    "abstract": "Objective To examine the association of pre-treatment expectations with clinical outcomes of physiotherapy in individuals with knee osteoarthritis (KOA). Design Observational study, using data from the Good Life with osteoArthritis Denmark (GLA:D®) physiotherapy program executed in one region in The Netherlands. Before treatment, patients' characteristics and their expectations of (1) pain and (2) function were recorded (5-point Likert scales; 1= a lot - 5= very little to none). In addition, Pain (NRS Pain), physical functioning (KOOS-12) and quality of life (QoL) (EQ-5D-5L) were measured before and directly after treatment. Expectation scores were categorized into high (scores 1-2) or low (scores 3-5) and four expectation groups were constructed: 1) High pain and function expectations, 2) High pain expectations only, 3) High function expectations only, 4) Moderate/Low pain and function expectations. Linear and logistic regression analyses examined the association between expectation groups and outcomes, with the Moderate/Low pain and function expectations group serving as reference. Results Data from 871/1442 participants (60%) was complete and included in the analyses. Having both high pain and function expectations showed an association with pain (regression coefficient B -0.740; 95% confidence interval (CI) -1.073 to -0.407), physical functioning (B 3.265; 95%CI 1.589 to 4.940) and QoL (B 0.045; 95%CI 0.024 to 0.066) after treatment compared to having moderate/low pain and function expectations. The intermediate groups showed higher QoL after treatment compared to the moderate/low pain and function group (B 0.040; 95% CI 0.004 to 0.075 and B 0.040; 0.008 to 0.073 respectively). Conclusions Having higher patient expectations for both pain and function was consistently associated with better outcomes of exercise therapy for KOA. More research into the possible role of clinicians in assessing and/or modifying pre-treatment expectations is needed.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -388,10 +1358,9 @@
     "doi": "10.1016/j.jse.2026.11.043",
     "pmid": "43064013",
     "url": "https://doi.org/10.1016/j.jse.2026.11.043",
-    "abstract": "Glenoid dysplasia is a developmental abnormality associated with pain, disability, and early onset glenohumeral osteoarthritis. Glenoid dysplasia is characterized by glenoid retroversion and posterior humeral subluxation; however, the morphology of the scapula and acromion amongst these patients is unknown. The purpose of this study was to characterize acromial differences between patients with glenoid dysplasia as compared to a normal cohort. A group of 18 patients with glenoid dysplasia were identified and compared to a control cohort of 100 patients without history of glenoid dysplasia for which CT or MRI imaging was available. Measurements obtained included glenoid superior inclination, glenoid retroversion, acromial width in the axial plane, acromial tilt in the coronal and sagittal planes, posterior acromial coverage, anterior acromial coverage, and scapular spine angle. Measurements were performed by two evaluators and compared using intraclass correlation coefficients. Continuous variables were analyzed using Mann-Whitney U tests due to non-normal distributions. P-values < 0.05 were considered statistically significant. Inter-rater measurement reliability was excellent with all ICCs ≥ 0.816. The dysplastic group exhibited significantly greater glenoid retroversion (29.9° vs 1.83°, p < 0.001), decreased superior inclination (3.2° vs 14.3°, p < 0.001), narrower acromial width (2.1 cm vs 2.6 cm, p < 0.001), and decreased lateral tilt of the acromion (88.1° vs 98.3°, p < 0.001). In the sagittal plane, the dysplastic group demonstrated greater acromial tilt (67.1° vs 51.1°, p < 0.001), decreased posterior acromial coverage (59.5° vs 81.1°, p < 0.001), greater anterior acromial coverage (-8.2° vs 12.7°, p < 0.001), and a decreased scapular spine angle (47.5° vs 65.3°, p < 0.001). Patients with glenoid dysplasia have substantial differences in their scapular and acromial anatomy, suggesting that this dysplasia extends to the acromion and may be more accurately described as scapular dysplasia. These differences may have implications for surgical interventions in shoulder for dysplastic patients. Anatomy Study; Imaging.",
+    "abstract": "Background Glenoid dysplasia is a developmental abnormality associated with pain, disability, and early onset glenohumeral osteoarthritis. Glenoid dysplasia is characterized by glenoid retroversion and posterior humeral subluxation; however, the morphology of the scapula and acromion amongst these patients is unknown. The purpose of this study was to characterize acromial differences between patients with glenoid dysplasia as compared to a normal cohort. Methods A group of 18 patients with glenoid dysplasia were identified and compared to a control cohort of 100 patients without history of glenoid dysplasia for which CT or MRI imaging was available. Measurements obtained included glenoid superior inclination, glenoid retroversion, acromial width in the axial plane, acromial tilt in the coronal and sagittal planes, posterior acromial coverage, anterior acromial coverage, and scapular spine angle. Measurements were performed by two evaluators and compared using intraclass correlation coefficients. Continuous variables were analyzed using Mann-Whitney U tests due to non-normal distributions. P-values Results Inter-rater measurement reliability was excellent with all ICCs ≥ 0.816. The dysplastic group exhibited significantly greater glenoid retroversion (29.9° vs 1.83°, p Conclusion Patients with glenoid dysplasia have substantial differences in their scapular and acromial anatomy, suggesting that this dysplasia extends to the acromion and may be more accurately described as scapular dysplasia. These differences may have implications for surgical interventions in shoulder for dysplastic patients. Level of evidence Anatomy Study; Imaging.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -410,10 +1379,9 @@
     "doi": "10.1111/os.70472",
     "pmid": "43064409",
     "url": "https://doi.org/10.1111/os.70472",
-    "abstract": "Adolescent idiopathic scoliosis (AIS) of the major thoracic type-characterized by a right thoracic primary curve with compensatory adaptations-carries a significant risk of progression. While spinal and pelvic biomechanics have been extensively examined, the influence of foot morphology and distal gait compensation in this subgroup remains poorly understood. This study aimed to investigate foot asymmetries and their association with gait deviations in individuals with major thoracic AIS. A total of 23 patients with major thoracic AIS and 23 age-matched healthy controls were enrolled between October 2022 and October 2023. Each participant underwent a multimodal biomechanical assessment, which included bilateral foot morphology evaluation (arch index, foot length, heel width, hallux valgus angle, arch length, and metatarsal widths) via a 3D laser scanner, three-dimensional gait analysis synchronized with force plates, and surface electromyography (sEMG) of core trunk muscles during natural walking. Between-group differences in left/right ratios for foot and gait parameters were analyzed using independent t-tests or Mann-Whitney U tests. Correlations between foot morphology, spinal parameters, and gait parameters were also examined. Compared with controls, the AIS group demonstrated significant foot asymmetries, including elevated left/right ratios for the arch index (p = 0.03) and heel width (p = 0.03). Kinetic analysis revealed a significantly reduced left/right ratio for the maximum ankle coronal (eversion) moment (p < 0.01). Kinematically, the AIS group exhibited altered knee angle ratios at initial contact (p = 0.03) and a decreased knee range-of-motion ratio (p < 0.01). sEMG indicated a significantly higher internal oblique activation ratio in the AIS group (p = 0.04). Correlation analysis revealed that spinal parameters and foot morphology asymmetries were significantly correlated with asymmetric trunk muscle activation and altered lower limb biomechanics, with positive and negative associations depending on the specific parameters. This cross-sectional study suggests that major thoracic AIS is associated with foot morphology asymmetry, altered ankle and knee biomechanics, and asymmetric trunk muscle activation during walking. The observed associations between foot structure asymmetry, lower-limb biomechanics, and trunk muscle activation support the presence of interconnected biomechanical adaptations along the spine-pelvis-foot axis.",
+    "abstract": "Objective Adolescent idiopathic scoliosis (AIS) of the major thoracic type-characterized by a right thoracic primary curve with compensatory adaptations-carries a significant risk of progression. While spinal and pelvic biomechanics have been extensively examined, the influence of foot morphology and distal gait compensation in this subgroup remains poorly understood. This study aimed to investigate foot asymmetries and their association with gait deviations in individuals with major thoracic AIS. Methods A total of 23 patients with major thoracic AIS and 23 age-matched healthy controls were enrolled between October 2022 and October 2023. Each participant underwent a multimodal biomechanical assessment, which included bilateral foot morphology evaluation (arch index, foot length, heel width, hallux valgus angle, arch length, and metatarsal widths) via a 3D laser scanner, three-dimensional gait analysis synchronized with force plates, and surface electromyography (sEMG) of core trunk muscles during natural walking. Between-group differences in left/right ratios for foot and gait parameters were analyzed using independent t-tests or Mann-Whitney U tests. Correlations between foot morphology, spinal parameters, and gait parameters were also examined. Results Compared with controls, the AIS group demonstrated significant foot asymmetries, including elevated left/right ratios for the arch index (p = 0.03) and heel width (p = 0.03). Kinetic analysis revealed a significantly reduced left/right ratio for the maximum ankle coronal (eversion) moment (p Conclusion This cross-sectional study suggests that major thoracic AIS is associated with foot morphology asymmetry, altered ankle and knee biomechanics, and asymmetric trunk muscle activation during walking. The observed associations between foot structure asymmetry, lower-limb biomechanics, and trunk muscle activation support the presence of interconnected biomechanical adaptations along the spine-pelvis-foot axis.",
     "open_access": true,
     "publication_types": [
-      "IM",
       "research-article",
       "Journal Article"
     ],
@@ -448,6 +1416,27 @@
     ]
   },
   {
+    "id": "doi:10.1002/atn2.70352",
+    "title": "Autologous Bone Plug Harvest and Reimplantation for Tibial Tunnel Management in Anterior Cruciate Ligament Reconstruction.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Yan DX, Fang DJ, Wu D, Zhang Y, Zhao QC.",
+    "published_date": "2026-11-20",
+    "doi": "10.1002/atn2.70352",
+    "pmid": "43066105",
+    "url": "https://doi.org/10.1002/atn2.70352",
+    "abstract": "This technical note describes a modified anterior cruciate ligament reconstruction technique aimed at optimizing tibial tunnel biology. Unlike conventional techniques, this method employs a cannulated trephine to harvest an intact, full-length autologous bone cylinder. This strategy effectively conserves local bone stock and the native remnant while simplifying graft passage. Notably, the harvested plug is resized and reimplanted in situ to minimize the tibial distal tunnel dead space. By securing direct graft-to-bone apposition and using the central channel of the plug for fixation, this approach fosters \"multidimensional\" integration. Consequently, it provides a biological, cost-effective alternative that attenuates tunnel widening risks often associated with synthetic fillers.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "PMC:PMC13787579",
     "title": "Autologous Bone Plug Harvest and Reimplantation for Tibial Tunnel Management in Anterior Cruciate Ligament Reconstruction",
     "journal": "Arthroscopy Techniques",
@@ -478,10 +1467,9 @@
     "doi": "10.1371/journal.pone.0363260",
     "pmid": "43063135",
     "url": "https://doi.org/10.1371/journal.pone.0363260",
-    "abstract": "Elderly hip fracture patients are at high risk of postoperative delirium (POD). The association between surgery-oriented standardized clinical pathways and POD incidence remains poorly clarified. This study aimed to explore the association between surgery-oriented standardized clinical pathways, internal fixation clinical pathway(IFCP), versus arthroplasty clinical pathway(ARCP), and POD occurrence in elderly hip fracture patients. This retrospective cohort study examined the medical records of patients aged 65 years and older who underwent hip fracture surgery at a tertiary medical facility from January 2022 to December 2025. Patients were divided into groups according to the surgery-oriented standardized clinical pathways they received: those with extracapsular fractures who underwent intramedullary nailing were assigned to the IFCP group, and those with intracapsular fractures who underwent hip arthroplasty were assigned to the ARCP group. Multivariate logistic regression and propensity score matching (PSM) analyses were utilized to evaluate the association between surgery-oriented standardized clinical pathways and POD. Subgroup analysis was subsequently conducted to explore potential interactions further. A total of 693 patients were included in this study, with a POD incidence of 15.01% (104/693) during the postoperative hospitalization period. Before matching, the incidence of POD was significantly lower in the ARCP group than in the IFCP group (9.92% vs. 20.61%, P < 0.001). This significant difference persisted after matching (11.54% vs. 18.85%, P = 0.020). Multivariate logistic regression confirmed that the ARCP was independently associated with a reduced risk of POD (OR = 0.40, 95% CI: 0.24-0.67, P < 0.001). Surgery-oriented standardized clinical pathways showed a statistically association with POD risk among elderly hip fracture patients. The ARCP exhibited a lower observed incidence of POD compared with the IFCP.",
+    "abstract": "Background Elderly hip fracture patients are at high risk of postoperative delirium (POD). The association between surgery-oriented standardized clinical pathways and POD incidence remains poorly clarified. This study aimed to explore the association between surgery-oriented standardized clinical pathways, internal fixation clinical pathway(IFCP), versus arthroplasty clinical pathway(ARCP), and POD occurrence in elderly hip fracture patients. Methods This retrospective cohort study examined the medical records of patients aged 65 years and older who underwent hip fracture surgery at a tertiary medical facility from January 2022 to December 2025. Patients were divided into groups according to the surgery-oriented standardized clinical pathways they received: those with extracapsular fractures who underwent intramedullary nailing were assigned to the IFCP group, and those with intracapsular fractures who underwent hip arthroplasty were assigned to the ARCP group. Multivariate logistic regression and propensity score matching (PSM) analyses were utilized to evaluate the association between surgery-oriented standardized clinical pathways and POD. Subgroup analysis was subsequently conducted to explore potential interactions further. Results A total of 693 patients were included in this study, with a POD incidence of 15.01% (104/693) during the postoperative hospitalization period. Before matching, the incidence of POD was significantly lower in the ARCP group than in the IFCP group (9.92% vs. 20.61%, P Conclusions Surgery-oriented standardized clinical pathways showed a statistically association with POD risk among elderly hip fracture patients. The ARCP exhibited a lower observed incidence of POD compared with the IFCP.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -500,10 +1488,9 @@
     "doi": "10.1371/journal.pone.0363341",
     "pmid": "43063231",
     "url": "https://doi.org/10.1371/journal.pone.0363341",
-    "abstract": "Elderly patients undergoing total hip arthroplasty (THA) have a high incidence of perioperative hypothermia due to anesthetic suppression of thermoregulation, prolonged surgical duration, and diminished endogenous thermoregulatory function, which can lead to poor outcomes. Effective prevention of hypothermia is a critical clinical issue; however, previous studies have lacked in-depth analysis of comprehensive continuous management and practical barriers. This study aimed to identify barriers to the prevention of perioperative hypothermia in elderly THA patients. A qualitative study design was employed, conducted from January to February 2026 at a Grade III Level A hospital in the Guangxi Zhuang Autonomous Region. Using purposive sampling, anesthesiologists (n = 5), anesthesia nurses (n = 5), and operating room nurses (n = 5) were recruited as participants. Semi-structured face-to-face interviews were conducted, and data were analyzed using content analysis with the assistance of NVivo 12.0 software. A total of 3 themes and 5 subthemes were identified: (1) System and process level: The warm chain management process requires improvement, and the allocation of key warming resources needs to be strengthened; (2) Human resources and team atmosphere level: Nursing staffing needs to be reinforced, and a positive organizational culture requires cultivation; (3) Multidisciplinary collaboration and continuous improvement level: The multidisciplinary collaboration platform and continuous improvement system remain inadequate. Diverse factors hinder the prevention of perioperative hypothermia in elderly THA patients. Managers should implement improvements across three dimensions-system processes, human resources and team atmosphere, and multidisciplinary collaboration-to explore perioperative temperature management strategies and promote quality improvements in hypothermia prevention and control.",
+    "abstract": "Background Elderly patients undergoing total hip arthroplasty (THA) have a high incidence of perioperative hypothermia due to anesthetic suppression of thermoregulation, prolonged surgical duration, and diminished endogenous thermoregulatory function, which can lead to poor outcomes. Effective prevention of hypothermia is a critical clinical issue; however, previous studies have lacked in-depth analysis of comprehensive continuous management and practical barriers. Objective This study aimed to identify barriers to the prevention of perioperative hypothermia in elderly THA patients. Methods A qualitative study design was employed, conducted from January to February 2026 at a Grade III Level A hospital in the Guangxi Zhuang Autonomous Region. Using purposive sampling, anesthesiologists (n = 5), anesthesia nurses (n = 5), and operating room nurses (n = 5) were recruited as participants. Semi-structured face-to-face interviews were conducted, and data were analyzed using content analysis with the assistance of NVivo 12.0 software. Results A total of 3 themes and 5 subthemes were identified: (1) System and process level: The warm chain management process requires improvement, and the allocation of key warming resources needs to be strengthened; (2) Human resources and team atmosphere level: Nursing staffing needs to be reinforced, and a positive organizational culture requires cultivation; (3) Multidisciplinary collaboration and continuous improvement level: The multidisciplinary collaboration platform and continuous improvement system remain inadequate. Conclusion Diverse factors hinder the prevention of perioperative hypothermia in elderly THA patients. Managers should implement improvements across three dimensions-system processes, human resources and team atmosphere, and multidisciplinary collaboration-to explore perioperative temperature management strategies and promote quality improvements in hypothermia prevention and control.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -528,6 +1515,27 @@
       "Other"
     ],
     "paper_type": "other",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1002/atn2.70310",
+    "title": "All-Arthroscopic Staged Matrix-Induced Autologous Chondrocyte Implantation for Osteochondral Lesions of the Talus.",
+    "journal": "Arthroscopy Techniques",
+    "journal_list": "A",
+    "authors": "Huang Z, Zhong M, Feng W, Ou Y, Zhu W.",
+    "published_date": "2026-11-20",
+    "doi": "10.1002/atn2.70310",
+    "pmid": "43066436",
+    "url": "https://doi.org/10.1002/atn2.70310",
+    "abstract": "Osteochondral lesions of the talus commonly cause ankle pain, swelling, and functional limitation, and persistent symptoms or early degenerative changes may occur after nonoperative management or prior surgery. For larger defects, failed previous procedures, or high functional demands, cartilage cell-based repair may provide more hyaline-like restoration. This Technical Note describes a staged, all-arthroscopic strategy using matrix-induced autologous chondrocyte implantation for osteochondral lesions of the talus, aiming to enable lesion assessment and preparation with accurate graft implantation under direct visualization.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
     "categories": [
       "Other / Unclassified"
     ],
@@ -570,6 +1578,28 @@
       "Journal Article"
     ],
     "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.injury.2026.113919",
+    "title": "Traumaplasty for acetabular fractures: Factors associated with additional fracture fixation.",
+    "journal": "Injury",
+    "journal_list": "A",
+    "authors": "Halvachizadeh S, Bell L, Starr AJ, Rüdiger HA, Hax J, Berk T, Hildebrand F, Sen RK, Pape HC, Pfeifer R.",
+    "published_date": "2026-11-19",
+    "doi": "10.1016/j.injury.2026.113919",
+    "pmid": "43067125",
+    "url": "https://doi.org/10.1016/j.injury.2026.113919",
+    "abstract": "Acute hip arthroplasty with additional fracture fixation, termed fix and replace (FAR), is an established option for selected acetabular fractures. The factors associated with adding fixation remain incompletely defined. We examined treatment selection in a mixed adult acetabular fracture cohort. This retrospective single-centre study included 29 adults undergoing hip arthroplasty for acetabular fractures, including periprosthetic or peri-implant injuries. Sixteen received FAR and 13 received arthroplasty without separate fracture fixation, termed fracture joint replacement (FJR). Preoperative computed tomography was used to measure fracture displacement. An exploratory logistic regression included maximum fracture displacement and Paprosky grade, with 26 complete cases. A sensitivity model additionally included articular displacement. Mean age was 72.8 ± 13.3 years (range 36-94); 20 patients were male and 10 had periprosthetic or peri-implant fractures. Mean maximum fracture displacement was 19.95 ± 10.00 mm in FAR and 6.66 ± 5.84 mm in FJR. In the two-predictor model, greater displacement was associated with FAR (odds ratio [OR] 1.22 per mm, 95% confidence interval [CI] 1.03-1.46; p = 0.021). The Paprosky grade 3 estimate was imprecise (OR 4.41, 95% CI 0.47-41.85; p = 0.196). The model's 50% probability point was 9.7 mm when Paprosky grade was held at its cohort mean. Adding articular displacement attenuated the statistical evidence for the fracture-displacement association (p = 0.128). Greater fracture displacement was associated with additional fixation in an exploratory two-predictor model. The small, heterogeneous cohort and model sensitivity preclude a validated displacement threshold or a conclusion that fixation can safely be omitted. These findings require prospective validation.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
     "categories": [
       "Other / Unclassified"
     ],
@@ -889,10 +1919,9 @@
     "doi": "10.1123/jsr.2026-0053",
     "pmid": "43063930",
     "url": "https://doi.org/10.1123/jsr.2026-0053",
-    "abstract": "Femoroacetabular impingement syndrome (FAIS) is associated with hip muscle weakness and altered neuromuscular function, which may persist despite surgical intervention. Although patients undergoing arthroscopic surgery for FAIS often report improvements in pain and function, recovery of hip muscle strength following surgery remains poorly characterized particularly beyond the early postoperative period. The purpose of this study was to characterize changes in hip muscle strength and patient-reported outcomes 1 year following arthroscopic surgery for FAIS. Retrospective case series of prospectively collected clinical data. Patients who underwent hip arthroscopy for FAIS between 2019 and 2022 were included if they completed standardized preoperative and 1-year postoperative strength assessments. Isometric hip flexor, extensor, abductor, internal rotator, and external rotator strength were measured using handheld dynamometry. Patient-reported outcomes were assessed using the International Hip Outcome Tool-33. Within-participant changes were analyzed in males and females using paired t-tests, with effect sizes and 95% CIs reported. Fifty-two participants (mean age 40.1 [13.5] y; 69% female) were included. At 1-year, females strength increased across all muscle groups (P = .01- < .001), where males did not have a statistically significant improvement in any strength measure. More than 70% of female participants exceeded their preoperative strength levels across all movement directions, although substantial interindividual variability was observed. On average, International Hip Outcome Tool-33 scores improved by 30 points (P < .001). Females undergoing arthroscopic management of FAIS demonstrate improvements in muscle strength with no differences in males. The postoperative strength recovery values reported here may provide clinicians with descriptive reference points for monitoring recovery following arthroscopic management of FAIS, although these values should not be interpreted as validated rehabilitation thresholds.",
+    "abstract": "Context Femoroacetabular impingement syndrome (FAIS) is associated with hip muscle weakness and altered neuromuscular function, which may persist despite surgical intervention. Although patients undergoing arthroscopic surgery for FAIS often report improvements in pain and function, recovery of hip muscle strength following surgery remains poorly characterized particularly beyond the early postoperative period. The purpose of this study was to characterize changes in hip muscle strength and patient-reported outcomes 1 year following arthroscopic surgery for FAIS. Design Retrospective case series of prospectively collected clinical data. Methods Patients who underwent hip arthroscopy for FAIS between 2019 and 2022 were included if they completed standardized preoperative and 1-year postoperative strength assessments. Isometric hip flexor, extensor, abductor, internal rotator, and external rotator strength were measured using handheld dynamometry. Patient-reported outcomes were assessed using the International Hip Outcome Tool-33. Within-participant changes were analyzed in males and females using paired t-tests, with effect sizes and 95% CIs reported. Results Fifty-two participants (mean age 40.1 [13.5] y; 69% female) were included. At 1-year, females strength increased across all muscle groups (P = .01- Conclusion Females undergoing arthroscopic management of FAIS demonstrate improvements in muscle strength with no differences in males. The postoperative strength recovery values reported here may provide clinicians with descriptive reference points for monitoring recovery following arthroscopic management of FAIS, although these values should not be interpreted as validated rehabilitation thresholds.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -1392,6 +2421,28 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.jbiomech.2026.113692",
+    "title": "The effect of prosthetic alignment and multiplanar deformation of a single prosthetic foot on musculoskeletal model predictions in unilateral transtibial prosthesis users.",
+    "journal": "Journal of Biomechanics",
+    "journal_list": "B",
+    "authors": "Hill J, Barnett CT, Felton PJ.",
+    "published_date": "2026-11-17",
+    "doi": "10.1016/j.jbiomech.2026.113692",
+    "pmid": "43067199",
+    "url": "https://doi.org/10.1016/j.jbiomech.2026.113692",
+    "abstract": "Prosthetic design and alignment are optimised to benefit prostheses users. Computer simulations can help to explain how prosthetic changes affect prosthesis users' bodies but often neglect some prosthetic design characteristics. This study explores how including non-sagittal plane deformation of the prosthetic foot and prosthetic foot to socket alignment affect prosthetic limb joint angles and joint moments. A lower-body musculoskeletal model using kinematic and kinetic data of overground running from unilateral transtibial prostheses users. The model incorporated a prosthetic foot scaled to each participant for four model variations (1) two to account for individual prosthetic alignment and (2) two to account for non-sagittal internal deformation of the prosthetic foot. Comparisons were made between prosthetic limb joint angles and normalised joint moment time histories and peaks. Correlations between prosthetic foot to socket offsets and peaks were also assessed. Prosthetic alignment changes caused small variations in angle and moment comparisons, but medio-lateral alignment correlated strongly with non-sagittal angles and moments (r > 0.80). Allowing for three-dimensional deformation in the model of the prosthetic foot resulted in generally small variations in joint angles and moments but were highest in non-sagittal planes. These were more pronounced during a run with a higher degree of non-sagittal plane loading. Therefore, accounting for individual alignment of transtibial prostheses users in inverse simulations may not be necessary, but care is warranted with greater medio-lateral offsets. Also, modelling non-sagittal prosthetic intersegmental movement may impact non-sagittal kinematics and kinetics during movements with high non-sagittal plane loading.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1097/bot.0000000000003313",
     "title": "The Illusion of Scale: Divergent Orthopaedic Trauma Outcomes Across Large Healthcare Databases.",
     "journal": "Journal of Orthopaedic Trauma",
@@ -1646,6 +2697,28 @@
     "abstract": "Objectives To compare outcomes of acute total knee arthroplasty (TKA) for tibial plateau fracture in patients aged 55 years and older with matched patients undergoing open reduction and internal fixation (ORIF), conversion TKA after failed ORIF, and primary TKA for osteoarthritis. Methods Design: Retrospective cohort study with propensity score matching. Setting Federated multi-institutional electronic health records database (TriNetX United States Collaborative Network). Patient selection criteria Patients aged ≥55 years with tibial plateau fracture treated with acute TKA, ORIF, or conversion TKA after failed ORIF were identified. A separate cohort undergoing primary TKA for osteoarthritis without fracture history was identified as a non-traumatic comparator. The study period was restricted to January 1, 2005 through December 31, 2020 to ensure a minimum of five years of potential follow-up for all included patients. Outcome measures and comparisons The primary outcome was revision surgery at 5 years, defined as conversion to TKA after ORIF and as revision TKA after arthroplasty. Secondary outcomes were a composite \"return to the operating room (OR)\" outcome (selected major reoperations), periprosthetic joint infection (PJI), surgical site infection (SSI), aseptic loosening, manipulation under anesthesia (MUA), and periprosthetic fracture. Three 1:1 propensity score-matched comparisons were performed (acute TKA versus ORIF; acute versus conversion TKA; acute TKA versus primary TKA for osteoarthritis), with risk ratios (RR) and 95% confidence intervals (CI) calculated. Subgroup analyses were stratified by age (55-70 years; ≥70 years). Results After matching, 1,321 patients per cohort were compared in the primary acute TKA versus ORIF analysis. Mean age was 66.1 years in the acute TKA cohort and 66.6 years in the ORIF cohort (range, 55 to 90 in both), and 65.3% and 66.7%, respectively, were female. Acute TKA had higher 5-year revision rates than ORIF (7.0% versus 0.8%; RR 8.36, 95% CI 4.50-15.56; P Conclusions In patients aged 55 years and older, acute TKA for tibial plateau fracture was associated with higher risks of revision and complications compared with ORIF. Revision and complication rates after acute TKA were comparable with those after conversion TKA following failed ORIF but higher than those after primary TKA for osteoarthritis. Acute TKA should be reserved for patients at highest risk of ORIF failure requiring subsequent conversion to TKA. Level of evidence Level III, therapeutic study.",
     "open_access": false,
     "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jbiomech.2026.113695",
+    "title": "Modeling intersegmental mechanics to reproduce physiologic coordination patterns of multi-joint finger movements.",
+    "journal": "Journal of Biomechanics",
+    "journal_list": "B",
+    "authors": "Emmanuel OD, Tran QD, Kamper DG, Lee SW.",
+    "published_date": "2026-11-17",
+    "doi": "10.1016/j.jbiomech.2026.113695",
+    "pmid": "43067200",
+    "url": "https://doi.org/10.1016/j.jbiomech.2026.113695",
+    "abstract": "Biomechanical models of the hand are important for understanding the functional roles of individual muscles to facilitate rehabilitation planning or prediction of surgical outcomes. Interpreting the contributions of specific hand muscles is challenging, however, because of the complex anatomy of the hand, including multiarticular muscles, distributed tendon insertions, and soft tissue structures. Most existing biomechanical models estimate joint torques based primarily on geometric moment arms and therefore rely on a kinematic representation of muscle action. In this study, we developed a dynamic biomechanical model of the index finger that incorporates intersegmental mechanical interactions arising from tendon pathways, adhesions, and ligamentous constraints (model 1: 'intersegmental mechanics model'), enabling more accurate prediction of multi-joint coordination patterns produced by individual musculotendons. The performance of the proposed model was compared with that of a conventional kinematic model (model 2: 'individual joint moment-arm model'). Both models were used to simulate index finger movements driven by individual muscle forces. Predicted joint coordination patterns were compared with experimental data collected from in vitro and in vivo studies. Model 1 reproduced multi-joint coordination patterns more accurately than Model 2, producing lower RMSE values in 26 of 27 submovements. This advantage was most evident for intrinsic plus and intrinsic minus movements, suggesting that intersegmental mechanical interactions are important for reproducing intrinsic muscle-driven coordination patterns relevant to hand function. These findings highlight the importance of incorporating intersegmental dynamics into finger modeling and suggest that the proposed framework may provide a useful tool for studying hand function and its impairment.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -2124,6 +3197,28 @@
       "Journal Article"
     ],
     "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jot.2026.101230",
+    "title": "Targeting bone and cartilage: A practical guideline for tissue- and cell-specific delivery tools in preclinical studies.",
+    "journal": "Journal of Orthopaedic Translation",
+    "journal_list": "A",
+    "authors": "Lyu A, Qin L, Hegyi P, Zhang G, Liu J, Ferdinandy P, Chen D, Ding Y, Xia W, Li M, Weng X, Zhang Z, Zhong C, Wang L, Yu S, Zhang H, Tao X, Que Y, Li N.",
+    "published_date": "2026-11-16",
+    "doi": "10.1016/j.jot.2026.101230",
+    "pmid": "43068135",
+    "url": "https://doi.org/10.1016/j.jot.2026.101230",
+    "abstract": "Bone and joint diseases, including osteoporosis, osteoarthritis, and genetic skeletal disorders, are increasingly studied in the context of aging and metabolic dysfunction. To investigate these underlying pathways, preclinical research requires precise tools to functionally interrogate specific genes within defined skeletal cell populations. Accurately delivering gain- or loss-of-function agents to bone or cartilage compartments is essential for elucidating molecular mechanisms and validating therapeutic targets. Therefore, achieving spatial precision in skeletal tissue delivery is a critical methodological requirement. Targeted delivery systems serve as specific pharmacological tools that localize bioactive molecules to bone or cartilage to study the function and pathogenic mechanisms of specific molecules. Safety, efficacy, and cost-effectiveness are paramount for clinical translation of the targeted delivery systems discussed herein. However, their effectiveness heavily relies on the choice of targeting moiety. Different tissues, cell types, and experimental objectives require distinct ligands, and inappropriate selection may lead to inefficient targeting or misleading conclusions. Despite their importance, clear guidance for selecting skeletal targeting moieties in preclinical studies remains limited. To address this need, the Translational European-Asian Network (TEA-NET) of Academia Europaea Translational Medicine Working Group initiated and coordinated this guideline. Through a structured literature review and a predefined evidence-based evaluation framework, this practical guide assesses available skeletal-targeted delivery strategies, emphasizing the selection and functional integration of targeting moieties. The resulting recommendations provide practical guidance for choosing targeting ligands in preclinical studies and for designing delivery systems with potential for future clinical translation. This guideline establishes a standardized, evidence-based decision matrix for skeletal-targeted delivery, directly bridging the gap between basic mechanistic discovery and clinical development. By systematically balancing targeting efficiency and tissue retention against safety, biocompatibility, immunogenicity, and manufacturing scalability, these recommendations provide a benchmark for de-risking preclinical candidates. Furthermore, clarifying ligand-carrier compatibility and disease-specific release profiles facilitates the rational engineering of targeted gene- and drug-delivery platforms, accelerating the translation of innovative bone- and cartilage-directed therapeutics from bench to bedside.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
     "categories": [
       "Other / Unclassified"
     ],
@@ -2882,6 +3977,27 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.jot.2026.101267",
+    "title": "TLR3-primed ADSC exosomes reverse osteoarthritis through PSMD14-mediated K63-linked deubiquitination of fibrillarin.",
+    "journal": "Journal of Orthopaedic Translation",
+    "journal_list": "A",
+    "authors": "Wan Z, Wang X, Fu Z, Xu F, Wang Z, Huang Y, Song X, Tan X, Dai G, Duan X, Gong X, Chen G, Yang L.",
+    "published_date": "2026-11-14",
+    "doi": "10.1016/j.jot.2026.101267",
+    "pmid": "43068156",
+    "url": "https://doi.org/10.1016/j.jot.2026.101267",
+    "abstract": "Osteoarthritis (OA) remains a major unmet clinical need. Exosomes from adipose-derived stem cells (ADSCs) show therapeutic potential but suffer from inconsistent efficacy. Here, we show that TLR3 activation of ADSCs with Poly(I:C) generates exosomes (pExos) with superior cartilage-protective capacity, as demonstrated in IL-1β-treated chondrocytes and a rat MIA-induced OA model. Proteomic profiling identified PSMD14, a 19S proteasome deubiquitinase, as a key cargo enriched in pExos. Mechanistically, pExos-delivered PSMD14 mediates K63-linked deubiquitination of fibrillarin (FBL), a nucleolar protein downregulated in OA chondrocytes, thereby stabilizing FBL and restoring ECM homeostasis. In human OA cartilage, FBL was markedly reduced in degenerated versus preserved regions, and modulating FBL expression in primary chondrocytes and explants directly affected ECM integrity, confirming clinical relevance. These findings establish the PSMD14-FBL axis as a therapeutic target and TLR3 priming as a simple, clinically feasible strategy to potentiate ADSC exosome therapy for OA. This study establishes TLR3 priming as a clinically feasible strategy to generate ADSC exosomes with defined therapeutic cargo. Poly(I:C) is a well-established clinical immune modulator and ADSCs can be readily isolated from lipoaspirate with widely available source. Moreover, the PSMD14-FBL axis identified herein represents a mechanistically grounded, druggable molecular target for exosome-based disease-modifying therapy in OA.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1016/j.jbiomech.2026.113679",
     "title": "State-space dynamics of joint coordination reveal preserved directional structure across running speeds.",
     "journal": "Journal of Biomechanics",
@@ -3185,6 +4301,28 @@
     "open_access": true,
     "publication_types": [
       "other",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.injury.2026.113905",
+    "title": "Additional FiberTape-Cerclage® augmentation or \"Bumper-plate\" osteosynthesis for symphyseal arthrodesis - A biomechanical study.",
+    "journal": "Injury",
+    "journal_list": "A",
+    "authors": "Fritz T, Keßler J, Orth M, Pohlemann T, Pizanis A, Norrick S, Lioadiks E, Engel D.",
+    "published_date": "2026-11-14",
+    "doi": "10.1016/j.injury.2026.113905",
+    "pmid": "43067127",
+    "url": "https://doi.org/10.1016/j.injury.2026.113905",
+    "abstract": "Chronic anterior pelvic instability may require symphyseal arthrodesis when conservative treatment and isolated plating fail. Therefore, dual plating has been clinically used to improve stability. As a novel augmentation FiberTape® cerclage may provide and alternative stabilization method with comparable mechanical stability, providing radiolucency for improved analysis of bone healing. Therefore, we conducted a biomechanical study to compare the effects of dual plating to a plate/ FiberTape® cerclage construct. Twenty-four synthetic pelvic models (n = 8 per group) were stabilized using symphyseal plating, dual plating, or plate-cerclage constructs. Cyclic axial loading (50-400 N) was applied in a unilateral stance and bilateral-leg stance biomechanical model. The plate-cerclage resulted in significantly higher compression force (131.5 ± 31.7 N) compared to plate-only fixation (88.2 ± 20.9 N; p = 0.019), corresponding to a 49% increase. Dual plating reduced contact area (p ≤ 0.049). No significant differences were observed in one-leg stance. Fiber-Tape cerclage augmentation significantly enhances distraction resistance and preserves contact area compared to dual plating. Furthermore, this technique will potentially allow improved radiological visualization of the area of interest in the pubic symphysis after arthrodesis to analyze bone healing and osteointegration.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -4584,10 +5722,9 @@
     "doi": "10.1016/j.injury.2026.113901",
     "pmid": "43064595",
     "url": "https://doi.org/10.1016/j.injury.2026.113901",
-    "abstract": "to assess for associations between CT seatbelt sign (CTSBS), traumatic abdominal wall hernia and central adiposity with the severity of injury and subsequent management following a restrained motor vehicle collision. Included patients were all major trauma patients (with an injury severity score ≥12), who were involved in a motor vehicle collision (MVC) and were restrained by a seatbelt, presenting to Christchurch Hospital between July 1st, 2018, and June 30th, 2023. Clinical data was collected prospectively by the Trauma team nursing staff at the time of injury and throughout the patient's admission. Original trauma CT imaging either performed at Christchurch hospital or the presenting hospitals were re-reviewed by a trauma specialist radiologist, as well as a post part 2 FRANZCR final year radiology trainee. The presence of a seatbelt sign, injuries and central adiposity were calculated from these images. Both univariable and multivariable analyses were performed. After exclusions 316 patients were included in the study. For CTSBS, there was Statistically higher incidence and grade of organ injury in both the thoracic and abdominal compartments except for large thoracic and abdominal vascular injuries, spinal injuries and pelvic injuries. Multivariable analysis demonstrated 10.41 times higher rates of death when CTSBS is present albeit with just 11 deaths. Outcomes were also worse when CTSBS was present; Injury severity score (13% higher), number of operating sessions (15% higher), length of ICU stay (64% higher) and hospital stay (32% higher). Regarding traumatic abdominal wall hernias, there was a higher incidence of any intra-abdominal organ injury (p = 0.042), as well as a higher incidence of GI tract (p < 0.001) and mesenteric injuries (p < 0.001). Regarding central adiposity, there was no significant difference of any of the measured outcomes when looking at different central adiposity groups except for number of operating sessions (p = 0.012). The presence of a CTSBS or traumatic abdominal wall hernias are associated with a higher rate of organ injury and worse outcomes. Radiologists should include these signs in their reports. Differences in central adiposity have no significant associations with outcomes as the result of a restrained MVC.",
+    "abstract": "Aims to assess for associations between CT seatbelt sign (CTSBS), traumatic abdominal wall hernia and central adiposity with the severity of injury and subsequent management following a restrained motor vehicle collision. Methods Included patients were all major trauma patients (with an injury severity score ≥12), who were involved in a motor vehicle collision (MVC) and were restrained by a seatbelt, presenting to Christchurch Hospital between July 1st, 2018, and June 30th, 2023. Clinical data was collected prospectively by the Trauma team nursing staff at the time of injury and throughout the patient's admission. Original trauma CT imaging either performed at Christchurch hospital or the presenting hospitals were re-reviewed by a trauma specialist radiologist, as well as a post part 2 FRANZCR final year radiology trainee. The presence of a seatbelt sign, injuries and central adiposity were calculated from these images. Both univariable and multivariable analyses were performed. Results After exclusions 316 patients were included in the study. For CTSBS, there was Statistically higher incidence and grade of organ injury in both the thoracic and abdominal compartments except for large thoracic and abdominal vascular injuries, spinal injuries and pelvic injuries. Multivariable analysis demonstrated 10.41 times higher rates of death when CTSBS is present albeit with just 11 deaths. Outcomes were also worse when CTSBS was present; Injury severity score (13% higher), number of operating sessions (15% higher), length of ICU stay (64% higher) and hospital stay (32% higher). Regarding traumatic abdominal wall hernias, there was a higher incidence of any intra-abdominal organ injury (p = 0.042), as well as a higher incidence of GI tract (p Conclusion The presence of a CTSBS or traumatic abdominal wall hernias are associated with a higher rate of organ injury and worse outcomes. Radiologists should include these signs in their reports. Differences in central adiposity have no significant associations with outcomes as the result of a restrained MVC.",
     "open_access": false,
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -5268,6 +6405,28 @@
       "Comparative Study",
       "research-article",
       "Randomized Controlled Trial",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.injury.2026.113883",
+    "title": "History of operative pelvic ring fixation is associated with increased risk of cesarean delivery: A matched retrospective cohort study.",
+    "journal": "Injury",
+    "journal_list": "A",
+    "authors": "Scott J, Bukowinski AT, Lutgendorf MA, Romano CJ, Hall C, Gumbs GR, Conlin AMS, Wheatley BM.",
+    "published_date": "2026-11-10",
+    "doi": "10.1016/j.injury.2026.113883",
+    "pmid": "43067128",
+    "url": "https://doi.org/10.1016/j.injury.2026.113883",
+    "abstract": "Pelvic ring injuries requiring surgical fixation are uncommon among women of childbearing age, and evidence to guide delivery in subsequent pregnancies is limited. Cesarean delivery (CD) is vital when indicated, but carries risk of complications, such as pulmonary and infectious complications in the child and an increased risk of infection, hysterectomy, and cardiac arrest in the mother. The purpose of this study was to compare the likelihood of CD in women with a history of pelvic fixation (HPF) and those with no history of pelvic injury (NPI) who were matched on factors related to CD. We conducted a retrospective review of live deliveries among military beneficiaries in Birth and Infant Health Research program data between 2002 and 2021. All patients with HPF prior to delivery were selected. A cohort of patients with NPI were randomly selected in a 10:1 ratio, matched on age, year of delivery, number of prior births, and history of CD. The primary outcome of interest was CD. The secondary outcome of interest was indication for CD among the HPF cohort. There were 79 patients with HPF who had a subsequent pregnancy that resulted in a live birth and 790 controls were selected based on the matching criteria, for a total of 869 patients. The average age at delivery was 26.8 years, 85% had no prior births, and 10% had a prior CD. Patients with HPF had higher prevalence of CD compared to those with NPI (54.4% vs 25.7%; risk ratio: 2.12; 95% confidence interval: 1.52-2.94). History of orthopedic fixation was the most common indication for CD in patients with HPF. HPF increased risk of CD, even when controlling for a history of CD. Women with HPF had approximately twice the prevalence of CD compared with matched women with NPI. Still, nearly half of women with HPF delivered vaginally, suggesting that prior pelvic fixation does not necessarily preclude vaginal delivery. Given that orthopedic fixation itself was frequently documented as an indication for CD, these findings highlight the need for individualized obstetric assessment and further evidence to guide delivery planning after pelvic fixation. Prognostic Level III.",
+    "open_access": false,
+    "publication_types": [
+      "IM",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -8020,6 +9179,27 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1177/1759720x261505623",
+    "title": "Sustained target attainment in psoriatic arthritis: Predictors and barriers in a Chinese longitudinal cohort.",
+    "journal": "Therapeutic Advances in Musculoskeletal Disease",
+    "journal_list": "A",
+    "authors": "Hu X, Xie W, Song Z, Zhang X, Geng Y, Zhang Z.",
+    "published_date": "2026-11-04",
+    "doi": "10.1177/1759720x261505623",
+    "pmid": "43069838",
+    "url": "https://doi.org/10.1177/1759720x261505623",
+    "abstract": "The multidimensional clinical manifestations of PsA encompassing challenges to both the definition and consistent implementation of T2T in this population. A key hurdle is the lack of consensus regarding the optimal approach to disease activity assessment. Yet studies reveal considerable disparities in target attainment rates depending on the instrument used. To date, no longitudinal cohort data have been available on the attainment and sustainability of treatment targets among Chinese patients with PsA. Treat-to-target improves outcomes in psoriatic arthritis (PsA), but the optimal target definition and sustainability of disease control remain unclear. We therefore systematically compared five composite measures for assessing treatment target attainment and identified predictors of sustained disease control in a Chinese PsA cohort. This cross-sectional and retrospective cohort study, based on the PKUPsA cohort (2016-2024), compared five PsA response criteria (MDA, DAPSA, cDAPSA, DAS28-ESR, DAS28-CRP) at baseline and evaluated short-term and sustained attainment/remission over 12 months of follow-up, exploring predictors of sustained response. Data from the Peking University First Hospital PsA (PKUPsA) cohort (enrolled 2016-2024) were analyzed. Baseline rates of target attainment were compared across five definitions: DAPSA, cDAPSA, DAS28-ESR, DAS28-CRP, and MDA. A longitudinal subcohort was followed for sustained treatment target attainment. Agreement between measures was evaluated with Cohen's Kappa, and predictors of sustained attainment were identified via Cox regression. Among 419 patients (59.2% male, median age 49 years, disease duration 2 years), baseline target attainment varied significantly: 33.4% (MDA), 54.4% (DAPSA), 58.5% (DAS28-ESR), 62.1% (DAS28-CRP), and 62.5% (cDAPSA). Measure Agreement ranged from moderate to excellent (Kappa: 0.417-0.834). In DAPSA-but not MDA-attainers, pain VAS (82.1%) and PASI (77.9%) were the main limiting factors. In the longitudinal cohort (n=151), 6-month sustained treatment target attainment ranged from 35.1% (MDA) to 71.3% (cDAPSA), with marked declines over longer periods. Factors associated with faster sustained attainment included lower baseline disease activity (VAS ≤3, TJC68 ≤3, SJC66 ≤3, HAQ ≤1, CRP ≤5 mg/L, ESR ≤13 mm/h). For sustained remission, predictors included lower baseline TJC68, VAS, HAQ, CRP, and baseline csDMARD use. In this first systematic evaluation of five composite measures for sustained targets in a Chinese PsA cohort, short-term success was achievable but long-term sustainability remained challenging. Lower baseline disease activity was associated with faster achievement of sustained targets, whereas baseline csDMARD use was associated with sustained remission; these observational associations should not be interpreted as evidence of therapeutic superiority. These findings support standardized, clinically feasible assessment strategies to improve PsA management.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1002/atn2.70295",
     "title": "Staged Revision Reverse Total Shoulder Arthroplasty to Functional Hemiarthroplasty With Retained Humeral Implant: A Salvage Technique.",
     "journal": "Arthroscopy Techniques",
@@ -9151,6 +10331,28 @@
       "Journal Article"
     ],
     "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1177/1759720x261505630",
+    "title": "JAK inhibition in Schnitzler syndrome: A case report of successful treatment with upadacitinib and literature review.",
+    "journal": "Therapeutic Advances in Musculoskeletal Disease",
+    "journal_list": "A",
+    "authors": "Zhang H, Wang Y, Jiao Q, Shen C, Dai SM, Chen Z.",
+    "published_date": "2026-11-03",
+    "doi": "10.1177/1759720x261505630",
+    "pmid": "43067973",
+    "url": "https://doi.org/10.1177/1759720x261505630",
+    "abstract": "Schnitzler syndrome (SchS) is a rare, acquired, adult-onset autoinflammatory disorder characterized by chronic urticarial rash, monoclonal gammopathy, and systemic inflammation with bone pain and osteosclerosis. Although IL-1 blockade is highly effective and represents first-line therapy, it is not disease-modifying and remains unavailable in many countries, underscoring a need for oral alternatives. Here, we report a 65-year-old man with SchS who, following treatment with upadacitinib (a selective JAK1 inhibitor) combined initially with prednisone, achieved sustained clinical improvement that permitted complete discontinuation of glucocorticoids, with remission subsequently maintained on upadacitinib monotherapy. The patient presented with a three-year history of bilateral knee arthralgia and chronic urticaria, markedly elevated inflammatory markers, and a monoclonal IgM κ gammopathy. Magnetic resonance imaging and whole-body bone scintigraphy demonstrated the \"hot knees\" sign and, together with bone histopathology and exclusion of alternative dermatoses on skin biopsy, established the diagnosis. Treatment with upadacitinib 15 mg daily and prednisone 20 mg daily led to complete resolution of the cutaneous lesions and a reduction in knee pain (visual analogue scale 8 to 1) with substantial improvement in inflammatory markers at 21 months; prednisone was tapered and discontinued at month 16, after which remission was maintained on upadacitinib monotherapy. We also reviewed the literature (PubMed, Embase, Web of Science, Scopus, and China National Knowledge Infrastructure) on JAK inhibitor therapy in SchS, identifying only three previously reported cases, all treated with tofacitinib. Collectively, these preliminary observations suggest that JAK inhibition may represent a potential therapeutic option in Schnitzler syndrome, particularly in patients for whom IL-1 blockade is unavailable or unsuitable. Further studies are required to determine its efficacy and safety.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "paper_type": "review",
     "categories": [
       "Other / Unclassified"
     ],
