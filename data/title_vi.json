@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-23T14:35:30+00:00",
+  "updated_at_utc": "2026-11-24T02:27:56+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -2685,6 +2685,230 @@
     "doi:10.1016/j.injury.2026.113901": {
       "en": "Does CT seatbelt sign, traumatic abdominal wall hernia or body habitus predict injuries and patient outcomes following a restrained motor vehicle collision? A New Zealand cohort study.",
       "vi": "Hệ thống an toàn chụp cắt lớp có dấu hiệu chấn thương ở bụng cô bé hoặc thói quen của cơ thể dự đoán thương tích và kết quả của bệnh nhân sau một vụ va chạm xe hơi bị hạn chế không?"
+    },
+    "doi:10.1177/21925682261511497": {
+      "en": "Timing of Total Hip Arthroplasty and Lumbar Spinal Fusion in Patients With Hip and Spine Degeneration: A Systematic Review and Meta-Analysis.",
+      "vi": "Thời điểm của chủ đề \"The Hip Artroplassty\" và Lumbar Spinal Fusion trong bệnh nhân với Hip và Spine De generation: Một cuộc kiểm tra hệ thống và phân tích gộp."
+    },
+    "doi:10.1007/s00256-026-05442-6": {
+      "en": "Performance of a self-supervised pretrained neural network for orthopedic radiograph classification.",
+      "vi": "Thực hiện một mạng lưới thần kinh đã được đào tạo trước để phân loại radiograph chỉnh hình."
+    },
+    "doi:10.1007/s00264-026-07074-w": {
+      "en": "Osteoporosis is associated with higher five-year surgical complication rates after total shoulder arthroplasty.",
+      "vi": "Bệnh viêm màng não liên quan đến tỉ lệ biến chứng cao hơn 5 năm sau khi phẫu thuật cơ bắp hoàn toàn."
+    },
+    "doi:10.1007/s00264-026-07076-8": {
+      "en": "New trends and innovations in pelvic trauma.",
+      "vi": "Những xu hướng mới và sự đổi mới trong chấn thương xương chậu."
+    },
+    "doi:10.1177/21925682261511613": {
+      "en": "Current Trends in Perioperative Opioid Management Amongst Spine Surgeons: An AO Spine International Survey.",
+      "vi": "Hiện nay có những cuộc khảo sát quốc tế AO Spine."
+    },
+    "doi:10.1007/s11701-026-04175-x": {
+      "en": "Cruciate-retaining versus condylar-stabilized reconstruction strategies in robotic-arm assisted total knee arthroplasty: a prospective, double-blinded, randomized controlled trial.",
+      "vi": "Đóng đinh so với các chiến lược tái tạo không xác định trong chiến lược tổng động cơ đầu gối robot: một thử nghiệm có khả năng bị mù đôi, được kiểm soát ngẫu nhiên."
+    },
+    "doi:10.1002/ars2.70171": {
+      "en": "The Meniscotibial Attachment Diverges From the Meniscocapsular Attachment at 10 mm From the Posterior Root of the Medial Meniscus and Forms a Distinct Ligament at 15 mm.",
+      "vi": "Các liên kết xoắn ốc từ liên kết Menscocaps lúc 10mm từ Nguồn gốc phía sau của Medial Meniscus và Forms một giải pháp thất bại tại 15 mm."
+    },
+    "PMC:PMC13789356": {
+      "en": "The Meniscotibial Attachment Diverges From the Meniscocapsular Attachment at 10 mm From the Posterior Root of the Medial Meniscus and Forms a Distinct Ligament at 15 mm",
+      "vi": "Các liên kết liên kết xoắn ốc từ các liên kết Menscocaps lúc 10 mm từ Nguồn gốc phía sau của Medial Meniscus và Forms một giải pháp thất bại tại 15 mm"
+    },
+    "PMC:PMC13789374": {
+      "en": "Survey Findings From Orthopaedic Surgeons in Asia‐Pacific: Attitudes and Practice Patterns in Pediatric Anterior Cruciate Ligament Injuries",
+      "vi": "Các cuộc khảo sát tìm thấy từ bác sĩ phẫu thuật chỉnh hình ở châu Á: thái độ và khuôn mẫu thực hành trong Bộ Quốc Phòng Bị Đóng đinh trước khi bị xét xử."
+    },
+    "doi:10.1002/ars2.70121": {
+      "en": "Survey Findings From Orthopaedic Surgeons in Asia-Pacific: Attitudes and Practice Patterns in Pediatric Anterior Cruciate Ligament Injuries.",
+      "vi": "Nghiên cứu tìm kiếm từ các bác sĩ phẫu thuật chỉnh hình ở Châu Á-Pacif: thái độ và khuôn mẫu thực hành ở khoa nhi bị đóng đinh."
+    },
+    "doi:10.1002/atn2.70398": {
+      "en": "Open Extensor Carpi Radialis Brevis Debridement Augmented by Bioinductive Collagen Implant: Indications and Surgical Technique.",
+      "vi": "Open Extensor Carpi Racialis Brevis Debridement bởi Bigmentmentmented by Biuin Previve Colvition Impant Impant: Dấu hiệu và thuốc giải phẫu Technique."
+    },
+    "PMC:PMC13789268": {
+      "en": "Open Extensor Carpi Radialis Brevis Debridement Augmented by Bioinductive Collagen Implant: Indications and Surgical Technique",
+      "vi": "Open Extensor Carpi Racialis Brevis Debridement bởi Bigmentmented by Bioin Previpive Colgen Impant Impant: Dấu hiệu và Sal Technique"
+    },
+    "PMC:PMC13789275": {
+      "en": "Navigation‐Assisted Arthroscopic Ankle Fusion",
+      "vi": "Sự di chuyển của Arthrcopic Ankle Fusion được hỗ trợ"
+    },
+    "doi:10.1002/atn2.70410": {
+      "en": "Navigation-Assisted Arthroscopic Ankle Fusion.",
+      "vi": "Phòng vận chuyển Arthrcopic Ankle Fusion."
+    },
+    "doi:10.1002/ars2.70118": {
+      "en": "Increasing Use of Anterior Cruciate Ligament Reconstruction in the Management of Pediatric Anterior Cruciate Ligament Injuries.",
+      "vi": "Càng ngày càng có thêm việc sử dụng biện pháp tái thiết chức quyền đối với Bộ Nội Vụ."
+    },
+    "PMC:PMC13789355": {
+      "en": "Increasing Use of Anterior Cruciate Ligament Reconstruction in the Management of Pediatric Anterior Cruciate Ligament Injuries",
+      "vi": "Càng ngày càng sử dụng biện pháp tái thiết chức quyền trước khi bị đóng đinh vào thập tự giá."
+    },
+    "doi:10.1016/j.joca.2026.11.010": {
+      "en": "Growth hormone signaling regulates sex-specific susceptibility to post-traumatic joint degenerat ion and pain.",
+      "vi": "Phát triển hóc môn điều chỉnh khả năng nhận thức đặc biệt về tình dục để giảm thiểu sự căng thẳng và đau đớn sau chấn thương."
+    },
+    "doi:10.1111/os.70474": {
+      "en": "Four-Screw Versus Two-Screw Zero-Profile Implants: Effects on Overloaded Vertebral Body Following Anterior Cervical Discectomy and Fusion.",
+      "vi": "4-Scraw đối đầu với 2-Scew Zero-Propies: hiệu ứng trên cơ thể Vertebral tải quá tải theo sau phẫu thuật cắt bỏ não trước và Fusion."
+    },
+    "doi:10.1002/ars2.70170": {
+      "en": "Female Sex Is Associated With Increased Health Care Use and Revision Risk After Achilles Tendon Repair.",
+      "vi": "Phụ nữ quan hệ tình dục được kết hợp với việc tăng cường chăm sóc sức khỏe và tái định hình rủi ro sau khi sửa chữa Achilles Tendon."
+    },
+    "PMC:PMC13789373": {
+      "en": "Female Sex Is Associated With Increased Health Care Use and Revision Risk After Achilles Tendon Repair",
+      "vi": "Phụ nữ quan hệ tình dục là kết hợp với việc tăng cường chăm sóc sức khỏe và giảm thiểu rủi ro sau khi sửa chữa Achilles Tendon"
+    },
+    "doi:10.1016/j.jse.2026.11.007": {
+      "en": "Comparing Bristow and Latarjet procedures for anterior shoulder instability in competitive rugby players: a unique within-subject clinical analysis.",
+      "vi": "So sánh các thủ tục Bristow và Latarjet cho một cơ quan nội thất bất ổn trong các cầu thủ cạnh tranh thảm: một phân tích trong lâm sàng."
+    },
+    "doi:10.1016/j.joca.2026.11.011": {
+      "en": "Clinical Considerations With GLP-1 Therapies for Obesity and Knee Osteoarthritis: A Focus on Musculoskeletal Health and Nutritional Concerns.",
+      "vi": "Một cuộc thăm dò y tế với các phương pháp trị liệu GLP-1 cho bệnh béo phì và viêm màng não: Một tập trung vào sức khỏe Musculoskeleal và các mối quan tâm về chất dinh dưỡng."
+    },
+    "doi:10.1002/atn2.70344": {
+      "en": "Arthroscopic Quadrupled Semitendinosus Autograft Anterior Cruciate Ligament Reconstruction With Suspensory Fixation.",
+      "vi": "Bộ Nội Vụ đã phá vỡ Setendinosus Autogft Aside Rehapment Recitionment With Suspensery Recition."
+    },
+    "PMC:PMC13789267": {
+      "en": "Arthroscopic Quadrupled Semitendinosus Autograft Anterior Cruciate Ligament Reconstruction With Suspensory Fixation",
+      "vi": "Phòng chống vi phạm bản quyền đã phá hủy Setendinosus Autogft A side side Conpement Recitionment With Suspensery Recition"
+    },
+    "doi:10.1002/atn2.70280": {
+      "en": "Arthroscopic Glenoid Reconstruction Using Autologous Scapular Spine Bone Graft and Long Head Biceps Tendon Transposition for Shoulder Instability and Subcritical Glenoid Bone Defects.",
+      "vi": "Chương trình xây dựng lại Arthrcopic Glenoid sử dụng Autologous Scapular Spine Graft và Long Head Biceps Tendon Proctions cho vai trò khả thi và biện pháp bảo vệ xương Glenoid."
+    },
+    "PMC:PMC13789269": {
+      "en": "Arthroscopic Glenoid Reconstruction Using Autologous Scapular Spine Bone Graft and Long Head Biceps Tendon Transposition for Shoulder Instability and Subcritical Glenoid Bone Defects",
+      "vi": "Chương trình xây dựng lại tác phẩm Arthroscoic Glenoid sử dụng cơ cấu tự động Hình học Spine Graft và đầu dài Biiceps Tendon cho vai trò khả năng duy trì và bảo vệ xương Glenoid phụ thuộc"
+    },
+    "doi:10.1111/os.70471": {
+      "en": "Artemetin Confers Neuroprotection in Spinal Cord Injury by Targeting Ferroptosis.",
+      "vi": "Kháng thể thần kinh được bảo vệ ở Spinal Cord Corjury bởi mục tiêu là bệnh Ferroptosis."
+    },
+    "doi:10.1002/atn2.70409": {
+      "en": "Anterolateral Suture Tensioning for Improved Reduction in Arthroscopic Subscapularis Repair With Knotless Anchors.",
+      "vi": "Anteroal Suture đang giảm căng thẳng vì đã cải thiện việc hút máu ở tàu ngầm Arthrcompic sửa chữa bằng hệ thống neo không dây."
+    },
+    "PMC:PMC13789266": {
+      "en": "Anterolateral Suture Tensioning for Improved Reduction in Arthroscopic Subscapularis Repair With Knotless Anchors",
+      "vi": "Căng thẳng hậu phương để cải thiện việc hút thuốc chống trầm cảm ở tàu ngầm Arthrcompic sửa chữa bằng neo Knotless"
+    },
+    "doi:10.1016/j.jbspin.2026.106168": {
+      "en": "Thyroid dysfunction history is very frequent in hand osteoarthritis patients but is not associated with its severity : Results of the DIGICOD cohort.",
+      "vi": "Bệnh nhân viêm khớp tuyến giáp thường xuyên bị rối loạn chức năng, nhưng không liên quan đến mức độ nghiêm trọng của nó: kết quả của đội quân DIGICOD."
+    },
+    "doi:10.1177/19386400261504762": {
+      "en": "Tarsometatarsal Joint Synovial Chondromatosis Requiring Osteotomy-Assisted Tumor Excision With Staged Revision for Nonunion: A Case Report.",
+      "vi": "Bệnh nhân bị rối loạn thần kinh rối loạn thần kinh phân liệt với sự phân hủy giai đoạn cho sự không hoạt động: một bản báo cáo của một vụ án."
+    },
+    "doi:10.1007/s11657-026-01801-x": {
+      "en": "Socioeconomic inequality in osteoporosis among Iranian older adults: Bushehr Elderly Health (BEH) Program.",
+      "vi": "Vì vậy, sự bất bình đẳng kinh tế xã hội trong thoái hóa loãng xương giữa những người lớn tuổi hơn ở Iran: Bushhr Elderly Health (BEH)."
+    },
+    "doi:10.1007/s00264-026-07072-y": {
+      "en": "Short-term outcomes and survivorship following open humeroscapular interface smoothing for massive irreparable rotator cuff tears with retained active elevation.",
+      "vi": "Kết quả ngắn hạn và sự tồn tại của con người theo sau giao diện mở humeroscapular làm mịn cho những cái nút quay khổng lồ với độ cao tích cực."
+    },
+    "doi:10.1177/19386400261501388": {
+      "en": "Infection Following Achilles Tendon Repair: A Systematic Review of Pathogens and Risk Factors.",
+      "vi": "Nhiễm trùng theo sau việc sửa chữa Achilles Tendon: Một cuộc kiểm tra hệ thống về những yếu tố gây bệnh và rủi ro."
+    },
+    "doi:10.1177/19386400261504759": {
+      "en": "Impact of Patient-Reported Allergies on Clinical Outcomes Following Surgical Treatment of Insertional Achilles Tendinopathy.",
+      "vi": "Tác động của bệnh nhân-Apergies trên bệnh viện Outs sau khi phẫu thuật phẫu thuật cơ thể của bệnh Achilles Tendinic."
+    },
+    "doi:10.1016/j.jbspin.2026.106167": {
+      "en": "Genicular Artery Embolization for Knee Osteoarthritis: A Practical Guide and Future Directions on behalf of French Society of Rheumatology, Musculoskeletal Imaging Society, French Hip and Knee Society, French Society for Orthopaedic and Trauma Surgery, French Society of Physical and Rehabilitation Medicine, and of French Society of Radiology.",
+      "vi": "Nghệ thuật hóa học về viêm màng não: Hướng dẫn thực tiễn và tương lai thay mặt cho Hội Rheumatology của Pháp, Musculoskeleleal Society, French Hip and knee Society for Orthopdadic and Disagement, French Society of bodys and Rehabitation Medicine, Pháp and of French Society of Radiology Society."
+    },
+    "doi:10.1177/21925682261511573": {
+      "en": "From the Inpatient Unit to the Same-Day Discharge Suite: A Historical Narrative of Outpatient Spine Surgery in the United States.",
+      "vi": "Từ đơn vị bệnh nhân đến phòng giải phẫu tương tự: một phòng phẫu thuật ngoại trú ở Hoa Kỳ."
+    },
+    "PMC:PMC13789005": {
+      "en": "From the Inpatient Unit to the Same-Day Discharge Suite: A Historical Narrative of Outpatient Spine Surgery in the United States",
+      "vi": "Từ đơn vị bệnh nhân đến phòng giải phẫu tương tự ngày: một cuộc giải phẫu ngoại trú ở Hoa Kỳ"
+    },
+    "PMC:PMC13789008": {
+      "en": "Arthrogram findings of displaced annular ligament in paediatric Monteggia injuries: Introducing the “Rose Thorn” sign of the elbow",
+      "vi": "Những phát hiện về việc cắt bỏ dây chằng di chuyển trong vết thương ở ống tiểu Montegsia: Tôi xin giới thiệu “dấu hiệu của khuỷu tay bằng cây bụi gai gai"
+    },
+    "doi:10.1177/18632521261509834": {
+      "en": "Arthrogram findings of displaced annular ligament in paediatric Monteggia injuries: Introducing the \"Rose Thorn\" sign of the elbow.",
+      "vi": "Các phát hiện về việc cắt bỏ dây chằng di chuyển trong thương tổn Montegsia: tôi xin giới thiệu dấu hiệu \"Rose Thorn\" của khuỷu tay."
+    },
+    "doi:10.1016/j.jsurg.2026.104262": {
+      "en": "A Standardized Occupational Therapy-Based Upper Extremity Assessment for Surgical Residency Onboarding.",
+      "vi": "Một loại thuốc trị liệu ở tầng trên được tiêu chuẩn hóa cho việc điều trị sức khỏe."
+    },
+    "doi:10.1002/atn2.70388": {
+      "en": "Three-Dimensional Printing-Assisted All-Arthroscopic Bone Block Procedure for Atypical Large Glenoid Bone Loss.",
+      "vi": "Phòng in 3-Dimensional-đã hỗ trợ tất cả các nghệ thuật nội soi khu công trình xây dựng cho một vụ án lớn ở Glenoid bone Loss theo nghĩa tượng trưng."
+    },
+    "doi:10.1177/18632521261511431": {
+      "en": "Risk factors for growth disturbance in children with surgically treated distal femoral epiphyseal fractures.",
+      "vi": "Những yếu tố nguy hiểm gây rối loạn tăng trưởng ở trẻ em với phẫu thuật phẫu thuật cắt xương đùi."
+    },
+    "doi:10.1002/atn2.70400": {
+      "en": "Open Repair of Patellar Osteochondral Fracture With Absorbable Sutures.",
+      "vi": "Sự sửa chữa mở rộng của Patellar Osteondral Fraution With Absorbible Sutures."
+    },
+    "doi:10.1002/atn2.70357": {
+      "en": "Knotless Hip Labral Repair With Tensioning Set Up by Intentional Slack.",
+      "vi": "Knotless hip Labral sửa chữa với sự căng thẳng được thiết lập bởi Intal Slack."
+    },
+    "doi:10.1002/atn2.70352": {
+      "en": "Autologous Bone Plug Harvest and Reimplantation for Tibial Tunnel Management in Anterior Cruciate Ligament Reconstruction.",
+      "vi": "Thu hoạch xương tự động và tái trồng lại hệ thống quản lý đường hầm Tibial trong quá trình tái xây dựng tòa nhà trước."
+    },
+    "doi:10.1002/atn2.70310": {
+      "en": "All-Arthroscopic Staged Matrix-Induced Autologous Chondrocyte Implantation for Osteochondral Lesions of the Talus.",
+      "vi": "Tất cả các nghệ thuật nội soi Giai đoạn Ma Trận - được cấp phép tự động Chondrious Chondrctic Impementation for Osteolonral Lesions of the công ty."
+    },
+    "doi:10.1016/j.injury.2026.113919": {
+      "en": "Traumaplasty for acetabular fractures: Factors associated with additional fracture fixation.",
+      "vi": "Vết thương ở xương gãy: yếu tố liên quan đến sự cố định gãy thêm."
+    },
+    "doi:10.1016/j.jbiomech.2026.113692": {
+      "en": "The effect of prosthetic alignment and multiplanar deformation of a single prosthetic foot on musculoskeletal model predictions in unilateral transtibial prosthesis users.",
+      "vi": "Tác động của sự thẳng hàng và biến dạng đa kế hoạch của một chân giả duy nhất trên mô hình musculoskeleal dự đoán trong những người sử dụng hệ thống nội bộ đơn phương."
+    },
+    "doi:10.1016/j.jbiomech.2026.113695": {
+      "en": "Modeling intersegmental mechanics to reproduce physiologic coordination patterns of multi-joint finger movements.",
+      "vi": "Thiết kế cơ chế liên kết để tạo ra các mô hình phối hợp vật lý cho các chuyển động của ngón tay."
+    },
+    "doi:10.1016/j.jot.2026.101230": {
+      "en": "Targeting bone and cartilage: A practical guideline for tissue- and cell-specific delivery tools in preclinical studies.",
+      "vi": "Mục tiêu là xương và mô: một hướng dẫn thực tiễn cho các mô- và các dụng cụ phân phối tế bào cụ thể trong các nghiên cứu tiền liệt."
+    },
+    "doi:10.1016/j.jot.2026.101267": {
+      "en": "TLR3-primed ADSC exosomes reverse osteoarthritis through PSMD14-mediated K63-linked deubiquitination of fibrillarin.",
+      "vi": "TLR3-prited ADSC Exoarthrtis thông qua PSMD14-D K63-linkiquitinted fibrillarin."
+    },
+    "doi:10.1016/j.injury.2026.113905": {
+      "en": "Additional FiberTape-Cerclage® augmentation or \"Bumper-plate\" osteosynthesis for symphyseal arthrodesis - A biomechanical study.",
+      "vi": "Phần còn lại của Fibertape-Cerclage tăng cường hoặc \"Bumper-plate\" osteothesis cho sumphysecraesis - Một nghiên cứu sinh học."
+    },
+    "doi:10.1016/j.injury.2026.113883": {
+      "en": "History of operative pelvic ring fixation is associated with increased risk of cesarean delivery: A matched retrospective cohort study.",
+      "vi": "Lịch sử của việc sửa chữa vòng xương chậu được liên kết với nguy cơ giao hàng cao hơn: một cuộc nghiên cứu đồng thời về sự hồi tưởng của quân đội."
+    },
+    "doi:10.1177/1759720x261505623": {
+      "en": "Sustained target attainment in psoriatic arthritis: Predictors and barriers in a Chinese longitudinal cohort.",
+      "vi": "Tiếp tục đạt được mục tiêu trong chứng viêm khớp pseritic: những người dự đoán và rào cản trong một đội quân lâu đời Trung Quốc."
+    },
+    "doi:10.1177/1759720x261505630": {
+      "en": "JAK inhibition in Schnitzler syndrome: A case report of successful treatment with upadacitinib and literature review.",
+      "vi": "JAK kiềm chế sự ức chế trong hội chứng Schnitzler: Một báo cáo về việc điều trị thành công với việc xem xét sự gia tăng và ấn phẩm."
     }
   }
 }
