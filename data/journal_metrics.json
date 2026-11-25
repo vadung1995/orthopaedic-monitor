@@ -1,6 +1,6 @@
 {
   "notes": "Verified-only overlay. No approximated IF; SJR quartiles are not Scopus CiteScore quartiles.",
-  "checked_at_utc": "2026-11-24T05:31:25+00:00",
+  "checked_at_utc": "2026-11-25T05:33:08+00:00",
   "latest_expected_jif_year": 2025,
   "latest_expected_sjr_year": 2025,
   "checks": {
