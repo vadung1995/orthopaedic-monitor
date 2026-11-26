@@ -1,5 +1,91 @@
 [
   {
+    "id": "doi:10.1007/s00296-026-06354-3",
+    "title": "Reversible joint crepitus in immune checkpoint inhibitor-induced inflammatory arthritis: a prospective single-center observational study.",
+    "journal": "Rheumatology International",
+    "journal_list": "B",
+    "authors": "Iliopoulos G, Sideridou F, Argyriadi R, Kraniotis P, Dimitrakopoulos FI, Koutras A, Daoussis D.",
+    "published_date": "2026-11-25",
+    "doi": "10.1007/s00296-026-06354-3",
+    "pmid": "43079107",
+    "url": "https://doi.org/10.1007/s00296-026-06354-3",
+    "abstract": "Immune checkpoint inhibitors (ICIs) have transformed cancer care but frequently induce immune-related adverse events (irAEs), including musculoskeletal irAEs (MSK-irAEs). Although inflammatory arthritis and polymyalgia rheumatica (PMR)-like syndromes are well recognized, distinct physical examination findings differentiating ICI-induced disease from idiopathic rheumatic conditions remain poorly characterized. We conducted a prospective observational study of 49 ICI-treated patients referred for musculoskeletal symptoms between 2018 and 2024. All patients underwent systematic joint examination using a predefined protocol assessing tenderness, swelling, and crepitus. Laboratory and imaging evaluations were performed when clinically indicated. Forty-nine patients were evaluated. Inflammatory arthritis developed in 32 patients (65.3%), PMR-like syndrome in 7 (14.3%), myositis in 3 (6.1%), and non-specific musculoskeletal symptoms in 7 (14.3%). Median time from ICI initiation to symptom onset was 6 months (range 0-38). Joint crepitus was identified in 3 patients (6.1%), all with active inflammatory arthritis involving predominantly the wrists. MRI demonstrated synovitis in two patients and additional myofasciitis and tenosynovitis in one, without evidence of degenerative joint disease. Crepitus resolved completely following anti-inflammatory treatment. Crepitus may represent a novel, reversible physical examination finding in ICI-induced inflammatory arthritis. Its presence in joints not typically affected by osteoarthritis suggests an inflammation-driven mechanism. Careful physical examination may improve recognition of MSK-irAEs.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s11701-026-04219-2",
+    "title": "Clinical outcomes of posterior-stabilized versus cruciate-retaining ANTHEM total knee arthroplasty using imageless robotic-assisted personalized alignment: a retrospective comparative cohort study.",
+    "journal": "Journal of Robotic Surgery",
+    "journal_list": "B",
+    "authors": "Albelooshi A, Babikir E, Khan ZA, Elgouhary ARB, Al Thani S.",
+    "published_date": "2026-11-25",
+    "doi": "10.1007/s11701-026-04219-2",
+    "pmid": "43079134",
+    "url": "https://doi.org/10.1007/s11701-026-04219-2",
+    "abstract": "Posterior-stabilized (PS) and cruciate-retaining (CR) total knee arthroplasty (TKA) show no consistent clinical superiority. This study compared 2-year patient-reported outcomes, responder rates, complications, and revisions between PS and CR ANTHEM TKA using imageless robotic-assisted personalized alignment. This retrospective cohort included 858 primary ANTHEM TKAs (167 CR and 691 PS). All procedures used CORI robotic-assisted personalized alignment. Outcomes included the Knee injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR), visual analog scale (VAS) pain, satisfaction, and general health scores. Entropy-balanced inverse probability weighting adjusted for baseline differences. Responder rates and time to patient acceptable symptom state (PASS) were evaluated. After weighting, measured covariates were balanced and KOOS-JR improved substantially in both groups and did not differ at any postoperative time point. At 1 year, adjusted KOOS-JR scores were 84.1 for CR and 84.7 for PS (difference, - 0.61; 95% CI, - 2.80 to 1.58; p = .58); at 2 years, scores were 86.4 and 86.7, respectively (difference, - 0.38; 95% CI, - 2.31 to 1.55; p = .70). VAS pain, general health, satisfaction, and responder rates were also similar after multiplicity correction. CR patients achieved PASS earlier, but both groups exceeded 99% by 2 years. Complications occurred in 2 CR cases (1.2%) and 7 PS cases (1.0%); revisions occurred in 0 and 6 cases (0.9%), respectively. Using imageless robotic-assisted personalized alignment, CR and PS ANTHEM TKA produced substantial and comparable improvements in pain and patient-reported outcomes. CR was associated with earlier PASS achievement, but final outcomes and short-term complication and revision rates did not differ significantly.",
+    "open_access": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00264-026-07069-7",
+    "title": "Ultrasound-guided precise acupotomy for chronic plantar fasciitis: a single-centre randomised controlled trial focused on long-term effect and recurrence rate.",
+    "journal": "International Orthopaedics",
+    "journal_list": "A",
+    "authors": "Ye X, Li K, Zhou Y, Zhao Z, Zheng W, Pan W, Chen T.",
+    "published_date": "2026-11-24",
+    "doi": "10.1007/s00264-026-07069-7",
+    "pmid": "43076910",
+    "url": "https://doi.org/10.1007/s00264-026-07069-7",
+    "abstract": "Purpose This study aimed to assess pain reduction, foot functional recovery, clinical efficacy, and recurrence rate following ultrasound-guided acupotomy in patients with plantar fasciitis. Methods Patients diagnosed with plantar fasciitis at the Department of Orthopaedics in our hospital between January 2023 and December 2025 were enrolled. Eligible participants were randomly assigned to either an experimental group (n = 48) or a control group (n = 47). Both groups received once weekly treatment for two consecutive weeks. The Visual Analogue Scale (VAS) score, American Orthopaedic Foot & Ankle Society (AOFAS) score, and plantar fascia thickness were assessed at baseline, as well as at one week, three months, and six months post-treatment. Clinical efficacy, recurrence rate, and safety outcomes were compared between the two groups. Results At one week, three months, and six months post-treatment, both groups showed significantly lower VAS scores and plantar fascia thickness and significantly higher AOFAS scores than at baseline (P Conclusions Both acupotomy techniques are effective for plantar fasciitis (PF). However, ultrasound-guided acupotomy provides superior long-term pain relief, functional improvement, a higher recovery rate, greater safety, a lower recurrence rate.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1371/journal.pone.0363427",
+    "title": "Topical vancomycin powder and surgical site infection in cranial and spinal surgery: A prospective cohort study from Pakistan.",
+    "journal": "PLOS ONE",
+    "journal_list": "A",
+    "authors": "Ullah I, Shah SS, Khan MN, Shafique S, Junaid M, Khan MS.",
+    "published_date": "2026-11-24",
+    "doi": "10.1371/journal.pone.0363427",
+    "pmid": "43077464",
+    "url": "https://doi.org/10.1371/journal.pone.0363427",
+    "abstract": "Background Surgical site infection is a major complication of neurosurgery, and its incidence is higher in low- and middle-income countries. Topical vancomycin powder has shown potential for preventing surgical site infection in high-income settings, but evidence from low- and middle-income countries is limited. This study assessed the association between the use of topical vancomycin powder and postoperative surgical site infection. Methods This prospective cohort study included 600 adult patients who underwent elective cranial or spinal neurosurgery at Lady Reading Hospital, Peshawar, Pakistan, between January 2021 and December 2024. Patients received topical vancomycin powder (1 g applied to the wound bed or subgaleal space before closure; n = 310) or standard care (n = 290). Surgical site infection was defined according to Centers for Disease Control and Prevention criteria. Multivariable logistic regression was performed to adjust for potential confounders, and adjustment for year of surgery and propensity score weighting were performed as sensitivity analyses. Results Baseline clinical characteristics were similar between groups, whereas the use of topical vancomycin increased over the study period. Surgical site infection occurred in 1.6% (5/310) of the vancomycin group and 6.6% (19/290) of controls (p = 0.003). The reduction was statistically significant in cranial procedures (1.6% vs 7.6%, p = 0.009) but not in spinal procedures (1.6% vs 5.0%, p = 0.165). Topical vancomycin was independently associated with a lower risk of surgical site infection (adjusted odds ratio 0.23, 95% confidence interval 0.08 to 0.63, p = 0.004), and the association persisted in all sensitivity analyses. No vancomycin-related adverse events or systemic toxicity were recorded. Conclusion Topical vancomycin powder was associated with a lower observed rate of surgical site infection after cranial and spinal neurosurgery in this single-center cohort from Pakistan, with no recorded toxicity. Because treatment allocation was not randomized, these findings do not establish efficacy, and randomized controlled trials are needed.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1302/2046-3758.1511.bjr-2025-0645.r1",
     "title": "Targeting Bcl6/Mstn/cFos axis via strength training to treat muscle weakness-induced bone loss in mice.",
     "journal": "Bone & Joint Research",
@@ -10,11 +96,34 @@
     "pmid": "43076411",
     "url": "https://doi.org/10.1302/2046-3758.1511.bjr-2025-0645.r1",
     "abstract": "Aims This study aimed to investigate the molecular mechanisms linking muscle weakness to bone loss, and to elucidate the role of the B-cell lymphoma 6 (Bcl6)/myostatin (Mstn)/cFos axis in mediating muscle-bone crosstalk under reduced mechanical loading. We further examined whether targeting this pathway with follistatin attenuates muscle weakness-induced bone loss in mice. Methods To investigate the association between reduced muscle strength and bone loss, and to identify key molecular targets mediating muscle-bone crosstalk, we established both in vivo and in vitro models. In vivo, a localized muscle weakness model was induced in male C57BL/6J mice by injecting botulinum toxin type A (BTX-A) into the quadriceps. In vitro, a myoblast-osteoclast co-culture system was established using a conditioned medium from mouse C2C12 myoblasts, which was subjected to different cyclic tensile strain regimens to culture receptor activator of nuclear factor-κB ligand (RANKL)-induced mouse RAW264.7 cells. Results Mechanistically, mechanical unloading downregulated Bcl6 expression in myocytes (mean 0.35 fold (SD 0.02) vs control; p Conclusion This work identifies the Bcl6-Mstn axis as a critical endocrine regulatory pathway in muscle-bone crosstalk in mice, proposing a dual-targeted therapeutic strategy to achieve integrated 'muscle-bone co-treatment' for musculoskeletal disorders.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.knee.2026.104684",
+    "title": "Short-term outcomes of single-stage, minced cartilage implantation (MCI) procedures in the knee: a systematic review and meta-analysis.",
+    "journal": "The Knee",
+    "journal_list": "A",
+    "authors": "Prakash R, Choudri M, Sidhu M, Ashraf T, Hussain F, Akhtar K, De Sa D, D'Alessandro P, Alanie O, Malik SS.",
+    "published_date": "2026-11-24",
+    "doi": "10.1016/j.knee.2026.104684",
+    "pmid": "43077913",
+    "url": "https://doi.org/10.1016/j.knee.2026.104684",
+    "abstract": "Background Autologous chondrocyte implantation and osteochondral allografts remain gold standards for chondral knee defects. Single-stage cell-based techniques are becoming increasingly popular as they offer lower-cost, point-of-care options and reduced reliance on limited donor tissue. This systematic review (SR) aims to evaluate short-term clinical and radiological outcomes from minced cartilage procedures (MCI) in the knee. Methods The SR was registered with PROSPERO and performed using PubMed, Cochrane Library, and Google Scholar following PRISMA guidelines. Eligible studies investigated single-stage mechanically-processed autologous cartilage for knee chondral lesions. Meta-analysis was performed with 95% confidence intervals. Results Eleven studies met inclusion, including one randomised trial, two prospective, eight retrospective, and four comparative studies. MINORS scores ranged from 11 to 17. A total of 382 patients (64% male) were included, with mean follow-up 26 months (13.7-65). Lesion sizes ranged from 0.24 to >6 cm 2 . Three studies reported superior KOOS and IKDC scores in MCI compared with MACI, AMIC, and microfracture, though one study favoured AMIC. Six studies reported KOOS subscores, with greatest mean improvement in sports and recreation (41.9). Mean improvement in IKDC was 41.1. Seven studies reported radiological outcomes; MOCART scores ranged from 40.6 to 76. Conclusion Single-stage minced cartilage implantation is associated with promising short-term clinical and radiological outcomes in the knee. However, the current evidence base remains limited by low study quality, marked technical heterogeneity, frequent concomitant procedures, and short follow-up. Higher-quality prospective comparative studies with standardised techniques and longer-term follow-up are needed before effectiveness relative to established cartilage-restoration procedures can be determined.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
     "categories": [
       "Other / Unclassified"
     ],
@@ -31,8 +140,9 @@
     "pmid": "43076404",
     "url": "https://doi.org/10.1302/2046-3758.1511.bjr-2025-0666.r2",
     "abstract": "Aims Periprosthetic joint infection (PJI) remains a devastating complication following joint arthroplasty surgery, associated with substantial morbidity and mortality. Animal models play a critical role in advancing understanding of PJI and in evaluating therapeutic interventions. However, large-animal models that reproducibly capture cancellous bone infection relevant to hip and knee arthroplasty remain limited. This study evaluated a novel large-animal infection model in sheep. Methods A skeletally mature sheep model was developed to investigate peri-implant bone pathology following Staphylococcus aureus infection. Titanium implants were inoculated with a low bacterial dose and surgically placed in cancellous bone. Animals were euthanized at seven and 21 days post-implantation. Histological, microbiological, and micro-CT (µCT) analyses were performed to assess inflammatory response, implant-associated bacterial colonization, and cancellous bone microarchitecture. Results The model reproducibly established localized implant-associated infection without evidence of systemic bacterial dissemination. Histological analysis demonstrated increased neutrophil infiltration and fibroplasia at infected sites, most pronounced at 21 days post-implantation. Microbiological analysis demonstrated that persistent implant-associated S. aureus recovered following sonication. µCT analysis identified cancellous bone loss at infected femora at 21 days, with reductions in bone volume fraction and mean bone apparent density, consistent with early infection-associated bone remodelling. Conclusion This sheep model captures key features of early implant-associated infection relevant to PJI, including localized bacterial colonization and cancellous bone degradation, and provides a translationally relevant platform for investigating potential therapeutic interventions. The findings characterize early infection-associated bone changes and trabecular adaptation, supporting the utility of this model for evaluating diagnostic approaches and therapeutic strategies relevant to PJI.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -52,6 +162,69 @@
     "pmid": "43073385",
     "url": "https://doi.org/10.1007/s00256-026-05441-7",
     "abstract": "Objectives Effective application of artificial intelligence (AI) in musculoskeletal (MSK) radiology depends on targeting unmet clinical needs rather than technical feasibility. This Society of Skeletal Radiology (SSR) position statement identifies and prioritizes the most impactful AI applications and value propositions for MSK radiologists. Methods The SSR AI Committee (n = 18) used structured brainstorming to compile lists of AI-based applications and value propositions. After deduplication, standardization, and categorization using a 12-component MSK radiology value cycle, refined lists were distributed as electronic surveys to 122 SSR committee members; 103 (84.4%) and 102 (83.6%) completed the applications and value propositions surveys, respectively, scoring each item on a 5-point Likert scale. Top 10 lists were generated from summed scores. Results Brainstorming generated 208 AI application and 126 value proposition ideas, condensed to 138 and 56 unique items, respectively. Fourteen AI applications and 13 value propositions shared the top 10 ranks (tied scores). Top-ranked AI applications were within dictation and reporting (5 items), archiving and presentation (2), diagnostic imaging (1), follow-up imaging (2), quality/safety (2), and protocoling (2). Top-ranked value propositions were within dictation and reporting (4), diagnostic imaging (3), ordering (3), protocoling (2), and quality/safety (1). The highest-ranked application was AI-assisted comparison study retrieval (mean 3.17/4.0) and the highest-ranked value proposition was increased reporting efficiency (mean 3.30/4.0). Conclusions This position statement provides a demand-driven roadmap for AI development in MSK radiology. Workflow and reporting tools were prioritized over disease detection algorithms, highlighting a gap between clinical needs and current commercial AI offerings.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00264-026-07075-9",
+    "title": "Periprosthetic femoral fracture risk varies across cemented femoral stem designs: a nationwide Swiss joint registry study.",
+    "journal": "International Orthopaedics",
+    "journal_list": "A",
+    "authors": "Bozonelou I, Brand C, Horn Lang T, Mauch M, Stoffel KK.",
+    "published_date": "2026-11-24",
+    "doi": "10.1007/s00264-026-07075-9",
+    "pmid": "43076911",
+    "url": "https://doi.org/10.1007/s00264-026-07075-9",
+    "abstract": "Purpose Cemented fixation is associated with lower periprosthetic femoral fracture (PPFx) risk than uncemented fixation; however, risk variations between cemented stem fixation philosophies remain unclear. Using data from the Swiss National Joint Registry (SIRIS), this nationwide study compared PPFx risk among different cemented femoral stem designs used in primary hip arthroplasty. Methods A total of 290,639 primary arthroplasties performed between 2012 and 2025 were identified in SIRIS. Cemented stems were classified into Type 1 traditional (Type 1t) taper-slip with a distal centralizer, Type 1 fit-and-fill (Type 1ff), or Type 2 composite beam designs. Multivariable Cox regression models assessed associations between stem design and PPFx risk, stratified by indication (osteoarthritis versus fracture) and adjusted for age and sex. Results Among 290,639 primary arthroplasties, 2149 (0.74%) were revised for PPFx. Cemented fixation was associated with a lower risk than uncemented fixation in both osteoarthritis (hazard ratio (HR) 0.30-0.70) and fracture patients (HR 0.26-0.74). In THA for osteoarthritis, Type 2 composite beams stems showed the lowest fracture risk and remained superior to Type 1ff stems after multivariable adjustment (HR 0.63, 95% CI 0.41-0.97). Type 1t stems were associated with a lower risk in primary analysis but not after additional adjustment. In fracture patients, no significant differences were observed between cemented stem designs. Male sex (HR 1.62-1.67) and age ≥ 80 years (HR 1.67, 95% CI 1.20-2.32) were associated with a higher risk. Type 2 performed best in osteoarthritis, while no differences were observed in fracture patients. Conclusion Cemented fixation was associated with a lower PPFx risk, but not uniformly across designs. In osteoarthritis, Type 2 composite-beam stems showed the most robust risk reduction compared with Type 1ff fit-and-fill stems, despite Type 1ff being the most used design in Switzerland. In fracture patients, no cemented design was superior.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jsurg.2026.104263",
+    "title": "MSK-CSA: Validation of a Case-Based Assessment of Musculoskeletal Clinical Skills for Medical Students.",
+    "journal": "Journal of Surgical Education",
+    "journal_list": "B",
+    "authors": "Orchard T, Hryniuk A, Scribbans T, Mann S, Cameron B, Hooper D, Sawa G, Salter J, Miller N, Jelic T, Katz M, Peeler J.",
+    "published_date": "2026-11-24",
+    "doi": "10.1016/j.jsurg.2026.104263",
+    "pmid": "43077833",
+    "url": "https://doi.org/10.1016/j.jsurg.2026.104263",
+    "abstract": "Objective While objective structured clinical examinations are used to assess applied levels of clinical competence, no standardized tools evaluate foundational musculoskeletal (MSK) clinical skills (CS) knowledge or knowledge application. This project aimed to design and establish content validity of a new case-based MSK CS knowledge examination for the shoulder, knee, and thoracolumbar spine. Design A modified-Delphi process was used to validate a novel case-based MSK knowledge examination. Questions were developed using a new MSK competency framework aligned with preclerkship objectives at a nationally-accredited medical program. An item-level analyses was conducted to assess the discriminatory ability of examination items. Setting A nationally-accredited medical program in Canada. Participants An interdisciplinary panel comprised of MSK specialists and primary care providers evaluated each question using a standardized rubric (4-point Likert scale). Point-biserial correlation coefficients were calculated based on student performance data collected during a pilot administration of the MSK-CSA with a subset of second year preclerkship medical students (n = 45). Results We created a standardized and validated MSK CS knowledge examination that consisted of 81 case-based multiple-choice questions evaluating the \"knows\" and \"knows how\" competencies across the regions. Each regional examination was organized into 6 clinical cases addressing common MSK overuse and traumatic injuries. Conclusion This modified-Delphi process produced a standardized and validated case-based examinations assessing foundational MSK CS knowledge. As far as we are aware, this is the first tool to evaluate foundational levels of Miller's pyramid. It may also be applied to evaluate MSK curricula from other nationally-accredited medical programs.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00402-026-06565-0",
+    "title": "Long-term revision-free survival after unaugmented modified Broström-Gould repair for chronic lateral ankle instability: a single tertiary-centre series of 110 ankles.",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "journal_list": "A",
+    "authors": "Shetty CB, Wales K, Shah K.",
+    "published_date": "2026-11-24",
+    "doi": "10.1007/s00402-026-06565-0",
+    "pmid": "43079127",
+    "url": "https://doi.org/10.1007/s00402-026-06565-0",
+    "abstract": "Introduction Chronic lateral ankle instability failing non-operative treatment is commonly managed with the modified Broström-Gould repair. Whether the unaugmented repair remains durable long-term is unclear, as most published evidence is short- to mid-term. We report long-term survivorship of a consecutive series. Materials and methods We retrospectively reviewed consecutive modified Broström-Gould procedures without augmentation for chronic lateral ankle instability at a tertiary centre (May 2013-January 2025). The primary endpoint was revision for recurrent lateral instability; the secondary endpoint was any further ipsilateral ankle surgery. Survivorship was estimated by the Kaplan-Meier method with complementary log-log 95% confidence intervals (CI). Results 110 ankles were included (mean age 37.3 years; 52 [47%] with a concomitant procedure). Median follow-up was 7.4 years (maximum 13.2). Three ankles underwent revision for recurrent lateral instability, none beyond 3.3 years. Instability-free survival was 97.0% (95% CI 90.9-99.0) at 5 years and unchanged at 10 years, although only 13 ankles remained at risk at 10 years. Freedom from further ankle surgery was 88.5% (95% CI 80.6-93.3) at 5 years and 81.8% (95% CI 70.1-89.3) at 10 years, later procedures being predominantly for degenerative or adjacent-joint pathology. Of 74 telephone responders (67%), 73% were satisfied or very satisfied, although 36% reported occasional subjective give-way. Mean FAAM scores were 72.2% (ADL) and 59.0% (Sports) in the 59 ankles for which they were available. Conclusions Revision for recurrent instability after the unaugmented modified Broström-Gould repair was uncommon and confined to the first 3.3 years; estimates beyond this rest on few ankles at risk and should be interpreted cautiously. Most subsequent surgery reflected degenerative or adjacent-joint disease rather than repair failure. Freedom from reoperation does not equate to functional success, and these data do not establish whether augmentation confers additional benefit.",
     "open_access": false,
     "publication_types": [
       "Journal Article"
@@ -84,6 +257,92 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1007/s00402-026-06563-2",
+    "title": "Implant survival and the impact of inflammatory arthritis on revision risk following primary total knee arthroplasty: an 11-year single-center analysis.",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "journal_list": "A",
+    "authors": "Okur KT, Varış O, Abdioğlu AA, Altun İ, Güvercin Y, Peker G.",
+    "published_date": "2026-11-24",
+    "doi": "10.1007/s00402-026-06563-2",
+    "pmid": "43079008",
+    "url": "https://doi.org/10.1007/s00402-026-06563-2",
+    "abstract": "Purpose To estimate implant survival following primary total knee arthroplasty (TKA) over an 11-year period at a tertiary referral centre in the eastern Black Sea region of Türkiye, and to identify independent risk factors for revision, with particular attention to inflammatory arthritis (IA). Methods In this retrospective cohort study, 3,364 patients who underwent primary TKA between 2015 and 2025 were identified from institutional records. The primary outcome was all-cause revision. Implant survival was estimated using the Kaplan-Meier method and compared between groups with the log-rank test. Deaths (n = 83) were treated as competing events; cumulative incidence functions were estimated with the Aalen-Johansen estimator, and multivariable cause-specific Cox and Fine-Gray subdistribution hazard models were fitted using four prespecified covariates (age, sex, IA, and diabetes mellitus). Firth penalized-likelihood regression was used as a sensitivity analysis. Results The median follow-up was 3.8 years, and 44 patients (1.31%) underwent revision. Kaplan-Meier institutional revision-free survival was 99.7%, 98.4%, and 97.6% at 1, 5, and 10 years, respectively. Patients with IA had significantly lower survival than those with osteoarthritis (10-year survival 91.7% vs. 97.7%; log-rank p = 0.012). IA was associated with an increased risk of revision in the cause-specific Cox model (hazard ratio 3.25, 95% CI 1.16-9.10; p = 0.025), with concordant estimates from the Fine-Gray and Firth models; this association, however, rested on four events and was statistically fragile (fragility index 1). On chart review, revisions in the IA group were predominantly attributable to aseptic loosening (three of four). Age, sex, and diabetes mellitus were not independently associated with revision. Conclusion Over an 11-year calendar period with a median individual follow-up of 3.8 years, institutional revision-free survival was high (97.6% at 10 years). Inflammatory arthritis was associated with a higher revision risk, driven predominantly by aseptic loosening; given the small number of events, this should be regarded as a hypothesis-generating signal. Preoperative rheumatological optimisation may represent a modifiable pathway warranting prospective study. Level of evidence III (retrospective prognostic cohort study).",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1016/j.jse.2026.11.050",
+    "title": "Early- to Mid-Term Revision Risk Following Anatomic vs. Reverse Total Shoulder Arthroplasty for Primary Osteoarthritis: A Propensity-Matched Analysis of 13,124 Patients.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Johri M, Yazdanpanah S, Bouzid NM, Reiter CR, Mun J, Satalich JR.",
+    "published_date": "2026-11-24",
+    "doi": "10.1016/j.jse.2026.11.050",
+    "pmid": "43078259",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.050",
+    "abstract": "Background Registry studies report mixed findings on revision risk differences between reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) in patients with primary osteoarthritis (OA). This study compared revision risk over early- to mid-term follow-up between aTSA and rTSA in US patients with primary OA. Methods A retrospective cohort study was conducted using the multicenter TriNetX US Collaborative Network database. ICD-10 coding identified patients undergoing primary aTSA or rTSA for primary OA from October 2015-October 2026. Patients with prior hemiarthroplasty/surface replacement, rotator cuff tear, proximal humerus fracture, rheumatoid arthritis, avascular necrosis, prior revision arthroplasty, or the competing arthroplasty type were excluded. Cohorts were matched using 1:1 nearest-neighbor propensity scoring. Kaplan-Meier survival analysis and Cox proportional hazards models were used. Time-partitioned, broad-cohort, sex-stratified, age-stratified, and outcome-restricted analyses of both-component revisions were conducted. Results Propensity score matching yielded 6,562 matched patients per cohort. Median follow-up was 6.0 years (aTSA) and 4.0 years (rTSA). Revision occurred in 253 aTSA patients (3.9%) versus 251 rTSA (3.8%; HR 0.79, 95%CI 0.66-0.94, P=.008) with violation of proportional hazards (P Conclusion In this retrospective propensity score-matched analysis of patients in the US, the association between arthroplasty type and revision hazard varied over time. The lower revision hazard associated with aTSA during the first postoperative year was concentrated within the first 90 days, with no significant association detected during subsequent postoperative intervals. These findings differ from those of the most recent comparable study and highlight the importance of considering postoperative timing when evaluating revision risk by arthroplasty type. Better understanding of differential revision risk by arthroplasty type may help surgeons with decision-making and patient counseling at the time of primary arthroplasty. Level of evidence Level III, Retrospective Cohort Comparison Using Large Database, Treatment Study.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1186/s40798-026-01154-2",
+    "title": "Diagnostic Precision in Arthrogenic Muscle Inhibition.",
+    "journal": "Sports Medicine - Open",
+    "journal_list": "A",
+    "authors": "Sherman DA, Chiddarwar VV, Ingersoll CD, Glaviano NR, Norte GE.",
+    "published_date": "2026-11-24",
+    "doi": "10.1186/s40798-026-01154-2",
+    "pmid": "43077173",
+    "url": "https://doi.org/10.1186/s40798-026-01154-2",
+    "abstract": "Arthrogenic muscle inhibition refers to spinal reflex inhibition that reduces the motor neuron pool available for voluntary muscle activation, driven by altered joint afferent signaling. It is a well-defined neurophysiological condition. Recent literature has increasingly applied the term to a broad range of quadriceps dysfunction following knee injury without confirming the mechanisms that define it. Multiple distinct mechanisms can produce a similar presentation. For example, arthrogenic muscle inhibition, kinesiophobia, disuse, mechanical restriction, and reduced cortical drive each produce overlapping signs of muscle dysfunction, but require different treatments. Visual and clinical assessments can grade the severity of observable signs, but cannot reliably distinguish the underlying mechanism(s) responsible for them. When the label is applied without confirming the mechanism, treatment selection is uncertain. Whether an intervention works against arthrogenic muscle inhibition cannot be determined when the condition itself has never been confirmed. We propose a single standard: a mechanistic diagnosis requires mechanistic confirmation. Clinical tools that are validated against established neurophysiological measures can be adopted with confidence, and where they cannot be, descriptive terminology, such as voluntary activation failure, should be used instead to avoid attaching a mechanism that was never measured.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
+    "id": "doi:10.1007/s00402-026-06571-2",
+    "title": "Conservative management of piriformis syndrome: a systematic review of rehabilitation approaches and clinical outcomes.",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "journal_list": "A",
+    "authors": "Aali S, Rezazadeh F, Moradzadeh N, Grosz WR, Elden Å, Ardigò LP, Badicu G.",
+    "published_date": "2026-11-24",
+    "doi": "10.1007/s00402-026-06571-2",
+    "pmid": "43079113",
+    "url": "https://doi.org/10.1007/s00402-026-06571-2",
+    "abstract": "Aims To synthesize available evidence on the effectiveness of conservative rehabilitation strategies for piriformis syndrome, emphasizing pain reduction and functional improvement. Methods Conducted per PRISMA 2020 guidelines and registered in PROSPERO (CRD420251154880), this review searched PubMed/MEDLINE, Scopus, Web of Science and PEDro for studies published between January 2015 and 2026. Eligible designs included randomized controlled trials (RCTs), non-randomized studies and case reports on rehabilitation interventions. Risk of bias and methodological quality were assessed using Cochrane RoB2, ROBINS-I, and the Downs and Black checklist. Evidence certainty was evaluated via the GRADE framework in accordance with SWiM guidelines. Due to heterogeneity, data were synthesized narratively. Results Forty-two studies (1,971 participants) met the inclusion criteria. Multimodal rehabilitation programs generally yielded better outcomes than single-modality approaches. Manual therapies, specifically myofascial release and muscle energy techniques, were more effective than stretching alone for pain and functional recovery. Exercises emphasizing hip abductor and extensor strengthening were crucial for successful management. In refractory cases, adjuncts like extracorporeal shockwave therapy, ultrasound-guided dry needling, and botulinum toxin injections provided potential benefits for sustained pain reduction. However, overall evidence strength remained limited due to small, heterogeneous studies with high or unclear risk of bias. Conclusion Current evidence supports an active, multimodal rehabilitation approach for piriformis syndrome, prioritizing targeted manual therapy and strengthening exercises. While promising, the evidence base is limited by methodological shortcomings. High-quality, adequately powered RCTs with standardized protocols are required to establish definitive clinical recommendations.",
+    "open_access": false,
+    "publication_types": [
+      "Systematic Review",
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1097/corr.0000000000004181",
     "title": "Clinician-level Variation Drives Planned Utilization of Discretionary Musculoskeletal Specialty Care.",
     "journal": "Clinical Orthopaedics and Related Research",
@@ -105,6 +364,27 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.1016/j.jse.2026.11.046",
+    "title": "A Preliminary Study of MRI with Zero Echo Time Sequence for Combined Fracture and Rotator Cuff Assessment in Proximal Humerus Fractures.",
+    "journal": "Journal of Shoulder and Elbow Surgery",
+    "journal_list": "A",
+    "authors": "Kaymakoglu M, Kolac UC, Dalkıran B, Erdemir AG, Yildiz AE, Ayik G, Aydıngöz Ü, Huri G.",
+    "published_date": "2026-11-24",
+    "doi": "10.1016/j.jse.2026.11.046",
+    "pmid": "43078260",
+    "url": "https://doi.org/10.1016/j.jse.2026.11.046",
+    "abstract": "Background Proximal humerus fractures (PHF) are common in the elderly population, and accurate fracture characterization is essential for treatment planning. Computed tomography (CT) improves fracture visualization; however, radiation exposure and shortcomings in soft-tissue evaluation are its main disadvantages. Magnetic resonance imaging with ZTE sequence (ZTE MRI) enables CT-like imaging and enhances bone imaging while simultaneously allowing for the evaluation of soft tissues using standard sequences, all without radiation exposure. We hypothesized that ZTE MRI would demonstrate diagnostic performance comparable to CT in the classification of PHF, while also offering the added value of soft-tissue assessment. Methods This retrospective comparative study included patients with PHF who underwent shoulder MRI with a ZTE sequence within 21 days after CT. Two independent observers (orthopedic surgeon, radiologist) evaluated anonymized CT and ZTE MRI datasets in separate sessions for Neer fracture type, articular extensions, fracture dislocations and glenoid fractures with a two-week period between modalities. Standard MRI sequences were reviewed to identify concomitant rotator cuff and long head of biceps tendon injuries. Intra- and interobserver agreement was assessed using Cohen's kappa and intraclass correlation coefficients. Results Thirty-six patients met the inclusion criteria. ZTE MRI demonstrated very good agreement with CT for Neer classification (κ = 0.840, p Conclusion ZTE MRI provides fracture assessment comparable to CT, with similar intra- and interobserver reliability across major fracture components. Beyond matching CT performance in PHF characterization, ZTE MRI offers the significant advantages of radiation-free imaging and simultaneous assessment of full-thickness rotator cuff tears using conventional MRI sequences. These preliminary findings suggest that ZTE MRI may serve as a reliable alternative to CT in the initial evaluation of PHF, particularly when a comprehensive assessment of both bone and soft tissue is desired. Larger prospective studies are needed to validate the clinical impact of these observations.",
+    "open_access": false,
+    "publication_types": [
+      "Journal Article"
+    ],
+    "paper_type": "original",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1093/jscr/rjag1078",
     "title": "Transcutaneous extrusion of a migrated bipolar hip hemiarthroplasty 9 years after implantation: a case report.",
     "journal": "Journal of Surgical Case Reports",
@@ -115,10 +395,11 @@
     "pmid": "43075545",
     "url": "https://doi.org/10.1093/jscr/rjag1078",
     "abstract": "Transcutaneous extrusion of a hip prosthesis is an exceptionally rare complication. We report a 90-year-old woman with extrusion of a right bipolar hemiarthroplasty through the gluteal skin 9 years after implantation for a femoral neck fracture. Her postoperative course had been complicated by infection, wound problems, and intermittent fistula formation, followed by progressive pain, loss of ambulation, and an enlarging gluteal mass. Radiography demonstrated severe prosthetic migration and proximal femoral destruction. Computed tomography angiography was obtained to assess vascular risk before extraction. Despite external exposure, the prosthesis remained entrapped within soft tissues and required operative extraction and extensive debridement. Cultures were negative. No reimplantation was planned because of age, functional status, and local tissue destruction. At 1-month follow-up, the wound had healed without drainage or fistula, with reduced pain.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Journal Article",
-      "Case Reports"
+      "Case Reports",
+      "case-report"
     ],
     "paper_type": "case",
     "categories": [
@@ -137,8 +418,9 @@
     "pmid": "43070063",
     "url": "https://doi.org/10.1177/21925682261511497",
     "abstract": "Background ContextHip-spine syndrome involves concurrent hip and lumbar spine degeneration, often leading to overlapping symptoms that complicate management. The optimal surgical sequence between lumbar spine fusion (LSF) and total hip arthroplasty (THA) remains unclear.PurposeTo evaluate the existing literature comparing surgical sequencing strategies and determine whether THA or LSF should be performed first in patients with hip-spine syndrome.Study Design/SettingSystematic review and meta-analysis were conducted per PRISMA 2020 guidelines.MethodsPubMed, EMBASE, and Web of Science were searched to gather studies directly comparing the surgical sequencing of THA and LSF in patients with hip-spine syndrome who have undergone both procedures. Risk of bias was assessed using the ROBINS-I tool. Where appropriate, risk ratios were pooled using random-effects models with restricted maximum likelihood estimation and modified Hartung-Knapp confidence intervals.ResultsAfter screening 971 records, 19 studies were included. Five studies contributed to the principal dislocation synthesis, which showed no statistically significant association with surgical sequence (RR 0.91, 95% CI 0.48-1.72; P = .692; I 2 = 11.6%). Replacing Welling with Bala shifted the estimate towards higher risk after LSF-first sequencing (RR 2.21, 95% CI 0.98-5.00), but the confidence interval included no association. Several large cohorts outside the principal synthesis reported higher dislocation risk following spine-first surgery. Evidence for infection, loosening, revision and functional outcomes was limited by differences in populations, definitions and follow-up.ConclusionsThe evidence does not establish a preferred surgical sequence for THA and LSF. The periprosthetic fracture association derives from a single administrative cohort (Bala et al) and may reflect differences in bone quality, osteoporosis, frailty, or coding inaccuracies. Unequal post-THA observation periods in this cohort also limit interpretation of the fracture findings and dislocation sensitivity analysis. Heterogeneous fusion constructs, inconsistently reported sacral or pelvic involvement, and residual confounding further limit certainty. Surgical sequencing should remain individualized pending higher-quality evidence.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -180,10 +462,11 @@
     "pmid": "43075539",
     "url": "https://doi.org/10.1093/jscr/rjag1076",
     "abstract": "Knee osteoarthritis (OA) is a common cause of pain and reduced mobility, often leading patients to consider total knee replacement (TKR). Exercise is recommended as part of treatment; however, there is little guidance on the optimal type or duration of rehabilitation before surgery. As a result, some patients may be listed for TKR before receiving a structured trial of nonoperative care. We report the case of a 78-year-old woman with symptomatic knee OA placed on a National Health Service waiting list for TKR. While awaiting surgery, she undertook the Awareness, Resistance, Individualized, Stability, and Essential OrthoPrehab programme, a structured neuromuscular rehabilitation programme focusing on joint awareness, movement control, proprioception, and strengthening. After 3 months, she experienced improvements in pain, function, and confidence, reduced reliance on analgesics, and withdrew from the surgical waiting list. This case highlights the potential of structured rehabilitation to help some patients avoid surgery.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Journal Article",
-      "Case Reports"
+      "Case Reports",
+      "case-report"
     ],
     "paper_type": "case",
     "categories": [
@@ -202,8 +485,9 @@
     "pmid": "43071295",
     "url": "https://doi.org/10.1007/s11657-026-01807-5",
     "abstract": "With Egypt's aging population, the long-term costs of elderly hip fractures are soaring. Research shows that specialized prevention programs easily pay for themselves by stopping repeat fractures. Adopting this preventative care model will protect national healthcare budgets while keeping Egyptian seniors independent. Background As Egypt's population ages, osteoporotic hip fractures have become a primary driver of geriatric morbidity and healthcare expenditure. Despite the clinical success of surgical intervention, the long-term economic \"tail\" of these fractures-often extending far beyond the initial hospitalization-remains poorly quantified within the national healthcare framework. Objectives This systematic review explores the economic implications of hip fractures in Egypt, focusing on the 12-month \"continuum of care\" costs and evaluating the cost-effectiveness of Fracture Liaison Services (FLS) in reducing secondary fracture rates and systemic financial strain. Methods A health-economic analysis was conducted comparing the standard of care with an FLS-guided model. Data included direct surgical costs, perioperative complication expenses, and 12-month post-acute resource utilization (rehabilitation, readmissions, and pharmacotherapy). Results Analysis reveals that the surgical act constitutes only a fraction of the total economic burden. The 12-month continuum of care cost is significantly higher due to the \"revolving door\" of complications and secondary fractures. Implementation of an FLS proved highly cost-effective, with the cost of a dedicated coordinator being offset by the prevention of just 2-3 hip fractures annually. Furthermore, FLS-guided care significantly closed the \"treatment gap,\" improving adherence to bone-protecting therapies. Conclusion Addressing the \"Silo\" problem in Egyptian healthcare budgeting is essential. Transitioning to a value-based model-supported by the Universal Health Insurance (UHI) and mandatory FLS accreditation-is an economic imperative. Investing in secondary prevention not only preserves the functional independence of Egyptian seniors but also ensures the long-term financial sustainability of the national healthcare system.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Systematic Review",
       "Journal Article"
     ],
@@ -224,10 +508,11 @@
     "pmid": "43075571",
     "url": "https://doi.org/10.1093/jscr/rjag1073",
     "abstract": "Isolated vastus intermedius injury is uncommon and may be clinically occult because the quadriceps mechanism can remain intact. We describe a distinctive lateral radiographic appearance of the patella associated with deep quadriceps injury: the 'Patellar Drawbridge Sign'. A 66-year-old man injured his lower limb after falling from a stool. He developed sudden pain, swelling, and an audible pop, but retained the ability to perform a straight-leg raise. A horizontal-beam lateral radiograph showed sagittal rocking of the patella, with the superior pole elevated anteriorly while the inferior pole remained relatively approximated, resembling a raised drawbridge. Ultrasound confirmed intact quadriceps and patellar tendons with an isolated vastus intermedius tear. He was treated non-operatively with a knee extension splint for 2 weeks, followed by progressive mobilization and quadriceps strengthening. At 6 weeks, recovery was satisfactory.The Patellar Drawbridge Sign may alert clinicians to deep quadriceps injury and prompt targeted imaging when function persists.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Journal Article",
-      "Case Reports"
+      "Case Reports",
+      "case-report"
     ],
     "paper_type": "review",
     "categories": [
@@ -246,8 +531,9 @@
     "pmid": "43072115",
     "url": "https://doi.org/10.1177/21925682261511482",
     "abstract": "Study DesignSystematic Review.ObjectivesTo meta-analyze the time-dependent risk of first tether breakage after vertebral body tethering for adolescent idiopathic scoliosis and its surgical and radiographic consequences.MethodsSix databases were searched through August 15, 2026 (PROSPERO CRD420261485234). Overlapping reports were grouped by cohort. Reconstructed Kaplan-Meier estimates were pooled at landmarks per treated regional curve; a secondary synthesis added grouped interval-censored data, with frequentist and Bayesian longitudinal sensitivity models. Proportions used random-effects generalized linear mixed models. Risk of bias (Joanna Briggs Institute) and certainty (GRADE) were assessed.ResultsWe included 143 reports (29 cohort groups; 26 contributing quantitatively). The primary synthesis included 249 patients (261 treated curves). Cumulative breakage risk rose from 1.2% (95% CI, 0.4%-3.7%) at 12 months to 18.2% (14.0%-23.4%) at 24 months and 48.3% (40.9%-56.3%) at 36 months. At 36 months, the secondary synthesis (44.4%; 38.2%-51.0%) and frequentist (42.9%) and Bayesian (43.2%) models were similar. Among patients with documented breakage, pooled reoperation and posterior spinal fusion (PSF) proportions were 17.6% (11.5%-25.9%) and 11.3% (4.7%-24.9%). Whole-cohort mixed-follow-up proportions, not fixed-time risks, were 22.3% for crude breakage, 13.3% for any reoperation, 6.2% for PSF, and 2.4% for revision attributed to breakage. Breakage was associated with larger residual curves. Certainty was very low to moderate.ConclusionsRadiographic breakage approached half of treated regional curves by 3 years, increasing markedly after the second postoperative year. A detected break should be interpreted alongside symptoms and changes in correction; the evidence does not establish a uniform need for further surgery.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -289,8 +575,9 @@
     "pmid": "43071296",
     "url": "https://doi.org/10.1007/s11657-026-01790-x",
     "abstract": "Variability in periprosthetic DXA limits reproducibility and clinical translation. This multisociety RAND/UCLA consensus provides a standardized framework for ppDXA acquisition, analysis, ROI definition, longitudinal LSC-based interpretation, and structured reporting for hip and knee arthroplasty. The framework supports auditable measurement and reporting, does not advocate universal routine ppDXA screening, and is not intended to establish outcome-validated periprosthetic BMD thresholds. Purpose Periprosthetic dual-energy X-ray absorptiometry (ppDXA) is increasingly used to measure areal bone mineral density (BMD) around hip and knee implants and to characterize longitudinal changes associated with periprosthetic bone remodeling. However, variability in acquisition, analysis, region-of-interest (ROI) definition, metal-artifact handling, and reporting limits reproducibility and hinders clinical and research implementation. This multisociety consensus aimed to develop a standardized methodological framework for ppDXA acquisition, analysis, reporting, and longitudinal interpretation in hip and knee arthroplasty. Methods A multinational collaboration of scientific societies from Mexico, Colombia, Argentina, and Spain convened a 21-member multidisciplinary panel with expertise in orthopedic surgery, clinical densitometry, medical physics, bone biology, epidemiology, biostatistics, and consensus methodology. A targeted evidence review and narrative synthesis informed candidate statements on the ppDXA workflow. Statements were rated, discussed, and refined using the modified RAND/UCLA Appropriateness Method. Recommendations with high agreement were organized into six conceptual domains: quality assurance and precision; patient preparation and positioning; scan acquisition; ROI definition and analysis; longitudinal assessment; and reporting and clinical contextualization. Results The consensus establishes minimum and optimal standards for site-level quality assurance, implant documentation, joint-specific positioning, scan parameters, metal-removal settings, implant-anchored ROI schemes, ROI-specific precision assessment, least significant change (LSC)-based longitudinal interpretation, structured reporting, and clinical contextualization. A Minimum Dataset for Reporting and practical ROI templates are provided. An exploratory therapy-aware Green-Amber-Red interpretive framework is proposed to support structured contextual interpretation and prospective evaluation of periprosthetic BMD trajectories, in conjunction with technical validity, clinical findings, imaging, systemic bone health, and treatment context. Conclusions These multisociety RAND/UCLA consensus recommendations provide a standardized framework to reduce avoidable technical variability, improve reproducibility, and support auditable use of ppDXA in research and selected clinical workflows. It does not advocate universal routine ppDXA screening for all patients undergoing hip or knee arthroplasty and is intended to standardize measurement and reporting rather than to establish outcome-validated diagnostic, prognostic, or therapeutic periprosthetic BMD thresholds.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Consensus Statement",
       "Journal Article"
     ],
@@ -311,8 +598,9 @@
     "pmid": "43075544",
     "url": "https://doi.org/10.1002/ars2.70176",
     "abstract": "Purpose To compare the clinical outcomes and recurrence rates of patients with simple anterior labral tears versus those with complex labral tears undergoing arthroscopic stabilization with anterior shoulder instability. Methods This retrospective comparative study included patients with traumatic anterior shoulder instability who underwent primary arthroscopic labral repair between 2012 and 2020. Patients with atraumatic multidirectional instability, or prior shoulder surgeries, were excluded. The variables analyzed included age, sex, body mass index, contact sports participation, number of dislocations ( 2), labral tear size, time from injury to surgery, and concomitant procedures. \"Complex\" labral tears involved additional posterior and/or superior tearing of the labrum. A comparison group of \"simple\" (2-6 o'clock) anterior tears was used. American Shoulder and Elbow Surgeons, single alpha-numeric evaluation, visual analog scale pain, satisfaction, recurrence, and return to work were outcome metrics used. Significance levels of .05 were established with Bonferroni correction at Results A total of 157 simple and 52 complex patients met the inclusion criteria (mean age 27 years; range 14-71 years). Simple more frequently reported a history of dislocation event (vs subluxations or pain only) compared with complex (86% vs 63%; P P = .547), 2 dislocation events (11% vs 13%, respectively; P = .605), or >2 dislocations (54% vs 40%, respectively; P = .086) did not differ. Time from first symptom to surgery did not differ between groups (simple 45 ± 67 months, complex 29 ± 57 months, respectively; P = .017). There was no difference between groups in sex, contact sport participation, body mass index, age, or association of concomitant procedures. There were no differences in single alpha-numeric evaluation, American Shoulder and Elbow Surgeons, visual analog scale pain, revision rates, satisfaction, return to work, and persistent instability symptoms at the final follow-up. Conclusions At an average minimum 3-year follow-up, there was no statistically significant difference in patient-reported outcomes and recurrence between the simple anterior versus complex labral tear groups in patients receiving arthroscopic labral repair for anterior shoulder instability. Level of evidence Level III, retrospective comparative study.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -332,9 +620,10 @@
     "pmid": "43073858",
     "url": "https://doi.org/10.1186/s12891-026-10229-w",
     "abstract": "Objective We aimed to analyze the independent risk factors for cervical spondylotic myelopathy (CSM) patients with traumatic central cord syndrome (TCCS). In addition, the short-term and medium-term efficacy of conservative treatment and surgical treatment on patients' neurological function and imaging were compared. Methods Total of 182 patients with CSM admitted in our hospital during January 2016 to December 2021 were chosen as the study subjects. They were divided into a complicated group (with TCCS) and a non-complicated group (without TCCS). Influencing factors were analyzed using univariate and multivariate logistic regression analyses. A nomogram prediction model was constructed based on these factors. Patients with TCCS were divided into a conservative group (n = 30) and a surgical group (n = 38) according to the actual treatment received. Changes in the American Spinal Injury Association (ASIA) score, Spinal Cord Independence Measure III (SCIM-III) score, modified Japanese Orthopaedic Association (mJOA) score, and imaging parameters were compared between the two groups before treatment and at 3 and 6 months after treatment. Subgroup analyses were also performed according to ASIA grade, surgical timing, and surgical approach. Complications and the minimal clinically important difference (MCID) were assessed. Results Age, positive pathological signs, hand intrinsic muscle score, intramedullary high signal (IMHS) length, degree of spinal cord compression, and degree of spinal canal stenosis were all associated with CSM complicated by TCCS (P 0.05). Subgroup analysis by ASIA grade showed that in the B/C grade subgroup, the improvement in ASIA motor score at 3 months was greater in the surgical group than in the conservative group (P = 0.038). No significant differences in neurological improvement were found between the surgical timing subgroups or between the surgical approach subgroups. There was no significant difference in the incidence of complications between the two groups (P > 0.05), and no severe complications were observed in either group. Conclusion Advanced age, low hand intrinsic muscle score, high IMHS length, high degree of spinal cord compression, and high degree of spinal canal stenosis are independent risk factors for CSM complicated by TCCS. The nomogram provides a visual tool for clinical risk screening. Surgical treatment can significantly promote early (3-month) recovery of neurological function and imaging structure compared with conservative treatment, offering a distinct advantage in accelerating rehabilitation. However, the efficacy of the two treatment modalities converges at 6 months.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Comparative Study",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -354,10 +643,11 @@
     "pmid": "43075546",
     "url": "https://doi.org/10.1093/jscr/rjag1077",
     "abstract": "Avascular necrosis (AVN) of the femoral head may present with concomitant intra-articular pathology such as femoroacetabular impingement (FAI) or labral tears. We present the case of a 19-year-old elite soccer player presented with ongoing severe left hip pain 1 year after injury. He was found to have Ficat Grade II AVN and FAI. He was treated with core decompression and stabilization with tantalum rod and concomitant arthroscopic osteochondroplasty for impingement. Two years after surgery, the patient had returned to a professional soccer career, and demonstrated excellent clinical and radiographic outcomes and high satisfaction. For young and high-demand athletes presenting with hip AVN and FAI, decompression-stabilization with tantalum rod and arthroscopic osteochondroplasty can be performed as a single-stage procedure and may lead to excellent clinical outcomes and patient function.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Journal Article",
-      "Case Reports"
+      "Case Reports",
+      "case-report"
     ],
     "paper_type": "case",
     "categories": [
@@ -421,8 +711,9 @@
     "pmid": "43075503",
     "url": "https://doi.org/10.1002/atn2.70420",
     "abstract": "Anterior cruciate ligament reconstruction remains one of the most commonly performed procedures in orthopaedic surgery. Despite the widespread use of hamstring, patellar, and quadriceps tendon autografts, no single graft fulfills all criteria of optimal biomechanical strength, biological integration, and low donor-site morbidity. The rectus femoris tendon has recently emerged as a promising alternative, allowing selective harvesting of the superficial quadriceps layer while preserving deeper structures. When prepared in a quadruple configuration, the rectus femoris can achieve graft diameters comparable with or exceeding those of traditional hamstring constructs. This technical note describes a reproducible surgical technique for anterior cruciate ligament reconstruction using a quadruple rectus femoris autograft with suspensory button fixation.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "other",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -590,8 +881,9 @@
     "pmid": "43071723",
     "url": "https://doi.org/10.1371/journal.pone.0363344",
     "abstract": "This retrospective cohort study assessed whether the presence or absence of cortical contact influenced healing and secondary displacement after palmar open-wedge osteotomy without bone grafting in extra-articular distal radial malunion. Seventy-nine patients treated at a single tertiary center between 1999 and 2024 were included. Patients were divided into two groups based on the presence or absence of cortical contact on intraoperative fluoroscopic images. Secondary displacement and bone healing were the primary outcomes. Secondary outcomes included group analysis of cortical contact, complications and re-operations. The median radiographic follow-up duration was 28 weeks (IQR 14-60). Cortical contact was present in 38 patients, whereas 39 patients had no cortical contact. Surgical correction was generally maintained, with radiographic healing observed in 37 patients (47%) during the available follow-up period. The overall incidence of complications was low. Revision surgery for primary outcomes was required in three patients: one for nonunion and two for secondary displacement. Cortical contact was absent in the nonunion case, present in one patient with secondary displacement and not assessable in one case because of missing direct postoperative radiographs. No differences were observed between groups in radiographic alignment or healing. These findings suggest that palmar open-wedge osteotomy with anterior locking plate fixation without bone grafting may be a viable treatment option for distal radial malunion, and that loss of cortical contact may not affect healing or secondary displacement.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -632,9 +924,10 @@
     "pmid": "43073416",
     "url": "https://doi.org/10.1007/s00402-026-06557-0",
     "abstract": "Introduction Forearm osteochondromas in the paediatric population can cause progressive deformity, functional impairment, growth disturbance, and cosmetic concerns. This scoping review aims to map and synthesise the contemporary evidence on the natural history, classification, and management of forearm osteochondromas in the paediatric population with multiple hereditary exostoses (MHE). Methods Four databases: MEDLINE, Embase, Web of Science, and Cochrane were systematically searched for studies reporting on forearm osteochondromas in the paediatric population. Eligible studies included forearm osteochondromas with MHE in patients aged under 18 years reporting on natural history, classification or outcomes following any intervention. Two authors independently screened titles and abstracts, followed by the full-text review of potentially eligible studies. Disagreements regarding eligibility were resolved by a third reviewer. Data were extracted and synthesised descriptively. Results Twenty-eight studies were included. Most studies evaluated radiographic and functional outcomes of surgical interventions (n = 20). Eight observational studies (non-interventional studies) assessed other objectives, including classification systems, natural history, and risk factors for radial head dislocations. The Masada classification system was the most utilised for MHE (n = 17), while others used Jo or Gottschalk classifications. Current MHE classification systems are not sufficient for guiding management. Radiographic parameters may assist in identifying forearms at higher risk of radial head dislocation, such as increased radial shortening, ulnar shortening, radial blow, radial articular angle and the presence of distal and greater ulna osteochondromas. These findings are most evident on anteroposterior radiographs of the forearm. Conclusion Clinical decision-making should take into account both functional outcomes and radiographic findings, not just the classification systems such as Masada classification. Gradual ulnar lengthening is the most commonly reported surgical intervention, with bone healing potentially improved by adjunct intramedullary fixation. Lower body mass index and smaller ulnar diameter likely predispose to delayed healing. Future research should prioritise developing a reliable classification system that guide management.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Scoping Review",
+      "review-article",
       "Journal Article"
     ],
     "paper_type": "review",
@@ -675,8 +968,9 @@
     "pmid": "43073088",
     "url": "https://doi.org/10.1111/os.70467",
     "abstract": "Objective Talar fractures are associated with high complication rates, and existing internal-fixation devices often exhibit inadequate mechanical strength and suboptimal anatomical fit. This study aimed to design a novel Micro-Anatomical Universal Locking Plate (MAULP) for talus fractures and evaluate its biomechanical performance via mechanical testing and finite element analysis (FEA). Methods The MAULP was pre-contoured based on CT data from 30 Chinese male tali and manufactured from Ti-6Al-4 V alloy. Fifteen synthetic talus fracture models were randomly assigned to three fixation groups (n = 5 each): Group A (two cannulated screws), Group B (MAULP alone), and Group C (MAULP plus one cannulated screw). Constructs underwent cyclic loading (400 N, 0.67 Hz, 20,000 cycles) followed by static loading. Interfragmentary displacement was recorded. FEA was performed under identical conditions. Three cadaveric tali (one per group) provided qualitative validation. One-way ANOVA was used for statistical analysis. Results Pre-loading fracture gaps showed no significant differences among groups (p > 0.05). After cyclic loading, Group A exhibited significantly greater displacement (1.759 ± 0.042 mm) than Group B (1.359 ± 0.037 mm) and Group C (1.354 ± 0.042 mm) (both p 0.05). Cadaveric trends paralleled synthetic models. FEA predictions correlated well with experiments (relative errors: 7.4%-7.8%), with the plate bearing higher stress (~0.3 MPa) than the talus (~0.1 MPa). Conclusion The MAULP, with or without an additional cannulated screw, provides significantly superior biomechanical stability compared to cannulated screws alone in a talar neck fracture model. Its anatomical design offers a promising fixation option, particularly for fractures requiring enhanced stability. Clinical studies are needed to confirm these findings.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -717,8 +1011,9 @@
     "pmid": "43069757",
     "url": "https://doi.org/10.1177/21925682261511613",
     "abstract": "Study DesignCross-sectional survey.ObjectivesTo evaluate perioperative opioid management practices among AO Spine members caring for patients taking opioids before elective instrumented spine surgery.MethodsAn online survey was distributed to AO Spine members via email in October 2024. The survey included questions regarding surgeon demographics, practice characteristics, preoperative opioid management protocols, and postoperative opioid prescribing practices. Subgroup analyses comparing responses by specialty (orthopaedics vs neurosurgery), AO Spine region, and practice setting were performed.ResultsA total of 443 spine surgeons (65.9% orthopaedics, 31.2% neurosurgery) from 92 countries across all 5 AO Spine regions responded. Only 17.9% had a morphine milligram equivalent (MME) threshold that would exclude patients from surgery (median: 8 [IQR 1-30] MME/day). Of respondents, 38.9% required patients to decrease opioid use prior to surgery, most commonly by 50-74% over 3-4 weeks. Patient characteristics affecting protocols included chronicity of opioid use (52.5%), age (48.9%), narcotic type (37.6%), and vertebral levels (16.4%). Only 20.9% reported a hospital or practice protocol for patients using opioids preoperatively, whereas 63.8% reported access to a pain management team. Significant regional differences were identified. Orthopaedic Surgeons were more likely than neurosurgeons to consider narcotic type (42.7% vs 29.6%, p =0.029).ConclusionsPerioperative opioid management practices vary substantially among spine surgeons worldwide. North American respondents more frequently reported structured thresholds, tapering requirements, and institutional protocols. These results support the need for consensus guidance and prospective studies linking perioperative opioid strategies to clinical outcomes.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -761,9 +1056,10 @@
     "pmid": "43073529",
     "url": "https://doi.org/10.1007/s00402-026-06574-z",
     "abstract": "Introduction Periprosthetic joint infection (PJI) following total knee arthroplasty (TKA) is a devastating complication most commonly managed with two-stage revision. Articulating antibiotic-loaded cement spacers may be prepared using handmade, mold-based, or prefabricated techniques; however, high-quality comparative evidence is limited, and the 2025 International Consensus Meeting on Musculoskeletal Infection identified this as a knowledge gap. We aimed to compare a mold-based technique that uses a dedicated reusable sterile mold prepared from previously explanted components, used solely as a back-table molding tool and never reimplanted into the joint, with conventional handmade and commercially available prefabricated spacers. Materials and methods We retrospectively analyzed 75 patients undergoing two-stage revision TKA for PJI (June 2019-August 2025), grouped by spacer technique: mold-based (n = 18), handmade (n = 36), and prefabricated (n = 21). PJI was diagnosed per the 2018 ICM criteria. The primary outcome was final range of motion (ROM). Secondary outcomes were KSS, WOMAC, Oxford Knee Score, infection eradication, complications, and per-patient cost. Groups were compared using Kruskal-Wallis and chi-square/Fisher tests with Bonferroni post-hoc correction. Results Baseline demographics and infection markers were comparable across groups. Final ROM tended to be highest in the mold group (105.8° ± 13.6°) compared with the handmade (99.3° ± 11.7°) and prefabricated (103.1° ± 11.1°) groups, without reaching statistical significance (p = 0.227). No significant differences were observed in KSS-Knee, KSS-Function, WOMAC, or Oxford scores. Infection eradication rates were 94.4% (mold), 94.4% (handmade), and 90.5% (prefabricated) (p = 0.826). Spacer-related complications occurred in 11.1%, 30.6%, and 14.3%, respectively (p = 0.168), with all spacer fractures (n = 4) confined to the handmade group. In our institutional setting, the direct material cost of the mold-based construct was approximately 46% of the prefabricated spacer construct cost (approximately 54% lower). Conclusions The mold-based technique using explanted components yielded clinical outcomes that did not differ significantly from those of handmade and prefabricated spacers, with a lower direct material cost than the prefabricated spacer, and may represent a practical lower-cost alternative to prefabricated spacers in resource-limited settings. Larger prospective studies are needed to confirm these findings. Level of evidence III-retrospective comparative study.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Comparative Study",
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -825,8 +1121,9 @@
     "pmid": "43071214",
     "url": "https://doi.org/10.1007/s11657-026-01781-y",
     "abstract": "Gender-affirming hormone therapy (GAHT) may influence bone health in transgender individuals, but its effects on bone microarchitecture and fracture risk remain unclear. Bone mineral density (BMD) remained stable, with a slight decrease in trabecular bone score (TBS) in transgender women, suggesting low fracture risk and supporting clinical management. Objective To evaluate changes in BMD and TBS in transgender individuals undergoing GAHT and to estimate fracture risk using the fracture risk assessment tool (FRAX). Methods Retrospective longitudinal study (2014-2024) conducted at the Transdisciplinary Gender Identity Program and Division of Endocrinology, Hospital de Clínicas de Porto Alegre, Brazil. A total of 111 transgender women and 43 transgender men underwent two dual-energy X-ray absorptiometry (DXA) assessments during follow-up, receiving GAHT. Results After a median follow-up of 33 (19-40) months, transgender women exhibited a modest but significant decline in TBS (1.458 ± 0.102 vs. 1.442 ± 0.104; p =0.030). Those in the highest estradiol tertile had higher lumbar spine and total femur BMD than those in lower tertiles (p =0.001), without differences in TBS. Median TBS-adjusted 10-year fracture risk was 5.4% (3.8-7.0) for major osteoporotic fractures and 0.2% (0.1-1.3) for hip fractures. Among transgender men, after a median follow-up of 27 (20-47) months, no significant changes in TBS or BMD were observed, and fracture risk remained low. Conclusions GAHT was associated with stable BMD in both groups. Transgender women showed a modest decline in TBS, suggesting potential microarchitectural changes despite preserved BMD. Fracture risk remained low in individuals aged ≥ 40 years in both groups.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -846,8 +1143,9 @@
     "pmid": "43070260",
     "url": "https://doi.org/10.1177/21925682261506970",
     "abstract": "Study DesignSystematic Review.ObjectivesTo characterize assessment methods for psoas-based or skeletal muscle mass measures and spine-specific paraspinal muscle measures, and to synthesize their associations with postoperative outcomes after adult spinal deformity (ASD) surgery.MethodsPubMed, EMBASE, CINAHL, and Cochrane CENTRAL were searched for studies published from January 1, 1980, to March 1, 2026. Eligible studies included adults undergoing ASD corrective surgery with psoas-based, skeletal muscle mass, or imaging-based paraspinal muscle assessments in relation to postoperative outcomes. Radiographic, mechanical, revision, length-of-stay, pain, disability, and quality-of-life outcomes were reviewed. Risk of bias was assessed using the Quality In Prognosis Studies (QUIPS) tool. Owing to substantial clinical and methodological heterogeneity, findings were synthesized narratively.ResultsSeventeen studies were included: four evaluated psoas-based or skeletal muscle mass surrogates and 13 evaluated spine-specific paraspinal muscle morphology. No study used consensus-based systemic sarcopenia criteria, and no cohort directly compared the two constructs. Associations with unfavorable alignment and mechanical complications, including correction loss, proximal junctional kyphosis/failure, screw loosening, and postoperative imbalance, were reported more frequently in studies evaluating paraspinal muscle measures. However, the separate evidence bases, and methodological heterogeneity precluded conclusions regarding comparative prognostic performance.ConclusionsCurrent ASD literature is dominated by imaging-based paraspinal muscle assessments, whereas evidence labeled as systemic sarcopenia largely relies on psoas-based or skeletal muscle mass surrogates. Their relative prognostic value remains undetermined. Prospective studies evaluating consensus-based sarcopenia and spine-specific muscle measures within the same cohort are needed.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -889,10 +1187,11 @@
     "pmid": "43075516",
     "url": "https://doi.org/10.1093/jscr/rjag1070",
     "abstract": "Acute cardiorespiratory collapse during cemented total knee arthroplasty (TKA) is uncommon but potentially life-threatening. A 73-year-old woman developed abrupt hypoxaemia, profound hypotension, a fall in end-tidal carbon dioxide, increased airway pressure, bronchospasm, and diffuse flushing within minutes of cementation. Oxygen saturation fell to 74% and systolic blood pressure decreased by more than 40%. She was treated immediately with epinephrine, vasopressors, corticosteroid, antihistamines, oxygen, and fluid therapy, followed by intensive-care admission. Computed tomography showed no macroscopic pulmonary embolism or right-heart strain. She recovered and was extubated on postoperative Day 2. The episode fulfilled clinical criteria for grade 2 bone cement implantation syndrome, while the respiratory and cutaneous findings prompted treatment for suspected perioperative anaphylaxis. No culprit allergy was subsequently identified. This case illustrates the presentation and emergency management of severe peri-cementation collapse during primary TKA.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Journal Article",
-      "Case Reports"
+      "Case Reports",
+      "case-report"
     ],
     "paper_type": "case",
     "categories": [
@@ -911,9 +1210,10 @@
     "pmid": "43071272",
     "url": "https://doi.org/10.1007/s11657-026-01811-9",
     "abstract": "We assessed agreement and precision of 3D-DXA parameters between Prodigy and iDXA densitometers in adults. Strong agreement was observed between devices, and short-term precision was comparable. Moreover, high inter-scanner diagnostic classification agreement was found in the cohort spanning the full range of bone density categories, supporting the use of 3D-DXA across these GE Healthcare models for cross-sectional diagnostic purposes. Purpose 3D-DXA reconstructs DXA hip scans to 3-dimensional images, allowing measurement of trabecular and cortical bone parameters. Differences in imaging characteristics between the GE Healthcare iDXA and Prodigy could influence 3D-DXA results. This study evaluated the agreement and precision of 3D-DXA cortical and trabecular femur parameters between Prodigy and iDXA densitometers. Methods A total of 391 adults from 3 clinical centers in the United States and Brazil underwent hip scans on both Prodigy and iDXA scanners, subsequently analyzed with 3D-Shaper software. Short-term precision was assessed on three Prodigy and two iDXA densitometers. Agreement was assessed by regression, Bland-Altman analyses, and diagnostic classification agreement analysis. Short-term precision was determined following International Society for Clinical Densitometry recommendations. Results Bland-Altman analyses demonstrated statistically significant differences in aBMD and 3D-DXA measurements between Prodigy and iDXA scanners; however, diagnostic classification agreement was high. In the largest cohort, the only one spanning all three classification categories, agreement was 95.5% for cortical sBMD and 95.2% for trabecular vBMD (κw = 0.90 for both), comparable to total hip aBMD (97.3%, κw = 0.94). Short-term precision errors (RMS-SD) were 0.006 to 0.011 g/cm² for total hip aBMD, 0.009 to 0.023 g/cm² for femoral neck aBMD, 2.989 to 4.139 mg/cm³ for integral vBMD, 2.116 to 2.392 mg/cm² for cortical sBMD and 3.073 to 3.909 mg/cm³ for trabecular vBMD. Conclusion Under the conditions evaluated, aBMD and 3D-DXA bone measurements demonstrate comparable short-term precision and inter-scanner diagnostic classification agreement across Prodigy and iDXA densitometers.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Comparative Study",
+      "research-article",
       "Multicenter Study",
       "Journal Article"
     ],
@@ -1168,8 +1468,9 @@
     "pmid": "43068866",
     "url": "https://doi.org/10.1111/os.70474",
     "abstract": "Objective Although zero-profile implants with different screw configurations are increasingly used in anterior cervical discectomy and fusion (ACDF), whether four-screw and two-screw designs differentially affect the overloaded vertebral body (OVB) remains unknown. This study aimed to compare the effects of four-screw and two-screw zero-profile implants on radiological outcomes of the OVB and clinical outcomes after two-level ACDF, and to provide a reference for further investigation and prevention of OVB deformation. Methods This retrospective study analyzed 209 patients who underwent two-level ACDF between April 2012 and May 2023. Radiographic parameters included anterior vertebral height (AH), posterior vertebral height (PH), cross-sectional area (CSA), wedge angle (WA), wedge ratio (WR), cervical lordosis (CL), and surgical segment angle (SSA). Clinical outcomes were evaluated using the modified Japanese Orthopedic Association (mJOA) score, neck disability index (NDI) score, and visual analog scale (VAS) score for neck and arm pain. Surgical safety was evaluated based on the incidence of complications during the follow-up period. Results The deformities of OVB in both groups primarily presented as the reduction in AH and WR. The four-screw group exhibited less deformation compared to the two-screw group. At 3 months, 6 months, 12 months, and the final follow-up, the AH and WR of OVB in the two-screw group were significantly lower than those in the four-screw group (p Conclusions Our study showed that comparable clinical outcomes can be achieved in two-level ACDF using either four-screw or two-screw zero-profile implants. However, the four-screw implant showed superior performance in preventing and delaying postoperative deformation of OVB compared to the two-screw implant, which is crucial for sustaining cervical sagittal balance and improving long-term clinical outcomes.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -1359,8 +1660,9 @@
     "pmid": "43068923",
     "url": "https://doi.org/10.1111/os.70471",
     "abstract": "Objective Ferroptosis plays a critical role in secondary neuronal death following spinal cord injury (SCI). Active ingredients from traditional Chinese medicine exhibit significant potential in neuroprotection. Artemetin, a potential neuroprotective agent, has an unclear effect and mechanism on ferroptosis after SCI. Methods The study employed in vitro and in vivo models. The effects of artemetin were evaluated employing assays for cell viability and ferroptosis-associated indices (e.g., Fe 2+ , GPX4, lipid peroxidation), sequencing analyses (scRNA-seq, bulk RNA-Seq), and interaction validation (molecular docking, MST). Results This study found through in vivo and in vitro experiments that artemetin significantly improves motor function in SCI rats, alleviates iron overload and lipid peroxidation in spinal cord tissue, and increases neuronal survival. In VSC4.1 cells, artemetin effectively antagonizes erastin-induced ferroptosis. Mechanistically, transcriptomics, molecular docking, and microcalorimetry experiments indicate that artemetin binds to and downregulates the ferroptosis-promoting protein ACSL4. Overexpression of ACSL4 can reverse the protective effects of artemetin. Conclusion In summary, this study demonstrates that artemetin inhibits neuronal ferroptosis by targeting ACSL4, providing a new potential strategy for SCI treatment.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -2224,6 +2526,7 @@
     "abstract": "Purpose of review Osteotomy about the knee corrects lower extremity malalignment to unload the diseased compartment or for combined procedures to optimize outcomes. Planning from 2D radiographs and freehand execution can leave a gap between planned and achieved correction. Patient-specific instrumentation (PSI) uses CT- or MRI-derived 3D models to produce custom cutting guides and plates that carry the preoperative plan into the operating room. This review summarizes the evidence on PSI for osteotomy about the knee, covering accuracy, safety, versatility, efficiency, and patient-reported outcomes. Recent findings PSI reproduces planned coronal and sagittal corrections to within about 1°, and comparative studies and meta-analyses show improved accuracy and fewer outliers compared with conventional technique, though some studies find no advantage in experienced hands. A 2026 meta-analysis found PSI-guided high tibial osteotomy required fewer fluoroscopic images and was about 20 min shorter than conventional technique, with no difference in complication risk. These gains appear after roughly 10 cases. PSI allows a single guide to correct coronal alignment and posterior tibial slope together and supports double-level osteotomy and concomitant ligament or meniscal procedures. Patient-reported outcomes improve with either PSI or conventional technique; PSI shows an early advantage at 3 to 6 months that is gone by final follow-up. PSI improves the accuracy and efficiency of knee osteotomy and reduces radiation exposure, with complication rates similar to conventional technique. Its greatest value is in complex multiplanar and slope-correcting osteotomies, combined procedures, and for surgeons earlier in their osteotomy experience. Cost, manufacturing lead time, guide-related soft-tissue exposure, and the lack of long-term outcome data remain limitations. Prospective studies with longer follow-up are needed to determine whether PSI's technical precision produces more durable clinical results.",
     "open_access": false,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -2404,6 +2707,28 @@
     "matched_keywords": []
   },
   {
+    "id": "doi:10.3390/jimaging12110586",
+    "title": "Ultrasound vs. MRI Assessment of Rotator Cuff Tear Severity: A Systematic Review and Meta-Analysis of Supraspinatus Tears.",
+    "journal": "Journal of Imaging",
+    "journal_list": "B",
+    "authors": "Kassam K, Ghosh S, Wichuk S, Qian T, Knight J, Gallant C, McDonald S, Jaremko JL, Hareendranathan AR.",
+    "published_date": "2026-11-19",
+    "doi": "10.3390/jimaging12110586",
+    "pmid": "43082976",
+    "url": "https://doi.org/10.3390/jimaging12110586",
+    "abstract": "Rotator cuff tears involving the supraspinatus tendon are a common cause of shoulder pain. Ultrasound (US) is accessible, dynamic, and less costly than MRI, but its diagnostic performance may vary with tear severity and operator expertise. This systematic review and meta-analysis evaluated the diagnostic performance of US for supraspinatus tears using MRI as the non-invasive reference imaging standard. MEDLINE, Embase, Scopus, and CINAHL Plus were searched for studies published from January 2015 to June 2026, and study quality was assessed using QUADAS-2. A total of 23 studies involving 1452 participants were included. Mean sensitivity, specificity, and accuracy were 89.7%, 97.3%, and 95.4%, respectively, for full-thickness tears, compared with 71.6%, 93.1%, and 80.2% for partial-thickness tears. HSROC analysis excluding studies with high overall risk of bias showed pooled sensitivity and specificity of 83% and 88% for any tear, 67% and 91% for partial-thickness tears, and 72% and 97% for full-thickness tears. Agreement was generally more consistent for full-thickness tears, while operator expertise and study quality varied. Overall, US demonstrated stronger diagnostic performance for full-thickness than partial-thickness supraspinatus tears and may be considered an accessible initial imaging option in appropriate clinical settings, with MRI remaining complementary for equivocal or subtle partial-thickness tears and preoperative assessment.",
+    "open_access": false,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "paper_type": "review",
+    "categories": [
+      "Other / Unclassified"
+    ],
+    "matched_keywords": []
+  },
+  {
     "id": "doi:10.1016/j.injury.2026.113919",
     "title": "Traumaplasty for acetabular fractures: Factors associated with additional fracture fixation.",
     "journal": "Injury",
@@ -2457,8 +2782,9 @@
     "pmid": "43055825",
     "url": "https://doi.org/10.1007/s12178-026-10065-4",
     "abstract": "Purpose of review To examine the clinical overlap between medial tibial stress syndrome (MTSS) and tibialis posterior tendinopathy (TPT) in athletes with exercise-induced medial lower leg pain. Current evidence regarding anatomy, pathophysiology, clinical presentation, diagnostic evaluation, imaging, and management is reviewed to improve diagnostic accuracy and highlight emerging concepts regarding posterior tibial tendon (PTT) involvement in athletes traditionally diagnosed with \"shin splints.\" Recent findings Although MTSS remains the most common diagnosis for exercise-induced medial tibial pain, growing biomechanical and imaging evidence suggests PTT pathology may be more prevalent than previously recognized, particularly in athletic populations. MTSS and TPT share overlapping symptom location, gradual onset, and activity-related pain, contributing to potential misdiagnosis. Despite these similarities, important distinctions exist in physical examination findings, foot biomechanics, imaging characteristics, and treatment strategies. Additionally, evolving concepts surrounding progressive collapsing foot deformity (PCFD) have better defined the relationship between PTT pathology and medial foot and ankle instability. The broad clinical diagnosis of \"shin splints\" may encompass a subset of athletes with unrecognized TPT. Careful assessment of PTT function, foot alignment, and lower extremity biomechanics should complement evaluation of medial lower leg pain athletes. Improved recognition of TPT may facilitate earlier diagnosis, guide appropriate rehabilitation, prevent progression to PCFD, and identify opportunities for future prospective studies directly comparing MTSS and TPT in athletic populations.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "review-article",
       "Review",
       "Journal Article"
     ],
@@ -2564,8 +2890,9 @@
     "pmid": "43058320",
     "url": "https://doi.org/10.1007/s00402-026-06567-y",
     "abstract": "Introduction Megaprosthetic reconstruction (MPR) is associated with a substantially higher risk of periprosthetic joint infection (PJI) compared to primary total joint arthroplasty. However, evidence guiding the optimal duration of antibiotic prophylaxis remains limited, and institutional practices vary considerably. The purpose of this study was to evaluate the incidence of PJI, antibiotic-related complications, and surgical outcomes in patients undergoing MPR followed by a prolonged prophylactic antibiotic regimen. Materials and methods This retrospective single-centre study included patients undergoing MPR between May 2020 and November 2022 at a tertiary sarcoma referral centre. All patients received a standardised postoperative 12-week prophylactic antibiotic regimen consisting of two weeks of intravenous ampicillin/sulbactam followed by 10 weeks of oral rifampin and levofloxacin. The primary outcome was the incidence of PJI. Secondary outcomes included surgery-related complication and revision rates, antibiotic-related adverse events, and mortality. Results A total of 47 patients were included into the study, of which 83% underwent MPR for oncologic conditions. The overall PJI rate was 2.1% at a mean follow-up of 39 months. Surgery-related complications occurred in 4.3%, and the revision rate was 4.3%. No antibiotic-related adverse events were documented during inpatient treatment or follow-up. All-cause mortality was 21.3%. Conclusions In this retrospective case series, a low incidence of PJI was observed in patients undergoing MPR followed by a standardised 12-week prophylactic antibiotic regimen. Thus, these findings might support the notion that extended prophylaxis could be a safe and effective strategy in high-risk patients undergoing MPR. However, the study design, limited sample size and absence of a control group restrict the conclusions that can be drawn from these findings, and comparative prospective studies are required to determine the effectiveness of prolonged antibiotic prophylaxis following MPR.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "case",
@@ -2608,10 +2935,11 @@
     "pmid": "43055975",
     "url": "https://doi.org/10.1007/s00402-026-06554-3",
     "abstract": "Introduction The pericapsular nerve group (PENG) block and the quadratus lumborum block (QLB) are both used to provide analgesia after hip surgery, but their comparative efficacy remains uncertain. We performed a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing PENG and QLB. Materials and methods PubMed, Embase, and Google Scholar were searched through March 2025 for RCTs comparing PENG and QLB in adults undergoing hip surgery. Risk of bias was assessed with the Cochrane RoB 2 tool. Random-effects meta-analyses (DerSimonian-Laird estimator with Knapp-Hartung adjustment) pooled standardized mean differences (SMD) for pain, mean differences in intravenous morphine milligram equivalents (MME) for opioid consumption, and risk ratios (RR) for dichotomous outcomes. Heterogeneity was quantified with I². Prespecified subgroup analyses (surgical population and QLB approach) and leave-one-out sensitivity analyses were performed. Results Seven RCTs (554 patients; 283 PENG, 271 QLB) were included. PENG showed a non-significant trend toward lower early (~ 2 h) resting pain (SMD - 0.25; 95% CI - 0.60 to 0.09; I²=55%). No significant differences were found for resting pain at 24 h (SMD - 0.40; -1.44 to 0.64; I²=92%), pain on movement at 24 h (SMD 0.08; -0.27 to 0.43; I²=0%), or cumulative opioid consumption (mean difference - 0.50 intravenous morphine milligram equivalents; 95% CI - 5.92 to 4.93; I²=84%). Conclusions No clear difference between PENG and QLB was demonstrated for pain, opioid consumption, or safety after hip surgery. The available evidence is insufficient to establish superiority between the techniques, and the early-pain and motor-sparing signals favoring PENG should be regarded as uncertain. Larger standardized randomized trials are required. Level of evidence Level I, systematic review and meta-analysis of randomized controlled trials.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Meta-Analysis",
       "Comparative Study",
+      "research-article",
       "Systematic Review",
       "Journal Article"
     ],
@@ -2739,8 +3067,9 @@
     "pmid": "43073891",
     "url": "https://doi.org/10.1186/s12891-026-10760-w",
     "abstract": "Background Non-operative treatment is widely accepted for isolated grade II medial collateral ligament (MCL) injuries. However, optimal management of grade III injuries, particularly those associated with anterior cruciate ligament (ACL) injury, remains controversial. Methods A prospective cohort of consecutive acute knee injuries were referred for subacute MRI. Grade II or III MCL injuries on MRI were followed-up with Knee injury and Osteoarthritis Outcome Score (KOOS), Tegner activity scale (TAS), clinical examination, and radiography at mean 11.5 years in 154 of 202 (76%) patients. Results KOOS and TAS were not statistically significantly different in patients with MCL grade II compared to MCL grade III injury and MCL grade II compared to MCL grade II/ACL injury. There were no statistically significant differences in KOOS after MCL grade II/ACL compared to MCL grade III/ACL injury, however the TAS was lower in the latter (median 4 versus 2, p = 0.038, 95% CI 0-2). There were statistically significant differences in KOOS Sport/recreation, QOL, KOOS 4 and TAS after MCL grade III/ACL injury compared to isolated MCL grade III injury (median 75 vs. 90 [p = 0.015, 95% CI 0-30], 75 vs. 88 [p = 0.022, 95% CI 0-25], 81 vs. 88 [p = 0.052, 95% CI 0-17] and 2 vs. 4 [p = 0.014, 95% CI 0-2] respectively). The proportion with radiographic osteoarthritis was 25% after isolated MCL grade II/III and 41% for MCL grade II/III with ACL injury. Conclusions With the exception of a lower TAS for MCL grade III/ACL compared to MCL grade II/ACL, non-operatively managed grade III MCL injuries with and without ACL injury had comparable patient-reported and radiographic outcomes compared to their grade II counterparts.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
+      "research-article",
       "Journal Article"
     ],
     "paper_type": "original",
@@ -3207,7 +3536,7 @@
     "doi": "10.1016/j.joca.2026.11.006",
     "pmid": "43044729",
     "url": "https://doi.org/10.1016/j.joca.2026.11.006",
-    "abstract": "Objective Physical activity is a first-line therapeutic intervention for managing osteoarthritis-related pain and functional impairment. However, the growing literature questions the long-term relevance of exercise-induced improvements in patients, while pre-clinical research evidence-base is limited by reliance on stressful, forced exercise paradigms which do not reflect voluntary engagement. Here, we investigated the effects of voluntary wheel running on the pain experience in mice with joint pain. Design We investigated the impact of free access to a running wheel on sensory, functional and affective outcomes following unilateral intra-articular injection of monoiodoacetate (MIA) into the knee joint of 8-week-old male and female C57Bl/6J mice (n=14/16). Mice were single-housed and randomly assigned to remain sedentary or have unrestricted access to a wheel from at least two weeks before MIA. Behavioural outcomes were assessed longitudinally over an eight-week post-injection period. Results Mean daily running distance decreased from 3.01 to 0.69 km in males and from 3.90 to 1.69 km in females by day 5 after MIA. Following a short-lived recovery, males showed a progressive decline, while the rebound in activity was sustained in females throughout the observation period. Voluntary wheel running attenuated MIA-induced secondary mechanical hypersensitivity, with higher mechanical withdrawal thresholds in active than sedentary mice, most obviously during the pain-like maintenance stage (day 40: males: 0.08g; 95%CI 0.040 to 0.126; females: 0.125g, 95%CI 0.029 to 0.222). Conversely, wheel running transiently delayed full gait recovery, with between-group differences in stance symmetry and duty factor during early recovery in both sexes (males day 20: stance: -11.8%; 95%CI -21.25 to -2.27; duty factor: -5.4%; 95%CI -10.53 to -0.35; females day 12: stance: -22.0%; 95%CI -32.48 to -11.51; duty factor: -15.9%; 95%CI -22.97 to -8.83). Finally, wheel access had little effect on anxio-depressive-like behaviours or cognition, but reduced faecal output and influenced body weight. Conclusions In this animal model of MIA-induced osteoarthritis, voluntary wheel running was associated with improvements in secondary mechanical hypersensitivity, despite a transient and acute worsening of several gait impairments. These findings highlight the importance of assessing multiple behavioural domains in preclinical studies and underscore the complexity of exercise-induced effects on pain and function.",
+    "abstract": "Objective Physical activity is a first-line therapeutic intervention for managing osteoarthritis-related pain and functional impairment. However, the growing literature questions the long-term relevance of exercise-induced improvements in patients, while pre-clinical research evidence-base is limited by reliance on stressful, forced exercise paradigms which do not reflect voluntary engagement. Here, we investigated the effects of voluntary wheel running on the pain experience in mice with joint pain. Design We investigated the impact of free access to a running wheel on sensory, functional and affective outcomes following unilateral intra-articular injection of monoiodoacetate (MIA) into the knee joint of 8-week-old male and female C57Bl/6J mice (n=14/16). Mice were single-housed and randomly assigned to remain sedentary or have unrestricted access to a wheel from at least two weeks before MIA. Behavioural outcomes were assessed longitudinally over an eight-week post-injection period. Results Mean daily running distance decreased from 3.01 to 0.69 km in males and from 3.90 to 1.69 km in females by day 5 after MIA. Following a short-lived recovery, males showed a progressive decline, while the rebound in activity was sustained in females throughout the observation period. Voluntary wheel running attenuated MIA-induced secondary mechanical hypersensitivity, with higher mechanical withdrawal thresholds in active than sedentary mice, most obviously during the pain-like maintenance stage (day 40: males: 0.08 g; 95%CI 0.040-0.126; females: 0.125 g, 95%CI 0.029-0.222). Conversely, wheel running transiently delayed full gait recovery, with between-group differences in stance symmetry and duty factor during early recovery in both sexes (males day 20: stance: -11.8%; 95%CI -21.25 to -2.27; duty factor: -5.4%; 95%CI -10.53 to -0.35; females day 12: stance: -22.0%; 95%CI -32.48 to -11.51; duty factor: -15.9%; 95%CI -22.97 to -8.83). Finally, wheel access had little effect on anxio-depressive-like behaviours or cognition, but reduced faecal output and influenced body weight. Conclusions In this animal model of MIA-induced osteoarthritis, voluntary wheel running was associated with improvements in secondary mechanical hypersensitivity, despite a transient and acute worsening of several gait impairments. These findings highlight the importance of assessing multiple behavioural domains in preclinical studies and underscore the complexity of exercise-induced effects on pain and function.",
     "open_access": false,
     "publication_types": [
       "Journal Article"
@@ -3869,7 +4198,7 @@
   },
   {
     "id": "doi:10.1016/j.joca.2026.11.007",
-    "title": "Association Between Newly Diagnosed Dyslipidemia and Joint-Specific Incident Osteoarthritis: A Nationwide Propensity-Score-Matched Cohort Study.",
+    "title": "Association between newly diagnosed dyslipidemia and joint-specific incident osteoarthritis: A nationwide propensity-score-matched cohort study.",
     "journal": "Osteoarthritis and Cartilage",
     "journal_list": "A",
     "authors": "Choi BS, Lee H, Bae HC, Yu J, Kang JH, Park SJ, Kim HJ, Park SM, Han HS.",
@@ -3877,7 +4206,7 @@
     "doi": "10.1016/j.joca.2026.11.007",
     "pmid": "43044730",
     "url": "https://doi.org/10.1016/j.joca.2026.11.007",
-    "abstract": "Objective Whether dyslipidemia raises the risk of incident osteoarthritis (OA) is uncertain given inconsistent prior cohort evidence. We examined the association between newly diagnosed and treated dyslipidemia and incident OA, overall and by joint site. Design Using the Korean National Health Insurance Service database, we identified adults with newly diagnosed dyslipidemia (International Classification of Diseases, Tenth Revision [ICD-10] code E78 plus a lipid-lowering prescription) between 2007 and 2012, with the same 2-year washout applied to both groups. Participants with dyslipidemia were propensity-score matched (target ratio 1:3), with exact matching on index year, to comparators with no E78 claim during 2007-2012. Incident OA (≥1 inpatient or ≥3 outpatient claims, ICD-10 M15-M19) was assessed overall and for the knee, hip, hand, and multiple joints. Cox regression with robust variance estimates accounting for matched sets provided the primary adjusted estimates, complemented by competing-risk and period-specific analyses. Results The matched cohort included 32,684 participants with newly diagnosed dyslipidemia and 76,375 comparators. Overall OA occurred in 12,594 and 25,089 participants, respectively, corresponding to incidence rates of 51.60 and 43.41 per 1,000 person-years (rate difference, 8.186; 95% confidence interval [CI], 7.136-9.235). The primary adjusted hazard ratio (aHR) for overall OA was 1.133 (95% CI, 1.109-1.159; crude, 1.191), and the 10-year cumulative incidence was 38.62% versus 33.14% (risk difference, 5.48 percentage points; 95% CI, 4.87-6.14). Dyslipidemia was also associated with knee OA (aHR, 1.119; 95% CI, 1.090-1.148), hip OA (1.214; 1.078-1.366), and multiple-joint OA (1.294; 1.113-1.503), with no clear association for hand OA (1.135; 0.837-1.537). For overall and knee OA, the relative associations were stronger earlier in follow-up and weaker after exploratory cut points of 6 and 9.5 years, respectively. Analyses treating death as a competing event yielded similar findings. Conclusions Newly diagnosed and treated dyslipidemia was positively associated with incident clinically diagnosed OA in this nationwide Korean cohort, most consistently for overall and knee OA, although the associations attenuated with longer follow-up. These findings add population-based evidence for an association between dyslipidemia and OA, and further studies are needed to clarify the underlying mechanisms and clinical relevance.",
+    "abstract": "Objective Whether dyslipidemia raises the risk of incident osteoarthritis (OA) is uncertain given inconsistent prior cohort evidence. We examined the association between newly diagnosed and treated dyslipidemia and incident OA, overall and by joint site. Design Using the Korean National Health Insurance Service database, we identified adults with newly diagnosed dyslipidemia (International Classification of Diseases, Tenth Revision [ICD-10] code E78 plus a lipid-lowering prescription) between 2007 and 2012, with the same 2-year washout applied to both groups. Participants with dyslipidemia were propensity-score matched (target ratio 1:3), with exact matching on index year, to comparators with no E78 claim during 2007-2012. Incident OA (≥1 inpatient or ≥3 outpatient claims, ICD-10 M15-M19) was assessed overall and for the knee, hip, hand, and multiple joints. Cox regression with robust variance estimates accounting for matched sets provided the primary adjusted estimates, complemented by competing-risk and period-specific analyses. Results The matched cohort included 32,684 participants with newly diagnosed dyslipidemia and 76,375 comparators. Overall OA occurred in 12,594 and 25,089 participants, respectively, corresponding to incidence rates of 51.60 and 43.41 per 1000 person-years (rate difference, 8.186; 95% confidence interval [CI], 7.136-9.235). The primary adjusted hazard ratio (aHR) for overall OA was 1.133 (95% CI, 1.109-1.159; crude, 1.191), and the 10-year cumulative incidence was 38.62% versus 33.14% (risk difference, 5.48 percentage points; 95% CI, 4.87-6.14). Dyslipidemia was also associated with knee OA (aHR, 1.119; 95% CI, 1.090-1.148), hip OA (1.214; 1.078-1.366), and multiple-joint OA (1.294; 1.113-1.503), with no clear association for hand OA (1.135; 0.837-1.537). For overall and knee OA, the relative associations were stronger earlier in follow-up and weaker after exploratory cut points of 6 and 9.5 years, respectively. Analyses treating death as a competing event yielded similar findings. Conclusions Newly diagnosed and treated dyslipidemia was positively associated with incident clinically diagnosed OA in this nationwide Korean cohort, most consistently for overall and knee OA, although the associations attenuated with longer follow-up. These findings add population-based evidence for an association between dyslipidemia and OA, and further studies are needed to clarify the underlying mechanisms and clinical relevance.",
     "open_access": false,
     "publication_types": [
       "Journal Article"
@@ -5278,7 +5607,7 @@
   },
   {
     "id": "doi:10.1016/j.joca.2026.11.004",
-    "title": "Promise or folly? Targeting the joint or the brain: evidence of peripheral and central treatments for osteoarthritis pain.",
+    "title": "Promise or folly? Targeting the joint or the brain: Evidence of peripheral and central treatments for osteoarthritis pain.",
     "journal": "Osteoarthritis and Cartilage",
     "journal_list": "A",
     "authors": "Barroso J, Schnitzer TJ.",
@@ -7843,9 +8172,10 @@
     "pmid": "43074931",
     "url": "https://doi.org/10.3389/fsurg.2026.1917590",
     "abstract": "Introduction Open reduction and internal fixation with screws remains a commonly employed surgical technique for displaced medial malleolus fractures. Closed reduction and percutaneous fixation has emerged as a potentially less invasive alternative; however, the comparative effectiveness of these two approaches has not been established by high-level evidence. This meta-analysis was conducted to compare the clinical outcomes of closed reduction and percutaneous screw fixation (CRPF) versus open reduction and internal screw fixation (ORIF) in patients with isolated medial malleolus fractures. Methods PubMed, EMBASE, Cochrane Library, Web of Science, CNKI, Wanfang, and VIP databases were searched from inception to June 15, 2026, for randomized controlled trials. Quality assessment was performed using the Cochrane RoB 2.0 tool. Meta-analyses were conducted using RevMan 5.4, with mean differences or odds ratios pooled using fixed- or random-effects models depending on heterogeneity. Results Six randomized controlled trials comprising 366 patients (183 in the CRPF group and 183 in the ORIF group) were included. Compared with ORIF, CRPF was associated with significantly shorter operative time (MD -17.19 min, 95% CI -26.11 to -8.27; I 2 = 98%) and faster fracture healing (MD -2.19 weeks, 95% CI -3.08 to -1.30; I 2 = 71%). Kofoed scores were significantly higher in the CRPF group (MD 8.26 points, 95% CI 0.47 to 16.05; I 2 = 88%), whereas no significant difference was observed in the excellent/good outcome rate (OR 1.88, 95% CI 0.37 to 9.44; I 2 = 73%). The overall complication rate was significantly lower in the CRPF group (OR 0.21, 95% CI 0.09 to 0.46; I 2 = 19%). No significant between-group difference was detected in AOFAS scores (MD 7.32 points, 95% CI -2.85 to 17.50; I 2 = 92%). Risk-of-bias assessment using the Cochrane RoB 2 tool identified five studies as having some concerns and one study as having a high risk of bias for functional outcomes. Conclusions CRPF was associated with shorter operative time, earlier fracture healing, and a lower overall postoperative complication rate than ORIF in patients with isolated medial malleolar fractures. However, improvements in functional outcomes were not consistently demonstrated across different assessment measures. CRPF represents a viable alternative to ORIF in appropriately selected patients, particularly when satisfactory closed reduction can be achieved. Further well-designed randomized controlled trials are needed to establish its long-term functional benefits. Systematic review registration https://www.crd.york.ac.uk/PROSPERO/view/CRD420261422946, PROSPERO CRD420261422946.",
-    "open_access": false,
+    "open_access": true,
     "publication_types": [
       "Systematic Review",
+      "systematic-review",
       "Journal Article"
     ],
     "paper_type": "review",
