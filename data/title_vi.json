@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-25T14:36:03+00:00",
+  "updated_at_utc": "2026-11-26T02:28:21+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -659,8 +659,8 @@
       "vi": "Vượt xa niên đại thời gian: khám phá ra sự biến đổi tùy thuộc bệnh tật trong việc đánh giá tuổi tác thiếu nhi của AI."
     },
     "doi:10.1016/j.joca.2026.11.004": {
-      "en": "Promise or folly? Targeting the joint or the brain: evidence of peripheral and central treatments for osteoarthritis pain.",
-      "vi": "Đối tượng khớp hay não: bằng chứng về ngoại biên và trung tâm điều trị cho cơn đau viêm tủy xương."
+      "en": "Promise or folly? Targeting the joint or the brain: Evidence of peripheral and central treatments for osteoarthritis pain.",
+      "vi": "Đối tượng khớp hay não: bằng chứng về các liệu pháp ngoại biên và trung tâm cho cơn đau mãn tính."
     },
     "doi:10.1177/18632521261483415": {
       "en": "Locking-compression plate (LCP) or angled blade plates (ABP) for femoral osteotomies in children with spastic cerebral palsy (CP) gross motor function classification system (GMFCS) III, IV, and V.",
@@ -1387,8 +1387,8 @@
       "vi": "Bên ngoài xương xương: tái sinh cuộc sống hàng ngày sau phẫu thuật hoặc bệnh tật trong một xã hội siêu trầm cảm."
     },
     "doi:10.1016/j.joca.2026.11.007": {
-      "en": "Association Between Newly Diagnosed Dyslipidemia and Joint-Specific Incident Osteoarthritis: A Nationwide Propensity-Score-Matched Cohort Study.",
-      "vi": "Kết hợp giữa chứng thiếu máu mới được chẩn đoán và viêm khớp đặc biệt. Một cuộc nghiên cứu toàn quốc về sự ủng hộ của quốc gia-Score-Matched-Cohort."
+      "en": "Association between newly diagnosed dyslipidemia and joint-specific incident osteoarthritis: A nationwide propensity-score-matched cohort study.",
+      "vi": "Sự kết hợp giữa chứng thiếu máu cục bộ mới được chẩn đoán và chứng viêm khớp khớp đặc biệt: một nghiên cứu về đồng vị quốc gia."
     },
     "doi:10.1002/ars2.70157": {
       "en": "Ultrasound-Guided Percutaneous Achilles Repair Improves Suture Placement Accuracy and Reduces the Rate of Conversion to Open Repair.",
@@ -3077,6 +3077,62 @@
     "doi:10.3389/fsurg.2026.1917590": {
       "en": "Percutaneous vs. open screw fixation for medial malleolus fractures: a systematic review and meta-analysis of randomized controlled trials.",
       "vi": "Percutaneous vas. mở vít sửa chữa cho trung tâm điều khiển trung tâm: một xem xét hệ thống và siêu phân tích của các thử nghiệm được kiểm soát ngẫu nhiên."
+    },
+    "doi:10.1007/s00296-026-06354-3": {
+      "en": "Reversible joint crepitus in immune checkpoint inhibitor-induced inflammatory arthritis: a prospective single-center observational study.",
+      "vi": "Các khớp nối có khả năng phục hồi mắc kẹt trong việc kiểm soát chứng viêm khớp do miễn dịch gây ra: một nghiên cứu quan sát đơn trung."
+    },
+    "doi:10.1007/s11701-026-04219-2": {
+      "en": "Clinical outcomes of posterior-stabilized versus cruciate-retaining ANTHEM total knee arthroplasty using imageless robotic-assisted personalized alignment: a retrospective comparative cohort study.",
+      "vi": "Kết quả lâm sàng của sự dao động nội bộ so với cruciate-retinting toàn bộ nghệ thuật mạch nha đầu gối bằng cách sử dụng thẳng hàng robot không có ảnh chụp cá nhân: một cuộc nghiên cứu tương đối tương đối tương đối tương tự."
+    },
+    "doi:10.1007/s00264-026-07069-7": {
+      "en": "Ultrasound-guided precise acupotomy for chronic plantar fasciitis: a single-centre randomised controlled trial focused on long-term effect and recurrence rate.",
+      "vi": "Một thử nghiệm có kiểm soát ngẫu nhiên một cách ngẫu nhiên tập trung vào hiệu ứng lâu dài và tốc độ tái phát."
+    },
+    "doi:10.1371/journal.pone.0363427": {
+      "en": "Topical vancomycin powder and surgical site infection in cranial and spinal surgery: A prospective cohort study from Pakistan.",
+      "vi": "Khí vancomycin bột và nhiễm trùng vị trí phẫu thuật trong phẫu thuật sọ và cột sống: một nghiên cứu quân đội tương lai từ Pakistan."
+    },
+    "doi:10.1016/j.knee.2026.104684": {
+      "en": "Short-term outcomes of single-stage, minced cartilage implantation (MCI) procedures in the knee: a systematic review and meta-analysis.",
+      "vi": "Kết quả ngắn hạn của quá trình cấy ghép một giai đoạn, cắt lát (MCI) ở đầu gối: một bài phê bình hệ thống và phân tích dị ứng."
+    },
+    "doi:10.1007/s00264-026-07075-9": {
+      "en": "Periprosthetic femoral fracture risk varies across cemented femoral stem designs: a nationwide Swiss joint registry study.",
+      "vi": "Những nguy cơ gãy xương đùi của người Phê - ni - xi thay đổi tùy theo thiết kế thân bị xi măng: một cuộc nghiên cứu chung ở Thụy Sĩ."
+    },
+    "doi:10.1016/j.jsurg.2026.104263": {
+      "en": "MSK-CSA: Validation of a Case-Based Assessment of Musculoskeletal Clinical Skills for Medical Students.",
+      "vi": "MK-CSA: kiểm tra các khả năng y tế của các sinh viên y khoa."
+    },
+    "doi:10.1007/s00402-026-06565-0": {
+      "en": "Long-term revision-free survival after unaugmented modified Broström-Gould repair for chronic lateral ankle instability: a single tertiary-centre series of 110 ankles.",
+      "vi": "Sự sống sót lâu dài không bị sửa đổi sau khi chưa sửa chữa hệ thống Broström-Gould sửa chữa cho sự bất ổn định kinh niên ở mắt cá chân: một chuỗi động mạch chủ 110 mắt cá chân."
+    },
+    "doi:10.1007/s00402-026-06563-2": {
+      "en": "Implant survival and the impact of inflammatory arthritis on revision risk following primary total knee arthroplasty: an 11-year single-center analysis.",
+      "vi": "Sự sống còn của các loài thực vật và tác động của viêm khớp do các loài động vật có khả năng tái tạo nguyên nhân dẫn đến các loài động vật nguyên sinh: một sự phân tích một đầu gối trong 11 năm."
+    },
+    "doi:10.1016/j.jse.2026.11.050": {
+      "en": "Early- to Mid-Term Revision Risk Following Anatomic vs. Reverse Total Shoulder Arthroplasty for Primary Osteoarthritis: A Propensity-Matched Analysis of 13,124 Patients.",
+      "vi": "Đầu tiên đến giữa-Term Revision nguy cơ theo Anatomic vs. Reverse Toer Artroplasy cho bệnh nhân tiểu học Osteoarthr: một phân tích dựa trên 13,124 bệnh nhân."
+    },
+    "doi:10.1186/s40798-026-01154-2": {
+      "en": "Diagnostic Precision in Arthrogenic Muscle Inhibition.",
+      "vi": "Chẩn đoán chính xác về cơ gây dị ứng cơ."
+    },
+    "doi:10.1007/s00402-026-06571-2": {
+      "en": "Conservative management of piriformis syndrome: a systematic review of rehabilitation approaches and clinical outcomes.",
+      "vi": "Quản lý bảo thủ của hội chứng piriformis: một sự xem xét hệ thống về cách tiếp cận phục hồi chức năng và kết quả lâm sàng."
+    },
+    "doi:10.1016/j.jse.2026.11.046": {
+      "en": "A Preliminary Study of MRI with Zero Echo Time Sequence for Combined Fracture and Rotator Cuff Assessment in Proximal Humerus Fractures.",
+      "vi": "Một cuộc nghiên cứu sơ bộ chụp cộng hưởng từ với các chuỗi thời gian không tiếng vọng cho sự kết hợp giữa các cấu trúc và chất đốt trong các cấu trúc proximal Humerus."
+    },
+    "doi:10.3390/jimaging12110586": {
+      "en": "Ultrasound vs. MRI Assessment of Rotator Cuff Tear Severity: A Systematic Review and Meta-Analysis of Supraspinatus Tears.",
+      "vi": "Siêu âm tương ứng với. MRI Assesment of Rotator Cuff Beverity: một hệ thống Review và phân tích gộp of Supraspinatus tearss."
     }
   }
 }
