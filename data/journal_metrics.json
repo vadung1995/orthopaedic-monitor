@@ -1,15 +1,15 @@
 {
   "notes": "Verified-only overlay. No approximated IF; SJR quartiles are not Scopus CiteScore quartiles.",
-  "checked_at_utc": "2026-11-26T05:32:38+00:00",
+  "checked_at_utc": "2026-11-27T05:34:23+00:00",
   "latest_expected_jif_year": 2025,
   "latest_expected_sjr_year": 2025,
   "checks": {
     "public_journal_pages": 110,
-    "publisher_jif_updated": 1,
+    "publisher_jif_updated": 0,
     "scimago_csv_rows": 0,
     "sjr_quartiles_updated": 0,
     "jcr_import_updated": 0,
-    "publisher_evidence_seeded": 1
+    "publisher_evidence_seeded": 0
   },
   "journals": {
     "Annals of Surgical Oncology": {
