@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-26T14:32:40+00:00",
+  "updated_at_utc": "2026-11-27T02:30:28+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -3133,6 +3133,178 @@
     "doi:10.3390/jimaging12110586": {
       "en": "Ultrasound vs. MRI Assessment of Rotator Cuff Tear Severity: A Systematic Review and Meta-Analysis of Supraspinatus Tears.",
       "vi": "Siêu âm tương ứng với. MRI Assesment of Rotator Cuff Beverity: một hệ thống Review và phân tích gộp of Supraspinatus tearss."
+    },
+    "PMC:PMC13796356": {
+      "en": "Uni-portal non-coaxial spinal endoscopic surgery (UNSES) for resection of a schwannoma in the C1-C2 foraminal region: experience in endoscopic resection and a case report",
+      "vi": "Ca phẫu thuật nội soi cột sống phi cơ (UNSES) để phẫu thuật cắt bỏ một ống tiêm ở vùng C1-C2 cho bệnh nhân: trải nghiệm trong phẫu thuật cắt bỏ nội soi và một báo cáo trường hợp"
+    },
+    "PMC:PMC13796297": {
+      "en": "Subtalar joint narthroereisis for the treatment of flexible flatfoot in children: a comparative efficacy study based on chronological age and bone age stratification",
+      "vi": "Các trung tâm điều trị cho trẻ em bằng phẳng linh hoạt: một nghiên cứu tương đối hiệu quả dựa trên độ tuổi thời gian và thời kỳ khúc xương bị gián đoạn"
+    },
+    "PMC:PMC13796294": {
+      "en": "Predictors of hip screw fixation failure following femoral neck fractures at a tertiary hospital in Tanzania",
+      "vi": "Những nhà tiên đoán về chứng tắc xương hông sau khi xương đùi gãy ở một bệnh viện khó chịu ở Tanzania"
+    },
+    "doi:10.1177/21925682261510676": {
+      "en": "Confirmation of Fusion Superiority of P-15 Peptide Enhanced Bone Graft versus Autograft Control in Transforaminal Lumbar Interbody Fusion.",
+      "vi": "Xác nhận sự ưu việt của P-15 Peptide đã tăng cường Bone Graft so với kiểm soát Autograft ở Transforamal Lumbar Interbody Fusion."
+    },
+    "doi:10.1007/s00264-026-07080-y": {
+      "en": "Aneurysmal bone cysts of the ulna: a case series of a rare entity treated with extended curettage and fibular strut allograft reconstruction.",
+      "vi": "U nang xương dạ dày của ulna: một loạt các thực thể hiếm được điều trị bằng phương pháp chữa bệnh kéo dài và tái tạo tế bào thần kinh trung ương."
+    },
+    "doi:10.1016/j.knee.2026.104699": {
+      "en": "The impact of obesity on surgical outcomes following multi-ligament knee injury reconstruction: a systematic review and meta-analysis.",
+      "vi": "Tác động của béo phì đối với kết quả phẫu thuật sau khi tái tạo chấn thương đầu gối: một bài phê bình hệ thống và phân tích dị ứng."
+    },
+    "doi:10.1371/journal.pone.0362401": {
+      "en": "The effect of the number of motor units and their maximum firing rate in a musculoskeletal model of human reaching.",
+      "vi": "Ảnh hưởng của số lượng đơn vị vận động và tốc độ bắn tối đa của chúng trong mô hình musculoskeleal của con người với tới."
+    },
+    "doi:10.1016/j.jse.2026.11.049": {
+      "en": "Structural Benefit, Selective Functional Gain: Double-Row Versus Single-Row Arthroscopic Rotator Cuff Repair - A Tear-Stratified Systematic Review and Meta-Analysis.",
+      "vi": "Lợi ích cấu trúc, lựa chọn hàm số: Hai-Row tương đương với một-Row Arthrcoator Cuff - một tu sửa chữa hệ thống dự trữ nước mắt và phân tích gộp."
+    },
+    "doi:10.1016/j.joca.2026.11.012": {
+      "en": "Prevalence and Characteristics of Co-existing Greater Trochanteric Pain Syndrome in People with Hip Osteoarthritis.",
+      "vi": "Sự phong cách và tính cách đặc trưng của hội chứng Đau Thợ Cơ Khí Lớn ở những người bị viêm khớp Hip Osteoarthr."
+    },
+    "doi:10.1002/ars2.70169": {
+      "en": "Posterior Medial Meniscus Root Tears Are Associated With an Increase in Medial Posterior Tibial Slope.",
+      "vi": "Nội dung của tờ Medial Meniscus Root tearss được kết hợp với sự gia tăng ở Mê - đi Posial Sphep."
+    },
+    "PMC:PMC13808731": {
+      "en": "Posterior Medial Meniscus Root Tears Are Associated With an Increase in Medial Posterior Tibial Slope",
+      "vi": "Những giọt nước mắt của người da đỏ được kết hợp với sự gia tăng ở Mê - đi Posil Ti - mô - thê"
+    },
+    "doi:10.1186/s13244-026-02490-3": {
+      "en": "Opportunistic identification of metabolic syndrome using abdominal CT-derived body composition: a comparative study.",
+      "vi": "Nhận diện cơ hội của hội chứng trao đổi chất bằng cách sử dụng cấu trúc cơ thể bị cắt lớp trong bụng: một nghiên cứu so sánh."
+    },
+    "doi:10.1016/j.knee.2026.104694": {
+      "en": "Narrow intercondylar notch is associated with medial meniscal injury, including ramp lesions, in elite female footballers undergoing ACL reconstruction.",
+      "vi": "Mũi tên liên kết giữa các khối u có liên quan đến vết thương do nam giới gây ra, kể cả thương tổn trên đường dốc, trong những vận động viên bóng đá ưu tú đang trải qua quá trình tái tạo ACL."
+    },
+    "doi:10.1007/s00330-026-13061-x": {
+      "en": "Multicenter prospective study comparing ultra-low-dose CT, conventional radiography, and standard-dose CT for fracture detection in traumatology.",
+      "vi": "Nghiên cứu đa tâm lý có khả năng so sánh chụp cắt lớp siêu thấp, chụp X-quang thông thường và chụp cắt lớp bình thường để phát hiện bị gãy trong chấn thương."
+    },
+    "doi:10.1016/j.jbspin.2026.106174": {
+      "en": "Methotrexate-induced osteopathy: atypical insufficiency fractures.",
+      "vi": "Nhiễm trùng xương do nguyên nhân gây ra: một dạng điển hình về xương gãy."
+    },
+    "doi:10.1007/s00330-026-13049-7": {
+      "en": "MRI assessment after posterior cruciate ligament reconstruction: graft morphology and arthrofibrosis as imaging markers of knee stiffness and residual posterior laxity.",
+      "vi": "Chụp cộng hưởng từ sau khi tái tạo ống dẫn tĩnh mạch ở mông: ghép hình thái học và xơ cứng động mạch như các đánh dấu hình ảnh của đầu gối cứng và sự lỏng lẻo phía sau."
+    },
+    "doi:10.1097/jom.0000000000003946": {
+      "en": "Investigating the prevalence of ergonomic risk factors and musculoskeletal pain, and the association with reported mental health of young construction workers in British Columbia.",
+      "vi": "Điều tra sự lan tràn của các yếu tố rủi ro và đau musculoskeleleal, và sự kết hợp với các báo cáo về sức khỏe tinh thần của các công nhân xây dựng trẻ ở British Columbia."
+    },
+    "doi:10.1016/j.jsurg.2026.104232": {
+      "en": "Improvement in Ergonomics Education, Awareness, and Musculoskeletal Pain After Implementing a Simple Stretching Routine in Surgical Training.",
+      "vi": "Sự cải thiện trong giáo dục Ergonomics, nhận thức và đau Musculoskeleleal sau khi trải qua một cuộc huấn luyện đơn giản."
+    },
+    "doi:10.1016/j.knee.2026.104698": {
+      "en": "Impact of preoperative GLP-1 agonist use on patient-reported outcomes in obese patients undergoing total knee arthroplasty: a propensity score match analysis.",
+      "vi": "Tác động của thuật toán GLP-1 sử dụng trên các kết quả bệnh nhân bị béo phì của bệnh nhân bị rối loạn chức năng đầu gối: một sự phân tích điểm chung."
+    },
+    "doi:10.1371/journal.pone.0363044": {
+      "en": "Hybrid multimodal exercise training promotes enhanced recovery after surgery and improves musculoskeletal strength in patients with osteosarcopenic obesity: A clinical study protocol.",
+      "vi": "Sự huấn luyện tập thể dục đa sắc tộc giúp cải thiện khả năng phục hồi sau khi phẫu thuật và cải thiện sức mạnh musculoskeleleal của bệnh nhân với chứng béo phì osteosacopecic: Một phương thức nghiên cứu lâm sàng."
+    },
+    "doi:10.1016/j.bone.2026.118179": {
+      "en": "Extracellular vesicles in bone regeneration: A coordinated regulatory network of neutrophils, macrophages, and mesenchymal stem cells.",
+      "vi": "Tinh hoàn ngoài tế bào trong việc phục hồi xương: Một mạng lưới điều chỉnh phối hợp của các cơ cấu cơ cấu, vi mô và tế bào gốc cơ thể."
+    },
+    "doi:10.1111/os.70470": {
+      "en": "Development and Internal Validation of a Preoperative Prediction Model for Pain-Function Discordance Among Pain Responders After Percutaneous Vertebroplasty for Osteoporotic Vertebral Compression Fractures.",
+      "vi": "Phát triển và nội bộ kiểm tra của mô hình dự đoán trước khi giải phẫu cho sự suy giảm đau trong số các phản ứng đau đớn sau khi bệnh nhân bị viêm tủy sống ở Vertebopopopotic Vertebral Fraction."
+    },
+    "doi:10.1016/j.bone.2026.118178": {
+      "en": "Coordinated alterations in calcium, PTH, the RANKL/OPG ratio, and bone loss in fasted rats at peak lactation.",
+      "vi": "Tọa độ thay đổi trong can-xi, PTH, tỷ lệ RANK/OPG, và sự mất mát xương trong việc ăn chuột ở mức cao nhất."
+    },
+    "doi:10.1007/s00264-026-07079-5": {
+      "en": "Comparison of three decompression and fusion techniques for acute traumatic central cord syndrome patients with multilevel cervical spinal stenosis: a retrospective, multi-centre study with two years follow-up.",
+      "vi": "So sánh 3 kỹ thuật giảm áp suất và hợp hạch cho các bệnh nhân hội chứng chấn thương cột sống cấp tính với chứng suy nhược cột sống đa cấp: một nghiên cứu hồi tưởng, đa trung tâm với 2 năm tiếp theo."
+    },
+    "doi:10.1002/ars2.70168": {
+      "en": "Cold Compression Devices Have Limited Effect on Opioid Consumption and Pain After Arthroscopic Rotator Cuff Repair Compared With Ice Wraps Alone.",
+      "vi": "Thiết bị nén lạnh đã hạn chế tác dụng của Opioid Consruy và đau đớn sau khi Arthrcotic Rotator Cuff sửa chữa so sánh với việc cuộn băng một mình."
+    },
+    "PMC:PMC13808730": {
+      "en": "Cold Compression Devices Have Limited Effect on Opioid Consumption and Pain After Arthroscopic Rotator Cuff Repair Compared With Ice Wraps Alone",
+      "vi": "Thiết bị nén lạnh đã hạn chế hiệu ứng Opioid tiêu thụ và đau đớn sau khi hiệu chỉnh bức xạ Arthrconpator Cuff so sánh với việc cuộn băng một mình"
+    },
+    "doi:10.1136/bcr-2026-275510": {
+      "en": "Chronic osteomyelitis of the fifth finger secondary to a domestic cat bite.",
+      "vi": "Viêm tủy xương ở ngón thứ năm của một con mèo bị cắn trong nhà."
+    },
+    "doi:10.1016/j.jbspin.2026.106171": {
+      "en": "Cervical Gorham's disease with extensive posterior spinal osteolysis requiring arthrodesis.",
+      "vi": "Bệnh của Cervical Gorham với tủy sống dày đặc đòi hỏi phải có động mạch chủ."
+    },
+    "doi:10.1016/j.jse.2026.11.048": {
+      "en": "Bone Density Measures in Preoperative CT Scans reflect Mechanical Bone Properties in Shoulder Arthroplasty Patients: Validation of Preoperative Bone Quality Predictions.",
+      "vi": "Cơ quan quản lý xương đo lường trong các phòng quét chụp cắt lớp trước khi giải phẫu phản ánh tính chất xương cơ học của bệnh nhân bệnh nhân gần như: kiểm tra các dự đoán chất lượng xương trước khi phẫu thuật."
+    },
+    "doi:10.1111/os.70464": {
+      "en": "Biomechanical Analysis of Anterior and Posterior Cervical Spinal Cord Compressive Stress During Three-Dimensional Motion.",
+      "vi": "Phân tích cơ học cơ khí của cơ quan nội thất và hậu cung Spinal Spinal Cord căng thẳng trong giai đoạn chuyển động ba chiều."
+    },
+    "doi:10.1371/journal.pone.0362189": {
+      "en": "Association of musculoskeletal pain with physical activity, and quality of life among older adults: A cross-sectional study.",
+      "vi": "Sự kết hợp của cơn đau musculoskelet với hoạt động thể chất, và chất lượng cuộc sống giữa những người lớn tuổi: một nghiên cứu phẫu thuật cắt ngang."
+    },
+    "doi:10.1002/atn2.70407": {
+      "en": "Arthroscopic Anterior Talofibular Ligament Repair With Stem Ligament Flap Augmentation.",
+      "vi": "Phòng thí nghiệm nội thất Talo, sửa chữa bệnh rối loạn thần kinh bằng chất Stem Ligamention Flap."
+    },
+    "PMC:PMC13802684": {
+      "en": "Arthroscopic Anterior Talofibular Ligament Repair With Stem Ligament Flap Augmentation",
+      "vi": "Công trình sửa chữa rối loạn sợi thần kinh mạch vành với chất làm cháy động mạch chủ."
+    },
+    "doi:10.1002/ars2.70167": {
+      "en": "Anterior Cruciate Ligament Femoral Tunnel Identification Shows High Variability Among Surgeons.",
+      "vi": "Nhận dạng đường hầm liên quan đến tình trạng hôn nhân bị đóng đinh cho thấy sự đa dạng của các bác sĩ phẫu thuật."
+    },
+    "PMC:PMC13808732": {
+      "en": "Anterior Cruciate Ligament Femoral Tunnel Identification Shows High Variability Among Surgeons",
+      "vi": "Nhận diện đường hầm dẫn chứng rối loạn luân lý phía trước cho thấy tính đa dạng của các bác sĩ phẫu thuật"
+    },
+    "doi:10.1371/journal.pone.0363554": {
+      "en": "\"Mind or machine?\": Study protocol for a mixed-methods study evaluating the effectiveness and lived experience of active versus passive prophylaxis in older hip fracture patients.",
+      "vi": "Chương trình nghiên cứu cho một nghiên cứu hỗn hợp-methods đánh giá hiệu quả và trải nghiệm sống của hoạt động so với sốc nguyên tử thụ động trong các bệnh nhân bị gãy hông già."
+    },
+    "doi:10.1186/s12891-026-10774-4": {
+      "en": "Treatment strategies for pediatric unicameral and aneurysmal bone cysts.",
+      "vi": "Phương pháp điều trị cho u nang xương mãn tính và u nang xương bị phình mạch."
+    },
+    "doi:10.1016/j.injury.2026.113915": {
+      "en": "Reported mortality benefit of early surgery not reproduced in hip fracture with myocardial injury.",
+      "vi": "Báo cáo về lợi ích tử vong của phẫu thuật sớm không tái tạo ở xương hông với chấn thương tim."
+    },
+    "doi:10.1016/j.injury.2026.113920": {
+      "en": "Late-presenting lateral humeral condyle fractures (LHC) in children: A treatment algorithm and clinical outcomes.",
+      "vi": "Một thuật toán điều trị và kết quả lâm sàng."
+    },
+    "doi:10.1177/23259671261497617": {
+      "en": "Program Director Perspectives on Applicant Preference Signaling in the 2025-2026 Orthopaedic Sports Medicine Fellowship Match.",
+      "vi": "Chương trình giám đốc điều hành của Appliant P tương ứng tín hiệu trong trận đấu Thể thao Thể thao 2025-26."
+    },
+    "doi:10.3389/fsurg.2026.1947579": {
+      "en": "Uni-portal non-coaxial spinal endoscopic surgery (UNSES) for resection of a schwannoma in the C1-C2 foraminal region: experience in endoscopic resection and a case report.",
+      "vi": "Phẫu thuật nội soi cột sống không cột sống không cột sống (UNSES) để giải phẫu lại một schwannoma ở vùng C1-C2 cho bệnh nhân: trải nghiệm trong phẫu thuật cắt nội soi và một báo cáo trường hợp."
+    },
+    "doi:10.3389/fsurg.2026.1831848": {
+      "en": "Subtalar joint narthroereisis for the treatment of flexible flatfoot in children: a comparative efficacy study based on chronological age and bone age stratification.",
+      "vi": "Các trung tâm nghiên cứu về các chứng rối loạn nhịp tim cho việc điều trị chân phẳng linh hoạt ở trẻ em: một cuộc nghiên cứu tương đối hiệu quả dựa trên thời gian và thời kỳ khúc xương bị gián đoạn."
+    },
+    "doi:10.3389/fsurg.2026.1957199": {
+      "en": "Predictors of hip screw fixation failure following femoral neck fractures at a tertiary hospital in Tanzania.",
+      "vi": "Những nhà tiên đoán về chứng tắc xương hông sau khi bị gãy cổ tại một bệnh viện cấp cứu ở Tanzania."
     }
   }
 }
