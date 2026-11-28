@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at_utc": "2026-11-27T14:29:25+00:00",
+  "updated_at_utc": "2026-11-28T02:25:57+00:00",
   "translations": {
     "doi:10.1177/19386400261501524": {
       "en": "Surgical Intervention for Massive Lesions (>3cm2): Proceedings of the International Congress on Cartilage Repair of the Ankle.",
@@ -3305,6 +3305,86 @@
     "doi:10.3389/fsurg.2026.1957199": {
       "en": "Predictors of hip screw fixation failure following femoral neck fractures at a tertiary hospital in Tanzania.",
       "vi": "Những nhà tiên đoán về chứng tắc xương hông sau khi bị gãy cổ tại một bệnh viện cấp cứu ở Tanzania."
+    },
+    "doi:10.1186/s13244-026-02461-8": {
+      "en": "Bone tumours with wash-out on dynamic contrast-enhanced MRI: beyond giant cell tumour of bone.",
+      "vi": "Xương xương với ống rửa trên MRI độ tương phản năng động: vượt ra ngoài một khối xương khổng lồ."
+    },
+    "doi:10.1007/s00402-026-06573-0": {
+      "en": "Trends in inpatient surgical treatment of multifragmentary proximal radius fractures in Germany, 2010-2024: a nationwide analysis of procedure statistics.",
+      "vi": "Các cuộc phẫu thuật nội soi trong quá trình điều trị của bán kính tiền tệ đa chiều ở Đức, 2010-2024: một phân tích trên toàn quốc về thống kê thủ tục."
+    },
+    "doi:10.1136/bcr-2026-273697": {
+      "en": "Symptomatic pectus excavatum post scoliosis repair.",
+      "vi": "Triệu chứng viêm màng não đã được chữa lành sau khi khám phá ra u xơ cột sống."
+    },
+    "PMC:PMC13811311": {
+      "en": "Suture Bridge Fixation Using a Knotless All‐Suture Anchor for Collagen Membrane in Autologous Chondrocyte Implantation on the Femoral Condyle",
+      "vi": "Sửa chữa cầu Suture sử dụng bộ lọc Knotless Tất cả các hệ thống dẫn mã colengen Membrane trong hệ thần kinh học tự động giải quyết các bệnh nhân bị rối loạn đạo đức"
+    },
+    "doi:10.1002/atn2.70422": {
+      "en": "Suture Bridge Fixation Using a Knotless All-Suture Anchor for Collagen Membrane in Autologous Chondrocyte Implantation on the Femoral Condyle.",
+      "vi": "Sửa chữa cầu Suture sử dụng một cái neo không dây Knotless toàn bộ cho Colengen Membrane trong hệ thần kinh tự trị giải phẫu ở Feimtic Condele."
+    },
+    "doi:10.1016/j.critrevonc.2026.105733": {
+      "en": "Should postoperative radiotherapy remain systematic in non-spine bone metastases? A narrative review of current evidence in the context of emerging systemic therapies.",
+      "vi": "Liệu pháp xạ trị sau phẫu thuật có nên được thực hiện trong di căn xương không? một bài kiểm tra tường thuật về bằng chứng hiện tại trong bối cảnh của các liệu pháp hệ thống mới nổi."
+    },
+    "doi:10.1016/j.knee.2026.104696": {
+      "en": "Preoperative valgus alignment and higher pelvic incidence are associated with lower likelihood of achieving substantial clinical benefit after total knee arthroplasty.",
+      "vi": "Sự thẳng hàng trước phẫu thuật và tỉ lệ xương chậu cao hơn liên quan đến khả năng đạt được lợi ích lâm sàng đáng kể sau khi hoàn toàn bị tê liệt đầu gối."
+    },
+    "doi:10.1016/j.knee.2026.104689": {
+      "en": "Medial unicompartmental knee arthroplasty after failed high tibial osteotomy achieves comparable outcomes and survivorship to conversion total knee arthroplasty: a systematic review and meta-analysis.",
+      "vi": "Medial unicompartopopopopy sau khi thất bại giải phẫu xương sọ cao cấp đạt được kết quả tương tự như vậy và sự sống sót để chuyển đổi toàn bộ động mạch đầu gối: một bài phê bình hệ thống và phân tích gộp."
+    },
+    "PMC:PMC13811039": {
+      "en": "Knotless Onlay Lateral Extra‐articular Tenodesis During Anterior Cruciate Ligament Reconstruction Using Iliotibial Band Autograft",
+      "vi": "Knotless Onlay sau lưng mở rộng Tenodesis trong quá trình tái thiết lập dây chuyền phía trước sử dụng vôial Band Autograft"
+    },
+    "doi:10.1002/atn2.70408": {
+      "en": "Knotless Onlay Lateral Extra-articular Tenodesis During Anterior Cruciate Ligament Reconstruction Using Iliotibial Band Autograft.",
+      "vi": "Knotless Onlay saual Tenodesis trong quá trình tái thiết lập tòa nhà phía trước sử dụng băng đảng tự động."
+    },
+    "doi:10.1016/j.knee.2026.104697": {
+      "en": "Intraoperative medial compartment gaps were smaller than lateral compartment gaps across assessed flexion angles during restricted kinematic alignment total knee arthroplasty: a quantitative assessment using an independent tensor.",
+      "vi": "Khoảng cách giữa các khoang phụ hoạt động là nhỏ hơn các khoảng cách từng phần nhỏ hơn các khoảng cách từng phần nhỏ hơn so với các góc độ uốn khúc bị hạn chế trong quá trình điều chỉnh toàn bộ chức năng đầu gối: một đánh giá định lượng bằng cách sử dụng một dây căng độc lập."
+    },
+    "doi:10.1016/j.bone.2026.118180": {
+      "en": "Epithelial Gsα deficiency disrupts ameloblast differentiation and enamel formation.",
+      "vi": "Thiếu hụt dịch tủy sống làm rối loạn sự khác biệt giữa thuốc an thần và sự hình thành men."
+    },
+    "doi:10.1007/s00330-026-13103-4": {
+      "en": "Diagnostic performance of MR arthrography for detecting adhesions after arthroscopic hip surgery for femoroacetabular impingement syndrome: a retrospective study.",
+      "vi": "Kết quả chẩn đoán của chụp cộng hưởng từ cho việc phát hiện các dấu vết sau khi phẫu thuật hông động mạch cho hội chứng rối loạn cảm tử cung: một nghiên cứu hồi tưởng."
+    },
+    "doi:10.2340/17453674.2026.47064": {
+      "en": "Association of dislocation and patient-reported improvements after total hip arthroplasty: a multicenter registry-based study of 4,725 patients.",
+      "vi": "Hiệp hội phân định vị trí và sự cải tiến của bệnh nhân sau khi tổng bộ môn nghệ thuật hông: một nghiên cứu dựa trên nhiều trung tâm của 4.725 bệnh nhân."
+    },
+    "PMC:PMC13809779": {
+      "en": "The Tibial Tubercle‐Lateral Trochlear Ridge Distance Strongly Correlates With Abnormal Tibial Tubercle‐Trochlear Groove Distance in Patients With Patellar Instability",
+      "vi": "Khoảng cách giữa núi Tibial Tuberlecleal Trochlear với độ dài trung bình Tiberial Tuberclear Groove của bệnh nhân với khả năng chịu đựng của Patellar"
+    },
+    "doi:10.1002/ars2.70179": {
+      "en": "The Tibial Tubercle-Lateral Trochlear Ridge Distance Strongly Correlates With Abnormal Tibial Tubercle-Trochlear Groove Distance in Patients With Patellar Instability.",
+      "vi": "Khoảng cách Tibial Tuberlecleal Trochlear Ridge mạnh mẽ Correlates với sự bất thường của Tiberial Tuberclear Groove trong bệnh nhân với khả năng chịu đựng Patellar."
+    },
+    "PMC:PMC13809706": {
+      "en": "Optimized Knotless Pull‐Through Technique for Arthroscopic Labral Reconstruction of the Hip: Enhanced Graft Passage and Acetabular Preparation",
+      "vi": "Lễ rửa tội Knotless kéo Knotless qua Technique để xây dựng lại phòng thí nghiệm nghệ thuật nghệ thuật của hip: tăng cường chuyển động Graft và chuẩn bị Acetabitic"
+    },
+    "doi:10.1002/atn2.70358": {
+      "en": "Optimized Knotless Pull-Through Technique for Arthroscopic Labral Reconstruction of the Hip: Enhanced Graft Passage and Acetabular Preparation.",
+      "vi": "Lễ rửa tội Knotless kéo qua Technique cho việc tái xây dựng phòng thí nghiệm Arthrcopical của hip: tăng cường chuyển động Graft và chuẩn bị Acetabit."
+    },
+    "doi:10.7717/peerj.21910": {
+      "en": "Systematic review and meta-analysis of human patella sexual dimorphism.",
+      "vi": "Xem xét hệ thống và phân tích gen của loài người Patella biến thái tình dục."
+    },
+    "doi:10.1016/j.jbiomech.2026.113681": {
+      "en": "Dynamic spinal segmental loads in lumbar spinal stenosis depend primarily on activity and only modestly on sagittal alignment: a combined clinical and musculoskeletal modeling study.",
+      "vi": "Phần xương sống động chứa những khối u trong tủy sống co giãn chủ yếu tùy thuộc vào hoạt động và chỉ khiêm tốn trên đường thẳng sagttal: một nghiên cứu tổng hợp y tế và musculoskeleal kết hợp."
     }
   }
 }
